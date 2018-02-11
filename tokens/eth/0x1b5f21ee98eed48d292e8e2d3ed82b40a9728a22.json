@@ -1,0 +1,33 @@
+{
+  "symbol": "DATABroker",
+  "address": "0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22",
+  "decimals": "18",
+  "name": "DataBrokerDAO Token",
+  "ens_address": "",
+  "website": "https://databrokerdao.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@databrokerdao.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/databrokerdao",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DataBrokerDAO",
+    "forum": "https://bitcointalk.org/index.php?topic=2113309.0",
+    "github": "https://github.com/DataBrokerDAO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.databrokerdao.com",
+    "telegram": "https://t.me/databrokerdao",
+    "twitter": "https://twitter.com/DataBrokerDAO",
+    "youtube": ""
+  }
+}

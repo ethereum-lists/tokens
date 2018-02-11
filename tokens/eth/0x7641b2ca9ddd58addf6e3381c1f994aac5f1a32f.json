@@ -1,0 +1,33 @@
+{
+  "symbol": "PRPS",
+  "address": "0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+  "decimals": "18",
+  "name": "Purpose",
+  "ens_address": "",
+  "website": "https://prps.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gamingforgood.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/nionis/purpose",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PRPS",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/prps_io",
+    "youtube": ""
+  }
+}

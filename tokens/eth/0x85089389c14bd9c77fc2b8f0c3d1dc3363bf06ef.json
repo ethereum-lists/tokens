@@ -1,0 +1,33 @@
+{
+  "symbol": "SPF",
+  "address": "0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+  "decimals": "18",
+  "name": "Sportify",
+  "ens_address": "",
+  "website": "https://sportyfi.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@sportyfi.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/sportyfi_io",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "PLBT",
+  "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "decimals": "6",
+  "name": "Polybius",
+  "ens_address": "",
+  "website": "https://polybius.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@polybius.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/projectpolybius",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/polybius_eng",
+    "twitter": "https://twitter.com/PolybiusBank",
+    "youtube": ""
+  }
+}

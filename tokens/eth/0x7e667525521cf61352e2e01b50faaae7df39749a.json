@@ -1,0 +1,33 @@
+{
+  "symbol": "CMC",
+  "address": "0x7e667525521cF61352e2E01b50FaaaE7Df39749a",
+  "decimals": "18",
+  "name": "CryptoMart",
+  "ens_address": "",
+  "website": "https://www.cryptomart.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoMartCMC",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

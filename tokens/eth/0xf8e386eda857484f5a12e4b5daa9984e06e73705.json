@@ -1,0 +1,33 @@
+{
+  "symbol": "IND",
+  "address": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+  "decimals": "18",
+  "name": "Indorse",
+  "ens_address": "",
+  "website": "https://indorse.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/indorse",
+    "slack": "https://slack.indorse.io",
+    "telegram": "",
+    "twitter": "https://twitter.com/joinindorse",
+    "youtube": ""
+  }
+}

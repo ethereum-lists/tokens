@@ -1,0 +1,33 @@
+{
+  "symbol": "ZAP",
+  "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+  "decimals": "18",
+  "name": "ZAP",
+  "ens_address": "",
+  "website": "https://zap.store",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@zapproject.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/zapproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

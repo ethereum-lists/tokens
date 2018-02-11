@@ -1,0 +1,33 @@
+{
+  "symbol": "CAG",
+  "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+  "decimals": "18",
+  "name": "Change Bank",
+  "ens_address": "",
+  "website": "https://change-bank.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@change-bank.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://coinchange.slack.com",
+    "telegram": "https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg",
+    "twitter": "",
+    "youtube": ""
+  }
+}

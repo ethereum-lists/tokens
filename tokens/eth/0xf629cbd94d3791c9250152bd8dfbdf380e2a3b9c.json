@@ -1,0 +1,33 @@
+{
+  "symbol": "ENJ",
+  "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+  "decimals": "18",
+  "name": "ENJIN",
+  "ens_address": "",
+  "website": "https://enjincoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@enjin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@coinfork",
+    "chat": "",
+    "facebook": "https://www.facebook.com/enjinsocial",
+    "forum": "",
+    "github": "https://github.com/enjin/contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://enjincoin.io/slack",
+    "telegram": "",
+    "twitter": "https://twitter.com/enjincs",
+    "youtube": ""
+  }
+}

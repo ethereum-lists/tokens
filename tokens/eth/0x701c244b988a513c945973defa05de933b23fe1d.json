@@ -1,0 +1,33 @@
+{
+  "symbol": "OAX",
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "decimals": "18",
+  "name": "OAX",
+  "ens_address": "",
+  "website": "https://www.openanx.org/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OpenANX",
+    "slack": "https://openanx.slack.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

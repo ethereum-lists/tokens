@@ -1,0 +1,33 @@
+{
+  "symbol": "DOW",
+  "address": "0xEEF6E90034eEa89E31Eb4B8eaCd323F28A92eaE4",
+  "decimals": "18",
+  "name": "DOW",
+  "ens_address": "",
+  "website": "https://www.dowico.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@dowico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

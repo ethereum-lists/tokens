@@ -1,0 +1,33 @@
+{
+  "symbol": "STX",
+  "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "decimals": "18",
+  "name": "StoxToken",
+  "ens_address": "",
+  "website": "https://www.stox.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/stx-technologies/stox-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/STOX",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg",
+    "twitter": "https://twitter.com/stx_coin",
+    "youtube": ""
+  }
+}

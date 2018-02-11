@@ -1,0 +1,33 @@
+{
+  "symbol": "LOK",
+  "address": "0x21ae23b882a340a22282162086bc98d3e2b73018",
+  "decimals": "18",
+  "name": "LOK",
+  "ens_address": "",
+  "website": "https://lookrev.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@lookrev.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/lookrev",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://lookrev.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/lookrev",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SALT",
+  "address": "0x4156D3342D5c385a87D264F90653733592000581",
+  "decimals": "8",
+  "name": "Salt Lending Token",
+  "ens_address": "",
+  "website": "https://saltlending.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "saltcommunity.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/SaltLending",
+    "youtube": ""
+  }
+}

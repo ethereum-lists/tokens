@@ -1,0 +1,33 @@
+{
+  "symbol": "VRS",
+  "address": "0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
+  "decimals": "5",
+  "name": "Veros",
+  "ens_address": "",
+  "website": "https://veros.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

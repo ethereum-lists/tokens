@@ -1,0 +1,33 @@
+{
+  "symbol": "Devcon2 Token",
+  "address": "0xdd94De9cFE063577051A5eb7465D08317d8808B6",
+  "decimals": "0",
+  "name": "Devcon2 Token",
+  "ens_address": "",
+  "website": "https://www.devcon2-token.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/Devcon2.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

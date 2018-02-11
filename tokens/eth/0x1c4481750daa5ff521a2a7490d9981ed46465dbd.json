@@ -1,0 +1,33 @@
+{
+  "symbol": "BCPT",
+  "address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+  "decimals": "18",
+  "name": "BCPT",
+  "ens_address": "",
+  "website": "https://blockmason.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@blockmason.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockmason",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockmasonio",
+    "forum": "https://bitcointalk.org/index.php?topic=2129993.0",
+    "github": "https://github.com/blockmason",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockmason",
+    "slack": "",
+    "telegram": "https://t.me/blockmason",
+    "twitter": "https://twitter.com/blockmasonio",
+    "youtube": "https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw"
+  }
+}

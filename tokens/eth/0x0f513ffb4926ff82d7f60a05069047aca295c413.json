@@ -1,0 +1,33 @@
+{
+  "symbol": "XSC",
+  "address": "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
+  "decimals": "18",
+  "name": "XSC",
+  "ens_address": "",
+  "website": "http://crowdstart.capital",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@crowdstart.capital",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "http://bit.ly/2zMX0hm",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

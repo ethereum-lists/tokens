@@ -1,0 +1,33 @@
+{
+  "symbol": "KIN",
+  "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "decimals": "18",
+  "name": "Kin Foundation",
+  "ens_address": "",
+  "website": "https://kin.kik.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "kin@kik.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/kinfoundation",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/kikinteractive/kin-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/KinFoundation",
+    "slack": "https://kinfoundation.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/@kin_foundation",
+    "youtube": ""
+  }
+}

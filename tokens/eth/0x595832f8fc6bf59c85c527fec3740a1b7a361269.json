@@ -1,0 +1,33 @@
+{
+  "symbol": "POWR",
+  "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+  "decimals": "6",
+  "name": "PowerLedger",
+  "ens_address": "",
+  "website": "https://powerledger.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mc@powerledger.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

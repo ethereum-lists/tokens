@@ -1,0 +1,33 @@
+{
+  "symbol": "RNDR",
+  "address": "0x0996bfb5d057faa237640e2506be7b4f9c46de0b",
+  "decimals": "18",
+  "name": "Render Token",
+  "ens_address": "",
+  "website": "https://rendertoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@rendertoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://rendertoken.rocket.chat",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/RenderToken",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/rendertoken",
+    "youtube": ""
+  }
+}

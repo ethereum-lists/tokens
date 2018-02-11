@@ -1,0 +1,33 @@
+{
+  "symbol": "TIO",
+  "address": "0x80bc5512561c7f85a3a9508c7df7901b370fa1df",
+  "decimals": "18",
+  "name": "TIO",
+  "ens_address": "",
+  "website": "https://trade.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@trade.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TradeToken",
+    "twitter": "",
+    "youtube": ""
+  }
+}

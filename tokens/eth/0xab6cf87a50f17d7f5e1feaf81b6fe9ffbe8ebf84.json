@@ -1,0 +1,33 @@
+{
+  "symbol": "MRV",
+  "address": "0xAB6CF87a50F17d7F5E1FEaf81B6fE9FfBe8EBF84",
+  "decimals": "18",
+  "name": "MRV",
+  "ens_address": "",
+  "website": "https://macroverse.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "crowdsale@macroverse.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://matrix.to/#/#macroverse:matrix.org",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

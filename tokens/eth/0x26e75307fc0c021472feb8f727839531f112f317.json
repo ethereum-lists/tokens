@@ -1,0 +1,33 @@
+{
+  "symbol": "C20",
+  "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+  "decimals": "18",
+  "name": "Crypto20's Token",
+  "ens_address": "crypto20.eth",
+  "website": "https://crypto20.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@crypto20.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.crypto20.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cryptotwenty",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/cryptotwenty",
+    "slack": "https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
+    "telegram": "",
+    "twitter": "https://twitter.com/CRYPTOtwenty",
+    "youtube": ""
+  }
+}

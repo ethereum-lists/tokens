@@ -1,0 +1,33 @@
+{
+  "symbol": "BTL (Battle)",
+  "address": "0x2accaB9cb7a48c3E82286F0b2f8798D201F4eC3f",
+  "decimals": "18",
+  "name": "BTL (Battle)",
+  "ens_address": "",
+  "website": "http://persians.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "king.serse@gmx.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Neurone/persians",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://battlesmartcontract.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/persian_token",
+    "youtube": ""
+  }
+}

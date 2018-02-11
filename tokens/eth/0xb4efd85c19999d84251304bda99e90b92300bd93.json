@@ -1,0 +1,33 @@
+{
+  "symbol": "RPL",
+  "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+  "decimals": "18",
+  "name": "Rocket Pool",
+  "ens_address": "",
+  "website": "https://www.rocketpool.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@mail.rocketpool.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/rocketpool",
+    "slack": "http://slack.rocketpool.net",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

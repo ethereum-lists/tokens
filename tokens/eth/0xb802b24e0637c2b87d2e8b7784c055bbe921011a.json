@@ -1,0 +1,33 @@
+{
+  "symbol": "EMV",
+  "address": "0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
+  "decimals": "2",
+  "name": "EMovieVenture",
+  "ens_address": "",
+  "website": "http://emovieventure.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@emovieventure.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

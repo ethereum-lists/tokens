@@ -1,0 +1,33 @@
+{
+  "symbol": "IIC",
+  "address": "0x16662f73df3e79e54c6c5938b4313f92c524c120",
+  "decimals": "18",
+  "name": "IIC",
+  "ens_address": "",
+  "website": "https://ibiscoin.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@ibiscoin.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/iiccoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/ibiscoin",
+    "slack": "",
+    "telegram": "https://t.me/ibiscoin",
+    "twitter": "https://twtter.com/ibiscoin",
+    "youtube": ""
+  }
+}

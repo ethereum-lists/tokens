@@ -1,0 +1,33 @@
+{
+  "symbol": "HST",
+  "address": "0x554C20B7c486beeE439277b4540A434566dC4C02",
+  "decimals": "18",
+  "name": "HST",
+  "ens_address": "",
+  "website": "https://horizonstate.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "questions@horizonstate.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HorizonState",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

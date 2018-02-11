@@ -1,0 +1,33 @@
+{
+  "symbol": "NET",
+  "address": "0xcfb98637bcae43C13323EAa1731cED2B716962fD",
+  "decimals": "18",
+  "name": "NIMIQ",
+  "ens_address": "",
+  "website": "https://nimiq.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://nimiq-slackin.herokuapp.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

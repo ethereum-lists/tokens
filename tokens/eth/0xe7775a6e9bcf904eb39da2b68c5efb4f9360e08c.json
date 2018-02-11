@@ -1,0 +1,33 @@
+{
+  "symbol": "TaaS",
+  "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "decimals": "6",
+  "name": "Token-as-a-Service",
+  "ens_address": "",
+  "website": "https://taas.fund",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://taasfund.signup.team",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
