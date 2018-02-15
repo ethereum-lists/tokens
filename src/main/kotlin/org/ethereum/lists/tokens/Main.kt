@@ -16,7 +16,21 @@ fun main(args: Array<String>) {
         val jsonArray = JsonArray<JsonObject>()
         it.listFiles().forEach {
             val jsonObject = Parser().parse(it.reader()) as JsonObject
+
+            val address = jsonObject["address"]
+            when {
+                it.name != it.name.toLowerCase()
+                -> throw IllegalArgumentException("Filename must be fully lowercase invalid: " + it.name)
+
+                it.name.length != 47
+                -> throw IllegalArgumentException("Filename must have 47chars: 42 Address + 5 .json - ${it.name} has ${it.name.length}")
+
+                it.name.substringBefore(".") != (address as String).toLowerCase()
+                -> throw IllegalArgumentException("Filename must match address - ${it.name} has $address")
+            }
+
             jsonArray.add(jsonObject)
+
         }
 
         val mandatoryFields = listOf("name", "symbol", "address", "decimals")
