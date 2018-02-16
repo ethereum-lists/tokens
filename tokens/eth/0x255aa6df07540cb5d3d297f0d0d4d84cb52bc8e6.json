@@ -2,7 +2,7 @@
   "symbol": "RDN",
   "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
   "decimals": "18",
-  "name": "Radien Network",
+  "name": "Raiden Network",
   "ens_address": "",
   "website": "https://raiden.network",
   "logo": {
@@ -20,14 +20,14 @@
     "chat": "https://riot.im/app/#/room/#raiden-network:matrix.org",
     "facebook": "",
     "forum": "",
-    "github": "",
-    "gitter": "",
+    "github": "https://github.com/raiden-network/raiden/",
+    "gitter": "https://gitter.im/raiden-network/raiden",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/raidennetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/raiden_network",
     "youtube": ""
   }
 }
