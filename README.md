@@ -1,6 +1,6 @@
 # Background
 
-This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this issue](https://github.com/MyEtherWallet/ethereum-lists/issues/432).
+This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this blog post](http://walleth.org/2018/02/15/ethereum-lists).
 
 # Tokens
 
@@ -24,6 +24,11 @@ Information related to tokens. ERC-20 compliant or compatible only, please.
 -  `community`: Twitter, Reddit, Slack or wherever else people hang out.
 -  `website`:   Official URL of the website.
 
+
+# The assembled lists
+
+This repository has the tokens as single files. This makes it easier for contributors to add new tokens, for reviewers to get a good view on the change and also makes it easier to merge in tokens from other sources. Projects will most likely want to use the assembled lists. The CI server is already building them - so you can just [go to the commit-list](https://github.com/ethereum-lists/tokens/commits/master) and click on the green checkmark behind the last commit. There you see kontinuum/run - and the details link there brings to the assembled files on IPFS.
+
 # Maintainers
 
 - [409H](https://github.com/409H) (409H - EtherAddressLookup)
@@ -33,7 +38,6 @@ Information related to tokens. ERC-20 compliant or compatible only, please.
 - [ligi](https://github.com/ligi) (ligi - [WallETH](http://walleth.org))
 
 - You!
-
 
 # A last note
 
