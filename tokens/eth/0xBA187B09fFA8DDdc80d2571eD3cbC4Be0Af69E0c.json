@@ -4,7 +4,8 @@
   "decimals": "18",
   "name": "Draggin Karma Points",
   "ens_address": "dkptoken.eth",
-  "website": "project in stealth mode",
+  "website": "",
+  "comment": "Game built on Ethereum and Unity, currently being developed in stealth mode",
   "logo": {
     "src": "",
     "width": "",
