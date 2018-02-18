@@ -1,0 +1,33 @@
+{
+  "symbol": "DKP",
+  "address": "0xBA187B09fFA8DDdc80d2571eD3cbC4Be0Af69E0c",
+  "decimals": "18",
+  "name": "Draggin Karma Points",
+  "ens_address": "dkptoken.eth",
+  "website": "project in stealth mode",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
