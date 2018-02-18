@@ -23,14 +23,14 @@ fun main(args: Array<String>) {
                 !address.hasValidEIP55Checksum()
                 -> throw IllegalArgumentException("The address is not valid with ERC-55 checksum " + address.toString())
 
-                it.name !=  "${address.hex}.json"
+                it.name != "${address.hex}.json"
                 -> throw IllegalArgumentException("Filename must be the address + .json for \n" + it.name + " \n" + address.hex)
             }
             jsonArray.add(jsonObject)
         }
 
         val mandatoryFields = listOf("name", "symbol", "address", "decimals")
-        val optionalFields = listOf("logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social", "ens_address")
+        val optionalFields = listOf("comment", "logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social", "ens_address")
 
         jsonArray.checkFields(mandatoryFields, optionalFields)
         jsonArray.writeJSON("full", token_directory.name)
