@@ -1,0 +1,33 @@
+{
+  "symbol": "eGAS",
+  "address": "0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8",
+  "decimals": "8",
+  "name": "ETH GAS",
+  "ens_address": "",
+  "website": "http://www.ethgas.stream",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "egas@ethgas.stream",
+    "url": "http://www.ethgas.stream"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/eth_gas",
+    "youtube": ""
+  }
+}

@@ -5,40 +5,36 @@ import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
 import org.ethereum.lists.cilib.checkFields
 import org.ethereum.lists.cilib.copyFields
+import org.kethereum.erc55.hasValidEIP55Checksum
+import org.kethereum.model.Address
 import java.io.File
 
 val outDir = File("build/output")
 
 fun main(args: Array<String>) {
 
-    File("tokens").listFiles().forEach {
 
+    File("tokens").listFiles().forEach { token_directory ->
         val jsonArray = JsonArray<JsonObject>()
-        it.listFiles().forEach {
+        token_directory.listFiles().forEach {
             val jsonObject = Parser().parse(it.reader()) as JsonObject
-
-            val address = jsonObject["address"]
+            val address = Address(jsonObject["address"] as String)
             when {
-                it.name != it.name.toLowerCase()
-                -> throw IllegalArgumentException("Filename must be fully lowercase invalid: " + it.name)
+                !address.hasValidEIP55Checksum()
+                -> throw IllegalArgumentException("The address is not valid with ERC-55 checksum " + address.toString())
 
-                it.name.length != 47
-                -> throw IllegalArgumentException("Filename must have 47chars: 42 Address + 5 .json - ${it.name} has ${it.name.length}")
-
-                it.name.substringBefore(".") != (address as String).toLowerCase()
-                -> throw IllegalArgumentException("Filename must match address - ${it.name} has $address")
+                it.name !=  "${address.hex}.json"
+                -> throw IllegalArgumentException("Filename must be the address + .json for \n" + it.name + " \n" + address.hex)
             }
-
             jsonArray.add(jsonObject)
-
         }
 
         val mandatoryFields = listOf("name", "symbol", "address", "decimals")
         val optionalFields = listOf("logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social", "ens_address")
 
         jsonArray.checkFields(mandatoryFields, optionalFields)
-        jsonArray.writeJSON("full", it.name)
-        jsonArray.copyFields(mandatoryFields).writeJSON("minified", it.name)
+        jsonArray.writeJSON("full", token_directory.name)
+        jsonArray.copyFields(mandatoryFields).writeJSON("minified", token_directory.name)
     }
 }
 

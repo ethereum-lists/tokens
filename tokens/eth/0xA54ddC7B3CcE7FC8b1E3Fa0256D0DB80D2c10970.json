@@ -1,0 +1,33 @@
+{
+  "symbol": "NDC",
+  "address": "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970",
+  "decimals": "18",
+  "name": "Neverdie",
+  "ens_address": "",
+  "website": "https://neverdie.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

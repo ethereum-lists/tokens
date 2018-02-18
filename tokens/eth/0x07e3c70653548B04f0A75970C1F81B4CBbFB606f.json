@@ -1,0 +1,33 @@
+{
+  "symbol": "DLT",
+  "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+  "decimals": "18",
+  "name": "Agrello",
+  "ens_address": "",
+  "website": "https://www.agrello.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@agrello.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "PRE",
+  "address": "0x88A3E4F35D64aAD41A6d4030ac9AFE4356cB84fA",
+  "decimals": "18",
+  "name": "Presearch",
+  "ens_address": "",
+  "website": "https://presearch.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@presearch.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/presearch",
+    "twitter": "",
+    "youtube": ""
+  }
+}

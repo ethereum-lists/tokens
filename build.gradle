@@ -25,6 +25,7 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
     compile "com.github.ethereum-lists:cilib:0.1"
+    compile "com.github.walleth.kethereum:erc55:0.38"
     compile 'com.beust:klaxon:0.30'
 }
 

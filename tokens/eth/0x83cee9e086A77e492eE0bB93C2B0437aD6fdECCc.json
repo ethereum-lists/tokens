@@ -1,0 +1,33 @@
+{
+  "symbol": "MNTP",
+  "address": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+  "decimals": "18",
+  "name": "Goldmint MNT Prelaunch Token",
+  "ens_address": "",
+  "website": "https://goldmint.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/goldmint_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "invest@goldmint.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.goldmint.io",
+    "chat": "",
+    "facebook": "https://facebook.com/goldmint.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2074277",
+    "github": "https://github.com/Goldmint",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/goldmintio",
+    "slack": "https://join.slack.com/t/goldmint/shared_invite/MjE0MTY4NDQxMTUyLTE1MDA0NzM2MDctN2U3NTRhYmZhZQ",
+    "telegram": "https://t.me/goldmintio",
+    "twitter": "https://twitter.com/Goldmint_io",
+    "youtube": ""
+  }
+}

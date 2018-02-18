@@ -1,0 +1,33 @@
+{
+  "symbol": "VIBEX",
+  "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+  "decimals": "18",
+  "name": "VIBEX",
+  "ens_address": "",
+  "website": "http://vibehub.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@vibehub.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vibehubvr",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/VibeHub",
+    "slack": "https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/VibeHubVR",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "DAT",
+  "address": "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
+  "decimals": "18",
+  "name": "Datum Token",
+  "ens_address": "",
+  "website": "https://datum.org",
+  "logo": {
+    "src": "https://datum.org/assets/images/datumlogo_square_128px.png",
+    "width": 128,
+    "height": 128,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@datum.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/datumnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2049312.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/datumnetwork",
+    "twitter": "https://twitter.com/datumnetwork",
+    "youtube": ""
+  }
+}

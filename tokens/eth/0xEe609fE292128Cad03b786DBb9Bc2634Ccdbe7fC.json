@@ -1,0 +1,33 @@
+{
+  "symbol": "POS",
+  "address": "0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+  "decimals": "18",
+  "name": "PoSToken",
+  "ens_address": "",
+  "website": "https://postoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@postoken.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2110712.0",
+    "github": "https://github.com/PoSToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://postoken.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/PoSToken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ESZ",
+  "address": "0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
+  "decimals": "18",
+  "name": "ESZCoin",
+  "ens_address": "",
+  "website": "https://ethersportz.com",
+  "logo": {
+    "src": "https://ethersportz.com/ESZCoin200by200.png",
+    "width": 200,
+    "height": 200,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@ethersportz.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://medium.com/@EtherSportz",
+    "chat": "https://discord.gg/Hf2eMvV",
+    "facebook": "https://www.facebook.com/ethersportz",
+    "forum": "",
+    "github": "https://github.com/EtherSportz/ESZCoin",
+    "gitter": "",
+    "instagram": "https://www.facebook.com/EtherSportz",
+    "linkedin": "http://linkedin.com/company/ethersportz",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ESZCoin",
+    "twitter": "https://www.instagram.com/EtherSportz",
+    "youtube": "https://youtube.com/ethersportz"
+  }
+}
