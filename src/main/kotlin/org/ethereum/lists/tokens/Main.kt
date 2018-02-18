@@ -11,6 +11,8 @@ import java.io.File
 
 val outDir = File("build/output")
 
+val websiteRegex = Regex("^https?://.*\\..*")
+
 fun main(args: Array<String>) {
 
 
@@ -25,6 +27,12 @@ fun main(args: Array<String>) {
 
                 it.name != "${address.hex}.json"
                 -> throw IllegalArgumentException("Filename must be the address + .json for \n" + it.name + " \n" + address.hex)
+            }
+            if (jsonObject.containsKey("website")) {
+                val website = jsonObject["website"] as String
+                if (website.isNotEmpty() && !website.matches(websiteRegex)) {
+                    throw IllegalArgumentException("Website $website invalid for $address")
+                }
             }
             jsonArray.add(jsonObject)
         }
