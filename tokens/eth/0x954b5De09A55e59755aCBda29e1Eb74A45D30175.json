@@ -1,0 +1,33 @@
+{
+  "symbol": "FLUZ",
+  "address": "0x954b5De09A55e59755aCBda29e1Eb74A45D30175",
+  "decimals": "18",
+  "name": "Fluz Fluz Global",
+  "ens_address": "",
+  "website": "https://ico.fluzfluz.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ico@fluzfluz.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fluzfluz",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FluzFluzGlobal",
+    "slack": "",
+    "telegram": "https://t.me/fluzfluzico",
+    "twitter": "https://twitter.com/fluzfluz",
+    "youtube": ""
+  }
+}

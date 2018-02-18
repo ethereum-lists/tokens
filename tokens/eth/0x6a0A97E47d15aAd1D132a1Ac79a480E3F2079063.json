@@ -1,0 +1,33 @@
+{
+  "symbol": "WCT",
+  "address": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+  "decimals": "18",
+  "name": "WePower",
+  "ens_address": "",
+  "website": "https://wepower.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@wepower.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://wepower.network/slack",
+    "telegram": "https://t.me/Wepower",
+    "twitter": "",
+    "youtube": ""
+  }
+}

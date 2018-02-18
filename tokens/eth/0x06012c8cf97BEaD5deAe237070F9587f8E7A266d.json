@@ -1,0 +1,34 @@
+{
+  "symbol": "CK",
+  "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+  "decimals": "0",
+  "name": "CK",
+  "ens_address": "",
+  "website": "https://cryptokitties.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoKitties",
+    "slack": "",
+    "discord": "https://discord.gg/3GvT66U",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

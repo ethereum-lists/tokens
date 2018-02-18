@@ -1,0 +1,33 @@
+{
+  "symbol": "ALCO",
+  "address": "0x181a63746d3Adcf356CBc73aCE22832FFBB1EE5A",
+  "decimals": "8",
+  "name": "ALCO",
+  "ens_address": "",
+  "website": "https://alaricoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@alaricoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/alaricoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Alaricoin",
+    "youtube": ""
+  }
+}

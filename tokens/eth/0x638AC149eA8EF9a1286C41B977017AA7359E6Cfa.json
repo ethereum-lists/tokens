@@ -1,0 +1,33 @@
+{
+  "symbol": "ALTS",
+  "address": "0x638AC149eA8EF9a1286C41B977017AA7359E6Cfa",
+  "decimals": "18",
+  "name": "ALTS Token",
+  "ens_address": "",
+  "website": "http://www.altcoinstalks.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dev@altcoinstalks.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AltcoinsTalks",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FVTLFELkfHI6_CKz7AbIpQ",
+    "twitter": "https://twitter.com/AltcoinsTalks",
+    "youtube": ""
+  }
+}

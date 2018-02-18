@@ -1,0 +1,32 @@
+{
+  "symbol": "RVL",
+  "address": "0x41f615E24fAbd2b097a320E9E6c1f448cb40521c",
+  "decimals": "18",
+  "name": "RVL",
+  "ens_address": "",
+  "website": "https://www.r-evolutioncoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@r-evolutioncoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "BNB",
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "decimals": "18",
+  "name": "BNB",
+  "ens_address": "",
+  "website": "https://www.binance.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/binance_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@binance.zendesk.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/binance2017",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/binance",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/binance_2017",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SIFT",
+  "address": "0x8a187D5285d316bcBC9ADafc08b51d70a0d8e000",
+  "decimals": "0",
+  "name": "SIFT",
+  "ens_address": "",
+  "website": "https://smartift.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ico@smartift.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2037464.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/smartift.com",
+    "twitter": "https://twitter.com/smartift",
+    "youtube": ""
+  }
+}

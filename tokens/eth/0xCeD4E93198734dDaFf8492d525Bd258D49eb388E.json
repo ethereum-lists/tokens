@@ -1,0 +1,33 @@
+{
+  "symbol": "EDO",
+  "address": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+  "decimals": "18",
+  "name": "Eidoo",
+  "ens_address": "",
+  "website": "https://eidoo.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@eidoo.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/eidoo",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eidoocrypto",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAERSsZk99wFzx2v_Kw",
+    "twitter": "https://twitter.com/eidoo_io",
+    "youtube": ""
+  }
+}

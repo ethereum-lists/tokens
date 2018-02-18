@@ -1,0 +1,33 @@
+{
+  "symbol": "DADI",
+  "address": "0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
+  "decimals": "18",
+  "name": "DADI",
+  "ens_address": "",
+  "website": "https://dadi.cloud",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@dadi.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@daditech",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://forum.dadi.tech",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/dadi",
+    "youtube": ""
+  }
+}

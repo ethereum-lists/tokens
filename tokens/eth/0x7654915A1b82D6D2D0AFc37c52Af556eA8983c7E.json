@@ -1,0 +1,33 @@
+{
+  "symbol": "IFT",
+  "address": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+  "decimals": "18",
+  "name": "InvestFeed",
+  "ens_address": "",
+  "website": "https://investfeed.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@investFeed",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/investFeedOfficial",
+    "slack": "",
+    "telegram": "https://t.me/investfeed",
+    "twitter": "https://twitter.com/investFeed",
+    "youtube": ""
+  }
+}
