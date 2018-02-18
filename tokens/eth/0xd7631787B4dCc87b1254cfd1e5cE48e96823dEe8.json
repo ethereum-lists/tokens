@@ -1,0 +1,33 @@
+{
+  "symbol": "SCL",
+  "address": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
+  "decimals": "8",
+  "name": "SocialCoin",
+  "ens_address": "",
+  "website": "https://ico.nexus.social",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@nexus.social",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/nexussocialnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2039735",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nexus_social",
+    "slack": "http://slack.nexus.social",
+    "telegram": "https://t.me/nexus_social",
+    "twitter": "https://twitter.com/nexus_socials",
+    "youtube": ""
+  }
+}

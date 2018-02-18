@@ -1,0 +1,33 @@
+{
+  "symbol": "AMIS",
+  "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+  "decimals": "9",
+  "name": "AMIS",
+  "ens_address": "",
+  "website": "http://erc20-amis.amisolution.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@amisolution.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@AMIS_ERC20",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1816765.0",
+    "github": "https://github.com/amisolution/ERC20-AMIS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://amisolution.herokuapp.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/AMIS_ERC20",
+    "youtube": ""
+  }
+}

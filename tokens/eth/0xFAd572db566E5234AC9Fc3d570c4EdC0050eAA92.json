@@ -1,0 +1,33 @@
+{
+  "symbol": "BTH",
+  "address": "0xFAd572db566E5234AC9Fc3d570c4EdC0050eAA92",
+  "decimals": "18",
+  "name": "Bytether",
+  "ens_address": "",
+  "website": "https://www.bytether.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Bytether",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/bytether",
+    "slack": "https://bytether.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/bytether",
+    "youtube": ""
+  }
+}

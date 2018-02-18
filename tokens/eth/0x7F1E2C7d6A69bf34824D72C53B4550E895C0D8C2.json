@@ -1,0 +1,33 @@
+{
+  "symbol": "BOP",
+  "address": "0x7F1E2C7d6A69bf34824D72C53B4550E895C0D8C2",
+  "decimals": "8",
+  "name": "BlockOptiopns Token",
+  "ens_address": "",
+  "website": "https://blockoptions.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/Blockoptions-1282191258569444",
+    "forum": "https://bitcointalk.org/index.php?topic=2047320",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "http://slack.blockoptions.io",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockoptions_io",
+    "youtube": ""
+  }
+}

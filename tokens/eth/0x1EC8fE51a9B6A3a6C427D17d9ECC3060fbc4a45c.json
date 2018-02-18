@@ -1,0 +1,33 @@
+{
+  "symbol": "S-A-PAT",
+  "address": "0x1EC8fE51a9B6A3a6C427D17d9ECC3060fbc4a45c",
+  "decimals": "18",
+  "name": "S-A-PAT",
+  "ens_address": "",
+  "website": "https://www.smartillions.ch",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@smartillions.ch",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

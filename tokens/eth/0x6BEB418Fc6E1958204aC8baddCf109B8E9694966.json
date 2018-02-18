@@ -1,0 +1,33 @@
+{
+  "symbol": "LNC-Linker Coin",
+  "address": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+  "decimals": "18",
+  "name": "Linker Coin",
+  "ens_address": "",
+  "website": "https://www.linkercoin.com/en",
+  "logo": {
+    "src": "https://drive.google.com/file/d/1nvFvAFWTuMg5pH7W7Apoe_-Xob2-TY_u/view?usp=sharing",
+    "width": 150,
+    "height": 150,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "staff@linkercoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/linkercoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Linkercoinoffical/?fref=ts",
+    "forum": "https://bitcointalk.org/index.php?topic=2326742",
+    "github": "https://github.com/linkercoinfoundation",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/linkercoin_official",
+    "linkedin": "https://www.linkedin.com/in/linker-coin-854a0a153",
+    "reddit": "https://www.reddit.com/user/LinkerCoin",
+    "slack": "",
+    "telegram": "https://t.me/linkercoin",
+    "twitter": "https://twitter.com/search?q=linkercoin&src=typd",
+    "youtube": "https://www.youtube.com/channel/UCwlpsYDS75x5ueEAAZUnZBQ"
+  }
+}

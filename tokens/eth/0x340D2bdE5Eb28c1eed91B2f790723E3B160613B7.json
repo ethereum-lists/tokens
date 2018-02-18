@@ -1,0 +1,33 @@
+{
+  "symbol": "VEE",
+  "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+  "decimals": "18",
+  "name": "BLOCKv",
+  "ens_address": "",
+  "website": "https://blockv.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "jessica@blockv.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockv_io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockv.io",
+    "forum": "",
+    "github": "https://github.com/blockv",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockv",
+    "slack": "",
+    "telegram": "https://t.me/block_v",
+    "twitter": "https://twitter.com/blockv_io",
+    "youtube": ""
+  }
+}

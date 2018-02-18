@@ -1,0 +1,33 @@
+{
+  "symbol": "PXT",
+  "address": "0xc14830E53aA344E8c14603A91229A0b925b0B262",
+  "decimals": "8",
+  "name": "Populous XBRL Token (PXT)",
+  "ens_address": "",
+  "website": "https://populous.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@populous.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BitPopulous",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://bitpopulous.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/BitPopulous",
+    "youtube": ""
+  }
+}

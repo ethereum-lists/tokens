@@ -1,0 +1,33 @@
+{
+  "symbol": "SOL",
+  "address": "0x1F54638b7737193FFd86c19Ec51907A7c41755D8",
+  "decimals": "6",
+  "name": "Sola Token",
+  "ens_address": "",
+  "website": "https://sola.foundation",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hi@sola.foundation",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/solaplatform",
+    "chat": "",
+    "facebook": "https://facebook.com/solaplatform",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/solaplatform",
+    "twitter": "https://twitter.com/solaplatform",
+    "youtube": ""
+  }
+}

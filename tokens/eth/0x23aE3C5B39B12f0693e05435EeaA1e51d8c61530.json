@@ -1,0 +1,33 @@
+{
+  "symbol": "APT",
+  "address": "0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530",
+  "decimals": "18",
+  "name": "AIGang",
+  "ens_address": "",
+  "website": "https://aigang.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@aigang.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.aigang.network",
+    "telegram": "https://t.me/aigangnetwork",
+    "twitter": "",
+    "youtube": ""
+  }
+}

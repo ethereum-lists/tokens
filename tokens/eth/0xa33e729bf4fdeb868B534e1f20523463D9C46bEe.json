@@ -1,0 +1,33 @@
+{
+  "symbol": "ICO",
+  "address": "0xa33e729bf4fdeb868B534e1f20523463D9C46bEe",
+  "decimals": "10",
+  "name": "ICO",
+  "ens_address": "",
+  "website": "http://icocoin.org",
+  "logo": {
+    "src": "https://etherscan.io/token/images/icocoin_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "icobi@icobi.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://u.wechat.com/EM6Tgldvr3Wn9eprwIszuSo",
+    "facebook": "https://www.facebook.com/coin.ico.7",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/icocoin1",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SMT",
+  "address": "0x2dCFAAc11c9EebD8C6C42103Fe9e2a6AD237aF27",
+  "decimals": "18",
+  "name": "Smart Node",
+  "ens_address": "",
+  "website": "http://smartnode.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@smartnode.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Smart.Node.Group",
+    "forum": "https://bitcointalk.org/index.php?topic=2612181",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/SmartNodeGroup",
+    "youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
+  }
+}
