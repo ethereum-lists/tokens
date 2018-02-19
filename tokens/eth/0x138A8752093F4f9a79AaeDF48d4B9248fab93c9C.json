@@ -1,0 +1,33 @@
+{
+  "symbol": "MCI",
+  "address": "0x138A8752093F4f9a79AaeDF48d4B9248fab93c9C",
+  "decimals": 18,
+  "name": "Musiconomi",
+  "ens_address": "",
+  "website": "https://musiconomi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "musiconomi@musiconomi.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/musiconomi",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Musiconomi/",
+    "forum": "",
+    "github": "https://github.com/musiconomi/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Musiconomi/",
+    "slack": "https://musiconomi.com/slack",
+    "telegram": "",
+    "twitter": "https://twitter.com/musiconomi",
+    "youtube": ""
+  }
+}

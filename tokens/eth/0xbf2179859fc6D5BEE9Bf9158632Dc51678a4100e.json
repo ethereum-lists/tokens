@@ -1,0 +1,33 @@
+{
+  "symbol": "ELF",
+  "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+  "decimals": 18,
+  "name": "ELF Token",
+  "ens_address": "",
+  "website": "https://aelf.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aelfio/",
+    "forum": "",
+    "github": "https://github.com/aelfProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/aelfofficial/",
+    "slack": "https://slack.aelf.io/",
+    "telegram": "https://t.me/aelfblockchain",
+    "twitter": "https://twitter.com/aelfblockchain",
+    "youtube": ""
+  }
+}

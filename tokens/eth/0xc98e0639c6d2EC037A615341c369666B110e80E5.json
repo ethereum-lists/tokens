@@ -1,0 +1,33 @@
+{
+  "symbol": "EXMR",
+  "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
+  "decimals": 8,
+  "name": "eXMRcoin",
+  "ens_address": "",
+  "website": "https://exmr.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@exmr.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/exmrcoin/",
+    "forum": "",
+    "github": "https://github.com/eXMRcoin/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/eXMRcoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinEXMR/",
+    "twitter": "https://www.twitter.com/eXMRCoin",
+    "youtube": ""
+  }
+}

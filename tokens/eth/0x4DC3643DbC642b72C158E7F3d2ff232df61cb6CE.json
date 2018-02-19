@@ -1,0 +1,33 @@
+{
+  "symbol": "AMB",
+  "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+  "decimals": 18,
+  "name": "Amber Token",
+  "ens_address": "",
+  "website": "https://ambrosus.com/index.html",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ambrosus.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ambrosusAMB",
+    "forum": "",
+    "github": "https://github.com/ambrosus",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ambrosus",
+    "reddit": "https://www.reddit.com/r/ambrosus/",
+    "slack": "",
+    "telegram": "https://t.me/AmbrosusAMB",
+    "twitter": "https://twitter.com/AmbrosusAMB",
+    "youtube": "https://youtu.be/OkdCV6zw3lI"
+  }
+}

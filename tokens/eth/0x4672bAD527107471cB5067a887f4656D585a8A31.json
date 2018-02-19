@@ -1,0 +1,33 @@
+{
+  "symbol": "DROP (dropil)",
+  "address": "0x4672bAD527107471cB5067a887f4656D585a8A31",
+  "decimals": "18",
+  "name": "Dropil",
+  "ens_address": "",
+  "website": "https://dropil.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://dex.dropil.com/newticket"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
