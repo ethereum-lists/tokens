@@ -22,6 +22,14 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 
+task importMEW(type: JavaExec) {
+    main = "org.ethereum.lists.tokens.ImportKt"
+    classpath = sourceSets.main.runtimeClasspath
+    if (project.hasProperty("importPath")) {
+        args importPath
+    }
+}
+
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
     compile "com.github.ethereum-lists:cilib:0.1"

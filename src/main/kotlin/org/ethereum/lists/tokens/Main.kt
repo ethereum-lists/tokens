@@ -9,16 +9,11 @@ import org.kethereum.erc55.hasValidEIP55Checksum
 import org.kethereum.model.Address
 import java.io.File
 
-val outDir = File("build/output")
-
-val websiteRegex = Regex("^https?://.*\\..*")
-
 fun main(args: Array<String>) {
 
-
-    File("tokens").listFiles().forEach { token_directory ->
+    allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
         val jsonArray = JsonArray<JsonObject>()
-        token_directory.listFiles().forEach {
+        singleNetworkTokenDirectory.listFiles().forEach {
             val jsonObject = Parser().parse(it.reader()) as JsonObject
             val address = Address(jsonObject["address"] as String)
             when {
@@ -37,12 +32,9 @@ fun main(args: Array<String>) {
             jsonArray.add(jsonObject)
         }
 
-        val mandatoryFields = listOf("name", "symbol", "address", "decimals")
-        val optionalFields = listOf("comment", "logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social", "ens_address")
-
         jsonArray.checkFields(mandatoryFields, optionalFields)
-        jsonArray.writeJSON("full", token_directory.name)
-        jsonArray.copyFields(mandatoryFields).writeJSON("minified", token_directory.name)
+        jsonArray.writeJSON("full", singleNetworkTokenDirectory.name)
+        jsonArray.copyFields(mandatoryFields).writeJSON("minified", singleNetworkTokenDirectory.name)
     }
 }
 
