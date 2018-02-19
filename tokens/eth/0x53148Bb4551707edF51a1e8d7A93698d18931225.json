@@ -1,32 +1,32 @@
 {
-  "symbol": "PCL",
+  "symbol": "PCLOLD",
   "address": "0x53148Bb4551707edF51a1e8d7A93698d18931225",
   "decimals": "8",
-  "name": "PCL",
+  "name": "PeculiumOLD",
   "ens_address": "",
   "website": "https://peculium.io",
   "logo": {
-    "src": "https://peculium.io/images/icon/logo.png",
-    "width": 310,
-    "height": 310,
+    "src": "",
+    "width": "",
+    "height": "",
     "ipfs_hash": ""
   },
   "support": {
     "email": "support@peculium.io",
-    "url": ""
+    "url": "https://peculium.io"
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/PeculiumICO",
-    "forum": "https://bitcointalk.org/index.php?topic=2249486",
+    "facebook": "https://www.facebook.com/PeculiumICO/",
+    "forum": "",
     "github": "https://github.com/PeculiumPCL/Peculium",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/25046861",
-    "reddit": "https://www.reddit.com/r/Peculium",
-    "slack": "https://join.slack.com/t/peculium/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
-    "telegram": "https://t.me/ico_peculium",
+    "linkedin": "https://www.linkedin.com/in/rashid-oukhai-18888337/",
+    "reddit": "https://www.reddit.com/r/Peculium/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GdlCOw07yJbs2Pt1H8_zrg",
     "twitter": "https://twitter.com/_Peculium",
     "youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
   }
