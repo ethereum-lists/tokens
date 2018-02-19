@@ -1,0 +1,33 @@
+{
+  "symbol": "REN",
+  "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+  "decimals": "18",
+  "name": "Republic Token",
+  "ens_address": "republicprotocol.eth",
+  "website": "https://republicprotocol.com",
+  "logo": {
+    "src": "https://republicprotocol.github.io/files/logo/128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmYKRbioKtew8ktcVy86QmxyZ2YjN2JSbKoCQpkuLiyywe"
+  },
+  "support": {
+    "email": "support@republicprotocol.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/republicprotocol",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RepublicProtocol",
+    "forum": "",
+    "github": "https://github.com/republicprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/republic-protocol",
+    "reddit": "https://www.reddit.com/r/republicprotocol",
+    "slack": "",
+    "telegram": "https://t.me/republicprotocol",
+    "twitter": "https://twitter.com/republicorg",
+    "youtube": "https://www.youtube.com/channel/UCd2SRjq53m4zQI54SXPgfRA"
+  }
+}
