@@ -1,0 +1,33 @@
+{
+  "symbol": "NGC",
+  "address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+  "decimals": "18",
+  "name": "NAGA Coin",
+  "ens_address": "",
+  "website": "https://www.nagaico.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@nagaico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thenagaico/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/thenagaico",
+    "youtube": ""
+  }
+}

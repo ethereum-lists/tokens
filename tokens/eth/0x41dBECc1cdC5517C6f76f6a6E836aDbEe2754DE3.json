@@ -1,0 +1,33 @@
+{
+  "symbol": "MTN",
+  "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+  "decimals": 18,
+  "name": "MedToken",
+  "ens_address": "",
+  "website": "https://medicalchain.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://medicalchain.com/en/contact/"
+  },
+  "social": {
+    "blog": "https://medicalchain.com/en/news/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/medicalchain",
+    "twitter": "https://twitter.com/medical_chain",
+    "youtube": ""
+  }
+}

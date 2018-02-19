@@ -1,0 +1,33 @@
+{
+  "symbol": "CXC",
+  "address": "0x2134057C0b461F898D375Cead652Acae62b59541",
+  "decimals": "18",
+  "name": "CoxxxCoin",
+  "ens_address": "",
+  "website": "http://coxxxcoin.com",
+  "logo": {
+    "src": "http://www.coxxxcoin.com/CoxxxCoin.256.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "coxxxcoin@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/coxxxcoin/smart_contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CoxxxCoin/",
+    "slack": "https://coxxxcoin.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/coxxxcoin",
+    "youtube": ""
+  }
+}

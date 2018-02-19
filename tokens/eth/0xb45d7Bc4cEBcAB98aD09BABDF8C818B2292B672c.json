@@ -1,0 +1,33 @@
+{
+  "symbol": "HODL",
+  "address": "0xb45d7Bc4cEBcAB98aD09BABDF8C818B2292B672c",
+  "decimals": 18,
+  "name": "HODLCoin",
+  "ens_address": "",
+  "website": "https://github.com/arachnid/hodlcoin",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

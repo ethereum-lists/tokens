@@ -1,0 +1,33 @@
+{
+  "symbol": "AIX",
+  "address": "0x1063ce524265d5a3A624f4914acd573dD89ce988",
+  "decimals": 18,
+  "name": "Aigang",
+  "ens_address": "",
+  "website": "https://aigang.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/aigang-network",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/AigangNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/aigangnetwork",
+    "twitter": "https://twitter.com/aigangnetwork",
+    "youtube": ""
+  }
+}

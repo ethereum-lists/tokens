@@ -1,0 +1,33 @@
+{
+  "symbol": "IPL",
+  "address": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+  "decimals": 18,
+  "name": "InsurePal token",
+  "ens_address": "",
+  "website": "https://insurepal.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/insurepal-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/InsurePal/",
+    "forum": "",
+    "github": "https://github.com/InsurePal",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18358945/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/InsurePal",
+    "twitter": "https://twitter.com/InsurePal_io",
+    "youtube": "https://www.youtube.com/channel/UCgpEjq3P54FKDmJDyOjJ9vg"
+  }
+}

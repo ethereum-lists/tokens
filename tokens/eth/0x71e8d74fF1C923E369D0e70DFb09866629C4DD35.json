@@ -1,0 +1,33 @@
+{
+  "symbol": "WRK",
+  "address": "0x71e8d74fF1C923E369D0e70DFb09866629C4DD35",
+  "decimals": "18",
+  "name": "WorkCoin",
+  "ens_address": "",
+  "website": "https://workcoin.net/",
+  "logo": {
+    "src": "https://workcoin.net/images/workcoin_logo.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@workcoin.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/workcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/workcoingroup/",
+    "forum": "",
+    "github": "https://github.com/TMWorkCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/workcoin",
+    "twitter": "https://twitter.com/realWorkCoin",
+    "youtube": ""
+  }
+}

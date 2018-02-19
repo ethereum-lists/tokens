@@ -1,0 +1,33 @@
+{
+  "symbol": "QSP",
+  "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
+  "decimals": 18,
+  "name": "Quantstamp Token",
+  "ens_address": "",
+  "website": "https://quantstamp.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/quantstamp",
+    "chat": "",
+    "facebook": "https://www.facebook.com/quantstamp/",
+    "forum": "",
+    "github": "https://github.com/quantstamp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Quantstamp/",
+    "slack": "",
+    "telegram": "https://t.me/quantstamp",
+    "twitter": "https://twitter.com/Quantstamp",
+    "youtube": ""
+  }
+}

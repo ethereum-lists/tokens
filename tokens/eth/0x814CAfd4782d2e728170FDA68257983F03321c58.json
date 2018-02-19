@@ -1,0 +1,33 @@
+{
+  "symbol": "IDEA",
+  "address": "0x814CAfd4782d2e728170FDA68257983F03321c58",
+  "decimals": 0,
+  "name": "IDEA Token",
+  "ens_address": "",
+  "website": "http://www.ideatoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "james@embermine.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/IDEA-Token-195695784302309/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/IdeaToken",
+    "twitter": "https://twitter.com/IdeaToken",
+    "youtube": ""
+  }
+}
