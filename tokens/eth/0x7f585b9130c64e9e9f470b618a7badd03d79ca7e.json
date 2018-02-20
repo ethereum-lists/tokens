@@ -6,7 +6,7 @@
  "ens_address" : "",
  "website"     : "https://cr7coin.org",
  "logo": {
-   "src"       : "https://cr7coin.org/assets/images/logo2.png",
+   "src"       : "https://cr7coin.org/assets/images/128.png",
    "width"     : 200,
   "height"    : 200,
    "ipfs_hash" : ""
