@@ -6,6 +6,7 @@ import com.beust.klaxon.Parser
 import org.ethereum.lists.cilib.checkFields
 import org.ethereum.lists.cilib.copyFields
 import org.kethereum.erc55.hasValidEIP55Checksum
+import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
 import java.io.File
 
@@ -18,7 +19,7 @@ fun main(args: Array<String>) {
             val address = Address(jsonObject["address"] as String)
             when {
                 !address.hasValidEIP55Checksum()
-                -> throw IllegalArgumentException("The address is not valid with ERC-55 checksum " + address.toString())
+                -> throw IllegalArgumentException("The address is not valid with ERC-55 checksum " + address + " expected: " + address.withERC55Checksum())
 
                 it.name != "${address.hex}.json"
                 -> throw IllegalArgumentException("Filename must be the address + .json for \n" + it.name + " \n" + address.hex)
