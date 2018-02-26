@@ -10,6 +10,8 @@ import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
 import java.io.File
 
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40)
+
 fun main(args: Array<String>) {
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
@@ -35,7 +37,11 @@ fun main(args: Array<String>) {
 
         jsonArray.checkFields(mandatoryFields, optionalFields)
         jsonArray.writeJSON("full", singleNetworkTokenDirectory.name)
-        jsonArray.copyFields(mandatoryFields).writeJSON("minified", singleNetworkTokenDirectory.name)
+        val minified = jsonArray.copyFields(mandatoryFields)
+        minified.writeJSON("minified", singleNetworkTokenDirectory.name)
+        networkMapping[singleNetworkTokenDirectory.name]?.let {
+            minified.writeJSON("minifiedByNetworkId", it.toString())
+        }
     }
 }
 
