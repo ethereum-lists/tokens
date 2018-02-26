@@ -1,0 +1,33 @@
+{
+  "symbol": "LOCI",
+  "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+  "decimals": "18",
+  "name": "LOCIcoin",
+  "ens_address": "",
+  "website": "https://locipro.com",
+  "logo": {
+    "src": "https://locipro.com/assets/loci-28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dan@loci.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@John_Loci",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Loci.InnVenn/",
+    "forum": "https://bitcointalk.org/index.php?topic=2161880.msg21647125#msg21647125",
+    "github": "http://github.com/locipro/loci-coin-sale",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/loci-pro/",
+    "reddit": "https://www.reddit.com/r/loci_io/",
+    "slack": "",
+    "telegram": "https://t.me/Loci_InnVenn",
+    "twitter": "https://twitter.com/loci_io",
+    "youtube": "https://www.youtube.com/watch?v=UNGDGDDIz7Y"
+  }
+}

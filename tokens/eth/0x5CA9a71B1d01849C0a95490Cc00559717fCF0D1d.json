@@ -1,0 +1,33 @@
+{
+  "symbol": "AE",
+  "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
+  "decimals": 18,
+  "name": "aeternity",
+  "ens_address": "",
+  "website": "https://www.aeternity.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@aeternity.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aeternity.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aeternityproject/",
+    "forum": "",
+    "github": "https://github.com/aeternity",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Aeternity/",
+    "slack": "",
+    "telegram": "https://telegram.me/aeternity",
+    "twitter": "https://twitter.com/aetrnty",
+    "youtube": ""
+  }
+}
