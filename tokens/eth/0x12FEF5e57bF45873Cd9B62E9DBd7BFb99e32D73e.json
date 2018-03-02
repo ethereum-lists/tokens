@@ -2,9 +2,9 @@
   "symbol": "CFI",
   "address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e",
   "decimals": "18",
-  "name": "CFI",
+  "name": "Cofound.it",
   "ens_address": "",
-  "website": "",
+  "website": "https://cofound.it/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "support@cofound.it",
+    "url": "https://support.cofound.it/"
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
+    "blog": "https://blog.cofound.it/",
+    "chat": "https://t.me/cofoundit",
+    "facebook": "https://www.facebook.com/CofounditEcosystem/",
     "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/cofound.it/",
+    "linkedin": "https://www.linkedin.com/company/cofound.it/",
+    "reddit": "https://www.reddit.com/r/cofoundit/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/cofounditnews",
+    "twitter": "https://twitter.com/cofound_it",
+    "youtube": "https://www.youtube.com/c/Cofoundit"
   }
 }
