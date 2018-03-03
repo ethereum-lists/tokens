@@ -1,0 +1,33 @@
+{
+  "symbol": "DOW",
+  "address": "0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+  "decimals": "18",
+  "name": "DOW",
+  "ens_address": "",
+  "website": "https://dowcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dowcoin@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
