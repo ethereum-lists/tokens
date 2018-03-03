@@ -10,7 +10,7 @@ import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
 import java.io.File
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40)
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64)
 
 fun main(args: Array<String>) {
 
