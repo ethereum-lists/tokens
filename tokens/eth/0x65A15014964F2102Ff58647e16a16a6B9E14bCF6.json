@@ -1,7 +1,7 @@
 {
   "symbol": "Ox Fina",
   "address": "0x65A15014964F2102Ff58647e16a16a6B9E14bCF6",
-  "decimals": "3",
+  "decimals": 3,
   "name": "Ox Fina",
   "ens_address": "",
   "website": "https://oxfina.com",

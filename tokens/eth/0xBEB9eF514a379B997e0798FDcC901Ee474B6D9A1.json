@@ -1,7 +1,7 @@
 {
   "symbol": "MLN",
   "address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Melonport",
   "ens_address": "",
   "website": "https://melonport.com",

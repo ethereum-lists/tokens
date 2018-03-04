@@ -1,7 +1,7 @@
 {
   "symbol": "RPL",
   "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Rocket Pool",
   "ens_address": "",
   "website": "https://www.rocketpool.net",

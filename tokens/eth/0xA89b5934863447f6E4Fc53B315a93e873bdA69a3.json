@@ -1,7 +1,7 @@
 {
   "symbol": "LUM",
   "address": "0xA89b5934863447f6E4Fc53B315a93e873bdA69a3",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Lumino Coin",
   "ens_address": "",
   "website": "https://www.luminocoin.com",

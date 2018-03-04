@@ -1,7 +1,7 @@
 {
   "symbol": "PRS",
   "address": "0x163733bcc28dbf26B41a8CfA83e369b5B3af741b",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Persians",
   "ens_address": "",
   "website": "http://persians.network",

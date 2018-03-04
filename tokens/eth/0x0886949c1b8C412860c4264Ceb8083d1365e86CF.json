@@ -1,7 +1,7 @@
 {
   "symbol": "BTCE",
   "address": "0x0886949c1b8C412860c4264Ceb8083d1365e86CF",
-  "decimals": "8",
+  "decimals": 8,
   "name": "EthereumBitcoin",
   "ens_address": "",
   "website": "https://btcetoken.com",

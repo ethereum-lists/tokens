@@ -1,7 +1,7 @@
 {
   "symbol": "STORM",
   "address": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Storm Token",
   "ens_address": "",
   "website": "https://www.stormtoken.com",

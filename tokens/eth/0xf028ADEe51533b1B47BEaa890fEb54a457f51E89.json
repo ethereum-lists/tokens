@@ -1,7 +1,7 @@
 {
   "symbol": "BMT",
   "address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
-  "decimals": "18",
+  "decimals": 18,
   "name": "BMT",
   "ens_address": "",
   "website": "https://bmchain.io",

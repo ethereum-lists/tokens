@@ -1,7 +1,7 @@
 {
   "symbol": "BEE",
   "address": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Bee Token",
   "ens_address": "",
   "website": "https://www.beetoken.com",

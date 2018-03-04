@@ -1,7 +1,7 @@
 {
   "symbol": "CDX",
   "address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CDX",
   "ens_address": "",
   "website": "https://commodityadnetwork.com",

@@ -1,7 +1,7 @@
 {
   "symbol": "CMT",
   "address": "0xf85fEea2FdD81d51177F6b8F35F0e6734Ce45F5F",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CyberMiles Token",
   "ens_address": "",
   "website": "https://cm.5miles.com",

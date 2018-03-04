@@ -1,7 +1,7 @@
 {
   "symbol": "ATTN",
   "address": "0x6339784d9478dA43106A429196772A029C2f177d",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Attention Token",
   "ens_address": "",
   "website": "https://attentionnetwork.io",

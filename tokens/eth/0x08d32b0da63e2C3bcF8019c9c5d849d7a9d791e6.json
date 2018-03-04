@@ -1,7 +1,7 @@
 {
   "symbol": "DCN",
   "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Dentacoin",
   "ens_address": "Dentacoin.eth",
   "website": "https://dentacoin.com",

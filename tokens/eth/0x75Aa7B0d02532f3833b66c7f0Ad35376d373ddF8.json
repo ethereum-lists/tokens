@@ -1,7 +1,7 @@
 {
   "symbol": "ARD",
   "address": "0x75Aa7B0d02532f3833b66c7f0Ad35376d373ddF8",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Accord",
   "ens_address": "",
   "website": "https://accordtoken.com",

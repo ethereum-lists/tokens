@@ -1,7 +1,7 @@
 {
   "symbol": "CTF",
   "address": "0x4545750F39aF6Be4F237B6869D4EccA928Fd5A85",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CryptoTask",
   "ens_address": "",
   "website": "http://www.cryptotask.org",

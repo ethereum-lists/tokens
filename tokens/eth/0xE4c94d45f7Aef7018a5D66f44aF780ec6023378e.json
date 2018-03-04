@@ -1,7 +1,7 @@
 {
   "symbol": "CryptoCarbon",
   "address": "0xE4c94d45f7Aef7018a5D66f44aF780ec6023378e",
-  "decimals": "6",
+  "decimals": 6,
   "name": "CryptoCarbon",
   "ens_address": "",
   "website": "",

@@ -1,7 +1,7 @@
 {
   "symbol": "STC",
   "address": "0x629aEe55ed49581C33ab27f9403F7992A289ffd5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "StrikeCoin Token",
   "ens_address": "",
   "website": "https://dimensions.network",

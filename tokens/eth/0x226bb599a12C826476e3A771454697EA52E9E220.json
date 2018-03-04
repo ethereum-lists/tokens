@@ -1,7 +1,7 @@
 {
   "symbol": "PRO",
   "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Propy",
   "ens_address": "",
   "website": "https://propy.com",

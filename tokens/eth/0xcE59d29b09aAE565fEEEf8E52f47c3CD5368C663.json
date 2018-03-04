@@ -1,7 +1,7 @@
 {
   "symbol": "BLX (Bullion)",
   "address": "0xcE59d29b09aAE565fEEEf8E52f47c3CD5368C663",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Bullion Crypto",
   "ens_address": "",
   "website": "http://www.bullioncrypto.info",

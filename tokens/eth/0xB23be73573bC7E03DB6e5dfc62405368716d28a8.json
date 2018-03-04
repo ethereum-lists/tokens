@@ -1,7 +1,7 @@
 {
   "symbol": "ONEK",
   "address": "0xB23be73573bC7E03DB6e5dfc62405368716d28a8",
-  "decimals": "18",
+  "decimals": 18,
   "name": "One K Token",
   "ens_address": "",
   "website": "http://onek.one",

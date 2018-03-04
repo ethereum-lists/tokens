@@ -1,7 +1,7 @@
 {
   "symbol": "PLAY",
   "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
-  "decimals": "18",
+  "decimals": 18,
   "name": "HeroCoin",
   "ens_address": "",
   "website": "http://www.herocoin.io",

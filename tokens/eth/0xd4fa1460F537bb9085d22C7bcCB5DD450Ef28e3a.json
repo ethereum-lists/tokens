@@ -1,7 +1,7 @@
 {
   "symbol": "PPT",
   "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Populous",
   "ens_address": "",
   "website": "https://populous.co",

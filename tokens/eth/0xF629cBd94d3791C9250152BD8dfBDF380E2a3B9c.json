@@ -1,7 +1,7 @@
 {
   "symbol": "ENJ",
   "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
-  "decimals": "18",
+  "decimals": 18,
   "name": "ENJIN",
   "ens_address": "",
   "website": "https://enjincoin.io",

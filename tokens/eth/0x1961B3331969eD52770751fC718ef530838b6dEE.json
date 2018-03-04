@@ -1,7 +1,7 @@
 {
   "symbol": "BDG",
   "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
-  "decimals": "18",
+  "decimals": 18,
   "name": "BitDegree Token",
   "ens_address": "",
   "website": "https://bitdegree.org",

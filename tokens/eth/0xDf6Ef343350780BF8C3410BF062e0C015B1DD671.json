@@ -1,7 +1,7 @@
 {
   "symbol": "BMC",
   "address": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Blackmoon Crypto BMC Token",
   "ens_address": "",
   "website": "https://blackmooncrypto.com",

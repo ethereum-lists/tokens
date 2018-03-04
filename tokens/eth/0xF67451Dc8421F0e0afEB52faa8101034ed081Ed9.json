@@ -1,7 +1,7 @@
 {
   "symbol": "GAM",
   "address": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Gambit",
   "ens_address": "",
   "website": "http://gambitcrypto.com",

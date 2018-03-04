@@ -1,7 +1,7 @@
 {
   "symbol": "ADT",
   "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
-  "decimals": "9",
+  "decimals": 9,
   "name": "AdToken",
   "ens_address": "",
   "website": "https://adtoken.com",

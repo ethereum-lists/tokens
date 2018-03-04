@@ -1,7 +1,7 @@
 {
   "symbol": "WINGS",
   "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
-  "decimals": "18",
+  "decimals": 18,
   "name": "WINGS",
   "ens_address": "",
   "website": "https://wings.ai",

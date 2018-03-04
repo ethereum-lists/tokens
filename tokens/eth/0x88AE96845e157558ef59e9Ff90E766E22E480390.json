@@ -1,7 +1,7 @@
 {
   "symbol": "IKB",
   "address": "0x88AE96845e157558ef59e9Ff90E766E22E480390",
-  "decimals": "0",
+  "decimals": 0,
   "name": "IKB",
   "ens_address": "",
   "website": "",

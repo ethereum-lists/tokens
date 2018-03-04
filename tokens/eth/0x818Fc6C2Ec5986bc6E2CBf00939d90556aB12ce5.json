@@ -1,7 +1,7 @@
 {
   "symbol": "KIN",
   "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Kin Foundation",
   "ens_address": "",
   "website": "https://kin.kik.com",

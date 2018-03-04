@@ -1,7 +1,7 @@
 {
   "symbol": "NEU",
   "address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
-  "decimals": "18",
+  "decimals": 18,
   "name": "NEU Fund",
   "ens_address": "",
   "website": "",

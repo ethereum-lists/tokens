@@ -1,7 +1,7 @@
 {
   "symbol": "BCBC",
   "address": "0x7367A68039d4704f30BfBF6d948020C3B07DFC59",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Beercoin",
   "ens_address": "beercoin-bcbc.eth",
   "website": "https://www.beerchain.technology",

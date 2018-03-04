@@ -1,7 +1,7 @@
 {
   "symbol": "AVA",
   "address": "0xeD247980396B10169BB1d36f6e278eD16700a60f",
-  "decimals": "4",
+  "decimals": 4,
   "name": "AVA",
   "ens_address": "",
   "website": "https://avalon.nu",

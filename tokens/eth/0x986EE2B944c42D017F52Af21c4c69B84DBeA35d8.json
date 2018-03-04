@@ -1,7 +1,7 @@
 {
   "symbol": "BMX",
   "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
-  "decimals": "18",
+  "decimals": 18,
   "name": "BitMartToken",
   "ens_address": "",
   "website": "https://bitmart.com",

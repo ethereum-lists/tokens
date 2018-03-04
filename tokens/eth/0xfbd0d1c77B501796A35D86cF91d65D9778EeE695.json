@@ -1,7 +1,7 @@
 {
   "symbol": "TWNKL",
   "address": "0xfbd0d1c77B501796A35D86cF91d65D9778EeE695",
-  "decimals": "3",
+  "decimals": 3,
   "name": "Twinkle",
   "ens_address": "",
   "website": "https://www.rainbowcurrency.com/",

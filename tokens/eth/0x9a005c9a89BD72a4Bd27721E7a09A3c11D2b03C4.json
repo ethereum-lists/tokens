@@ -1,7 +1,7 @@
 {
   "symbol": "STAC",
   "address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Starter Coin",
   "ens_address": "",
   "website": "https://coinstarter.com",

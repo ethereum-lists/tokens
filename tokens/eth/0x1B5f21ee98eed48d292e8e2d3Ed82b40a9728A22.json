@@ -1,7 +1,7 @@
 {
   "symbol": "DATABroker",
   "address": "0x1B5f21ee98eed48d292e8e2d3Ed82b40a9728A22",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DataBrokerDAO Token",
   "ens_address": "",
   "website": "https://databrokerdao.com",

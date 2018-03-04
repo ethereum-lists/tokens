@@ -1,7 +1,7 @@
 {
   "symbol": "LINK (Chainlink)",
   "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-  "decimals": "18",
+  "decimals": 18,
   "name": "LINK Chainlink",
   "ens_address": "",
   "website": "https://link.smartcontract.com",

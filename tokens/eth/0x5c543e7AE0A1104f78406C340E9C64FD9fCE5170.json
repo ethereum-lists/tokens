@@ -1,7 +1,7 @@
 {
   "symbol": "VSL",
   "address": "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Vdice",
   "ens_address": "",
   "website": "https://www.vdice.io",

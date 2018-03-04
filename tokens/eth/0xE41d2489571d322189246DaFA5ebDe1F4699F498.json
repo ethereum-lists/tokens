@@ -1,7 +1,7 @@
 {
   "symbol": "ZRX",
   "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-  "decimals": "18",
+  "decimals": 18,
   "name": "0x Project",
   "ens_address": "",
   "website": "",

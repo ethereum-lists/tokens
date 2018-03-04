@@ -1,7 +1,7 @@
 {
   "symbol": "IIC",
   "address": "0x16662F73dF3e79e54c6c5938b4313f92C524C120",
-  "decimals": "18",
+  "decimals": 18,
   "name": "IIC",
   "ens_address": "",
   "website": "https://ibiscoin.co",

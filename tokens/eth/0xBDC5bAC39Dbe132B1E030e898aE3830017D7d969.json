@@ -1,7 +1,7 @@
 {
   "symbol": "SNOV",
   "address": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
-  "decimals": "18",
+  "decimals": 18,
   "name": "SNOV",
   "ens_address": "",
   "website": "https://tokensale.snov.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "BTE",
   "address": "0x73dD069c299A5d691E9836243BcaeC9c8C1D8734",
-  "decimals": "8",
+  "decimals": 8,
   "name": "BTE",
   "ens_address": "",
   "website": "http://bitcoineum.com/miner",

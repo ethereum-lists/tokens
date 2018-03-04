@@ -1,7 +1,7 @@
 {
   "symbol": "BNT",
   "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Bancor",
   "ens_address": "",
   "website": "",

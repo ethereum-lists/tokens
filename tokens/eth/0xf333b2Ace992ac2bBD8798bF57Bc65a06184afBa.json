@@ -1,7 +1,7 @@
 {
   "symbol": "SND",
   "address": "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Sandcoin",
   "ens_address": "",
   "website": "https://www.sandcoin.io",

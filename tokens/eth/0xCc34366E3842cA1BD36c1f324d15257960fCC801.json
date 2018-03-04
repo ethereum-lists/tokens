@@ -1,7 +1,7 @@
 {
   "symbol": "BON",
   "address": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Bonpay",
   "ens_address": "",
   "website": "https://bonpay.com",

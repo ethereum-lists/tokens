@@ -1,7 +1,7 @@
 {
   "symbol": "INS",
   "address": "0x5B2e4a700dfBc560061e957edec8F6EeEb74a320",
-  "decimals": "10",
+  "decimals": 10,
   "name": "INS",
   "ens_address": "instoken.eth",
   "website": "https://ins.world",

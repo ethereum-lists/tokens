@@ -1,7 +1,7 @@
 {
   "symbol": "MWAT",
   "address": "0x6425c6BE902d692AE2db752B3c268AFAdb099D3b",
-  "decimals": "18",
+  "decimals": 18,
   "name": "RED MWAT",
   "ens_address": "",
   "website": "https://www.restartenergy.io",

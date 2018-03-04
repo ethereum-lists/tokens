@@ -1,7 +1,7 @@
 {
   "symbol": "POIN",
   "address": "0x43F6a1BE992deE408721748490772B15143CE0a7",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Potatoin",
   "ens_address": "",
   "website": "https://potatoin.foundation",

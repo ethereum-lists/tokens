@@ -1,7 +1,7 @@
 {
   "symbol": "MYD",
   "address": "0xf7e983781609012307f2514f63D526D83D24F466",
-  "decimals": "16",
+  "decimals": 16,
   "name": "MYD",
   "ens_address": "",
   "website": "",

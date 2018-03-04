@@ -1,7 +1,7 @@
 {
   "symbol": "XNT",
   "address": "0x572E6f318056ba0C5d47A422653113843D250691",
-  "decimals": "0",
+  "decimals": 0,
   "name": "XNT",
   "ens_address": "",
   "website": "https://exante.eu",

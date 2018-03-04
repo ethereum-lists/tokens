@@ -1,7 +1,7 @@
 {
   "symbol": "VIU",
   "address": "0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "VIU",
   "ens_address": "",
   "website": "https://viuly.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "MRV",
   "address": "0xAB6CF87a50F17d7F5E1FEaf81B6fE9FfBe8EBF84",
-  "decimals": "18",
+  "decimals": 18,
   "name": "MRV",
   "ens_address": "",
   "website": "https://macroverse.io",

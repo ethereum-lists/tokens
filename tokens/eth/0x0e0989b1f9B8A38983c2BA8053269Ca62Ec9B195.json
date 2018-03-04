@@ -1,7 +1,7 @@
 {
   "symbol": "POE",
   "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Po.et Tokens",
   "ens_address": "",
   "website": "https://po.et",

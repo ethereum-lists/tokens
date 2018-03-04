@@ -1,7 +1,7 @@
 {
   "symbol": "SNT",
   "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Status Network Token",
   "ens_address": "",
   "website": "https://status.im",

@@ -1,7 +1,7 @@
 {
   "symbol": "DALC",
   "address": "0x07D9e49Ea402194bf48A8276dAfB16E4eD633317",
-  "decimals": "8",
+  "decimals": 8,
   "name": "DaleCoin",
   "ens_address": "",
   "website": "http://www.dalecoin.org",

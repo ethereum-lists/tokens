@@ -1,7 +1,7 @@
 {
   "symbol": "BANX",
   "address": "0xF87F0D9153fea549c728Ad61cb801595a68b73de",
-  "decimals": "18",
+  "decimals": 18,
   "name": "BANX",
   "ens_address": "",
   "website": "https://pre.ubanx.io",

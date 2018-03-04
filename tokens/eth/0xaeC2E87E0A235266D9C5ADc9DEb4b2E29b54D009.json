@@ -1,7 +1,7 @@
 {
   "symbol": "SNGLS",
   "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
-  "decimals": "0",
+  "decimals": 0,
   "name": "SingularDTV",
   "ens_address": "",
   "website": "https://singulardtv.com",

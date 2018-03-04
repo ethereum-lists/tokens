@@ -1,7 +1,7 @@
 {
   "symbol": "MYST",
   "address": "0xa645264C5603E96c3b0B078cdab68733794B0A71",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Mysterium",
   "ens_address": "",
   "website": "https://mysterium.network",

@@ -1,7 +1,7 @@
 {
   "symbol": "GAVEL",
   "address": "0x708876f486e448Ee89eB332bFbC8E593553058b9",
-  "decimals": "18",
+  "decimals": 18,
   "name": "GAVEL",
   "ens_address": "",
   "website": "http://gavelcoin.com",

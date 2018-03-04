@@ -1,7 +1,7 @@
 {
   "symbol": "DGPT",
   "address": "0xf6cFe53d6FEbaEEA051f400ff5fc14F0cBBDacA1",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DigiPulse",
   "ens_address": "token.digipulse.eth",
   "website": "https://www.digipulse.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "SET",
   "address": "0xe06eda7435bA749b047380CEd49121ddE93334Ae",
-  "decimals": "0",
+  "decimals": 0,
   "name": "SET",
   "ens_address": "",
   "website": "http://sydeth.com",

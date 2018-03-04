@@ -1,7 +1,7 @@
 {
   "symbol": "ALCO",
   "address": "0x181a63746d3Adcf356CBc73aCE22832FFBB1EE5A",
-  "decimals": "8",
+  "decimals": 8,
   "name": "ALCO",
   "ens_address": "",
   "website": "https://alaricoin.org",

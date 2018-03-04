@@ -1,7 +1,7 @@
 {
   "symbol": "STN",
   "address": "0x599346779e90fc3F5F997b5ea715349820F91571",
-  "decimals": "4",
+  "decimals": 4,
   "name": "Saturn Network",
   "ens_address": "",
   "website": "https://saturn.network",

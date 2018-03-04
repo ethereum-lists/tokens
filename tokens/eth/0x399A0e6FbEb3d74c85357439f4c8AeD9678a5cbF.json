@@ -1,7 +1,7 @@
 {
   "symbol": "DCL",
   "address": "0x399A0e6FbEb3d74c85357439f4c8AeD9678a5cbF",
-  "decimals": "3",
+  "decimals": 3,
   "name": "DCL",
   "ens_address": "",
   "website": "https://www.DisLedger.com",

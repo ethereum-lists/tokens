@@ -1,7 +1,7 @@
 {
   "symbol": "GEE",
   "address": "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Geens NPO",
   "ens_address": "",
   "website": "https://www.geens.com",

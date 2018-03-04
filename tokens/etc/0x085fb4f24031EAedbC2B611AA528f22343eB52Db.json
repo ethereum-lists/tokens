@@ -2,7 +2,7 @@
   "symbol": "BEC",
   "name": "BEC",
   "address": "0x085fb4f24031EAedbC2B611AA528f22343eB52Db",
-  "decimals": "8",
+  "decimals": 8,
   "website": "",
   "logo": {
     "src": "",

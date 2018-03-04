@@ -1,7 +1,7 @@
 {
   "symbol": "NXX OLD",
   "address": "0x5c6183d10A00CD747a6Dbb5F658aD514383e9419",
-  "decimals": "8",
+  "decimals": 8,
   "name": "NXX OLD",
   "ens_address": "",
   "website": "https://www.nexxuscoin.com",

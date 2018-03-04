@@ -1,7 +1,7 @@
 {
   "symbol": "DGX",
   "address": "0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
-  "decimals": "9",
+  "decimals": 9,
   "name": "DGX",
   "ens_address": "",
   "website": "https://www.dgx.io",

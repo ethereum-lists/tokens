@@ -1,7 +1,7 @@
 {
   "symbol": "SXDT",
   "address": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Spectre.ai D-Token",
   "ens_address": "",
   "website": "http://www.spectre.ai",

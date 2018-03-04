@@ -1,7 +1,7 @@
 {
   "symbol": "RIPT",
   "address": "0xdd007278B667F6bef52fD0a4c23604aA1f96039a",
-  "decimals": "8",
+  "decimals": 8,
   "name": "RiptideCoin",
   "ens_address": "",
   "website": "https://riptidecoin.com",

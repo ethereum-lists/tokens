@@ -1,7 +1,7 @@
 {
   "symbol": "FAM",
   "address": "0x190e569bE071F40c704e15825F285481CB74B6cC",
-  "decimals": "12",
+  "decimals": 12,
   "name": "FAM",
   "ens_address": "",
   "website": "",

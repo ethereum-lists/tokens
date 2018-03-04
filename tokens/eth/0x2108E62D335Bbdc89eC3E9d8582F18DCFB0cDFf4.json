@@ -1,7 +1,7 @@
 {
   "symbol": "CARCO",
   "address": "0x2108E62D335Bbdc89eC3E9d8582F18DCFB0cDFf4",
-  "decimals": "8",
+  "decimals": 8,
   "name": "CARCO",
   "ens_address": "",
   "website": "https://carcohub.com",

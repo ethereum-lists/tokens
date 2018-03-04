@@ -1,7 +1,7 @@
 {
   "symbol": "LINK Platform",
   "address": "0xE2E6D4BE086c6938B53B22144855eef674281639",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Link Platform",
   "ens_address": "",
   "website": "https://ethereum.link",

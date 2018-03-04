@@ -1,7 +1,7 @@
 {
   "symbol": "AST",
   "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-  "decimals": "4",
+  "decimals": 4,
   "name": "Airswap",
   "ens_address": "",
   "website": "https://airswap.io",

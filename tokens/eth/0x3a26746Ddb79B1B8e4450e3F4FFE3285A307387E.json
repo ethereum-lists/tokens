@@ -1,7 +1,7 @@
 {
   "symbol": "ETHB",
   "address": "0x3a26746Ddb79B1B8e4450e3F4FFE3285A307387E",
-  "decimals": "8",
+  "decimals": 8,
   "name": "EtherBTC",
   "ens_address": "",
   "website": "https://etherbtc.io/faq",

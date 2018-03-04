@@ -1,7 +1,7 @@
 {
   "symbol": "ZST",
   "address": "0xe386B139Ed3715Ca4B18Fd52671bDcea1cdFE4b1",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Zeus Exchange",
   "ens_address": "",
   "website": "http://zeus.exchange",

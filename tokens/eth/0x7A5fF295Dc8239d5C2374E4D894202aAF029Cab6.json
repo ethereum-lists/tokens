@@ -1,7 +1,7 @@
 {
   "symbol": "SLT",
   "address": "0x7A5fF295Dc8239d5C2374E4D894202aAF029Cab6",
-  "decimals": "3",
+  "decimals": 3,
   "name": "Smartlands",
   "ens_address": "",
   "website": "http://smartlands.io",

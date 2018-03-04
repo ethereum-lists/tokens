@@ -1,7 +1,7 @@
 {
   "symbol": "DKP",
   "address": "0xBA187B09fFA8DDdc80d2571eD3cbC4Be0Af69E0c",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Draggin Karma Points",
   "ens_address": "dkptoken.eth",
   "website": "",

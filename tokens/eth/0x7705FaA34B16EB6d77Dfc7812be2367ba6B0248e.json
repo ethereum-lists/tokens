@@ -1,7 +1,7 @@
 {
   "symbol": "ARX",
   "address": "0x7705FaA34B16EB6d77Dfc7812be2367ba6B0248e",
-  "decimals": "8",
+  "decimals": 8,
   "name": "ARX",
   "ens_address": "",
   "website": "https://artex.global",

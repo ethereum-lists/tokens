@@ -1,7 +1,7 @@
 {
   "symbol": "INSTAR",
   "address": "0xc72fe8e3Dd5BeF0F9f31f259399F301272eF2a2D",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Insights Network",
   "ens_address": "",
   "website": "https://insights.network",

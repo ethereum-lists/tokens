@@ -1,7 +1,7 @@
 {
   "symbol": "DDF",
   "address": "0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DDF",
   "ens_address": "",
   "website": "",

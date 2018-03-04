@@ -1,7 +1,7 @@
 {
   "symbol": "LA",
   "address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
-  "decimals": "18",
+  "decimals": 18,
   "name": "LATOKEN",
   "ens_address": "",
   "website": "https://latoken.com/",

@@ -1,7 +1,7 @@
 {
   "symbol": "ELIX",
   "address": "0xc8C6A31A4A806d3710A7B38b7B296D2fABCCDBA8",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Elixir Token",
   "ens_address": "",
   "website": "https://elixirtoken.io",

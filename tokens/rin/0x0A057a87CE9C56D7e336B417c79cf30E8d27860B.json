@@ -2,7 +2,7 @@
   "symbol": "WALL",
   "name": "WALLETH Community-Token",
   "address": "0x0A057a87CE9C56D7e336B417c79cf30E8d27860B",
-  "decimals": "15",
+  "decimals": 15,
   "logo": "",
   "support": "ligi@ligi.de",
   "community": "",

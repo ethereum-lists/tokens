@@ -1,7 +1,7 @@
 {
   "symbol": "CTX",
   "address": "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CarTaxi",
   "ens_address": "",
   "website": "https://cartaxi.io",

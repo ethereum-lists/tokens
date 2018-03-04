@@ -1,7 +1,7 @@
 {
   "symbol": "CXC",
   "address": "0x2134057C0b461F898D375Cead652Acae62b59541",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CoxxxCoin",
   "ens_address": "",
   "website": "http://coxxxcoin.com",

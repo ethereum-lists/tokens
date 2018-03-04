@@ -1,7 +1,7 @@
 {
   "symbol": "GZE",
   "address": "0x8C65e992297d5f092A756dEf24F4781a280198Ff",
-  "decimals": "18",
+  "decimals": 18,
   "name": "GazeCoin",
   "ens_address": "",
   "website": "https://gazecoin.io",

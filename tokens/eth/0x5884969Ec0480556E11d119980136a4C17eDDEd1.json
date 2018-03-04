@@ -1,7 +1,7 @@
 {
   "symbol": "PET",
   "address": "0x5884969Ec0480556E11d119980136a4C17eDDEd1",
-  "decimals": "18",
+  "decimals": 18,
   "name": "PETHEREUM",
   "ens_address": "",
   "website": "https://pethereum.org/",

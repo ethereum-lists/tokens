@@ -1,7 +1,7 @@
 {
   "symbol": "EURT",
   "address": "0xAbdf147870235FcFC34153828c769A70B3FAe01F",
-  "decimals": "6",
+  "decimals": 6,
   "name": "EUR Tether (erc20)",
   "ens_address": "",
   "website": "https://tether.to",

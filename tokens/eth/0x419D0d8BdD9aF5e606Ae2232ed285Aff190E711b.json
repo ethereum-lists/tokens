@@ -1,7 +1,7 @@
 {
   "symbol": "FUN",
   "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Funfair",
   "ens_address": "",
   "website": "https://funfair.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "BKB",
   "address": "0xB2Bfeb70B903F1BAaC7f2ba2c62934C7e5B974C4",
-  "decimals": "8",
+  "decimals": 8,
   "name": "BetKing Bankroll Token",
   "ens_address": "",
   "website": "https://betking.io",

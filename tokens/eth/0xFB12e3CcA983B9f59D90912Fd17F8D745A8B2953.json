@@ -1,7 +1,7 @@
 {
   "symbol": "LUCK",
   "address": "0xFB12e3CcA983B9f59D90912Fd17F8D745A8B2953",
-  "decimals": "0",
+  "decimals": 0,
   "name": "LUCK",
   "ens_address": "",
   "website": "http://www.luckytoken.info",

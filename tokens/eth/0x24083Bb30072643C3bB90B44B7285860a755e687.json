@@ -1,7 +1,7 @@
 {
   "symbol": "GELD",
   "address": "0x24083Bb30072643C3bB90B44B7285860a755e687",
-  "decimals": "18",
+  "decimals": 18,
   "name": "GELD",
   "ens_address": "",
   "website": "https://www.soerengelder.com",

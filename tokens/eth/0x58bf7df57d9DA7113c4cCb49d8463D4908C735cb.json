@@ -1,7 +1,7 @@
 {
   "symbol": "SPARC",
   "address": "0x58bf7df57d9DA7113c4cCb49d8463D4908C735cb",
-  "decimals": "18",
+  "decimals": 18,
   "name": "SPARC",
   "ens_address": "",
   "website": "https://kingsds.network",

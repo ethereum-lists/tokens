@@ -1,7 +1,7 @@
 {
   "symbol": "DIVX",
   "address": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DIVX",
   "ens_address": "",
   "website": "https://www.diviproject.org",

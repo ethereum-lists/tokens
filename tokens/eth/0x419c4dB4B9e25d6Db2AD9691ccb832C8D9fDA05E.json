@@ -1,7 +1,7 @@
 {
   "symbol": "DRGN",
   "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Dragon",
   "ens_address": "dragonchain.eth",
   "website": "https://dragonchain.com",

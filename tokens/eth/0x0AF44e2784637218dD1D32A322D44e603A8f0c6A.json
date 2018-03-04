@@ -1,7 +1,7 @@
 {
   "symbol": "MTX",
   "address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
-  "decimals": "18",
+  "decimals": 18,
   "name": "MTX",
   "ens_address": "",
   "website": "https://www.matryx.ai",

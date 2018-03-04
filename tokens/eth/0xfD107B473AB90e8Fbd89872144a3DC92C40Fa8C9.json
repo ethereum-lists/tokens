@@ -1,7 +1,7 @@
 {
   "symbol": "LALA",
   "address": "0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9",
-  "decimals": "18",
+  "decimals": 18,
   "name": "LALA World Token",
   "ens_address": "",
   "website": "https://lalaworld.io/",

@@ -1,7 +1,7 @@
 {
   "symbol": "BST",
   "address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
-  "decimals": "18",
+  "decimals": 18,
   "name": "BlocksquareToken",
   "ens_address": "",
   "website": "https://blocksquare.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "INXT",
   "address": "0xa8006C4ca56F24d6836727D106349320dB7fEF82",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Internxt",
   "ens_address": "",
   "website": "https://internxt.io",

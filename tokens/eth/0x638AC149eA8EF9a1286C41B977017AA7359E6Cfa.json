@@ -1,7 +1,7 @@
 {
   "symbol": "ALTS",
   "address": "0x638AC149eA8EF9a1286C41B977017AA7359E6Cfa",
-  "decimals": "18",
+  "decimals": 18,
   "name": "ALTS Token",
   "ens_address": "",
   "website": "http://www.altcoinstalks.com",

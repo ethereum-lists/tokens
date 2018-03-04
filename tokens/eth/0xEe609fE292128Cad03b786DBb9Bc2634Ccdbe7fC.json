@@ -1,7 +1,7 @@
 {
   "symbol": "POS",
   "address": "0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
-  "decimals": "18",
+  "decimals": 18,
   "name": "PoSToken",
   "ens_address": "",
   "website": "https://postoken.org",

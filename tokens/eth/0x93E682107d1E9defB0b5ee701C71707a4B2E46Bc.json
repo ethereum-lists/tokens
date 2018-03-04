@@ -1,7 +1,7 @@
 {
   "symbol": "MCAP",
   "address": "0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc",
-  "decimals": "8",
+  "decimals": 8,
   "name": "MCAP",
   "ens_address": "",
   "website": "",

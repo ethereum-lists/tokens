@@ -1,7 +1,7 @@
 {
   "symbol": "XRL",
   "address": "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
-  "decimals": "9",
+  "decimals": 9,
   "name": "XRL",
   "ens_address": "",
   "website": "",

@@ -1,7 +1,7 @@
 {
   "symbol": "FKX",
   "address": "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Knoxstertoken",
   "ens_address": "",
   "website": "https://fortknoxster.com",

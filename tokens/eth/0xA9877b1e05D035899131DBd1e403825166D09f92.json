@@ -1,7 +1,7 @@
 {
   "symbol": "MNT",
   "address": "0xA9877b1e05D035899131DBd1e403825166D09f92",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Media Network Token",
   "ens_address": "",
   "website": "https://coinjoker.com",

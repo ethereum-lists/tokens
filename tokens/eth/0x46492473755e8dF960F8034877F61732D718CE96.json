@@ -1,7 +1,7 @@
 {
   "symbol": "STRC",
   "address": "0x46492473755e8dF960F8034877F61732D718CE96",
-  "decimals": "8",
+  "decimals": 8,
   "name": "STRC",
   "ens_address": "",
   "website": "",

@@ -1,7 +1,7 @@
 {
   "symbol": "ACC",
   "address": "0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Accelerator Network",
   "ens_address": "",
   "website": "http://accelerator.network",
