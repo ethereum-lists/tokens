@@ -1,7 +1,7 @@
 {
   "symbol": "HAT",
   "address": "0x9002D4485b7594e3E850F0a206713B305113f69e",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Hawala Today",
   "ens_address": "",
   "website": "https://www.hawala.today/",

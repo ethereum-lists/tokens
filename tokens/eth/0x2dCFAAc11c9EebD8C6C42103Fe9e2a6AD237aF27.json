@@ -1,7 +1,7 @@
 {
   "symbol": "SMT",
   "address": "0x2dCFAAc11c9EebD8C6C42103Fe9e2a6AD237aF27",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Smart Node",
   "ens_address": "",
   "website": "http://smartnode.org",

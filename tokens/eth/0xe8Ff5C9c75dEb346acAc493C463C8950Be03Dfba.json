@@ -1,7 +1,7 @@
 {
   "symbol": "VIBEX",
   "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
-  "decimals": "18",
+  "decimals": 18,
   "name": "VIBEX",
   "ens_address": "",
   "website": "http://vibehub.io",

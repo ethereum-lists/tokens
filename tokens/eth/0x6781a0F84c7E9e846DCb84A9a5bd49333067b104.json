@@ -1,7 +1,7 @@
 {
   "symbol": "ZAP",
   "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
-  "decimals": "18",
+  "decimals": 18,
   "name": "ZAP",
   "ens_address": "",
   "website": "https://zap.store",

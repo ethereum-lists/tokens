@@ -1,7 +1,7 @@
 {
   "symbol": "ECO2",
   "address": "0x17F93475d2A978f527c3f7c44aBf44AdfBa60D5C",
-  "decimals": "2",
+  "decimals": 2,
   "name": "EtherCO2",
   "ens_address": "",
   "website": "http://www.ethco2.com",

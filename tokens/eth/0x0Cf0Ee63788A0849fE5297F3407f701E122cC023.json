@@ -1,7 +1,7 @@
 {
   "symbol": "DATACoin",
   "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DATACoin",
   "ens_address": "",
   "website": "https://www.streamr.com",

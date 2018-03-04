@@ -1,7 +1,7 @@
 {
   "symbol": "VRS",
   "address": "0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
-  "decimals": "5",
+  "decimals": 5,
   "name": "Veros",
   "ens_address": "",
   "website": "https://veros.org",

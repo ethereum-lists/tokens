@@ -1,7 +1,7 @@
 {
   "symbol": "TaaS",
   "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
-  "decimals": "6",
+  "decimals": 6,
   "name": "Token-as-a-Service",
   "ens_address": "",
   "website": "https://taas.fund",

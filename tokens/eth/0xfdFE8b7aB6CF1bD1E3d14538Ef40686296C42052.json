@@ -1,7 +1,7 @@
 {
   "symbol": "SKRP",
   "address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Skraps",
   "ens_address": "",
   "website": "https://skraps.io",

@@ -1,7 +1,7 @@
 {
   "symbol": "DSC",
   "address": "0x1e09BD8Cadb441632e441Db3e1D79909EE0A2256",
-  "decimals": "1",
+  "decimals": 1,
   "name": "Digital Safe Coin",
   "ens_address": "",
   "website": "https://github.com/xxxxyy1",

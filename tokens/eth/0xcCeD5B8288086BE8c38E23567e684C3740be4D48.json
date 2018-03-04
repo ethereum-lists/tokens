@@ -1,7 +1,7 @@
 {
   "symbol": "RLT",
   "address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
-  "decimals": "10",
+  "decimals": 10,
   "name": "RLT",
   "ens_address": "",
   "website": "",

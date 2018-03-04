@@ -1,7 +1,7 @@
 {
   "symbol": "POOL",
   "address": "0x779B7b713C86e3E6774f5040D9cCC2D43ad375F8",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Stake Pool",
   "ens_address": "",
   "website": "http://stakepool.co",

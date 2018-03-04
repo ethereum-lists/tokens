@@ -1,7 +1,7 @@
 {
   "symbol": "J8T",
   "address": "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4",
-  "decimals": "8",
+  "decimals": 8,
   "name": "J8T Token",
   "ens_address": "",
   "website": "https://jet8.io",

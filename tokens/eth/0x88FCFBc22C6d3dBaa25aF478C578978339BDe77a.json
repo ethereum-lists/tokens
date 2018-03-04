@@ -1,7 +1,7 @@
 {
   "symbol": "FYN",
   "address": "0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Fund Yourself Now",
   "ens_address": "",
   "website": "http://www.fundyourselfnow.com",

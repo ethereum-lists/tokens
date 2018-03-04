@@ -1,7 +1,7 @@
 {
   "symbol": "XCC",
   "address": "0x4d829f8C92a6691c56300D020c9e0dB984Cfe2BA",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CoinCrowd",
   "ens_address": "coincrowd.eth",
   "website": "https://www.coincrowd.it",

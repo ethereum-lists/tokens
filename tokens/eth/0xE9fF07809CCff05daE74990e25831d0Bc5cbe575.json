@@ -1,7 +1,7 @@
 {
   "symbol": "Hdp",
   "address": "0xE9fF07809CCff05daE74990e25831d0Bc5cbe575",
-  "decimals": "18",
+  "decimals": 18,
   "name": "HEdpAY",
   "ens_address": "",
   "website": "http://hedpay.com",

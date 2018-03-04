@@ -1,7 +1,7 @@
 {
   "symbol": "HST",
   "address": "0x554C20B7c486beeE439277b4540A434566dC4C02",
-  "decimals": "18",
+  "decimals": 18,
   "name": "HST",
   "ens_address": "",
   "website": "https://horizonstate.com",

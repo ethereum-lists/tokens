@@ -1,7 +1,7 @@
 {
   "symbol": "cV",
   "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
-  "decimals": "18",
+  "decimals": 18,
   "name": "carVertical",
   "ens_address": "",
   "website": "https://www.carvertical.com",

@@ -1,7 +1,7 @@
 {
   "symbol": "onG",
   "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
-  "decimals": "18",
+  "decimals": 18,
   "name": "onG",
   "ens_address": "",
   "website": "https://ongcoin.io",

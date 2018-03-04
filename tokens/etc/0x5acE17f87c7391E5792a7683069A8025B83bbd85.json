@@ -2,7 +2,7 @@
   "symbol": "PLAY",
   "name": "Smart Billions",
   "address": "0x5acE17f87c7391E5792a7683069A8025B83bbd85",
-  "decimals": "0",
+  "decimals": 0,
   "website": "http://smartbillions.com/",
   "logo": {
     "src": "",

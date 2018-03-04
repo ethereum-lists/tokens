@@ -1,7 +1,7 @@
 {
   "symbol": "NMR",
   "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
-  "decimals": "18",
+  "decimals": 18,
   "name": "NMR",
   "ens_address": "",
   "website": "",

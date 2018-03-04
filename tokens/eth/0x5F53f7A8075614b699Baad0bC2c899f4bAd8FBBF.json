@@ -1,7 +1,7 @@
 {
   "symbol": "REBL",
   "address": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Rebellious",
   "ens_address": "",
   "website": "https://www.rebellious.io",

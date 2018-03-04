@@ -1,7 +1,7 @@
 {
   "symbol": "SCL",
   "address": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
-  "decimals": "8",
+  "decimals": 8,
   "name": "SocialCoin",
   "ens_address": "",
   "website": "https://ico.nexus.social",

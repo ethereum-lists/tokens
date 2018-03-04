@@ -1,7 +1,7 @@
 {
   "symbol": "SEXY",
   "address": "0x98F5e9b7F0e33956C0443E81bF7deB8B5b1ed545",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Sexy Token",
   "ens_address": "",
   "website": "http://sexytoken.co",

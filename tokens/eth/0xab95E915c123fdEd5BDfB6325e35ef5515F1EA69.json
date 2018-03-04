@@ -1,7 +1,7 @@
 {
   "symbol": "XNN",
   "address": "0xab95E915c123fdEd5BDfB6325e35ef5515F1EA69",
-  "decimals": "18",
+  "decimals": 18,
   "name": "XENON",
   "ens_address": "",
   "website": "https://xenon.network",

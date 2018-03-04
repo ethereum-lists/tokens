@@ -1,7 +1,7 @@
 {
   "symbol": "$TEAK",
   "address": "0x7DD7F56D697Cc0f2b52bD55C057f378F1fE6Ab4b",
-  "decimals": "18",
+  "decimals": 18,
   "name": "$TEAK",
   "ens_address": "",
   "website": "https://steak.network",

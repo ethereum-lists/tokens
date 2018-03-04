@@ -1,7 +1,7 @@
 {
   "symbol": "MDA",
   "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
-  "decimals": "18",
+  "decimals": 18,
   "name": "MDA",
   "ens_address": "",
   "website": "",

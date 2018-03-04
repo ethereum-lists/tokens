@@ -1,7 +1,7 @@
 {
   "symbol": "CTT",
   "address": "0xE3Fa177AcecfB86721Cf6f9f4206bd3Bd672D7d5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "ChainTrade Token",
   "ens_address": "",
   "website": "https://chaintrade.net",

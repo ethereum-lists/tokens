@@ -1,7 +1,7 @@
 {
   "symbol": "SNG",
   "address": "0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
-  "decimals": "8",
+  "decimals": 8,
   "name": "SINERGIA",
   "ens_address": "",
   "website": "https://sinergiablockchain.org/index-en.html",

@@ -1,7 +1,7 @@
 {
   "symbol": "ARN",
   "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Aeron Token",
   "ens_address": "",
   "website": "https://aeron.aero",

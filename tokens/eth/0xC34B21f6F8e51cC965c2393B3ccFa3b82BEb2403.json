@@ -1,7 +1,7 @@
 {
   "symbol": "IoT",
   "address": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
-  "decimals": "6",
+  "decimals": 6,
   "name": "IoTコイン",
   "ens_address": "",
   "website": "http://www.bitcoin-biz.net",

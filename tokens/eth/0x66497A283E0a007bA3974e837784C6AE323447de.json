@@ -1,7 +1,7 @@
 {
   "symbol": "PT",
   "address": "0x66497A283E0a007bA3974e837784C6AE323447de",
-  "decimals": "18",
+  "decimals": 18,
   "name": "PornToken",
   "ens_address": "",
   "website": "https://www.porntoken.io",

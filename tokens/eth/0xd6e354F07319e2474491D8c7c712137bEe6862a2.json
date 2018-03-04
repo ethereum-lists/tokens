@@ -1,7 +1,7 @@
 {
   "symbol": "LEMO",
   "address": "0xd6e354F07319e2474491D8c7c712137bEe6862a2",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Lemo",
   "ens_address": "",
   "website": "http://www.lemochain.com",

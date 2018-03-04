@@ -1,7 +1,7 @@
 {
   "symbol": "WBA",
   "address": "0x74951B677de32D596EE851A233336926e6A2cd09",
-  "decimals": "7",
+  "decimals": 7,
   "name": "WeBetCrypto",
   "ens_address": "",
   "website": "http://webetcrypto.io/wbc",

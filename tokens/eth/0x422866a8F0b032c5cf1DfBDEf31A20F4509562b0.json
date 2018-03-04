@@ -1,7 +1,7 @@
 {
   "symbol": "ADST",
   "address": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
-  "decimals": "0",
+  "decimals": 0,
   "name": "AdShares",
   "ens_address": "",
   "website": "https://adshares.net",

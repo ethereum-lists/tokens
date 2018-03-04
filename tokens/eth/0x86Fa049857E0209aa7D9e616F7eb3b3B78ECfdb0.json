@@ -1,7 +1,7 @@
 {
   "symbol": "EOS",
   "address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
-  "decimals": "18",
+  "decimals": 18,
   "name": "EOS",
   "ens_address": "",
   "website": "",

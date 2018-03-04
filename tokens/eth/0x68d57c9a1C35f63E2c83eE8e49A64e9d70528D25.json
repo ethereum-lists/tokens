@@ -1,7 +1,7 @@
 {
   "symbol": "SRN",
   "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Sirin Labs",
   "ens_address": "",
   "website": "https://sirinlabs.com",

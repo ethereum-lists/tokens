@@ -1,7 +1,7 @@
 {
   "symbol": "DROP (dropil)",
   "address": "0x4672bAD527107471cB5067a887f4656D585a8A31",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Dropil",
   "ens_address": "",
   "website": "https://dropil.com",

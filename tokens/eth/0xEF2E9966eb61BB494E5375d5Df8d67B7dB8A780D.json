@@ -1,7 +1,7 @@
 {
   "symbol": "SHIT",
   "address": "0xEF2E9966eb61BB494E5375d5Df8d67B7dB8A780D",
-  "decimals": "0",
+  "decimals": 0,
   "name": "SHIT",
   "ens_address": "",
   "website": "",

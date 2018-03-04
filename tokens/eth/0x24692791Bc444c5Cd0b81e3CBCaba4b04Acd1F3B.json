@@ -1,7 +1,7 @@
 {
   "symbol": "UKG",
   "address": "0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B",
-  "decimals": "18",
+  "decimals": 18,
   "name": "UnikoinGold",
   "ens_address": "",
   "website": "https://unikoingold.com",

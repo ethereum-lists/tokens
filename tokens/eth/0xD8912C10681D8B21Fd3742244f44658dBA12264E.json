@@ -1,7 +1,7 @@
 {
   "symbol": "PLU",
   "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Plutus",
   "ens_address": "",
   "website": "https://plutus.it",

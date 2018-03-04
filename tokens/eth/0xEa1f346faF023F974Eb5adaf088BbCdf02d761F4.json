@@ -1,7 +1,7 @@
 {
   "symbol": "TIX",
   "address": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Blocktix",
   "ens_address": "",
   "website": "https://www.blocktix.io",

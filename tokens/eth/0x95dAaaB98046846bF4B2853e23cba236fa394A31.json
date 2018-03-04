@@ -1,7 +1,7 @@
 {
   "symbol": "EMONT",
   "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
-  "decimals": "8",
+  "decimals": 8,
   "name": "Etheremon Token",
   "ens_address": "",
   "website": "https://www.etheremon.com",

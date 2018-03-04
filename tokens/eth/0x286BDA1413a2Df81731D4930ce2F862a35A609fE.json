@@ -1,7 +1,7 @@
 {
   "symbol": "WaBi",
   "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
-  "decimals": "18",
+  "decimals": 18,
   "name": "WaBi",
   "ens_address": "",
   "website": "https://www.wacoin.io",

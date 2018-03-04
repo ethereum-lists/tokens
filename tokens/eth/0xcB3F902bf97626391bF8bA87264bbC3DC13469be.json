@@ -1,7 +1,7 @@
 {
   "symbol": "TRC",
   "address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
-  "decimals": "18",
+  "decimals": 18,
   "name": "The Real Coin",
   "ens_address": "",
   "website": "",

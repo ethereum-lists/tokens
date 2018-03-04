@@ -1,7 +1,7 @@
 {
   "symbol": "DAN",
   "address": "0x9B70740e708a083C6fF38Df52297020f5DfAa5EE",
-  "decimals": "10",
+  "decimals": 10,
   "name": "DaneelToken",
   "ens_address": "",
   "website": "https://daneel.io",

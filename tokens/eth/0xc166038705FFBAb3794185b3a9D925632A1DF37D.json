@@ -1,7 +1,7 @@
 {
   "symbol": "CC3",
   "address": "0xc166038705FFBAb3794185b3a9D925632A1DF37D",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Coal Coin",
   "ens_address": "",
   "website": "https://coalcoin.tech/en",

@@ -1,7 +1,7 @@
 {
   "symbol": "CLP",
   "address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
-  "decimals": "9",
+  "decimals": 9,
   "name": "CryptoLending",
   "ens_address": "",
   "website": "https://cryptolending.org",

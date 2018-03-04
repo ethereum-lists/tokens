@@ -1,7 +1,7 @@
 {
   "symbol": "REX",
   "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
-  "decimals": "18",
+  "decimals": 18,
   "name": "REX",
   "ens_address": "",
   "website": "",

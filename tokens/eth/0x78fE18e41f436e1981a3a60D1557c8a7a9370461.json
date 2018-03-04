@@ -1,7 +1,7 @@
 {
   "symbol": "SCANDI",
   "address": "0x78fE18e41f436e1981a3a60D1557c8a7a9370461",
-  "decimals": "2",
+  "decimals": 2,
   "name": "Scandiweb Coin",
   "ens_address": "",
   "website": "https://scandiweb.com",

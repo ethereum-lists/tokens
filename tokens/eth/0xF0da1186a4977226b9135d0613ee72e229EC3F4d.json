@@ -1,7 +1,7 @@
 {
   "symbol": "CRT",
   "address": "0xF0da1186a4977226b9135d0613ee72e229EC3F4d",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CreamtoeCoin",
   "ens_address": "",
   "website": "http://creamtoecoin.com",

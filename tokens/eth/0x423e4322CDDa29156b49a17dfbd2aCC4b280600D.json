@@ -1,7 +1,7 @@
 {
   "symbol": "CAR",
   "address": "0x423e4322CDDa29156b49a17dfbd2aCC4b280600D",
-  "decimals": "9",
+  "decimals": 9,
   "name": "Car Sharing Community",
   "ens_address": "",
   "website": "https://mycarcoin.com",

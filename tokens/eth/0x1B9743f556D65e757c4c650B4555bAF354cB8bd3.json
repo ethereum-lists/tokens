@@ -1,7 +1,7 @@
 {
   "symbol": "ETBS",
   "address": "0x1B9743f556D65e757c4c650B4555bAF354cB8bd3",
-  "decimals": "12",
+  "decimals": 12,
   "name": "Ethbits",
   "ens_address": "",
   "website": "https://www.ethbits.com",

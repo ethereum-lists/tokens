@@ -1,7 +1,7 @@
 {
   "symbol": "PUC",
   "address": "0xEf6B4cE8C9Bc83744fbcdE2657b32eC18790458A",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Pour Coin",
   "ens_address": "",
   "website": "http://price-s.info",

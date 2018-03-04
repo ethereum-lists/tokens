@@ -1,7 +1,7 @@
 {
   "symbol": "SKO1",
   "address": "0x4994e81897a920c0FEA235eb8CEdEEd3c6fFF697",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Sikoba",
   "ens_address": "",
   "website": "http://www.sikoba.com",

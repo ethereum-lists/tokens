@@ -1,7 +1,7 @@
 {
   "symbol": "PARETO",
   "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
-  "decimals": "18",
+  "decimals": 18,
   "name": "PARETO",
   "ens_address": "",
   "website": "https://pareto.network",

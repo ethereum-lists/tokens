@@ -1,7 +1,7 @@
 {
   "symbol": "GTKT",
   "address": "0x025abAD9e518516fdaAFBDcdB9701b37fb7eF0FA",
-  "decimals": "0",
+  "decimals": 0,
   "name": "GTKT",
   "ens_address": "",
   "website": "",

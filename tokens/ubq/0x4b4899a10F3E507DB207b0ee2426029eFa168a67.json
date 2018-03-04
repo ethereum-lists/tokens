@@ -1,7 +1,7 @@
 {
   "symbol": "QWARK",
   "address": "0x4b4899a10F3E507DB207b0ee2426029eFa168a67",
-  "decimals": "8",
+  "decimals": 8,
   "name": "QWARK",
   "ens_address": "",
   "website": "",

@@ -1,7 +1,7 @@
 {
   "symbol": "SKR",
   "address": "0x4c382F8E09615AC86E08CE58266CC227e7d4D913",
-  "decimals": "6",
+  "decimals": 6,
   "name": "SKR Token",
   "ens_address": "",
   "website": "https://tokensale.skrilla.com",

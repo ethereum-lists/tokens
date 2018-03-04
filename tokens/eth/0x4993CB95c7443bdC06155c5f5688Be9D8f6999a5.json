@@ -1,7 +1,7 @@
 {
   "symbol": "ROUND",
   "address": "0x4993CB95c7443bdC06155c5f5688Be9D8f6999a5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "ROUND",
   "ens_address": "",
   "website": "",

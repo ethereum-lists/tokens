@@ -1,7 +1,7 @@
 {
   "symbol": "WIC",
   "address": "0x62CD07D414Ec50B68C7EcAa863a23d344f2d062f",
-  "decimals": "0",
+  "decimals": 0,
   "name": "WickNote",
   "ens_address": "",
   "website": "https://wicknote.com",

@@ -1,7 +1,7 @@
 {
   "symbol": "RICKS",
   "address": "0x5e1715bB79805Bd672729760B3f7F34D6f485098",
-  "decimals": "8",
+  "decimals": 8,
   "name": "RICKS",
   "ens_address": "",
   "website": "",

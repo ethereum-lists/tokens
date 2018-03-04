@@ -1,7 +1,7 @@
 {
   "symbol": "S-ETH",
   "address": "0x3eb91D237e491E0DEE8582c402D85CB440fb6b54",
-  "decimals": "18",
+  "decimals": 18,
   "name": "S-ETH",
   "ens_address": "",
   "website": "https://www.smartillions.ch",

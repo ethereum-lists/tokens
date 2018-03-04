@@ -1,7 +1,7 @@
 {
   "symbol": "NxC",
   "address": "0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
-  "decimals": "3",
+  "decimals": 3,
   "name": "Nexium",
   "ens_address": "",
   "website": "https://beyond-the-void.net",

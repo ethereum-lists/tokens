@@ -1,7 +1,7 @@
 {
   "symbol": "CTL",
   "address": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
-  "decimals": "2",
+  "decimals": 2,
   "name": "CTL",
   "ens_address": "",
   "website": "",

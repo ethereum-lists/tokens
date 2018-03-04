@@ -1,7 +1,7 @@
 {
   "symbol": "LNC-Linker Coin",
   "address": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Linker Coin",
   "ens_address": "",
   "website": "https://www.linkercoin.com/en",

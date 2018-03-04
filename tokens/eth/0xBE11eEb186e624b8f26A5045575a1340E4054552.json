@@ -1,7 +1,7 @@
 {
   "symbol": "CCC (ICONOMI)",
   "address": "0xBE11eEb186e624b8f26A5045575a1340E4054552",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CCC (ICONOMI)",
   "ens_address": "",
   "website": "https://www.iconomi.net/dashboard/#/daa/CCC",

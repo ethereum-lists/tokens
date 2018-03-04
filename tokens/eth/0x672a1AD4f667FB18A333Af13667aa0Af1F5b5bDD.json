@@ -1,7 +1,7 @@
 {
   "symbol": "CRED",
   "address": "0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CRED",
   "ens_address": "",
   "website": "https://verify.as",

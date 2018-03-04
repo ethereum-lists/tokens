@@ -1,7 +1,7 @@
 {
   "symbol": "VDOC",
   "address": "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Duty of Care Token",
   "ens_address": "",
   "website": "https://www.dutyof.care/token-launch/",

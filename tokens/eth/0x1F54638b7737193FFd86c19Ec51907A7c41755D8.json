@@ -1,7 +1,7 @@
 {
   "symbol": "SOL",
   "address": "0x1F54638b7737193FFd86c19Ec51907A7c41755D8",
-  "decimals": "6",
+  "decimals": 6,
   "name": "Sola Token",
   "ens_address": "",
   "website": "https://sola.foundation",

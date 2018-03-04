@@ -1,7 +1,7 @@
 {
   "symbol": "LOCI",
   "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
-  "decimals": "18",
+  "decimals": 18,
   "name": "LOCIcoin",
   "ens_address": "",
   "website": "https://locipro.com",

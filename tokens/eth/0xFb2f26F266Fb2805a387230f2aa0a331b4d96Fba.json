@@ -1,7 +1,7 @@
 {
   "symbol": "DADI",
   "address": "0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DADI",
   "ens_address": "",
   "website": "https://dadi.cloud",

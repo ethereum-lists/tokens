@@ -1,7 +1,7 @@
 {
   "symbol": "RLX",
   "address": "0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Relex",
   "ens_address": "",
   "website": "http://www.relex.io",

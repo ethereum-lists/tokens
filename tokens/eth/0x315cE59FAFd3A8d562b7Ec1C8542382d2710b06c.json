@@ -1,7 +1,7 @@
 {
   "symbol": "CCS",
   "address": "0x315cE59FAFd3A8d562b7Ec1C8542382d2710b06c",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CacaoShares",
   "ens_address": "cacaoshares.eth",
   "website": "http://www.cacaoshares.com",

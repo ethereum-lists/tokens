@@ -1,7 +1,7 @@
 {
   "symbol": "CCC (CryptoCrashCourse)",
   "address": "0x28577A6d31559bd265Ce3ADB62d0458550F7b8a7",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CryptoCrashCourse",
   "ens_address": "",
   "website": "http://cryptocrashcourse.com",

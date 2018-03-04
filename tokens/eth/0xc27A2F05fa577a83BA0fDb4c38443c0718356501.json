@@ -1,7 +1,7 @@
 {
   "symbol": "TAU",
   "address": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Lamden Tau",
   "ens_address": "",
   "website": "https://www.lamden.io",

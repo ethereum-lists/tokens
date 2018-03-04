@@ -1,7 +1,7 @@
 {
   "symbol": "POWR",
   "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
-  "decimals": "6",
+  "decimals": 6,
   "name": "PowerLedger",
   "ens_address": "",
   "website": "https://powerledger.io",

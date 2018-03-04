@@ -1,7 +1,7 @@
 {
   "symbol": "STK",
   "address": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
-  "decimals": "18",
+  "decimals": 18,
   "name": "STK Token",
   "ens_address": "",
   "website": "https://stktoken.com",

@@ -1,7 +1,7 @@
 {
   "symbol": "LIFE",
   "address": "0xfF18DBc487b4c2E3222d115952bABfDa8BA52F5F",
-  "decimals": "18",
+  "decimals": 18,
   "name": "LIFE",
   "ens_address": "",
   "website": "http://www.lifelabs.io",

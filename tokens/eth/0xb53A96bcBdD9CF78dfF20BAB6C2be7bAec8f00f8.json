@@ -1,7 +1,7 @@
 {
   "symbol": "eGAS",
   "address": "0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8",
-  "decimals": "8",
+  "decimals": 8,
   "name": "ETH GAS",
   "ens_address": "",
   "website": "http://www.ethgas.stream",

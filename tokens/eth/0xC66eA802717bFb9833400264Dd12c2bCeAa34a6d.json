@@ -1,7 +1,7 @@
 {
   "symbol": "OLD_MKR",
   "address": "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
-  "decimals": "18",
+  "decimals": 18,
   "name": "MakerDAO",
   "ens_address": "",
   "website": "https://makerdao.com",

@@ -1,7 +1,7 @@
 {
   "symbol": "DOW",
   "address": "0xEEF6E90034eEa89E31Eb4B8eaCd323F28A92eaE4",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DOW",
   "ens_address": "",
   "website": "https://www.dowico.com",

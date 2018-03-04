@@ -1,7 +1,7 @@
 {
   "symbol": "DEB",
   "address": "0x151202C9c18e495656f372281F493EB7698961D5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DEBITUM",
   "ens_address": "",
   "website": "https://debitum.network/",

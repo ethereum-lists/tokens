@@ -1,7 +1,7 @@
 {
   "symbol": "RCT",
   "address": "0x2a3Aa9ECA41E720Ed46B5A70D6C37EfA47f768Ac",
-  "decimals": "18",
+  "decimals": 18,
   "name": "RCT",
   "ens_address": "",
   "website": "http://www.rcfund.org",

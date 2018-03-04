@@ -1,7 +1,7 @@
 {
   "symbol": "COFI",
   "address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
-  "decimals": "18",
+  "decimals": 18,
   "name": "CoinFi Token",
   "ens_address": "",
   "website": "https://www.coinfi.com",

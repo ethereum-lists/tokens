@@ -1,7 +1,7 @@
 {
   "symbol": "BTT",
   "address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Bitether",
   "ens_address": "",
   "website": "https://bytom.io",

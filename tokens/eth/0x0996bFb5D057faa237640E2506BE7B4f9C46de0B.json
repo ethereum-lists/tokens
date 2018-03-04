@@ -1,7 +1,7 @@
 {
   "symbol": "RNDR",
   "address": "0x0996bFb5D057faa237640E2506BE7B4f9C46de0B",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Render Token",
   "ens_address": "",
   "website": "https://rendertoken.com",

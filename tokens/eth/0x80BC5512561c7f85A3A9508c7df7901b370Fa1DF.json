@@ -1,7 +1,7 @@
 {
   "symbol": "TIO",
   "address": "0x80BC5512561c7f85A3A9508c7df7901b370Fa1DF",
-  "decimals": "18",
+  "decimals": 18,
   "name": "TIO",
   "ens_address": "",
   "website": "https://trade.io",

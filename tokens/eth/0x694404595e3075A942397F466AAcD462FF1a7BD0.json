@@ -1,7 +1,7 @@
 {
   "symbol": "PATENTS",
   "address": "0x694404595e3075A942397F466AAcD462FF1a7BD0",
-  "decimals": "18",
+  "decimals": 18,
   "name": "PATENTS",
   "ens_address": "",
   "website": "https://www.smartillions.ch",

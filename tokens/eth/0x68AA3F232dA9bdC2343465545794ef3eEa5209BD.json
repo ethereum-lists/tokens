@@ -1,7 +1,7 @@
 {
   "symbol": "MSP",
   "address": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Mothership",
   "ens_address": "",
   "website": "https://mothership.cx",

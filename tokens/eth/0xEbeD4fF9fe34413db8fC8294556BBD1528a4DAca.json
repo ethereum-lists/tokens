@@ -1,7 +1,7 @@
 {
   "symbol": "VENUS",
   "address": "0xEbeD4fF9fe34413db8fC8294556BBD1528a4DAca",
-  "decimals": "3",
+  "decimals": 3,
   "name": "VENUS",
   "ens_address": "",
   "website": "http://venuscoin.net",

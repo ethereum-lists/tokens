@@ -1,7 +1,7 @@
 {
   "symbol": "ICOS",
   "address": "0x014B50466590340D41307Cc54DCee990c8D58aa8",
-  "decimals": "6",
+  "decimals": 6,
   "name": "ICOS",
   "ens_address": "",
   "website": "",

@@ -1,7 +1,7 @@
 {
   "symbol": "SMART",
   "address": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Smart Billions",
   "ens_address": "",
   "website": "http://smartbillions.com",

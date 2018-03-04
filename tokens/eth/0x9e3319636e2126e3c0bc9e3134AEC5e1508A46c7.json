@@ -1,7 +1,7 @@
 {
   "symbol": "UTN-P",
   "address": "0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Universa",
   "ens_address": "",
   "website": "https://www.universa.io/",

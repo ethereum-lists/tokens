@@ -1,7 +1,7 @@
 {
   "symbol": "NULS",
   "address": "0xB91318F35Bdb262E9423Bc7c7c2A3A93DD93C92C",
-  "decimals": "18",
+  "decimals": 18,
   "name": "NULS",
   "ens_address": "",
   "website": "https://nuls.io",

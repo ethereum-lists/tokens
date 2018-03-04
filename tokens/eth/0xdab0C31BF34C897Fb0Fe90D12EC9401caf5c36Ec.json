@@ -1,7 +1,7 @@
 {
   "symbol": "DAB",
   "address": "0xdab0C31BF34C897Fb0Fe90D12EC9401caf5c36Ec",
-  "decimals": "0",
+  "decimals": 0,
   "name": "DAB",
   "ens_address": "",
   "website": "https://dabco.in",

@@ -1,7 +1,7 @@
 {
   "symbol": "CRB",
   "address": "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
-  "decimals": "8",
+  "decimals": 8,
   "name": "CRB",
   "ens_address": "",
   "website": "",

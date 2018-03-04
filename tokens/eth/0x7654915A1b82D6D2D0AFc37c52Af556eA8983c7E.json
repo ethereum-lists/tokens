@@ -1,7 +1,7 @@
 {
   "symbol": "IFT",
   "address": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
-  "decimals": "18",
+  "decimals": 18,
   "name": "InvestFeed",
   "ens_address": "",
   "website": "https://investfeed.com",

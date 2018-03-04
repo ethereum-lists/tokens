@@ -1,7 +1,7 @@
 {
   "symbol": "DAO",
   "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
-  "decimals": "16",
+  "decimals": 16,
   "name": "DAO",
   "ens_address": "",
   "website": "",

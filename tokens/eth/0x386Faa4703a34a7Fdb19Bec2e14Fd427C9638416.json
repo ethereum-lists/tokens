@@ -1,7 +1,7 @@
 {
   "symbol": "DCA",
   "address": "0x386Faa4703a34a7Fdb19Bec2e14Fd427C9638416",
-  "decimals": "18",
+  "decimals": 18,
   "name": "DoBetAcceptBet",
   "ens_address": "",
   "website": "http://www.dobetacceptbet.com",

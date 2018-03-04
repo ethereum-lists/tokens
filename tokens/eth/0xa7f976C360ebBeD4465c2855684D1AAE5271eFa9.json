@@ -1,7 +1,7 @@
 {
   "symbol": "TFL",
   "address": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
-  "decimals": "8",
+  "decimals": 8,
   "name": "TrueFlip",
   "ens_address": "",
   "website": "https://trueflip.io",

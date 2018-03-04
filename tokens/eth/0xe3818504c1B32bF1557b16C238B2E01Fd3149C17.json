@@ -1,7 +1,7 @@
 {
   "symbol": "PLR",
   "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Pillar Project",
   "ens_address": "",
   "website": "https://www.pillarproject.io",

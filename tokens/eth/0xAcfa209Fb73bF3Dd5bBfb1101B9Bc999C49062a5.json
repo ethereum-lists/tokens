@@ -1,7 +1,7 @@
 {
   "symbol": "BCDT",
   "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Blockchain Certified Data Token",
   "ens_address": "bcdiploma.eth",
   "website": "https://www.bcdiploma.com",

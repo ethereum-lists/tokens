@@ -1,7 +1,7 @@
 {
   "symbol": "OHNI",
   "address": "0x7F2176cEB16dcb648dc924eff617c3dC2BEfd30d",
-  "decimals": "0",
+  "decimals": 0,
   "name": "OHNI",
   "ens_address": "",
   "website": "",

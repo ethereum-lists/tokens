@@ -1,7 +1,7 @@
 {
   "symbol": "PLBT",
   "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
-  "decimals": "6",
+  "decimals": 6,
   "name": "Polybius",
   "ens_address": "",
   "website": "https://polybius.io",

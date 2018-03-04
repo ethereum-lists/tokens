@@ -1,7 +1,7 @@
 {
   "symbol": "APT",
   "address": "0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530",
-  "decimals": "18",
+  "decimals": 18,
   "name": "AIGang",
   "ens_address": "",
   "website": "https://aigang.network",

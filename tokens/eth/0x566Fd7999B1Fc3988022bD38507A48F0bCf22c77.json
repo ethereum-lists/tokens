@@ -1,7 +1,7 @@
 {
   "symbol": "TRCN",
   "address": "0x566Fd7999B1Fc3988022bD38507A48F0bCf22c77",
-  "decimals": "18",
+  "decimals": 18,
   "name": "The Real Coin",
   "ens_address": "",
   "website": "http://www.therealcoinz.com",

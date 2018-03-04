@@ -1,7 +1,7 @@
 {
   "symbol": "PRSP",
   "address": "0x0C04d4f331DA8dF75f9E2e271E3f3F1494C66C36",
-  "decimals": "9",
+  "decimals": 9,
   "name": "PRSP",
   "ens_address": "",
   "website": "http://www.prsp.me",

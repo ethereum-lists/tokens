@@ -1,7 +1,7 @@
 {
   "symbol": "DROP",
   "address": "0x3c75226555FC496168d48B88DF83B95F16771F37",
-  "decimals": "0",
+  "decimals": 0,
   "name": "Droplex",
   "ens_address": "",
   "website": "https://droplex.org",

@@ -1,7 +1,7 @@
 {
   "symbol": "BeerCoin",
   "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
-  "decimals": "0",
+  "decimals": 0,
   "name": "BeerCoin",
   "ens_address": "",
   "website": "",

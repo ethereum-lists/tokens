@@ -1,7 +1,7 @@
 {
   "symbol": "DPP",
   "address": "0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Digital Assets Power Play",
   "ens_address": "",
   "website": "https://cofound.it/en/projects/digital-assets-power-play",

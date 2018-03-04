@@ -1,7 +1,7 @@
 {
   "symbol": "TBC2",
   "address": "0xFACCD5Fc83c3E4C3c1AC1EF35D15adf06bCF209C",
-  "decimals": "8",
+  "decimals": 8,
   "name": "TBC2",
   "ens_address": "",
   "website": "https://www.tbc.erc20.club",

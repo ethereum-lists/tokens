@@ -1,7 +1,7 @@
 {
   "symbol": "eBTC",
   "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
-  "decimals": "8",
+  "decimals": 8,
   "name": "eBTC",
   "ens_address": "",
   "website": "https://ebitcoin.org",
