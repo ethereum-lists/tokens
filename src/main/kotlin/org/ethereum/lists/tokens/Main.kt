@@ -26,6 +26,9 @@ fun main(args: Array<String>) {
                 it.name != "${address.hex}.json"
                 -> throw IllegalArgumentException("Filename must be the address + .json for \n" + it.name + " \n" + address.hex)
             }
+            if (jsonObject["decimals"] is String) {
+                throw IllegalArgumentException("Decimals must not be a string - make it a number!")
+            }
             if (jsonObject.containsKey("website")) {
                 val website = jsonObject["website"] as String
                 if (website.isNotEmpty() && !website.matches(websiteRegex)) {

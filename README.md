@@ -13,7 +13,7 @@ Information related to tokens. ERC-20 compliant or compatible only, please.
 -  `symbol`:    Short ticker style symbol of token.
 -  `name`:      Longer human version of token.
 -  `address`:   Ethereum (or other chain) address of ERC-20 token.
--  `decimals`:   The decimals of the token.
+-  `decimals`:  The decimals of the token. As Number and not String.
 
 
 ### Optional
