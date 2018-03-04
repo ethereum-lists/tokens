@@ -27,6 +27,11 @@ task correctFileNames(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 }
 
+task correctDecimals(type: JavaExec) {
+    main = "org.ethereum.lists.tokens.CorrectDecimalsKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
 task importMEW(type: JavaExec) {
     main = "org.ethereum.lists.tokens.ImportKt"
     classpath = sourceSets.main.runtimeClasspath
