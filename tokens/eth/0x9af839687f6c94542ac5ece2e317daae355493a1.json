@@ -17,7 +17,7 @@
   },
   "social": {
     "blog": "",
-    "chat": "https://t.me/hydroprotocol",
+    "chat": "",
     "facebook": "",
     "forum": "",
     "github": "",
@@ -26,7 +26,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/hydroprotocol",
     "twitter": "",
     "youtube": ""
   }
