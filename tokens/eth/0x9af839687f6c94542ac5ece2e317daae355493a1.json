@@ -1,7 +1,7 @@
 {
   "symbol": "HOT",
-  "address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
-  "decimals": "18",
+  "address": "0x9AF839687F6c94542Ac5Ece2E317DAae355493A1",
+  "decimals": 18,
   "name": "Hydro Protocol",
   "ens_address": "",
   "website": "https://thehydrofoundation.com/",
