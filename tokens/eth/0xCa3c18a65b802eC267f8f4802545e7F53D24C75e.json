@@ -1,0 +1,33 @@
+{
+  "symbol": "BUC",
+  "address": "0xCa3c18a65b802eC267f8f4802545e7F53D24C75e",
+  "decimals": 18,
+  "name": "BeeUnity Chain",
+  "ens_address": "",
+  "website": "https://beeunity.org",
+  "logo": {
+    "src": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
+    "width": 60,
+    "height": 37,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@beeunity.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://goo.gl/VhHEoA",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/beeunity",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/beeunity",
+    "twitter": "https://twitter.com/beeunity",
+    "youtube": ""
+  }
+}

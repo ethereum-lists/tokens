@@ -1,0 +1,33 @@
+{
+  "symbol": "LDC",
+  "address": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+  "decimals": 18,
+  "name": "LEADCOIN",
+  "ens_address": "",
+  "website": "https://www.leadcoin.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@leadcoin.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11416555/",
+    "reddit": "https://www.reddit.com/r/leadcoin/",
+    "slack": "",
+    "telegram": "https://t.me/LeadCoinNetwork",
+    "twitter": "https://twitter.com/LeadCoinNetwork",
+    "youtube": "https://www.youtube.com/channel/UCWl9l8LRP816rEcAzY66kJg"
+  }
+}
