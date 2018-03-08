@@ -29,6 +29,13 @@ Information related to tokens. ERC-20 compliant or compatible only, please.
 
 This repository has the tokens as single files. This makes it easier for contributors to add new tokens, for reviewers to get a good view on the change and also makes it easier to merge in tokens from other sources. Projects will most likely want to use the assembled lists. The CI server is already building them - so you can just [go to the commit-list](https://github.com/ethereum-lists/tokens/commits/master) and click on the green checkmark behind the last commit. There you see kontinuum/run - and the details link there brings to the assembled files on IPFS.
 
+# Usages
+
+- [WallETH](http://walleth.org)
+- [MyCrypto](http://mycrypto.com)
+- [TREZOR](https://trezor.io/) - they even [import via IPFS ;-)](https://github.com/trezor/trezor-common/blob/master/ethereum_tokens-gen.py)
+- please let us know when you do (you don't need to but it would be nice!)
+
 # Maintainers
 
 - [409H](https://github.com/409H) (409H - EtherAddressLookup)
