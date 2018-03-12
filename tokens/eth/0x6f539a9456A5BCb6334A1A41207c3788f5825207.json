@@ -1,0 +1,33 @@
+{
+  "symbol": "OHNI",
+  "address": "0x6f539a9456A5BCb6334A1A41207c3788f5825207",
+  "decimals": 18,
+  "name": "Ohni",
+  "ens_address": "",
+  "website": "http://ohni.us",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "james@ohni.us",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "ohnicoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "OhniGroup",
+    "twitter": "ohni_us",
+    "youtube": "Ohni Coin"
+  }
+}
