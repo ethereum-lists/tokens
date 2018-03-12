@@ -1,0 +1,33 @@
+{
+  "symbol": "MAD",
+  "address": "0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+  "decimals": 18,
+  "name": "MAD",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
