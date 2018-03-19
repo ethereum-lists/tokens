@@ -1,0 +1,33 @@
+{
+  "symbol": "DoDETacceptBET(DCA)",
+  "address": "0x386Faa4703a34a7Fdb19Bec2e14Fd427C9638416",
+  "decimals": "18",
+  "name": "DoBETacceptBET",
+  "ens_address": "",
+  "website": "www.dobetacceptbet.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@dobet.info",
+    "url": "www.dobetacceptbet.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@doBETacceptBET",
+    "chat": "",
+    "facebook": "https://www.facebook.com/betcoin.dobetacceptbet",
+    "forum": "",
+    "github": "https://github.com/dobetacceptbet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/doBETacceptBET",
+    "slack": "",
+    "telegram": "@dobetacceptbet",
+    "twitter": "@doBETacceptBET",
+    "youtube": "https://www.youtube.com/channel/UC1zXY-rO7_EPUyuKzPEVKfg"
+  }
+}
