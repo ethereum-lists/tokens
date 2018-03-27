@@ -1,0 +1,33 @@
+{
+  "symbol": "WHEN",
+  "address": "0xF4FE95603881D0e07954fD7605E0e9a916e42C44",
+  "decimals": 18,
+  "name": "WHEN Token",
+  "ens_address": "whentoken.eth",
+  "website": "https://interface.whenhub.com",
+  "logo": {
+    "src": "https://interface.whenhub.com/img/shares/when-token-icon.png",
+    "width": "1024",
+    "height": "1024",
+    "ipfs_hash": "QmS3QBhZ28FqXMgVdtkDLeJEGbekGGECac1fWRofDfKGGw"
+  },
+  "support": {
+    "email": "support@whenhub.com",
+    "url": "https://support.whenhub.com"
+  },
+  "social": {
+    "blog": "https://www.whenhub.com/category/blog/",
+    "chat": "",
+    "facebook": "https://facebook.com/WhenHub",
+    "forum": "https://support.whenhub.com",
+    "github": "https://github.com/WhenHub",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/whenhub/",
+    "reddit": "https://www.reddit.com/r/WhenHub/",
+    "slack": "",
+    "telegram": "https://t.me/WhenHubTokenSale",
+    "twitter": "https://twitter.com/WhenHub",
+    "youtube": "https://www.youtube.com/channel/UCxua6ZIelyFWFYsxGUeyJSQ"
+  }
+}
