@@ -6,9 +6,9 @@
   "ens_address": "loomnetwork.eth",
   "website": "https://loomx.io",
   "logo": {
-    "src": "https://loomx.io/images/external/token-logo.png",
-    "width": "321",
-    "height": "284",
+    "src": "https://s3.amazonaws.com/loomrandom/loom-ticker-logo+small.png",
+    "width": "29",
+    "height": "29",
     "ipfs_hash": ""
   },
   "support": {
