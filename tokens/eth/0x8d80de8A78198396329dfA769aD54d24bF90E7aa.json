@@ -1,7 +1,7 @@
 {
   "symbol": "NAC",
   "address": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Nami ICO",
   "ens_address": "",
   "website": "https://nami.trade",
