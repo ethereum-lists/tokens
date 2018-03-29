@@ -1,0 +1,33 @@
+{
+  "symbol": "DAY",
+  "address": "0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+  "decimals": 18,
+  "name": "ChronoLogic DAY",
+  "ens_address": "",
+  "website": "https://chronologic.network",
+  "logo": {
+    "src": "https://chronologic.network/img/chronologic_tokenlogo128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@chronologic.zendesk.com",
+    "url": "https://chronologic.zendesk.com"
+  },
+  "social": {
+    "blog": "https://blog.chronologic.network",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2051671.0",
+    "github": "https://github.com/chronologic",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ChronoLogic",
+    "slack": "",
+    "telegram": "https://t.me/chronologicnetwork",
+    "twitter": "https://twitter.com/chronologiceth",
+    "youtube": "https://www.youtube.com/c/ChronoLogic"
+  }
+}
