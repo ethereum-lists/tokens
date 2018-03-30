@@ -1,0 +1,33 @@
+{
+  "symbol": "NAC",
+  "address": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+  "decimals": 18,
+  "name": "Nami ICO",
+  "ens_address": "",
+  "website": "https://nami.trade",
+  "logo": {
+    "src": "https://drive.google.com/file/d/1D8Oh0j1l_Q7MFbqyGmNFHNE2pw-lyXmw/view",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@nami.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "nami.io/newsroom",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NAMI.TRADE.OFFICIAL/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/namitrade",
+    "twitter": "https://twitter.com/namidotio",
+    "youtube": "https://www.youtube.com/channel/UCYAqEagemhtu0MOtnE7rNJQ"
+  }
+}
