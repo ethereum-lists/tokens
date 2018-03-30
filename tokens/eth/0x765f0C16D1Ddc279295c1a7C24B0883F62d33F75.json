@@ -1,0 +1,33 @@
+{
+  "symbol": "DTX",
+  "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+  "decimals": 18,
+  "name": "DaTa eXchange Token",
+  "ens_address": "",
+  "website": "https://databrokerdao.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@databrokerdao.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/databrokerdao",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DataBrokerDAO",
+    "forum": "https://bitcointalk.org/index.php?topic=2113309.0",
+    "github": "https://github.com/DataBrokerDAO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DatabrokerDAO/",
+    "slack": "",
+    "telegram": "https://t.me/databrokerdao",
+    "twitter": "https://twitter.com/DataBrokerDAO",
+    "youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
+  }
+}

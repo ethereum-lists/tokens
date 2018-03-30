@@ -1,0 +1,33 @@
+{
+  "symbol": "BETR",
+  "address": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
+  "decimals": 18,
+  "name": "BETR",
+  "ens_address": "",
+  "website": "https://www.betterbetting.org",
+  "logo": {
+    "src": "https://betterbetting.org/assets/images/bb-token-icon_w28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@betterbetting.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BETRBetting",
+    "forum": "",
+    "github": "https://github.com/betterbetting",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/betterbetting/",
+    "reddit": "https://www.reddit.com/user/BETRBetting/",
+    "slack": "https://betterbetting.slack.com/",
+    "telegram": "https://t.me/betterbetting",
+    "twitter": "https://twitter.com/BETRBetting",
+    "youtube": "https://www.youtube.com/channel/UCFvNUWRiedqvcpNHqLnDAXg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "NPER",
+  "address": "0x4cE6B362Bc77A24966Dda9078f9cEF81b3B886a7",
+  "decimals": 18,
+  "name": "NPER",
+  "ens_address": "",
+  "website": "https://nper.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "help@nper.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@NPERproject",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/NperProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

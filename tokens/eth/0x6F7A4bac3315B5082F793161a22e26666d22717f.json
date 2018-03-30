@@ -1,0 +1,33 @@
+{
+  "symbol": "YEED",
+  "address": "0x6F7A4bac3315B5082F793161a22e26666d22717f",
+  "decimals": 18,
+  "name": "YEED",
+  "ens_address": "",
+  "website": "https://yggdrash.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

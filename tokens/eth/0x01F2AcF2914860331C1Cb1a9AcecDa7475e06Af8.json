@@ -1,0 +1,33 @@
+{
+  "symbol": "MESH",
+  "address": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8",
+  "decimals": 18,
+  "name": "Meshbox",
+  "ens_address": "",
+  "website": "https://meshbox.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "MESH@MESHBOX.NETWORK",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MeshBoxFoundation/",
+    "forum": "",
+    "github": "https://github.com/MeshBox",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/meshbox/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "t.me/MeshBoxEN",
+    "twitter": "https://twitter.com/Mesh_Box",
+    "youtube": "https://www.youtube.com/channel/UCQHwUo9rRidByL9vMlv0vSQ"
+  }
+}

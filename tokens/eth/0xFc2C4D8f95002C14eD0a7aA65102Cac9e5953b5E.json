@@ -1,0 +1,33 @@
+{
+  "symbol": "RBLX",
+  "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+  "decimals": 18,
+  "name": "Rublix",
+  "ens_address": "",
+  "website": "https://rublix.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@rublix.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.rublix.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Rublixdev/",
+    "forum": "",
+    "github": "https://github.com/rublixdev",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/rublixdev/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Rublix/",
+    "slack": "",
+    "telegram": "https://t.me/rublixdev",
+    "twitter": "https://twitter.com/RublixDev",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "XBP",
+  "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
+  "decimals": 18,
+  "name": "BlitzPredict",
+  "ens_address": "",
+  "website": "https://www.blitzpredict.io",
+  "logo": {
+    "src": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mew@blitzpredict.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BlitzPredict1",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/blitzpredict",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BlitzPredict/",
+    "slack": "",
+    "telegram": "https://t.me/BlitzPredict",
+    "twitter": "https://twitter.com/@blitzpredict",
+    "youtube": ""
+  }
+}

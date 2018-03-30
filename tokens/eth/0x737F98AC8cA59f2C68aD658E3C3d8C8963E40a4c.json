@@ -1,0 +1,33 @@
+{
+  "symbol": "AMN",
+  "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+  "decimals": 18,
+  "name": "Amon",
+  "ens_address": "amntoken.eth",
+  "website": "https://amon.tech",
+  "logo": {
+    "src": "https://amon.tech/assets/img/token/amn.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@amon.tech",
+    "url": "https://help.amon.tech"
+  },
+  "social": {
+    "blog": "https://medium.com/@amontech",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2875733.0",
+    "github": "https://github.com/amontech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/amon-tech",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/amontech",
+    "twitter": "https://twitter.com/amonwallet",
+    "youtube": ""
+  }
+}

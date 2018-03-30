@@ -1,0 +1,33 @@
+{
+  "symbol": "CHSB",
+  "address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+  "decimals": 8,
+  "name": "CHSB",
+  "ens_address": "",
+  "website": "https://swissborg.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

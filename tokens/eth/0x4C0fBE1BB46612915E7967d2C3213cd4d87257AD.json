@@ -1,0 +1,33 @@
+{
+  "symbol": "APIS",
+  "address": "0x4C0fBE1BB46612915E7967d2C3213cd4d87257AD",
+  "decimals": 18,
+  "name": "APIS",
+  "ens_address": "",
+  "website": "https://apisplatform.io",
+  "logo": {
+    "src": "https://apisplatform.io/img/icon_250.png",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "apis_official@apisplatform.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/apisplatform",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Oxchild/crowdsale",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TheApisplatform",
+    "twitter": "https://twitter.com/Apis11Official",
+    "youtube": "https://www.youtube.com/channel/UCArVzPjkC_BrqkjFG3DZOjQ"
+  }
+}
