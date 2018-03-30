@@ -1,0 +1,33 @@
+{
+  "symbol": "RCN",
+  "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
+  "decimals": 18,
+  "name": "Ripio Credit Network",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "KC",
+  "address": "0x0D6DD9f68d24EC1d5fE2174f3EC8DAB52B52BaF5",
+  "decimals": 18,
+  "name": "KMCC",
+  "ens_address": "",
+  "website": "https://www.kmcc.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dwgoforit@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

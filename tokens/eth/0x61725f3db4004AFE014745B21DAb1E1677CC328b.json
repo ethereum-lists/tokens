@@ -1,0 +1,33 @@
+{
+  "symbol": "DAXT",
+  "address": "0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+  "decimals": 18,
+  "name": "Digital Asset Exchange Token",
+  "ens_address": "",
+  "website": "https://www.daxt.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "concierge@blockex.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.blockex.com/blogslistings",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://blockex.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockex",
+    "youtube": ""
+  }
+}
