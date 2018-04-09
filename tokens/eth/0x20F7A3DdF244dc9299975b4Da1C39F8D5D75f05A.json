@@ -1,10 +1,10 @@
 {
-  "symbol": "DEPO",
-  "address": "0x7cF271966F36343Bf0150F25E5364f7961c58201",
-  "decimals": 0,
-  "name": "CRYPTODEPOZIT",
+  "symbol": "SPN",
+  "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+  "decimals": 6,
+  "name": "Sapien",
   "ens_address": "",
-  "website": "https://aridika.com",
+  "website": "https://www.sapien.network/",
   "logo": {
     "src": "",
     "width": "",
@@ -26,7 +26,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/SapienNetwork",
     "twitter": "",
     "youtube": ""
   }

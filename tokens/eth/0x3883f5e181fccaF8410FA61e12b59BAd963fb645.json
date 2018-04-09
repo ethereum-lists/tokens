@@ -1,0 +1,33 @@
+{
+  "symbol": "THETA",
+  "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+  "decimals": 18,
+  "name": "Theta Token",
+  "ens_address": "",
+  "website": "https://www.thetatoken.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@thetatoken.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "facebook.com/ThetaToken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "reddit.com/r/thetatoken/",
+    "slack": "",
+    "telegram": "https://t.me/thetatoken",
+    "twitter": "twitter.com/thetatoken",
+    "youtube": ""
+  }
+}

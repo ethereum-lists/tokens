@@ -1,0 +1,33 @@
+{
+  "symbol": "NAVI",
+  "address": "0x588047365dF5BA589F923604AAC23d673555c623",
+  "decimals": 18,
+  "name": "NaviToken",
+  "ens_address": "",
+  "website": "https://naviaddress.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@naviaddress.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@naviaddress",
+    "chat": "",
+    "facebook": "https://www.facebook.com/naviaddressplatform/",
+    "forum": "https://bitcointalk.org/index.php?topic=2461416.0",
+    "github": "https://github.com/naviworld",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/naviaddress/",
+    "reddit": "https://www.reddit.com/r/Naviaddress/",
+    "slack": "",
+    "telegram": "https://t.me/naviaddress",
+    "twitter": "https://twitter.com/naviaddress",
+    "youtube": "https://www.youtube.com/channel/UChkEvQamePmBzDb5XlwipLQ"
+  }
+}

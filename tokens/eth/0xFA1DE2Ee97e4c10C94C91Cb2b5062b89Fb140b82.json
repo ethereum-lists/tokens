@@ -1,18 +1,18 @@
 {
-  "symbol": "DEPO",
-  "address": "0x7cF271966F36343Bf0150F25E5364f7961c58201",
-  "decimals": 0,
-  "name": "CRYPTODEPOZIT",
+  "symbol": "EDC",
+  "address": "0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82",
+  "decimals": 6,
+  "name": "Education Credits",
   "ens_address": "",
-  "website": "https://aridika.com",
+  "website": "https://www.edc.network",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://edc.network/images/edc-logo28.png",
+    "width": "28",
+    "height": "28",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@edc.network",
     "url": ""
   },
   "social": {
