@@ -1,10 +1,10 @@
 {
-  "symbol": "DEPO",
-  "address": "0x7cF271966F36343Bf0150F25E5364f7961c58201",
-  "decimals": 0,
-  "name": "CRYPTODEPOZIT",
+  "symbol": "ETCH",
+  "address": "0xDd74a7A3769fA72561B3A69e65968F49748c690c",
+  "decimals": 18,
+  "name": "ETCH",
   "ens_address": "",
-  "website": "https://aridika.com",
+  "website": "https://etch.work",
   "logo": {
     "src": "",
     "width": "",

@@ -1,0 +1,33 @@
+{
+  "symbol": "VOC",
+  "address": "0xc3bC9Eb71f75Ec439A6b6C8E8b746fCF5b62F703",
+  "decimals": 18,
+  "name": "VORMACOIN",
+  "ens_address": "",
+  "website": "https://vormacoin.io/",
+  "logo": {
+    "src": "https://vormacoin.io/assets/images/logo/icon.png",
+    "width": "200",
+    "height": "150",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@vormacoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.vormacoin.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
+    "forum": "",
+    "github": "https://github.com/vormacoin",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/vormacoin.io/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/vormacoin",
+    "slack": "",
+    "telegram": "http://t.me/vormacoinVOC",
+    "twitter": "https://twitter.com/vormacoin",
+    "youtube": ""
+  }
+}
