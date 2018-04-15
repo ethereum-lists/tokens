@@ -1,0 +1,33 @@
+{
+  "symbol": "LYS",
+  "address": "0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27",
+  "decimals": 8,
+  "name": "Lightyears",
+  "ens_address": "",
+  "website": "https://lightyearstoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@lightyearstoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/lightyears",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LIGHTYEARS.TokenLYS/",
+    "forum": "https://bitcointalk.org/index.php?topic=2599216",
+    "github": "https://github.com/LIGHTYEARS-LYS/LIGHTYEARS-Token",
+    "gitter": "https://gitter.im/LIGHTYEARS-Token/Lobby",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LIGHTYEARSx/",
+    "slack": "https://goo.gl/EJZTX6",
+    "telegram": "https://t.me/LIGHTYEARSToken",
+    "twitter": "https://twitter.com/LIGHTYEARStoken",
+    "youtube": ""
+  }
+}
