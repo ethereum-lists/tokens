@@ -1,0 +1,33 @@
+{
+  "symbol": "COIL",
+  "address": "0x0C91B015AbA6f7B4738dcD36E7410138b29ADC29",
+  "decimals": 8,
+  "name": "CoinOil",
+  "ens_address": "",
+  "website": "https://coinoil.io/",
+  "logo": {
+    "src": "https://coinoil.io/oldw/assets/images/logo/icon.png",
+    "width": "146",
+    "height": "157",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@Coinoil.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.com/CoinOil",
+    "forum": "",
+    "github": "https://github.com/CoinOil",
+    "gitter": "",
+    "instagram": "https://instagram.com/coinoil.io",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/Coinoil",
+    "youtube": ""
+  }
+}
