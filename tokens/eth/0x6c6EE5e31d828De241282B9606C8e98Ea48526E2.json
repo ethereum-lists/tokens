@@ -1,0 +1,33 @@
+{
+  "symbol": "HOT",
+  "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+  "decimals": 18,
+  "name": "HoloToken",
+  "ens_address": "token.holo-host.eth",
+  "website": "https://holo.host/",
+  "logo": {
+    "src": "https://holo.host/wp-content/uploads/2017/12/Holologo_Profile.png",
+    "width": "1580",
+    "height": "1580",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "help@holo.host",
+    "url": "https://chat.holochain.org"
+  },
+  "social": {
+    "blog": "https://medium.com/h-o-l-o",
+    "chat": "https://chat.holochain.org",
+    "facebook": "https://www.facebook.com/holohost/",
+    "forum": "https://bitcointalk.org/index.php?topic=2963267.0",
+    "github": "https://github.com/Holo-Host",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/holochain/",
+    "slack": "",
+    "telegram": "https://t.me/channelholo",
+    "twitter": "https://twitter.com/H_O_L_O_",
+    "youtube": "https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g"
+  }
+}
