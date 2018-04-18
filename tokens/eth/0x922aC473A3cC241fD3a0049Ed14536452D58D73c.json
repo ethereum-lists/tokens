@@ -1,0 +1,33 @@
+{
+  "symbol": "VLD",
+  "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+  "decimals": 18,
+  "name": "VLD",
+  "ens_address": "",
+  "website": "https://valid.global/",
+  "logo": {
+    "src": "https://valid.global/static/img/vld-icon.png",
+    "width": "512px",
+    "height": "512px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@valid.global",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.valid.global/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/valid.global/",
+    "forum": "",
+    "github": "https://github.com/valid-global/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18346679/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/valid_global",
+    "twitter": "https://twitter.com/valid_global",
+    "youtube": "https://www.youtube.com/channel/UCCjK3Sblx-Jxx8je84XakbQ/featured"
+  }
+}
