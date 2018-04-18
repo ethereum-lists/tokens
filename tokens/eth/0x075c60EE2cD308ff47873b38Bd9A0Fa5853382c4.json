@@ -1,0 +1,33 @@
+{
+  "symbol": "DEEZ",
+  "address": "0x075c60EE2cD308ff47873b38Bd9A0Fa5853382c4",
+  "decimals": 18,
+  "name": "DeezNuts",
+  "ens_address": "",
+  "website": "https://deeznuts.in",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/DeezNutsToken/DEEZ/master/images/DeezNuts.png",
+    "width": "500px",
+    "height": "500px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "deez@deeznuts.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://peepeth.com/deeznutstoken",
+    "chat": "",
+    "facebook": "https://facebook.com/deeznutstoken",
+    "forum": "",
+    "github": "https://github.com/DeezNutsToken/DEEZ",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/deeznutstoken/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/deeznutstoken",
+    "twitter": "https://twitter.com/DeezNutsToken",
+    "youtube": ""
+  }
+}
