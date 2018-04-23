@@ -1,0 +1,33 @@
+{
+  "symbol": "FLR",
+  "address": "0x9aeFBE0b3C3ba9Eab262CB9856E8157AB7648e09",
+  "decimals": 18,
+  "name": "Flair Coin",
+  "ens_address": "",
+  "website": "https://flaircoin.co/",
+  "logo": {
+    "src": "https://flaircoin.co/assets/images/flair_logo_64x64.png",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@flaircoin.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

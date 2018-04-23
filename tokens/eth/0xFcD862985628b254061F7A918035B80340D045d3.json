@@ -1,0 +1,33 @@
+{
+  "symbol": "GIF",
+  "address": "0xFcD862985628b254061F7A918035B80340D045d3",
+  "decimals": 18,
+  "name": "GIFcoin Token",
+  "ens_address": "",
+  "website": "https://gifcoin.io/",
+  "logo": {
+    "src": "https://www.gifcoin.io/assets/images/default/frontend/gifsingle400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gifcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/gifcoin.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/gifcoin",
+    "twitter": "https://twitter.com/gifcoin_io",
+    "youtube": "https://youtube.com/channel/UCLq13wzOH1STqW8I-Z-ctAQ"
+  }
+}
