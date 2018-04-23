@@ -1,0 +1,33 @@
+{
+  "symbol": "BOB",
+  "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "decimals": 18,
+  "name": "Bob's repair",
+  "ens_address": "",
+  "website": "https://bobsrepair.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

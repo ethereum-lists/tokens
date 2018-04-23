@@ -1,0 +1,33 @@
+{
+  "symbol": "VIEW",
+  "address": "0xF03f8D65BaFA598611C3495124093c56e8F638f0",
+  "decimals": 18,
+  "name": "Viewly",
+  "ens_address": "",
+  "website": "https://view.ly/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
