@@ -1,0 +1,33 @@
+{
+  "symbol": "DTH",
+  "address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+  "decimals": 18,
+  "name": "dether",
+  "ens_address": "",
+  "website": "https://dether.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@dether.io",
+    "url": "https://dether.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@DETHER",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dether.io/",
+    "forum": "",
+    "github": "https://github.com/dethertech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Dether/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+    "twitter": "https://twitter.com/dether_io",
+    "youtube": "https://www.youtube.com/channel/UCXkA5w4KdpnBMeIsu62ZS8w"
+  }
+}
