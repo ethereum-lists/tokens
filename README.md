@@ -31,9 +31,9 @@ This repository has the tokens as single files. This makes it easier for contrib
 
 # Usages
 
-- [WallETH](http://walleth.org)
-- [MyCrypto](http://mycrypto.com)
-- [TREZOR](https://trezor.io/) - they even [import via IPFS ;-)](https://github.com/trezor/trezor-common/blob/master/ethereum_tokens-gen.py)
+- [WallETH](https://walleth.org)
+- [MyCrypto](https://mycrypto.com)
+- [TREZOR](https://trezor.io) - they even [import via IPFS ;-)](https://github.com/trezor/trezor-common/blob/master/ethereum_tokens-gen.py)
 - please let us know when you do (you don't need to but it would be nice!)
 
 # Maintainers
