@@ -1,0 +1,33 @@
+{
+  "symbol": "GTO",
+  "address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d",
+  "decimals": 5,
+  "name": "Gifto",
+  "ens_address": "",
+  "website": "https://gifto.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@GIFTO",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gifto.io/",
+    "forum": "",
+    "github": "https://github.com/GIFTO-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/GIFTO-io/",
+    "slack": "",
+    "telegram": "https://t.me/GIFTOOfficial",
+    "twitter": "https://twitter.com/GIFTO_io",
+    "youtube": ""
+  }
+}

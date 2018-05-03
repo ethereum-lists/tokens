@@ -1,0 +1,33 @@
+{
+  "symbol": "USDM",
+  "address": "0xD760ADdFb24D9C01Fe4Bfea7475C5e3636684058",
+  "decimals": 2,
+  "name": "Mether (USDM)",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
