@@ -1,6 +1,6 @@
 # Background
 
-This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this blog post](http://walleth.org/2018/02/15/ethereum-lists).
+This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this blog post](https://walleth.org/2018/02/15/ethereum-lists).
 
 # Tokens
 
@@ -40,9 +40,9 @@ This repository has the tokens as single files. This makes it easier for contrib
 
 - [409H](https://github.com/409H) (409H - EtherAddressLookup)
 
-- [tayvano](https://github.com/tayvano) (tayvano - [MyCrypto](http://mycrypto.com))
+- [tayvano](https://github.com/tayvano) (tayvano - [MyCrypto](https://mycrypto.com))
 
-- [ligi](https://github.com/ligi) (ligi - [WallETH](http://walleth.org))
+- [ligi](https://github.com/ligi) (ligi - [WallETH](https://walleth.org))
 
 - You!
 
