@@ -1,0 +1,33 @@
+{
+  "symbol": "XGG",
+  "address": "0xf6b6AA0Ef0f5Edc2C1c5d925477F97eAF66303e7",
+  "decimals": 8,
+  "name": "Going Gems",
+  "ens_address": "",
+  "website": "https://www.going-gems.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@going-gems.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.going-gems.com/#blog",
+    "chat": "",
+    "facebook": "https://web.facebook.com/Going-Gems-307192689810299/",
+    "forum": "",
+    "github": "https://github.com/GoingGems",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://goinggemsholding.slack.com",
+    "telegram": "https://t.me/GoingGemsChannel",
+    "twitter": "https://twitter.com/GoingGems",
+    "youtube": ""
+  }
+}
