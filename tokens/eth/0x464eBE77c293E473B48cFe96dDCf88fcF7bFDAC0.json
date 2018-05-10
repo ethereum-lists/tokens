@@ -1,0 +1,33 @@
+{
+  "symbol": "KRL",
+  "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+  "decimals": 18,
+  "name": "Kryll",
+  "ens_address": "",
+  "website": "https://kryll.io/",
+  "logo": {
+    "src": "https://kryll.io/external/K_256px.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@kryll.io",
+    "url": "https://t.me/kryll_io"
+  },
+  "social": {
+    "blog": "https://medium.com/@kryll_io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kryll.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2791849.0",
+    "github": "https://github.com/Cryptense/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cryptense",
+    "reddit": "https://www.reddit.com/r/Kryll_io/",
+    "slack": "",
+    "telegram": "https://t.me/kryll_io",
+    "twitter": "https://twitter.com/kryll_io",
+    "youtube": "https://www.youtube.com/channel/UCET6DYvfwpIvmeY2x_VdHMQ"
+  }
+}
