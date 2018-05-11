@@ -1,0 +1,33 @@
+{
+  "symbol": "NPXS",
+  "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+  "decimals": 18,
+  "name": "Pundi X Token",
+  "ens_address": "",
+  "website": "https://pundix.com",
+  "logo": {
+    "src": "https://pundix.com/logo/logo.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@pundix.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.pundix.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/pundixlabs/",
+    "forum": "",
+    "github": "https://github.com/pundix",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Pundix",
+    "twitter": "https://twitter.com/PundiXLabs",
+    "youtube": "https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA"
+  }
+}
