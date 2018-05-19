@@ -1,0 +1,33 @@
+{
+  "symbol": "LPT",
+  "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+  "decimals": 18,
+  "name": "Livepeer Token",
+  "ens_address": "",
+  "website": "https://livepeer.org/",
+  "logo": {
+    "src": "https://livepeer-dev.s3.amazonaws.com/logos/lpt_transparent_200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@livepeer.org",
+    "url": "https://forum.livepeer.org"
+  },
+  "social": {
+    "blog": "https://medium.com/livepeer-blog",
+    "chat": "https://discord.gg/RR4kFAh",
+    "facebook": "",
+    "forum": "https://forum.livepeer.org",
+    "github": "https://github.com/livepeer",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/livepeer/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/LivepeerOrg",
+    "youtube": ""
+  }
+}
