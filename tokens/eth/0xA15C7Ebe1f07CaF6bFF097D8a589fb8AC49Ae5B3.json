@@ -1,37 +1,4 @@
 {
-  "symbol": "BKRx",
-  "address": "0x3cf9E0c385a5ABEC9FD2a71790AA344C4e8E3570",
-  "decimals": 18,
-  "name": "BlockRx",
-  "ens_address": "",
-  "website": "https://www.blockrx.com",
-  "logo": {
-    "src": "",
-    "width": "28",
-    "height": "28",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "",
-    "url": ""
-  },
-  "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "https://www.reddit.com/r/BlockRX",
-    "slack": "",
-    "telegram": "",
-    "twitter": "https://twitter.com/blockrxproject",
-    "youtube": ""
-  }
-},
-{
   "symbol": "NPXS",
   "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
   "decimals": 18,
