@@ -51,7 +51,7 @@ fun main(args: Array<String>) {
 fun JsonArray<*>.writeJSON(pathName: String, filename: String) {
     val fullOutDir = File(outDir, pathName)
     fullOutDir.mkdirs()
-    val fullOutFile = File(fullOutDir, filename + ".json")
+    val fullOutFile = File(fullOutDir, "$filename.json")
 
     fullOutFile.writeText(toJsonString(false))
 }
