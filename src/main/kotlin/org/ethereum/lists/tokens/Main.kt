@@ -9,10 +9,12 @@ import org.kethereum.erc55.hasValidEIP55Checksum
 import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
 import java.io.File
+import java.nio.file.Files
 
 val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64)
 
 fun main(args: Array<String>) {
+    checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
         val jsonArray = JsonArray<JsonObject>()
@@ -44,6 +46,16 @@ fun main(args: Array<String>) {
         minified.writeJSON("minified", singleNetworkTokenDirectory.name)
         networkMapping[singleNetworkTokenDirectory.name]?.let {
             minified.writeJSON("minifiedByNetworkId", it.toString())
+        }
+    }
+}
+
+private fun checkForTokenDefinitionsInWrongPath() {
+    File(".").walk().forEach { path ->
+        if (path.isDirectory && !Files.isSameFile((path.parentFile ?: path).toPath(), allNetworksTokenDir.toPath())) {
+            path.list().firstOrNull() { it.startsWith("0x") }?.let {
+                throw IllegalArgumentException("There is a token definition file ($it) placed in a directory where it does not belong (${path.absolutePath})")
+            }
         }
     }
 }
