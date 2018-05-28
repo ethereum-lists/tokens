@@ -1,0 +1,33 @@
+{
+  "symbol": "ENC",
+  "address": "0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387",
+  "decimals": 18,
+  "name": "Ethernet.Cash",
+  "ens_address": "",
+  "website": "https://ethernet.cash",
+  "logo": {
+    "src": "https://ethernet.cash/images/logo28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@ethernet.cash",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ethernetcash",
+    "chat": "",
+    "facebook": "https://fb.me/ethernetcash.official",
+    "forum": "",
+    "github": "https://github.com/ethernetcash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ethernetcash",
+    "twitter": "https://twitter.com/ethernetcash",
+    "youtube": ""
+  }
+}
