@@ -1,0 +1,33 @@
+{
+  "symbol": "NANJ",
+  "address": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+  "decimals": 8,
+  "name": "NANJCOIN",
+  "ens_address": "nanjcoin.eth",
+  "website": "https://nanjcoin.com/",
+  "logo": {
+    "src": "https://etherscan.io/token/images/nanjcoin_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@nanjcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://nanjcoin.com/blog/",
+    "chat": "https://discord.gg/2c72Rda",
+    "facebook": "https://www.facebook.com/nanjcoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=3061342",
+    "github": "https://github.com/NANJ-COIN",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/NanjCoin/",
+    "slack": "",
+    "telegram": "https://t.me/nanjcoin",
+    "twitter": "https://twitter.com/nanjcoin/",
+    "youtube": ""
+  }
+}
