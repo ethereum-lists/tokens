@@ -1,0 +1,33 @@
+{
+  "symbol": "HYDRO",
+  "address": "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc",
+  "decimals": 18,
+  "name": "Hydro",
+  "ens_address": "token.projecthydro.eth",
+  "website": "https://www.hydrogenplatform.com/hydro",
+  "logo": {
+    "src": "https://i.imgur.com/15s0da4.png",
+    "width": "120",
+    "height": "120",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@hydrogenplatform.com",
+    "url": "https://www.hydrogenplatform.com/contact"
+  },
+  "social": {
+    "blog": "https://medium.com/hydrogen-api",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hydrogenplatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2778123",
+    "github": "https://github.com/hydrogen-dev",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/hydrogenplatform/",
+    "linkedin": "https://www.linkedin.com/company/hydrogenplatform/",
+    "reddit": "https://www.reddit.com/r/ProjectHydro/",
+    "slack": "",
+    "telegram": "https://t.me/projecthydro",
+    "twitter": "https://twitter.com/HydrogenAPI",
+    "youtube": "https://www.youtube.com/channel/UChDPAVs_qKREy9zAQsc6VVw"
+  }
+}
