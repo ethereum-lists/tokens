@@ -1,0 +1,24 @@
+{
+  "symbol": "RAO",
+  "address": "0x45eDb535942a8C84D9f4b5D37e1b25F91Ea4804c",
+  "decimals": 18,
+  "name": "RadioYo",
+  "website": "https://rao.radioyo.fm",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+  },
+  "support": {
+    "email": "support@radioyo.fm"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/radioyofm",
+    "github": "https://github.com/RadioYoFM/ICO_smartcontract/",
+    "linkedin": "https://www.linkedin.com/in/radioyo",
+    "reddit": "https://www.reddit.com/r/RadioYo/",
+    "slack": "https://radioyo.slack.com",
+    "telegram": "https://t.me/joinchat/AAAAAEMBG4bGWaQGuDkstg",
+    "twitter": "https://twitter.com/radioyofm",
+	"discord": "https://discord.gg/S844u3b",
+	"bitcointalk": "https://bitcointalk.org/index.php?topic=2161562.0"
+  }
+}
