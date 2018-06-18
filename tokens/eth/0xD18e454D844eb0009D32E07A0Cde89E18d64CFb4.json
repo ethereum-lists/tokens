@@ -1,0 +1,33 @@
+{
+  "symbol": "WORK",
+  "address": "0xD18e454D844eb0009D32E07A0Cde89E18d64CFb4",
+  "decimals": 18,
+  "name": "workTOKEN",
+  "ens_address": "worktoken.eth",
+  "website": "https://workchain.io",
+  "logo": {
+    "src": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ping@workchain.io",
+    "url": "https://help.workchain.io"
+  },
+  "social": {
+    "blog": "https://medium.com/workchain-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/workchain.io",
+    "forum": "",
+    "github": "https://github.com/workchainio",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/workchain.io/",
+    "linkedin": "https://www.linkedin.com/company/workchain-io/",
+    "reddit": "https://www.reddit.com/r/workchainio",
+    "slack": "",
+    "telegram": "https://t.me/workchainio",
+    "twitter": "https://twitter.com/workchain_io",
+    "youtube": ""
+  }
+}
