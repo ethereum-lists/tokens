@@ -1,0 +1,33 @@
+{
+  "symbol": "MKT",
+  "address": "0x7939882b54fcf0bCAe6b53dEc39Ad6e806176442",
+  "decimals": 8,
+  "name": "Mikado",
+  "ens_address": "",
+  "website": "https://mikado.io",
+  "logo": {
+    "src": "https://avatars3.githubusercontent.com/u/38851395?s=400",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@mikado.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@mikado.io",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/mikadohq",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/mikadoio/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mikadoio",
+    "twitter": "https://twitter.com/mikadoio",
+    "youtube": ""
+  }
+}
