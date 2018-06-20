@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://atlant.io",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
+    "width": "300",
+    "height": "300",
     "ipfs_hash": ""
   },
   "support": {
