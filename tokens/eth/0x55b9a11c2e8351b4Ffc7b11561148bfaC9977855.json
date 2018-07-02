@@ -1,10 +1,10 @@
 {
-  "symbol": "DGX",
+  "symbol": "DGX1",
   "address": "0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
   "decimals": 9,
-  "name": "DGX",
+  "name": "Digix Gold Token 1.0",
   "ens_address": "",
-  "website": "https://www.dgx.io",
+  "website": "https://digix.global",
   "logo": {
     "src": "",
     "width": "",

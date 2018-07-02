@@ -1,0 +1,33 @@
+{
+  "symbol": "DGX",
+  "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+  "decimals": 9,
+  "name": "Digix Gold Token",
+  "ens_address": "",
+  "website": "https://digix.global",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/DigixGlobal/digix-press-kit/master/dgx-token.png",
+    "width": "100",
+    "height": "100",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Digix",
+    "chat": "https://discord.gg/CCDBJJC",
+    "facebook": "https://www.facebook.com/digixglobal/",
+    "forum": "",
+    "github": "https://github.com/DigixGlobal",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/digix/",
+    "slack": "",
+    "telegram": "https://t.me/digixofficial",
+    "twitter": "https://twitter.com/digixglobal",
+    "youtube": ""
+  }
+}
