@@ -3,9 +3,11 @@
   "name": "None",
   "address": "0x643B6870beabee941B9260a0A878bcF4A61Fb0f1",
   "decimals": 0,
-  "logo": "",
-  "support": "ligi@ethereum.org",
-  "community": "",
+  "support": {
+	"email" : "ligi@ethereum.org"
+  },
   "website": "",
-  "github": "https://github.com/walleth/contracts/tree/master/NoneToken"
+  "social": {
+	"github": "https://github.com/walleth/contracts/tree/master/NoneToken"
+  }
 }

@@ -3,7 +3,7 @@
   "name": "AKASHA Tokens",
   "address": "0x398A7A69f3c59181A1ffe34bed11DCb5DF863A8a",
   "decimals": 18,
-  "support": "hello@akasha.world",
+  "support": { "email" : "hello@akasha.world" } ,
   "website": "http://akasha.world",
-  "github": "https://github.com/akashaProject"
+  "social" : { "github": "https://github.com/akashaProject" }
 }
