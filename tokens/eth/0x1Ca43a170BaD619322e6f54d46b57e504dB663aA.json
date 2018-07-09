@@ -1,0 +1,33 @@
+{
+  "symbol": "AKC",
+  "address": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+  "decimals": 18,
+  "name": "ARTWOOK COIN",
+  "ens_address": "",
+  "website": "https://artwook.com",
+  "logo": {
+    "src": "https://artwook.com/logo/akc-line.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@artwook.com",
+    "url": "https://artwook.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ArtWook-2029005760759166",
+    "forum": "",
+    "github": "https://github.com/artwook",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/artwook",
+    "twitter": "https://twitter.com/artwook_akc",
+    "youtube": "https://www.youtube.com/watch?v=TJn_TojlmHI"
+  }
+}
