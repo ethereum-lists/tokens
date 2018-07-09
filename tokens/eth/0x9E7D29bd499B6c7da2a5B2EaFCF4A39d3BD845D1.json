@@ -1,0 +1,33 @@
+{
+  "symbol": "CTGC",
+  "address": "0x9E7D29bd499B6c7da2a5B2EaFCF4A39d3BD845D1",
+  "decimals": 18,
+  "name": "Convenient To Go",
+  "ens_address": "christiantraders.eth",
+  "website": "https://www.ctgcoin.org",
+  "logo": {
+    "src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
+    "width": "68",
+    "height": "41",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@ctgcoin.org",
+    "url": "https://www.ctgcoin.org"
+  },
+  "social": {
+    "blog": "https://weibo.com/6550499942/info",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ctg.coin",
+    "forum": "",
+    "github": "https://github.com/ctgcoin/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.me/CTGgroup",
+    "twitter": "https://twitter.com/CtGcoin",
+    "youtube": ""
+  }
+}

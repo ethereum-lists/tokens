@@ -1,0 +1,33 @@
+{
+  "symbol": "CET",
+  "address": "0xF660cA1e228e7BE1fA8B4f5583145E31147FB577",
+  "decimals": 18,
+  "name": "DICE Money Dicet",
+  "ens_address": "",
+  "website": "https://dice.money/",
+  "logo": {
+    "src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
+    "width": "480",
+    "height": "480",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@dice.money",
+    "url": "https://dice.money"
+  },
+  "social": {
+    "blog": "https://medium.com/@DICEsup/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DICEsup/",
+    "forum": "",
+    "github": "https://github.com/DICE-Money/",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/DICEsup/",
+    "linkedin": "linkedin.com/company/dice-money/",
+    "reddit": "https://www.reddit.com/r/DICEsup/",
+    "slack": "",
+    "telegram": "https://t.me/DICEMoneyNews",
+    "twitter": "https://twitter.com/DICEsup",
+    "youtube": "https://www.youtube.com/channel/UCQAJZnp670MZWnNbZY_ovsg"
+  }
+}
