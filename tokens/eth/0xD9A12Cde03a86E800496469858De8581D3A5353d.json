@@ -1,0 +1,33 @@
+{
+  "symbol": "YUP",
+  "address": "0xD9A12Cde03a86E800496469858De8581D3A5353d",
+  "decimals": 18,
+  "name": "YUP",
+  "ens_address": "",
+  "website": "https://www.crowdholding.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@crowdholding.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@crowdholding",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Crowdholding/",
+    "forum": "",
+    "github": "https://github.com/crowdholding/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Crowdholding/",
+    "slack": "",
+    "telegram": "https://t.me/Crowdholding",
+    "twitter": "https://twitter.com/crowdholding",
+    "youtube": ""
+  }
+}
