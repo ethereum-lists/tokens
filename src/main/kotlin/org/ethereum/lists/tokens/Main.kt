@@ -66,7 +66,7 @@ fun main(args: Array<String>) {
 private fun checkForTokenDefinitionsInWrongPath() {
     File(".").walk().forEach { path ->
         if (path.isDirectory && !Files.isSameFile((path.parentFile ?: path).toPath(), allNetworksTokenDir.toPath())) {
-            path.list().firstOrNull() { it.startsWith("0x") }?.let {
+            path.list().firstOrNull { it.startsWith("0x") }?.let {
                 throw IllegalArgumentException("There is a token definition file ($it) placed in a directory where it does not belong (${path.absolutePath})")
             }
         }
