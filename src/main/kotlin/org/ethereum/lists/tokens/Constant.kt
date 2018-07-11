@@ -1,5 +1,6 @@
 package org.ethereum.lists.tokens
 
+import com.squareup.moshi.Moshi
 import java.io.File
 
 val mandatoryFields = listOf("name", "symbol", "address", "decimals")
@@ -10,3 +11,4 @@ val allNetworksTokenDir = File("tokens")
 
 val websiteRegex = Regex("^https?://.*\\..*")
 
+val moshi: Moshi = Moshi.Builder().build()
