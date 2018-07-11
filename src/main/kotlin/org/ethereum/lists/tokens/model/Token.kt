@@ -9,4 +9,5 @@ data class Token(val symbol: String,
                  val comment: String? = null,
                  val logo: Logo? = null,
                  val support: Support? = null,
-                 val social: Social? = null)
+                 val social: Social? = null,
+                 val deprecation: Deprecation? = null)

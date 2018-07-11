@@ -2,6 +2,7 @@ package org.ethereum.lists.tokens
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
+import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
 import org.ethereum.lists.tokens.model.Token
 import org.kethereum.erc55.hasValidEIP55Checksum
@@ -18,6 +19,7 @@ class InvalidDecimals : InvalidTokenException("Decimals must be a number")
 class InvalidFileName : InvalidTokenException("Filename must be the address + .json")
 class InvalidWebsite : InvalidTokenException("Website invalid")
 class InvalidJSON(message: String?) : InvalidTokenException("JSON invalid $message")
+class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecation Migration type - currently only auto is allowed")
 
 fun checkTokenFile(file: File) {
     val jsonObject = Parser().parse(file.reader()) as JsonObject
@@ -40,8 +42,17 @@ fun checkTokenFile(file: File) {
         }
     }
     try {
-        moshi.adapter(Token::class.java).fromJson(file.readText())
+        val token = moshi.adapter(Token::class.java).failOnUnknown().fromJson(file.readText())
+
+        token?.deprecation?.let {
+            if (it.migration_type ?: "auto" != "auto") {
+                throw InvalidDeprecationMigrationType()
+            }
+        }
+
     } catch (e: JsonEncodingException) {
+        throw InvalidJSON(e.message)
+    } catch (e: JsonDataException) {
         throw InvalidJSON(e.message)
     }
 
