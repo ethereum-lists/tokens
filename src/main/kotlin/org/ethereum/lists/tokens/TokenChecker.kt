@@ -10,6 +10,7 @@ import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.functions.isValid
 import org.kethereum.model.Address
 import java.io.File
+import java.time.format.DateTimeFormatter
 
 open class InvalidTokenException(message: String) : IllegalArgumentException(message)
 class InvalidChecksum(message: String) : InvalidTokenException("The address is not valid with ERC-55 checksum $message")
@@ -20,6 +21,7 @@ class InvalidFileName : InvalidTokenException("Filename must be the address + .j
 class InvalidWebsite : InvalidTokenException("Website invalid")
 class InvalidJSON(message: String?) : InvalidTokenException("JSON invalid $message")
 class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecation Migration type - currently only auto is allowed")
+class InvalidDeprecationTime : InvalidTokenException("Invalid Deprecation Time - Must be ISO8601")
 
 fun checkTokenFile(file: File) {
     val jsonObject = Parser().parse(file.reader()) as JsonObject
@@ -47,6 +49,14 @@ fun checkTokenFile(file: File) {
         token?.deprecation?.let {
             if (it.migration_type ?: "auto" != "auto") {
                 throw InvalidDeprecationMigrationType()
+            }
+
+            it.time?.let {
+                try {
+                    DateTimeFormatter.ISO_DATE_TIME.parse(it)
+                } catch (e:Exception) {
+                    throw InvalidDeprecationTime()
+                }
             }
         }
 
