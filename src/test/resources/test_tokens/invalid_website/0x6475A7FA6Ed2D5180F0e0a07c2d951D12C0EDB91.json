@@ -1,0 +1,13 @@
+{
+  "symbol": "NONE",
+  "name": "None",
+  "address": "0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91",
+  "decimals": 0,
+  "support": {
+    "email": "ligi@ethereum.org"
+  },
+  "website" : "htt://yolo",
+  "social": {
+    "github": "https://github.com/walleth/contracts/tree/master/NoneToken"
+  }
+}
