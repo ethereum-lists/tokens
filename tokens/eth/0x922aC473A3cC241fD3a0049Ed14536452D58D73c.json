@@ -2,32 +2,32 @@
   "symbol": "VLD",
   "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
   "decimals": 18,
-  "name": "VLD",
+  "name": "VETRI",
   "ens_address": "",
-  "website": "https://valid.global/",
+  "website": "https://vetri.global/",
   "logo": {
-    "src": "https://valid.global/static/img/vld-icon.png",
+    "src": "https://vetri.global/static/img/vld-icon.png",
     "width": "512px",
     "height": "512px",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "info@valid.global",
+    "email": "info@vetri.global",
     "url": ""
   },
   "social": {
-    "blog": "https://blog.valid.global/",
+    "blog": "https://medium.com/vetri",
     "chat": "",
-    "facebook": "https://www.facebook.com/valid.global/",
+    "facebook": "https://www.facebook.com/vetri.global/",
     "forum": "",
-    "github": "https://github.com/valid-global/",
+    "github": "https://github.com/vetri-global/",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/18346679/",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/vetri-global/",
+    "reddit": "https://www.reddit.com/r/vetri_global/",
     "slack": "",
-    "telegram": "https://t.me/valid_global",
-    "twitter": "https://twitter.com/valid_global",
+    "telegram": "https://t.me/vetri_global",
+    "twitter": "https://twitter.com/vetri_global",
     "youtube": "https://www.youtube.com/channel/UCCjK3Sblx-Jxx8je84XakbQ/featured"
   }
 }
