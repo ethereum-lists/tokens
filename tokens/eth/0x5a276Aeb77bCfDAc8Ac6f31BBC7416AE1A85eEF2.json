@@ -1,0 +1,10 @@
+{
+  "symbol": "LOVE",
+  "address": "0x5a276Aeb77bCfDAc8Ac6f31BBC7416AE1A85eEF2",
+  "decimals": 0,
+  "name": "Love",
+  "social": {
+      "twitter": "https://twitter.com/GNSPS",
+      "github": "https://github.com/GNSPS"
+  }
+}
