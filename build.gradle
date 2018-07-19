@@ -26,17 +26,17 @@ repositories {
 }
 
 task correctFileNames(type: JavaExec) {
-    main = "org.ethereum.lists.test_tokens.CorrectFileNamesKt"
+    main = "org.ethereum.lists.tokens.CorrectFileNamesKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task correctDecimals(type: JavaExec) {
-    main = "org.ethereum.lists.test_tokens.CorrectDecimalsKt"
+    main = "org.ethereum.lists.tokens.CorrectDecimalsKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task importMEW(type: JavaExec) {
-    main = "org.ethereum.lists.test_tokens.ImportKt"
+    main = "org.ethereum.lists.tokens.ImportKt"
     classpath = sourceSets.main.runtimeClasspath
     if (project.hasProperty("importPath")) {
         args importPath
