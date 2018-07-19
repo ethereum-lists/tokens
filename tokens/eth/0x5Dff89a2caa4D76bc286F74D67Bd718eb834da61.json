@@ -1,0 +1,33 @@
+{
+  "symbol": "CFC",
+  "address": "0x5Dff89a2caa4D76bc286F74D67Bd718eb834da61",
+  "decimals": 18,
+  "name": "CryptFillCoin",
+  "ens_address": "",
+  "website": "https://cryptfillcoin.com",
+  "logo": {
+    "src": "https://cryptfillcoin.com/images/resources/logo.png",
+    "width": "60",
+    "height": "60",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@cryptfillcoin.com",
+    "url": "https://cryptfillcoin.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptfill/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
