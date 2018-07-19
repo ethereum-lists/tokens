@@ -4,7 +4,7 @@
   "decimals": 12,
   "name": "FAM",
   "ens_address": "",
-  "website": "",
+  "website": "http://www.battledrome.io",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/BattleDrome",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

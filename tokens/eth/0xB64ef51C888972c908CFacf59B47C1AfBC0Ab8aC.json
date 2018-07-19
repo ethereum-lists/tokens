@@ -4,7 +4,7 @@
   "decimals": 8,
   "name": "STORJ",
   "ens_address": "",
-  "website": "",
+  "website": "https://storj.io",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/Storj",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

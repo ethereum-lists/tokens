@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "BET",
   "ens_address": "",
-  "website": "",
+  "website": "https://dao.casino",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/daocasino",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

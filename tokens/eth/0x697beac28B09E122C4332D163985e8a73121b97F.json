@@ -4,7 +4,7 @@
   "decimals": 8,
   "name": "QRL",
   "ens_address": "",
-  "website": "",
+  "website": "https://theqrl.org",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/theQRL",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

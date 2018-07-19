@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "SNM",
   "ens_address": "",
-  "website": "",
+  "website": "https://sonm.com",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/sonm-io",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

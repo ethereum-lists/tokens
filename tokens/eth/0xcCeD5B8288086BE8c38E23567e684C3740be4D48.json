@@ -4,7 +4,7 @@
   "decimals": 10,
   "name": "RLT",
   "ens_address": "",
-  "website": "",
+  "website": "https://smartplay.tech",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/Smartroulette",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

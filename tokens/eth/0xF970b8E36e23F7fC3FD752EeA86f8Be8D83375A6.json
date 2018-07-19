@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Ripio Credit Network",
   "ens_address": "",
-  "website": "",
+  "website": "https://ripiocredit.network",
   "logo": {
     "src": "",
     "width": "",
@@ -20,7 +20,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/ripio/rcn-token",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
