@@ -4,30 +4,30 @@
   "decimals": 18,
   "name": "EHTLend",
   "ens_address": "",
-  "website": "",
+  "website": "https://ethlend.io/",
   "logo": {
     "src": "",
-    "width": "",
-    "height": "",
+    "width": 128,
+    "height": 128,
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "support@ethlend.io",
+    "url": "https://app.ethlend.io/ticket"
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.ethlend.io/",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ETHLend/",
     "forum": "",
-    "github": "",
-    "gitter": "",
+    "github": "https://github.com/ETHLend",
+    "gitter": "https://gitter.im/EthLend/",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/ethlend/",
+    "reddit": "https://www.reddit.com/r/ETHLend/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/ETHLend",
+    "twitter": "https://twitter.com/ethlend1",
+    "youtube": "https://www.youtube.com/channel/UCZUFYgrvO7xpxzMjijgqWyQ"
   }
 }
