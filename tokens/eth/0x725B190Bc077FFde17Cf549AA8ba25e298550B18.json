@@ -1,6 +1,6 @@
 {
   "symbol": "CORI",
-  "address": "0x725b190bc077ffde17cf549aa8ba25e298550b18",
+  "address": "0x725B190Bc077FFde17Cf549AA8ba25e298550B18",
   "decimals": 2,
   "name": "Corrently Invest Token",
   "ens_address": "",
@@ -15,6 +15,6 @@
     "url": "https://corrently.de/token/"
   },
   "social": {
-    
+
   }
 }
