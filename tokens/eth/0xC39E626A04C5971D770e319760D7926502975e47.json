@@ -1,0 +1,33 @@
+{
+  "symbol": "AXPR",
+  "address": "0xC39E626A04C5971D770e319760D7926502975e47",
+  "decimals": 18,
+  "name": "aXpire",
+  "ens_address": "",
+  "website": "https://www.axpire.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@aXpire/",
+    "chat": "https://t.me/AxpireOfficial",
+    "facebook": "https://www.facebook.com/Axpire-537274833301303",
+    "forum": "",
+    "github": "https://www.github.com/axpire",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/axpire/",
+    "reddit": "https://www.reddit.com/r/aXpire/",
+    "slack": "",
+    "telegram": "https://t.me/AxpireOfficial",
+    "twitter": "https://twitter.com/aXpire_official",
+    "youtube": ""
+  }
+}
