@@ -1,0 +1,33 @@
+{
+  "symbol": "CRGO",
+  "address": "0xf49CDD50aD408d387d611F88A647179C3de3492b",
+  "decimals": 18,
+  "name": "CargoCoin",
+  "ens_address": "",
+  "website": "https://thecargocoin.com",
+  "logo": {
+    "src": "https://thecargocoin.com/images/logo_icon.png",
+    "width": "44",
+    "height": "44",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@thecargocoin.com",
+    "url": "https://thecargocoin.com/contact.html"
+  },
+  "social": {
+    "blog": "https://medium.com/@thecargocoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thecargocoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=3224289",
+    "github": "https://github.com/CargoCoinRepo/Cargo-Coin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cargocoin/",
+    "reddit": "https://www.reddit.com/user/thecargocoin",
+    "slack": "https://thecargocoin.slack.com/",
+    "telegram": "http://t.me/thecargocoingroup",
+    "twitter": "https://twitter.com/thecargocoin",
+    "youtube": "https://www.youtube.com/c/CargoCoin"
+  }
+}
