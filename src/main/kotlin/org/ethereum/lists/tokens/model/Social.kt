@@ -14,7 +14,7 @@ data class Social(
         val slack: String? = null,
         val telegram: String? = null,
         val twitter: String? = null,
-        val Medium: String? = null,
+        val medium: String? = null,
         val bitcointalk: String? = null,
         val googleplus: String? = null,
         val vimeo: String? = null,
