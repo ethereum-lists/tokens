@@ -3,31 +3,31 @@
   "address": "0xF03f8D65BaFA598611C3495124093c56e8F638f0",
   "decimals": 18,
   "name": "Viewly",
-  "ens_address": "",
+  "ens_address": "viewtoken.eth",
   "website": "https://view.ly/",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://i.imgur.com/G285h1R.png",
+    "width": "128",
+    "height": "128",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "support@view.ly",
+    "url": "https://viewly.typeform.com/to/eGUK0a"
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "blog": "https://blog.view.ly",
+    "chat": "https://discordapp.com/invite/MkTqjnG",
+    "facebook": "https://facebook.com/theviewly",
+    "forum": "https://bitcointalk.org/index.php?topic=2158676.0",
+    "github": "https://github.com/Viewly/",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://instagram.com/view.ly",
+    "linkedin": "https://www.linkedin.com/company/11354197/",
+    "reddit": "https://www.reddit.com/r/viewly/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/viewly",
+    "twitter": "https://twitter.com/officialviewly",
     "youtube": ""
   }
 }
