@@ -1,0 +1,32 @@
+{
+  "symbol": "MKR",
+  "name": "RadarRelay test MakerDAO",
+  "address": "0x1Dad4783cf3fe3085C1426157aB175A6119A04bA",
+  "decimals": 18,
+  "website": "https://faucet.kovan.radarrelay.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

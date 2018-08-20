@@ -1,0 +1,32 @@
+{
+  "symbol": "ZRX",
+  "name": "RadarRelay test 0x Protocol Token",
+  "address": "0x6Ff6C0Ff1d68b964901F986d4C9FA3ac68346570",
+  "decimals": 18,
+  "website": "https://faucet.kovan.radarrelay.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

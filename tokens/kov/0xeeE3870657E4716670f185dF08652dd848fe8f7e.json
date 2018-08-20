@@ -1,0 +1,32 @@
+{
+  "symbol": "DGD",
+  "name": "RadarRelay test Digix DAO Token",
+  "address": "0xeeE3870657E4716670f185dF08652dd848fe8f7e",
+  "decimals": 18,
+  "website": "https://faucet.kovan.radarrelay.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
