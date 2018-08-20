@@ -10,8 +10,7 @@ import java.lang.System.exit
 import java.nio.file.Files
 
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64)
-
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2)
 
 fun main(args: Array<String>) {
     checkForTokenDefinitionsInWrongPath()
