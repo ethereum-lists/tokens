@@ -1,0 +1,34 @@
+{
+  "symbol": "MTC",
+  "type": "ERC20",
+  "address": "0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
+  "decimals": 18,
+  "name": "MTC Mesh Network",
+  "ens_address": "",
+  "website": "https://www.mtc.io/",
+  "logo": {
+    "src": "http://bbs.mtc.io/upload/picture/user/avatar/7218.jpg",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@mtc.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://weibo.com/u/6434555011?refer_flag=1001030103_&is_hot=1",
+    "chat": "https://t.me/MTC_IO",
+    "facebook": "https://www.facebook.com/mtcmeshnetworks/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/MTCMeshNetwork",
+    "slack": "",
+    "telegram": "https://t.me/MTC_IO",
+    "twitter": "https://twitter.com/mtcmesh",
+    "youtube": "https://www.youtube.com/channel/UCL-GR6sJSh19h_ByRuE8mTw?view_as=subscriber"
+  }
+}

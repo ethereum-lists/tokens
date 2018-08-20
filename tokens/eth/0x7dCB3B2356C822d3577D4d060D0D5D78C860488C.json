@@ -1,0 +1,34 @@
+{
+  "symbol": "FANX",
+  "type": "ERC20",
+  "address": "0x7dCB3B2356C822d3577D4d060D0D5D78C860488C",
+  "decimals": 18,
+  "name": "FANX Token",
+  "ens_address": "",
+  "website": "http://www.fanx.one/",
+  "logo": {
+    "src": "http://www.fanx.one/static/img/logo.png",
+    "width": "132",
+    "height": "132",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@fanx.one",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

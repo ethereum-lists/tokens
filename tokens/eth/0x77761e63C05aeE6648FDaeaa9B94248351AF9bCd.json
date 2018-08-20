@@ -1,0 +1,34 @@
+{
+  "symbol": "PASS",
+  "type": "ERC20",
+  "address": "0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd",
+  "decimals": 18,
+  "name": "PASS Token",
+  "ens_address": "",
+  "website": "http://www.wisepass.co",
+  "logo": {
+    "src": "http://www.wisepass.co/wordpress/home/images/logo.png",
+    "width": 40,
+    "height": 40,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ico@wisepass.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/wisepass",
+    "facebook": "https://fb.com/wisepass",
+    "forum": "https://bitcointalk.org/index.php?topic=4458873.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/solidity-trade/",
+    "reddit": "https://www.reddit.com/r/WisePassICO/",
+    "slack": "",
+    "telegram": "https://t.me/wisepass",
+    "twitter": "https://twitter.com/wisepass_co",
+    "youtube": "https://www.youtube.com/channel/UCKZ4LdzdKo1aHg0ruK43Aww"
+  }
+}

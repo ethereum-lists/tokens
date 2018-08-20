@@ -1,0 +1,34 @@
+{
+  "symbol": "PEG",
+  "type": "ERC20",
+  "address": "0x8Ae56a6850a7cbeaC3c3Ab2cB311e7620167eAC8",
+  "decimals": 18,
+  "name": "PEG Network Token",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

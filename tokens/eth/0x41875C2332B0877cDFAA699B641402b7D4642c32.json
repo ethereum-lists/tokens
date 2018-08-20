@@ -1,0 +1,34 @@
+{
+  "symbol": "FTXT",
+  "type": "ERC20",
+  "address": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
+  "decimals": 8,
+  "name": "FUTURAX",
+  "ens_address": "",
+  "website": "https://futurax.global",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@futurax.global",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@FuturaxProject",
+    "chat": "https://t.me/futurax",
+    "facebook": "https://www.facebook.com/futuraxproject/",
+    "forum": "",
+    "github": "https://github.com/futuraxproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/futuraxglobal/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/futurax_info",
+    "twitter": "https://twitter.com/FuturaxProject",
+    "youtube": ""
+  }
+}

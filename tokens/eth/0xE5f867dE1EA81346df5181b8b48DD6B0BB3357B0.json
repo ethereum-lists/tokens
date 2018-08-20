@@ -1,0 +1,34 @@
+{
+  "symbol": "BTZ",
+  "type": "ERC20",
+  "address": "0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0",
+  "decimals": 18,
+  "name": "BTZ by Bunz",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
