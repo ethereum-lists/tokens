@@ -21,36 +21,39 @@ fun main(args: Array<String>) {
         error("importPath ($importPath) is not a directory")
     }
 
-    importPath.listFiles().forEach {
-        print("processing " + it.name + " .. ")
-        val array = (Parser().parse(it.reader()) as JsonArray<*>).map { it as JsonObject }
-        println("contains " + array.size + " entries ")
+    importPath.listFiles().forEach { tokenPath ->
+        tokenPath.listFiles().forEach {
+            print("processing " + it.name + " .. ")
+            val array = (Parser().parse(it.reader()) as JsonArray<*>).map { it as JsonObject }
+            println("contains " + array.size + " entries ")
 
-        array.checkFields(mandatoryFields, optionalFields)
+            array.checkFields(mandatoryFields, optionalFields)
 
-        val newPath = it.name.substringAfter("-").substringBefore(".")
+            val newPath = it.name.substringAfter("-").substringBefore(".")
 
-        val destinationPath = File(allNetworksTokenDir, newPath)
+            val destinationPath = File(allNetworksTokenDir, newPath)
 
-        if (!destinationPath.exists() && !array.isEmpty()) {
-            error("unknown network " + newPath)
-        }
+            if (destinationPath.exists() && !array.isEmpty()) {
 
-        var newCount = 0
-        array.forEach {
-            val trimmedAddress = (it["address"] as String).trim()
+                var newCount = 0
+                array.forEach {
+                    val trimmedAddress = (it["address"] as String).trim()
 
-            val erc55Hex = Address(trimmedAddress).withERC55Checksum().hex
-            val jsonFile = File(destinationPath, erc55Hex + ".json")
-            it["address"] = erc55Hex
-            if (!jsonFile.exists()) {
-                println("importing $trimmedAddress")
-                newCount++
-                jsonFile.writeText(it.toJsonString(true))
+                    val erc55Hex = Address(trimmedAddress).withERC55Checksum().hex
+                    val jsonFile = File(destinationPath, erc55Hex + ".json")
+                    it["address"] = erc55Hex
+                    if (!jsonFile.exists()) {
+                        println("importing $trimmedAddress")
+                        newCount++
+                        jsonFile.writeText(it.toJsonString(true))
+                    }
+
+                }
+                println("Imported $newCount new entries")
             }
 
+
         }
-        println("Imported $newCount new entries")
     }
 }
 
