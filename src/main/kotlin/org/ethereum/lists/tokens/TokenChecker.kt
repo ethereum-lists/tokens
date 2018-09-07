@@ -5,7 +5,7 @@ import com.beust.klaxon.Parser
 import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
 import org.ethereum.lists.tokens.model.Token
-import org.kethereum.erc55.hasValidEIP55Checksum
+import org.kethereum.erc55.hasValidERC55Checksum
 import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.functions.isValid
 import org.kethereum.model.Address
@@ -29,7 +29,7 @@ fun checkTokenFile(file: File) {
     when {
         !address.isValid() -> throw InvalidAddress(address)
 
-        !address.hasValidEIP55Checksum()
+        !address.hasValidERC55Checksum()
         -> throw InvalidChecksum(address.toString() + " expected: " + address.withERC55Checksum())
 
         file.name != "${address.hex}.json" -> throw InvalidFileName()
