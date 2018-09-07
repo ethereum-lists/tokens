@@ -1,0 +1,33 @@
+{
+  "symbol": "BRLN",
+  "address": "0x80046305aaab08F6033b56a360c184391165dc2d",
+  "decimals": 18,
+  "name": "Berlin Coin",
+  "ens_address": "",
+  "website": "https://berlin.bounties.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
