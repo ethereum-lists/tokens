@@ -6,7 +6,7 @@
   "ens_address": "",
   "website": "https://eristica.com/",
   "logo": {
-    "src": "https://eristica.com/eristica_logo.png",
+    "src": "https://eristica.com/eristica_red_128.png",
     "width": "128",
     "height": "128",
     "ipfs_hash": ""
@@ -17,7 +17,7 @@
   },
   "social": {
     "blog": "https://blog.eristica.com/",
-    "chat": "",
+    "chat": "https://t.me/eristica",
     "facebook": "https://www.facebook.com/eristica",
     "forum": "https://bitcointalk.org/index.php?topic=2473473",
     "github": "https://github.com/Krishtopa/ContractEristica",
