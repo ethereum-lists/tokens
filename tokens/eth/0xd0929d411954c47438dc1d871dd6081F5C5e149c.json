@@ -6,9 +6,9 @@
   "ens_address": "refereum.eth",
   "website": "https://refereum.com",
   "logo": {
-    "src": "28",
+    "src": "https://etherscan.io/token/images/refereum.png",
     "width": "28",
-    "height": "https://etherscan.io/token/images/refereum.png",
+    "height": "28",
     "ipfs_hash": ""
   },
   "support": {
