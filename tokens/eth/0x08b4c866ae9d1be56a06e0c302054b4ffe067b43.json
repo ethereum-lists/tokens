@@ -2,7 +2,7 @@
     "symbol": "BITCAR",
     "name": "BitCar Token",
     "type": "ERC20",
-    "address": "0x08b4c866ae9d1be56a06e0c302054b4ffe067b43",
+    "address": "0x08b4c866aE9D1bE56a06e0C302054B4FFe067b43",
     "ens_address": "",
     "decimals": 8,
     "website": "https://bitcar.io/",
