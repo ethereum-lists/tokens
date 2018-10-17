@@ -1,0 +1,34 @@
+{
+  "symbol": "WORK",
+  "name": "Aworker",
+  "type": "ERC20",
+  "address": "0xA686514FAF7d54289266F483D1e4852C99E13EC7",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://aworker.io/",
+  "logo": {
+    "src": "https://aworker.io/img/home/about/aworker28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@aworker.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@aworker/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aworkerio/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/aworkerio",
+    "youtube": ""
+  }
+}

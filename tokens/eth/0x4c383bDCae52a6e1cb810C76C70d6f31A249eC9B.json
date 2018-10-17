@@ -1,0 +1,34 @@
+{
+  "symbol": "RGS",
+  "name": "Rusgas",
+  "type": "ERC20",
+  "address": "0x4c383bDCae52a6e1cb810C76C70d6f31A249eC9B",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

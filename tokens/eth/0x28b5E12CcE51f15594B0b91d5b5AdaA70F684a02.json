@@ -1,0 +1,34 @@
+{
+  "symbol": "NPX",
+  "name": "NapoleonX",
+  "type": "ERC20",
+  "address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

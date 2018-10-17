@@ -1,0 +1,34 @@
+{
+  "symbol": "LIKE",
+  "name": "LikeCoin",
+  "type": "ERC20",
+  "address": "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

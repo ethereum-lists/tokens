@@ -1,0 +1,34 @@
+{
+  "symbol": "LBA",
+  "name": "LibraToken",
+  "type": "ERC20",
+  "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CRC",
+  "name": "CryCash",
+  "type": "ERC20",
+  "address": "0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

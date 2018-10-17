@@ -1,0 +1,34 @@
+{
+  "symbol": "FRV",
+  "name": "Fitrova",
+  "type": "ERC20",
+  "address": "0x48DF4E0296f908CEAb0428A5182D19B31fC037d6",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

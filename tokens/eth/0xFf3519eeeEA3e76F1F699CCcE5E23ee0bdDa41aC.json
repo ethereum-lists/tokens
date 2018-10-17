@@ -1,0 +1,34 @@
+{
+  "symbol": "BCAP",
+  "name": "BCAP",
+  "type": "ERC20",
+  "address": "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

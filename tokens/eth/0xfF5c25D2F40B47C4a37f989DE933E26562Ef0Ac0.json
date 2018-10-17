@@ -1,0 +1,34 @@
+{
+  "symbol": "KNT",
+  "name": "Kora Network Token",
+  "type": "ERC20",
+  "address": "0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0",
+  "ens_address": "",
+  "decimals": 16,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

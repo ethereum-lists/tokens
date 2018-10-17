@@ -1,0 +1,34 @@
+{
+  "symbol": "GLA",
+  "name": "Gladius",
+  "type": "ERC20",
+  "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

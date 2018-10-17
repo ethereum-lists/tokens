@@ -1,0 +1,34 @@
+{
+  "symbol": "DRT",
+  "name": "DomRaiderToken",
+  "type": "ERC20",
+  "address": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

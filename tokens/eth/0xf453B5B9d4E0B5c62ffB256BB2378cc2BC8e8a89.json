@@ -1,0 +1,34 @@
+{
+  "symbol": "MRK",
+  "name": "Mark",
+  "type": "ERC20",
+  "address": "0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
