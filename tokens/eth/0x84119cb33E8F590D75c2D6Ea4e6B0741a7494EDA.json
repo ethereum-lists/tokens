@@ -1,0 +1,34 @@
+{
+  "symbol": "WTT",
+  "name": "WTT",
+  "type": "ERC20",
+  "address": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
