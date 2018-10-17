@@ -1,0 +1,30 @@
+{
+		"symbol": "VUU",
+		"address": "0x4b96bf1feF93A216914fc843D81207A027ce52b3",
+		"decimals": 18,
+		"name": "Vuulr Token",
+		"ens_address": "",
+		"website": "https://www.vuulr.com/",
+		"logo": {
+		"src": "https://assets.vuulr.com/Vuulr-Logo_100x100T.png",
+			"width": "100",
+			"height": "100",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@vuulr.com", "url": "https://support.vuulr.com/" },
+		"social": {
+			"blog": "https://medium.com/vuulr",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Vuulr",
+			"forum": "",
+			"github": "https://github.com/Vuulr",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/13425836",
+			"reddit": "https://www.reddit.com/r/Vuulr/",
+			"slack": "",
+			"telegram": "https://t.me/vuulr",
+			"twitter": "https://twitter.com/vuulr_official",
+			"youtube": "https://www.youtube.com/channel/UCyf7nAFBdMeIdcb3jSHhGbQ"
+		}
+	}
