@@ -5,30 +5,30 @@
   "address": "0x92E78dAe1315067a8819EFD6dCA432de9DCdE2e9",
   "ens_address": "",
   "decimals": 6,
-  "website": "",
+  "website": "https://vedh.io",
   "logo": {
-    "src": "",
+    "src": "https://vedh.io/logo_128x128.png",
     "width": "",
     "height": "",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "help@vedh.io",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/VerosDH",
+    "forum": "https://bitcointalk.org/index.php?topic=3395510.0",
+    "github": "https://github.com/VerosDH",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/user/TeamVerosDH",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/veros_coin",
+    "twitter": "https://twitter.com/Veros_currency",
+    "youtube": "https://www.youtube.com/channel/UCfVObY5aySEexTBTFHN09xQ"
   }
 }
