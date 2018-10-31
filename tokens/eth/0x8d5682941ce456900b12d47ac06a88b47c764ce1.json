@@ -1,0 +1,32 @@
+{
+    "symbol": "RMESH",
+    "address": "0x8d5682941ce456900b12d47ac06a88b47c764ce1",
+    "decimals": 18,
+    "name": "RightMesh Token",
+    "ens_address": "",
+    "website": "https://www.rightmesh.io/",
+    "logo": {
+      "src": "https://cdn-images-1.medium.com/max/92/1*WLDaBQ_nMLhW0QFNxt5_5A@2x.jpeg",
+      "width": "92",
+      "height": "92",
+      "ipfs_hash": "QmSe2NvobGoSctqcMwTEHk4pDKsrjcExi1FM3RKGad1fb8"
+    },
+    "support": {
+      "email": "contact@rightmesh.io"
+    },
+    "social": {
+      "blog": "https://medium.com/rightmesh",
+      "chat": "",
+      "facebook": "https://www.facebook.com/TheRightMesh/",
+      "forum": "",
+      "github": "https://github.com/rightmesh",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/rightmesh/",
+      "linkedin": "https://www.linkedin.com/company/right-mesh/",
+      "reddit": "https://www.reddit.com/r/RightMesh/",
+      "slack": "",
+      "telegram": "https://t.me/RightMesh_Official",
+      "twitter": "https://twitter.com/Right_Mesh",
+      "youtube": "https://www.youtube.com/channel/UCa-am0tFMgJbDP2_yYFhfRA"
+    }
+  }
