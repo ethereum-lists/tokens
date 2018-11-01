@@ -1,34 +1,32 @@
 {
   "symbol": "RMESH",
-  "name": "RightMesh Token",
-  "type": "ERC20",
   "address": "0x8D5682941cE456900b12d47ac06a88b47C764CE1",
-  "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "name": "RightMesh Token",
+  "ens_address": "",
+  "website": "https://www.rightmesh.io/",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
+    "src": "https://avatars2.githubusercontent.com/u/29805586?s=128",
+    "width": "92",
+    "height": "92",
+    "ipfs_hash": "QmQ9tzSaUpjrhsZ6vFjp8P5FcBWFEKrYD8joi6d8HVXcdc"
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "tech@rightmesh.io"
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
+    "blog": "https://medium.com/rightmesh",
+    "chat": "https://rightmesh.rocket.chat/",
+    "facebook": "https://www.facebook.com/TheRightMesh/",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/rightmesh",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/rightmesh/",
+    "linkedin": "https://www.linkedin.com/company/right-mesh/",
+    "reddit": "https://www.reddit.com/r/RightMesh/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/RightMesh_Official",
+    "twitter": "https://twitter.com/Right_Mesh",
+    "youtube": "https://www.youtube.com/channel/UCa-am0tFMgJbDP2_yYFhfRA"
   }
 }
