@@ -4,30 +4,30 @@
   "decimals": 8,
   "name": "Internxt",
   "ens_address": "",
-  "website": "https://internxt.io",
+  "website": "https://internxt.com/",
   "logo": {
-    "src": "",
+    "src": "https://internxt.com/img/logos/internxtcircle.png",
     "width": "",
     "height": "",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "hello@internxt.io",
+    "email": "hello@internxt.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/Internxt",
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/Internxt/",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/InternxtHQ/",
+    "linkedin": "https://www.linkedin.com/company/internxt/",
+    "reddit": "https://www.reddit.com/r/Internxt",
     "slack": "",
-    "telegram": "https://t.me/internxt_io",
-    "twitter": "",
+    "telegram": "https://t.me/InternxtHQ",
+    "twitter": "https://twitter.com/Internxt",
     "youtube": ""
   }
 }
