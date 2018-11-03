@@ -1,0 +1,33 @@
+{
+  "symbol": "FABA",
+  "address": "0x0a1D2fF7156a48131553CF381F220bbedB4eFa37",
+  "decimals": 18,
+  "name": "FABA",
+  "ens_address": "",
+  "website": "https://vc.fabainvest.com",
+  "logo": {
+    "src": "https://www.faba-white-paper.com/logo.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@fabainvest.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
