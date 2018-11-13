@@ -1,0 +1,34 @@
+{
+  "symbol": "ORME",
+  "name": "Ormeus Coin",
+  "type": "ERC20",
+  "address": "0x516E5436bAfdc11083654DE7Bb9b95382d08d5DE",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://ormeuscoin.com",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/1998.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "http://support.ormeuscoin.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@ormeuscoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ormecoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/ormecoin",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ormeuscoin",
+    "youtube": "https://www.youtube.com/c/OrmeusCoin"
+  }
+}
