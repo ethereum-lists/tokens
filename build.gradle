@@ -47,9 +47,9 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
     compile "com.github.ethereum-lists:cilib:0.2"
 
-    compile "com.github.walleth.kethereum:erc55:0.65"
-    compile "com.github.walleth.kethereum:model:0.65"
-    compile "com.github.walleth.kethereum:functions:0.65"
+    compile "com.github.walleth.kethereum:erc55:0.67"
+    compile "com.github.walleth.kethereum:model:0.67"
+    compile "com.github.walleth.kethereum:functions:0.67"
 
     compile 'com.beust:klaxon:4.0.1'
     compile 'com.squareup.moshi:moshi-kotlin:1.8.0'
