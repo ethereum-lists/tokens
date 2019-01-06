@@ -1,0 +1,34 @@
+{
+  "symbol": "WOC",
+  "name": "WallOfChain",
+  "type": "ERC721",
+  "address": "0xF9D9702D031407F425a4412682fDc56b07d05262",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "https://wallofchain.com",
+  "logo": {
+    "src": "https://wallofchain.com/assets/images/logo/icon_28x28px@2x.png",
+    "width": "56",
+    "height": "56",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@wallofchain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/paneedesign/wallofchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

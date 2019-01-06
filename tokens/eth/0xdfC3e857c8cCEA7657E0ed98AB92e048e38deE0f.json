@@ -1,0 +1,34 @@
+{
+  "symbol": "FIH",
+  "name": "FidelityHouse Token",
+  "type": "ERC20",
+  "address": "0xdfC3e857c8cCEA7657E0ed98AB92e048e38deE0f",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.fidelityhouse.io",
+  "logo": {
+    "src": "https://www.fidelityhouse.io/assets/logo_fidelityhouse-28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@fidelityhouse.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/fidelityhouse",
+    "chat": "",
+    "facebook": "https://www.facebook.com/FidelityHouseInternational",
+    "forum": "",
+    "github": "https://github.com/FidelityHouseInternational",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/fidelityhouse-international",
+    "reddit": "https://www.reddit.com/user/FidelityHouse",
+    "slack": "",
+    "telegram": "https://t.me/FidelityHouseInternational",
+    "twitter": "https://twitter.com/Fidelity_House",
+    "youtube": ""
+  }
+}
