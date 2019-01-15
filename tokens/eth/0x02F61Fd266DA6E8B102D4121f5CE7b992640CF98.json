@@ -5,30 +5,30 @@
   "address": "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://like.co",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
+    "src": "https://like.co/logo.png",
+    "width": "300px",
+    "height": "300px",
+    "ipfs_hash": "QmX32sitN5UCsxZni27r3nyGwJV9hMDY2BzxuQQiafQREy"
+   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "team@like.co",
+    "url": "https://help.like.co"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/likecoin",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/LikeCoin.Foundation/",
+    "forum": "https://www.facebook.com/groups/likecoin/",
+    "github": "https://github.com/likecoin",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/likecoin-fdn/",
+    "reddit": "https://www.reddit.com/r/LikeCoin/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/likecoin",
+    "twitter": "https://twitter.com/likecoin_fdn",
+    "youtube": "https://www.youtube.com/c/likecoin"
   }
 }
