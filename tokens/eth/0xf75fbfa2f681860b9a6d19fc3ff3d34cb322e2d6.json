@@ -1,0 +1,33 @@
+{
+  "symbol": "CIYA",
+  "address": "0xf75fbfa2f681860b9a6d19fc3ff3d34cb322e2d6",
+  "decimals": 18,
+  "name": "CRYPTORIYA",
+  "ens_address": "cryptoriya.eth",
+  "website": "https://www.cryptoriya.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/cryptoriya_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@cryptoriya.com",
+    "url": "https://help.ciya.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@cryptoriya",
+    "chat": "https://t.me/cryptoriya",
+    "facebook": "https://www.facebook.com/cryptoriya",
+    "forum": "",
+    "github": "https://github.com/cryptoriya",
+    "gitter": "http://gitter.im/CRYPTORIYA",
+    "instagram": "http://instagram.com/cryptoriya",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cryptoriya",
+    "twitter": "https://twitter.com/cryptoriya",
+    "youtube": "https://www.youtube.com/channel/UC7JlEEJrtKXg4MHqkRWLn4Q"
+  }
+}
