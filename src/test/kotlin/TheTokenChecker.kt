@@ -18,6 +18,13 @@ class TheTokenChecker {
         checkTokenFile(file)
     }
 
+    @Test
+    fun shouldPassForValidTokenWithDeprecationMigrationInstructions() {
+        val file = getFile("valid_deprecation_instructions/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
 
     @Test(expected = InvalidAddress::class)
     fun shouldFailForInvalidAddress() {

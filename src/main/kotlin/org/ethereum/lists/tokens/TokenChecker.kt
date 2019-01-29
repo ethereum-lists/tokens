@@ -47,7 +47,8 @@ fun checkTokenFile(file: File) {
         val token = moshi.adapter(Token::class.java).failOnUnknown().fromJson(file.readText())
 
         token?.deprecation?.let {
-            if (it.migration_type ?: "auto" != "auto") {
+            val safeMigrationType: String = it.migration_type ?: "auto"
+            if (safeMigrationType != "auto" && !safeMigrationType.startsWith("instructions:")) {
                 throw InvalidDeprecationMigrationType()
             }
 
