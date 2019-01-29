@@ -29,5 +29,11 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+    "migration_type": "instructions:https://medium.com/melonport-blog/mln-token-migration-instructions-196a645fc3ac",
+    "announcement_url": "https://medium.com/melonport-blog/mln-token-migration-event-96b1c8003876",
+    "time": "2019-02-01T00:00:00Z"
   }
 }
