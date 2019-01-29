@@ -1,6 +1,6 @@
 {
-  "symbol": "MLN (old)",
-  "address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+  "symbol": "MLN (new)",
+  "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
   "decimals": 18,
   "name": "Melonport",
   "ens_address": "",
@@ -29,11 +29,5 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  },
-  "deprecation": {
-    "new_address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-    "migration_type": "instructions:https://medium.com/melonport-blog/mln-token-migration-instructions-196a645fc3ac",
-    "announcement_url": "https://medium.com/melonport-blog/mln-token-migration-event-96b1c8003876",
-    "time": "2019-02-01T00:00:00Z"
   }
 }
