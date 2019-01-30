@@ -1,0 +1,34 @@
+{
+  "symbol": "DREAM",
+  "name": "DREAM",
+  "type": "ERC20",
+  "address": "0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://dreamteam.gg",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/dreamteam-gg",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
