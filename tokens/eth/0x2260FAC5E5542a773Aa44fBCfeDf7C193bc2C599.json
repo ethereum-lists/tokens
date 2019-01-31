@@ -1,0 +1,33 @@
+{
+  "symbol": "WBTC",
+  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "decimals": 8,
+  "name": "Wrapped Bitcoin",
+  "ens_address": "",
+  "website": "https://wbtc.network",
+  "logo": {
+    "src": "https://www.wbtc.network/assets/BitGo-favicon.ico",
+    "width": 48,
+    "height": 48,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/WrappedBTC",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
