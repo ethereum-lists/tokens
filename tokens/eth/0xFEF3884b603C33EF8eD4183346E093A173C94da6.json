@@ -5,7 +5,7 @@
   "address": "0xFEF3884b603C33EF8eD4183346E093A173C94da6",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://metamorph.pro",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@metamorphpro",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/MetaMorphPro",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MetaMorphPro",
     "youtube": ""
   }
 }

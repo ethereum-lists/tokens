@@ -1,11 +1,11 @@
 {
   "symbol": "LCS",
-  "name": "LocalCoinSwap Cryptoshare",
+  "name": "LocalCoinSwap",
   "type": "ERC20",
   "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.localcoinswap.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/localcoinswap",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/LocalCoinSwap",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Localcoinswap_",
     "youtube": ""
   }
 }

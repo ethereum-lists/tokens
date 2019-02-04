@@ -1,11 +1,11 @@
 {
   "symbol": "BBO",
-  "name": "Bigboom",
+  "name": "Bigbom",
   "type": "ERC20",
   "address": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://bigbom.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bigbom",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bigbomglobal",
     "youtube": ""
   }
 }

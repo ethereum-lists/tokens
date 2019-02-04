@@ -5,7 +5,7 @@
   "address": "0x228ba514309FFDF03A81a205a6D040E429d6E80C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.gsc.social",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@gsc_socialchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/gsc_socialchain",
     "youtube": ""
   }
 }

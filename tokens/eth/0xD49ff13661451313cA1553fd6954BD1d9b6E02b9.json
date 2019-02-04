@@ -1,11 +1,11 @@
 {
   "symbol": "ELEC",
-  "name": "ElectrifyAsia",
+  "name": "Electrify.Asia",
   "type": "ERC20",
   "address": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://electrify.asia",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/electrifyasia",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/electrify",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/electrifyasia",
     "youtube": ""
   }
 }

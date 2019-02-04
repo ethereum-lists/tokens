@@ -5,7 +5,7 @@
   "decimals": 18,
   "name": "BOX Token",
   "ens_address": "",
-  "website": "https://box.la/",
+  "website": "https://box.la",
   "logo": {
     "src": "https://box.la/box_logo200px.png",
     "width": "200",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@boxla888",
     "chat": "",
     "facebook": "https://www.facebook.com/boxla888",
     "forum": "",
@@ -25,7 +25,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/boxla888/",
+    "reddit": "https://reddit.com/r/boxla888",
     "slack": "https://box-la.slack.com/",
     "telegram": "https://t.me/safeboxla",
     "twitter": "https://twitter.com/boxla888",

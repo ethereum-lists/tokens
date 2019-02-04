@@ -5,7 +5,7 @@
   "address": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.bouts.pro",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/bouts_pro",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/boutspro",
     "youtube": ""
   }
 }

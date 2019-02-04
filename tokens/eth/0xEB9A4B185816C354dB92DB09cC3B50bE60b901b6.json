@@ -1,11 +1,11 @@
 {
   "symbol": "ORS",
-  "name": "OriginSport Token",
+  "name": "Origin Sport",
   "type": "ERC20",
   "address": "0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.originsport.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/origin-sport",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/OriginSport",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/OriginSport_io",
     "youtube": ""
   }
 }

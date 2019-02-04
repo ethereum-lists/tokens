@@ -5,7 +5,7 @@
   "address": "0x3abdfF32F76b42E7635bdb7e425f0231A5F3aB17",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.connectjob.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@connectjob_",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/connectjobfd",
     "youtube": ""
   }
 }

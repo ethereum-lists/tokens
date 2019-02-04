@@ -1,11 +1,11 @@
 {
   "symbol": "ZCO",
-  "name": "Zebi Coin",
+  "name": "Zebi",
   "type": "ERC20",
   "address": "0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.zebi.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/zebidataindia",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ZebidataIndia",
     "youtube": ""
   }
 }

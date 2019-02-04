@@ -5,7 +5,7 @@
   "address": "0x04F2E7221fdb1B52A68169B25793E51478fF0329",
   "ens_address": "",
   "decimals": 2,
-  "website": "",
+  "website": "https://cappasity.com/tech/",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/cappasity-blog",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/cappasity",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cappasity",
     "youtube": ""
   }
 }

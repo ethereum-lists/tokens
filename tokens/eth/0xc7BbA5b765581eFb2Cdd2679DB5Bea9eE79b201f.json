@@ -5,7 +5,7 @@
   "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://gems.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.gems.org/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/gemsprotocol",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/gems",
     "youtube": ""
   }
 }

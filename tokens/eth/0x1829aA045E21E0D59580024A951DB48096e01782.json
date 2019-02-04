@@ -5,7 +5,7 @@
   "address": "0x1829aA045E21E0D59580024A951DB48096e01782",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://fuzex.co",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/fuzex",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/fuzex_co",
     "youtube": ""
   }
 }

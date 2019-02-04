@@ -1,10 +1,10 @@
 {
-  "symbol": "UTN-P",
+  "symbol": "UTNP",
   "address": "0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
   "decimals": 18,
   "name": "Universa",
   "ens_address": "",
-  "website": "https://www.universa.io/",
+  "website": "https://www.universa.io",
   "logo": {
     "src": "",
     "width": "",
@@ -24,7 +24,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/Universa",
     "slack": "",
     "telegram": "https://t.me/Uplatform",
     "twitter": "https://twitter.com/Universa_News",

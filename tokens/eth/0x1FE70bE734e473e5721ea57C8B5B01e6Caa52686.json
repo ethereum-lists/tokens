@@ -1,11 +1,11 @@
 {
   "symbol": "RNTB",
-  "name": "RNTB Token",
+  "name": "BitRent",
   "type": "ERC20",
   "address": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://bitrent.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@bitrent",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/BitRent",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bit_rent",
     "youtube": ""
   }
 }

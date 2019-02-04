@@ -5,7 +5,7 @@
   "address": "0xAc3Da587eac229C9896D919aBC235CA4Fd7f72c1",
   "ens_address": "",
   "decimals": 1,
-  "website": "",
+  "website": "https://www.tgtcoins.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TargetCoin",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "BANCA",
-  "name": "BANCA",
+  "name": "Banca",
   "type": "ERC20",
   "address": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.banca.world",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@banca_official",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bancaworld",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Banca_Official",
     "youtube": ""
   }
 }

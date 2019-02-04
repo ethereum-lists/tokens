@@ -1,11 +1,11 @@
 {
   "symbol": "HER",
-  "name": "HeroNodeToken",
+  "name": "HeroNode",
   "type": "ERC20",
   "address": "0x491C9A23DB85623EEd455a8EfDd6AbA9b911C5dF",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://heronode.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@hero_node",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/HeroNodeOfficial",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/hero_node",
     "youtube": ""
   }
 }

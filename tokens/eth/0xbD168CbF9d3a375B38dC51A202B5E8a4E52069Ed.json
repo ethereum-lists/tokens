@@ -1,11 +1,11 @@
 {
   "symbol": "BWX",
-  "name": "BlueWhaleToken",
+  "name": "Blue Whale Token",
   "type": "ERC20",
   "address": "0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.bluewhale.foundation",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/blue-whale-foundation",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/BlueWhaleFdn",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/BlueWhaleFdn",
     "youtube": ""
   }
 }

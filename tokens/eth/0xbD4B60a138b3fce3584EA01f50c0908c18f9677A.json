@@ -1,11 +1,11 @@
 {
   "symbol": "FNTB",
-  "name": "FinTab",
+  "name": "Fintab",
   "type": "ERC20",
   "address": "0xbD4B60a138b3fce3584EA01f50c0908c18f9677A",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://fintab.io/ico",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://steemit.com/@fintab",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/FinTab",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/fintab_io",
     "youtube": ""
   }
 }

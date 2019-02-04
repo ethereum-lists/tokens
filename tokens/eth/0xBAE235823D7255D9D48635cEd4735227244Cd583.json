@@ -5,7 +5,7 @@
   "address": "0xBAE235823D7255D9D48635cEd4735227244Cd583",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://staker.network",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Staker",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/StakerToken",
     "youtube": ""
   }
 }

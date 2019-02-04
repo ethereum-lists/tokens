@@ -5,7 +5,7 @@
   "address": "0x9e6B2B11542f2BC52f3029077acE37E8fD838D7F",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://hacken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://steemit.com/@hacken",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/hacken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Hacken_io",
     "youtube": ""
   }
 }

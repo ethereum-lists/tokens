@@ -5,7 +5,7 @@
   "address": "0x31f3D9D1BeCE0c033fF78fA6DA60a6048F3E13c5",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://ebcoin.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EBCoinglobal",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/EBCoinGlobal",
     "youtube": ""
   }
 }

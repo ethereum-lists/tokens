@@ -5,7 +5,7 @@
   "address": "0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://otn.org",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/open_trading_network",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/otncoin",
     "youtube": ""
   }
 }

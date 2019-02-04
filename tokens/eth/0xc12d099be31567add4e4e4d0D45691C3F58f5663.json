@@ -5,7 +5,7 @@
   "address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://auctus.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.auctus.org/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/AuctusProject",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/AuctusProject",
     "youtube": ""
   }
 }

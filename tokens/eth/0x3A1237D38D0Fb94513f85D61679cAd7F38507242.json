@@ -5,7 +5,7 @@
   "address": "0x3A1237D38D0Fb94513f85D61679cAd7F38507242",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://mindexcoin.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/mindexcoin",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/mindexcoin",
     "youtube": ""
   }
 }

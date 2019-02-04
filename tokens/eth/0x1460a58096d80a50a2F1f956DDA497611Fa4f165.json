@@ -1,11 +1,11 @@
 {
   "symbol": "CHX",
-  "name": "Chainium",
+  "name": "Own",
   "type": "ERC20",
   "address": "0x1460a58096d80a50a2F1f956DDA497611Fa4f165",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://weown.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/ownmarket",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/OwnMarket",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/OwnMarket",
     "youtube": ""
   }
 }

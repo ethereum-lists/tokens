@@ -5,7 +5,7 @@
   "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
   "ens_address": "",
   "decimals": 10,
-  "website": "",
+  "website": "https://0chain.net",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/0chain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/0chain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/0costcloud",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0xE5F166c0D8872B68790061317BB6CcA04582C912",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://ico.tefoodint.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/TE_FOOD",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TE_FOOD",
     "youtube": ""
   }
 }

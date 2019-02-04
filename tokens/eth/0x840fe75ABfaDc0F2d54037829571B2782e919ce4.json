@@ -5,7 +5,7 @@
   "address": "0x840fe75ABfaDc0F2d54037829571B2782e919ce4",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://webcoin.today",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@webcoinstoday/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Webcointoday",
     "youtube": ""
   }
 }

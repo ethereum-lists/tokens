@@ -1,11 +1,11 @@
 {
   "symbol": "TMT",
-  "name": "Traxia Membership Token",
+  "name": "TRAXIA",
   "type": "ERC20",
   "address": "0x3209f98BeBF0149B769ce26D71F7aEA8E435EfEa",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://traxia.co",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.traxia.co/@Traxia",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/traxia",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TraxiaNetwork",
     "youtube": ""
   }
 }

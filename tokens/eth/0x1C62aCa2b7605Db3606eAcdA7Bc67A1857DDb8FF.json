@@ -1,11 +1,11 @@
 {
   "symbol": "SONIQ",
-  "name": "Soniq Token",
+  "name": "Soniq",
   "type": "ERC20",
   "address": "0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://soniqproject.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/soniq",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/soniqproject",
     "youtube": ""
   }
 }

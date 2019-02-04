@@ -1,11 +1,11 @@
 {
   "symbol": "AURA",
-  "name": "Aura DAO",
+  "name": "Aurora DAO",
   "type": "ERC20",
   "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://auroradao.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/aurora-dao",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/auroradao",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/aurora_dao",
     "youtube": ""
   }
 }

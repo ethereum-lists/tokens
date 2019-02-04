@@ -5,7 +5,7 @@
   "address": "0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
   "ens_address": "",
   "decimals": 0,
-  "website": "",
+  "website": "https://auton.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Autonio",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/aI_Autonio",
     "youtube": ""
   }
 }

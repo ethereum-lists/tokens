@@ -5,7 +5,7 @@
   "address": "0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0",
   "ens_address": "",
   "decimals": 16,
-  "website": "",
+  "website": "https://kora.network",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/KoraNetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Kora_Network",
     "youtube": ""
   }
 }

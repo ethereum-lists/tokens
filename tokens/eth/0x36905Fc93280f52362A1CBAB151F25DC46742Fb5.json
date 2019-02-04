@@ -1,11 +1,11 @@
 {
   "symbol": "BTO",
-  "name": "BTOCoin",
+  "name": "Bottos",
   "type": "ERC20",
   "address": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.bottos.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/bottos",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bottos_ai",
     "youtube": ""
   }
 }

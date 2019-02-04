@@ -5,7 +5,7 @@
   "address": "0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa",
   "ens_address": "",
   "decimals": 4,
-  "website": "",
+  "website": "https://www.thorecoin.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Thr_official",
     "youtube": ""
   }
 }

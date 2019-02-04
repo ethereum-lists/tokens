@@ -5,7 +5,7 @@
   "address": "0x241bA672574A78a3A604CDd0a94429A73a84a324",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://4new.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/4newNetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/4newcoin",
     "youtube": ""
   }
 }

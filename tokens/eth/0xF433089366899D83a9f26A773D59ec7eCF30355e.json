@@ -2,7 +2,7 @@
   "symbol": "MTL",
   "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
   "decimals": 8,
-  "name": "MetalPay",
+  "name": "Metal",
   "ens_address": "",
   "website": "https://www.metalpay.com",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/MetalPay",
     "slack": "https://www.metalpay.chat",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/metalpaysme",
     "youtube": ""
   }
 }

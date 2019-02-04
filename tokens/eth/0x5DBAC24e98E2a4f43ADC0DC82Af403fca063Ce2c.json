@@ -1,11 +1,11 @@
 {
-  "symbol": "EGT",
-  "name": "EngagementToken",
+  "symbol": "ENGT",
+  "name": "Engagement Token",
   "type": "ERC20",
   "address": "0x5DBAC24e98E2a4f43ADC0DC82Af403fca063Ce2c",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://engagementtoken.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EngagementToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ENGT_Token",
     "youtube": ""
   }
 }

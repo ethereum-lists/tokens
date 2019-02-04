@@ -5,7 +5,7 @@
   "address": "0x89303500a7Abfb178B274FD89F2469C264951e1f",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://reftoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/RefToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/reftoken",
     "youtube": ""
   }
 }

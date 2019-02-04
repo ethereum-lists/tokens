@@ -1,11 +1,11 @@
 {
   "symbol": "UCN",
-  "name": "UChain Token",
+  "name": "UChain",
   "type": "ERC20",
   "address": "0xAAf37055188Feee4869dE63464937e683d61b2a1",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://uchain.world",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@uchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/UChain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/UChainEcosystem",
     "youtube": ""
   }
 }

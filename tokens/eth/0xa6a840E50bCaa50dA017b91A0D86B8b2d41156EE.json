@@ -5,7 +5,7 @@
   "address": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://echolink.info",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@EchoLinkInfo",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EchoLinkInfo",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/EchoLinkInfo1",
     "youtube": ""
   }
 }

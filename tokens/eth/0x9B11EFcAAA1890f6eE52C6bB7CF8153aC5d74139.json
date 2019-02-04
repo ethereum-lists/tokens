@@ -5,7 +5,7 @@
   "address": "0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.atmchain.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/atmchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ATMChainDev",
     "youtube": ""
   }
 }

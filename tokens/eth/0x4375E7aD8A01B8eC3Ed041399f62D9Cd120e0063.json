@@ -1,11 +1,11 @@
 {
   "symbol": "BZ",
-  "name": "BZ",
+  "name": "Bit-Z Token",
   "type": "ERC20",
   "address": "0x4375E7aD8A01B8eC3Ed041399f62D9Cd120e0063",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.bitz.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Bit_z.com",
     "chat": "",
     "facebook": "",
     "forum": "",

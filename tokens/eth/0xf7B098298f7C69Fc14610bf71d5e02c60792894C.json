@@ -2,9 +2,9 @@
   "symbol": "GUP",
   "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
   "decimals": 3,
-  "name": "GUP",
+  "name": "Matchpool",
   "ens_address": "",
-  "website": "",
+  "website": "https://matchpool.co",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "http://community.matchpool.com/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Matchpool",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/matchpool",
     "youtube": ""
   }
 }

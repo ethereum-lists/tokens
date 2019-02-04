@@ -5,7 +5,7 @@
   "address": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://zipper.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ZipperInfo",
     "youtube": ""
   }
 }

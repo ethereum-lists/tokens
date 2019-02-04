@@ -5,7 +5,7 @@
   "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://zippie.org",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Zippie",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/zippiehq",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "XYO",
-  "name": "XY Oracle",
+  "name": "XYO",
   "type": "ERC20",
   "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://xyo.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://community.xyo.network/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/XYONetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/officialxyo",
     "youtube": ""
   }
 }

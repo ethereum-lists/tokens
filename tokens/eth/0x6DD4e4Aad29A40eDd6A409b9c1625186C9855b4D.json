@@ -1,11 +1,11 @@
 {
-  "symbol": "(PARKGENE) (GENE)",
-  "name": "GENE TOKEN",
+  "symbol": "GENE",
+  "name": "Parkgene",
   "type": "ERC20",
   "address": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://parkgene.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@parkgene/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/PARKGENE",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/PARKGENE1",
     "youtube": ""
   }
 }

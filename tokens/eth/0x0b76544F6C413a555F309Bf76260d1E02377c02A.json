@@ -5,7 +5,7 @@
   "address": "0x0b76544F6C413a555F309Bf76260d1E02377c02A",
   "ens_address": "",
   "decimals": 6,
-  "website": "",
+  "website": "https://intchain.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/int_chain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/intchain",
     "youtube": ""
   }
 }

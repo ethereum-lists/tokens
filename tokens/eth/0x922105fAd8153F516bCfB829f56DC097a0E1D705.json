@@ -1,11 +1,11 @@
 {
   "symbol": "YEE",
-  "name": "Yee - A Blockchain-powered & Cloud-based socia",
+  "name": "Yee Token",
   "type": "ERC20",
   "address": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.yeefoundation.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/YeeToken",
     "youtube": ""
   }
 }

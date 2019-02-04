@@ -5,7 +5,7 @@
   "address": "0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.greenmed.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/greenmed",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/greenmed_team",
     "youtube": ""
   }
 }

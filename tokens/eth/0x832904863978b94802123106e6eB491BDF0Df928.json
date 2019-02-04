@@ -5,7 +5,7 @@
   "address": "0x832904863978b94802123106e6eB491BDF0Df928",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://optitoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/OptiToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/optitoken",
     "youtube": ""
   }
 }

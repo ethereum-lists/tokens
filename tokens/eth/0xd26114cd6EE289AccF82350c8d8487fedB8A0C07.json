@@ -2,9 +2,9 @@
   "symbol": "OMG",
   "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
   "decimals": 18,
-  "name": "OMG",
+  "name": "OmiseGO",
   "ens_address": "",
-  "website": "https://omisego.network",
+  "website": "https://omg.omise.co",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/omise_go",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/omise_go",
     "youtube": ""
   }
 }

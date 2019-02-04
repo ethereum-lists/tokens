@@ -5,7 +5,7 @@
   "address": "0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
   "ens_address": "",
   "decimals": 0,
-  "website": "",
+  "website": "https://www.tridentgroup.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@TrustTheTrident",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TrustTheTrident",
     "youtube": ""
   }
 }

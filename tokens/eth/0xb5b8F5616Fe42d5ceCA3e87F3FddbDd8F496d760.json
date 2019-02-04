@@ -5,7 +5,7 @@
   "address": "0xb5b8F5616Fe42d5ceCA3e87F3FddbDd8F496d760",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "Https://zper.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/zper_team",
     "youtube": ""
   }
 }

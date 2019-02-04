@@ -5,7 +5,7 @@
   "address": "0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://crystal-clear.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/CrystalClearToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/CCS_Crystal",
     "youtube": ""
   }
 }

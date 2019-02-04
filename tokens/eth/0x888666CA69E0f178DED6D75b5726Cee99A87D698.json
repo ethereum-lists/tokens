@@ -2,9 +2,9 @@
   "symbol": "ICN",
   "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
   "decimals": 18,
-  "name": "ICN",
+  "name": "ICONOMI",
   "ens_address": "",
-  "website": "",
+  "website": "https://www.iconomi.net",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iconominet",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/iconomi",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/iconominet",
     "youtube": ""
   }
 }

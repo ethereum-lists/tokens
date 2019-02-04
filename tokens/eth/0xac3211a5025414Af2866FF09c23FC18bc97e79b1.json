@@ -1,11 +1,11 @@
 {
   "symbol": "DOV",
-  "name": "DOVU",
+  "name": "Dovu",
   "type": "ERC20",
   "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://dovu.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.dovu.io/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/dovu",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/dovuofficial",
     "youtube": ""
   }
 }

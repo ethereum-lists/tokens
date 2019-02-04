@@ -1,11 +1,11 @@
 {
   "symbol": "XMX",
-  "name": "XMAX",
+  "name": "XMax",
   "type": "ERC20",
   "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.xmx.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/XMax_Blockchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/XMax_io",
     "youtube": ""
   }
 }

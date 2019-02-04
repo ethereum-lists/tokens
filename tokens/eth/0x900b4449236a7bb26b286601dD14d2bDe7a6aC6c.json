@@ -1,11 +1,11 @@
 {
   "symbol": "EARTH",
-  "name": "EARTH Token",
+  "name": "Earth Token",
   "type": "ERC20",
   "address": "0x900b4449236a7bb26b286601dD14d2bDe7a6aC6c",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://earth-token.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/earthtokens",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,7 +25,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EarthToken",
     "slack": "",
     "telegram": "",
     "twitter": "",

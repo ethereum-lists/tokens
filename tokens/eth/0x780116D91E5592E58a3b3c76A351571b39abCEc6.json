@@ -1,11 +1,11 @@
 {
   "symbol": "BOXX",
-  "name": "BOXX",
+  "name": "BOXX Token [Blockparty]",
   "type": "ERC20",
   "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
   "ens_address": "",
   "decimals": 15,
-  "website": "",
+  "website": "https://www.goblockparty.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/GoBlockParty",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/goblockparty",
     "youtube": ""
   }
 }

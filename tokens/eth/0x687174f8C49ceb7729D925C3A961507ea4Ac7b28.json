@@ -1,11 +1,11 @@
 {
   "symbol": "GAT",
-  "name": "GAT",
+  "name": "Global Awards Token",
   "type": "ERC20",
   "address": "0x687174f8C49ceb7729D925C3A961507ea4Ac7b28",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.gatcoin.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@gatcoin",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/gatcoin",
     "youtube": ""
   }
 }

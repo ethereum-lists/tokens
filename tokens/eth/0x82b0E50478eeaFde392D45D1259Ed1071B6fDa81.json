@@ -1,11 +1,11 @@
 {
   "symbol": "DNA",
-  "name": "DNA",
+  "name": "EncrypGen",
   "type": "ERC20",
   "address": "0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.encrypgen.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/encrypgen",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/encrypgen",
     "youtube": ""
   }
 }

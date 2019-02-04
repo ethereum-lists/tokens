@@ -1,11 +1,11 @@
 {
   "symbol": "BTCONE",
-  "name": "BitCoin ONE",
+  "name": "BitCoin One",
   "type": "ERC20",
   "address": "0x87f5E8c3425218837f3CB67dB941aF0C01323E56",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.bitcoinone.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/THEBITCOINONE",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0x846C66cf71C43f80403B51fE3906B3599D63336f",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://pumapay.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.pumapay.io/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/PumaPay",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/PumaPay",
     "youtube": ""
   }
 }

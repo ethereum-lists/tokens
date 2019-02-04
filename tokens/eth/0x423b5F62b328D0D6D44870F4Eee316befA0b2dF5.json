@@ -1,11 +1,11 @@
 {
   "symbol": "GOT",
-  "name": "GoToken",
+  "name": "GoNetwork",
   "type": "ERC20",
   "address": "0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://gonetwork.co/index.html",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/gonetwork_co",
     "youtube": ""
   }
 }

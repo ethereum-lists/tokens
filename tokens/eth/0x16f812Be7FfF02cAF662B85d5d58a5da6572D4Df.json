@@ -5,7 +5,7 @@
   "address": "0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://uttoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Uttoken.io",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/uttoken",
     "youtube": ""
   }
 }

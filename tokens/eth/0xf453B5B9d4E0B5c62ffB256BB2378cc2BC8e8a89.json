@@ -1,11 +1,11 @@
 {
   "symbol": "MRK",
-  "name": "Mark",
+  "name": "MARK.SPACE",
   "type": "ERC20",
   "address": "0xf453B5B9d4E0B5c62ffB256BB2378cc2BC8e8a89",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://mark.space",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@markspace",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/markspace",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/markspaceio",
     "youtube": ""
   }
 }

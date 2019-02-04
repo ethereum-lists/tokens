@@ -5,7 +5,7 @@
   "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.shipchain.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/shipchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/shipchain",
     "youtube": ""
   }
 }

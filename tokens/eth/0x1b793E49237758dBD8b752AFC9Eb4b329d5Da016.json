@@ -1,11 +1,11 @@
 {
   "symbol": "VITE",
-  "name": "ViteToken",
+  "name": "Vite",
   "type": "ERC20",
   "address": "0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.vite.org",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/vitelabs",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/vitelabs",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "ERO",
-  "name": "EROSCOIN",
+  "name": "Eroscoin",
   "type": "ERC20",
   "address": "0x74CEDa77281b339142A36817Fa5F9E29412bAb85",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://eroscoin.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.eroscoin.org/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EROSCOIN",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/eroscoinnews",
     "youtube": ""
   }
 }

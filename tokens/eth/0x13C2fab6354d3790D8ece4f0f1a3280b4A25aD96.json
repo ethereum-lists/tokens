@@ -5,7 +5,7 @@
   "address": "0x13C2fab6354d3790D8ece4f0f1a3280b4A25aD96",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.phitoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/phitoken",
     "youtube": ""
   }
 }

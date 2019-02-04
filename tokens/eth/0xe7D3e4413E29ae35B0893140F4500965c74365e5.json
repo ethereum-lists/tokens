@@ -1,11 +1,11 @@
 {
   "symbol": "BBC",
-  "name": "B2BCoin",
+  "name": "TraDove B2BCoin",
   "type": "ERC20",
   "address": "0xe7D3e4413E29ae35B0893140F4500965c74365e5",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://bbcoin.tradove.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/tradove",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TraDove_B2BCoin",
     "youtube": ""
   }
 }

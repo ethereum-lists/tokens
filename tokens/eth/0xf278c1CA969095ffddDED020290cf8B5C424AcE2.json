@@ -1,11 +1,11 @@
 {
   "symbol": "RUFF",
-  "name": "RUFF",
+  "name": "Ruff",
   "type": "ERC20",
   "address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://ruffchain.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@ruffchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/ruffchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Ruff_Chain",
     "youtube": ""
   }
 }

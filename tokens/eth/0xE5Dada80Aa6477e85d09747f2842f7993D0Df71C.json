@@ -1,11 +1,11 @@
 {
   "symbol": "DOCK",
-  "name": "DOCK",
+  "name": "Dock",
   "type": "ERC20",
   "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://dock.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/dock-io",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/dockio",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/getdock",
     "youtube": ""
   }
 }

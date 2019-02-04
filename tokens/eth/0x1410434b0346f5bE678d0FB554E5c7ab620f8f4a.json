@@ -1,11 +1,11 @@
 {
   "symbol": "KAN",
-  "name": "KAN",
+  "name": "BitKan",
   "type": "ERC20",
   "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.kan.land",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/BitKanOfficial",
     "youtube": ""
   }
 }

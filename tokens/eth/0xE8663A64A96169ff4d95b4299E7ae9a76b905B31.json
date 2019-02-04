@@ -1,11 +1,11 @@
 {
-  "symbol": "Rating",
-  "name": "Rating",
+  "symbol": "RATING",
+  "name": "DPRating",
   "type": "ERC20",
   "address": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "http://token.dprating.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "http://medium.com/@dprating",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/dprating",
     "youtube": ""
   }
 }

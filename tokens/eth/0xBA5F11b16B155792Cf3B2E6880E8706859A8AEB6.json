@@ -2,7 +2,7 @@
   "symbol": "ARN",
   "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
   "decimals": 8,
-  "name": "Aeron Token",
+  "name": "Aeron",
   "ens_address": "",
   "website": "https://aeron.aero",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@aeronaero",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/aeronaero",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/aeron_aero",
     "youtube": ""
   }
 }

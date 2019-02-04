@@ -1,11 +1,11 @@
 {
   "symbol": "REM",
-  "name": "REMME",
+  "name": "Remme",
   "type": "ERC20",
   "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
   "ens_address": "",
   "decimals": 4,
-  "website": "",
+  "website": "https://remme.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/remme",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/remme",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/remme_io",
     "youtube": ""
   }
 }

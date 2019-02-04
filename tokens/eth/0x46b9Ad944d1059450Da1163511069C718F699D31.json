@@ -1,11 +1,11 @@
 {
   "symbol": "CS",
-  "name": "CREDIT",
+  "name": "Credits",
   "type": "ERC20",
   "address": "0x46b9Ad944d1059450Da1163511069C718F699D31",
   "ens_address": "",
   "decimals": 6,
-  "website": "",
+  "website": "https://credits.com/en",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@credits",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/CreditsOfficial",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/creditscom",
     "youtube": ""
   }
 }

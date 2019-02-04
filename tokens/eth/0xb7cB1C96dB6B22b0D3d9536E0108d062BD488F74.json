@@ -2,9 +2,9 @@
   "symbol": "WTC",
   "address": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74",
   "decimals": 18,
-  "name": "Walton",
+  "name": "Waltonchain",
   "ens_address": "",
-  "website": "",
+  "website": "http://www.waltonchain.org",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/waltonchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Waltonchain",
     "youtube": ""
   }
 }

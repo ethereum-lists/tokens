@@ -1,11 +1,11 @@
 {
   "symbol": "TIC",
-  "name": "Thinschain",
+  "name": "Thingschain",
   "type": "ERC20",
   "address": "0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://thingschain.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@thingschain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Things_chain",
     "youtube": ""
   }
 }

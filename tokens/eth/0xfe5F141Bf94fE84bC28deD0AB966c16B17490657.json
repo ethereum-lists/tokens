@@ -1,11 +1,11 @@
 {
   "symbol": "LBA",
-  "name": "LibraToken",
+  "name": "Cred",
   "type": "ERC20",
   "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.mycred.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Libra_Credit",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ihaveCred",
     "youtube": ""
   }
 }

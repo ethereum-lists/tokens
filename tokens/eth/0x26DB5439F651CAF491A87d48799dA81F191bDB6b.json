@@ -1,11 +1,11 @@
 {
   "symbol": "CBC",
-  "name": "CashBetCoin",
+  "name": "CashBet Coin",
   "type": "ERC20",
   "address": "0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://coin.cashbet.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@CashBetCoin",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cashbetcoin",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "NTK",
-  "name": "NeuroToken",
+  "name": "Neurotoken",
   "type": "ERC20",
   "address": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://neuromation.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Neuromation",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/neuromation_io",
     "youtube": ""
   }
 }

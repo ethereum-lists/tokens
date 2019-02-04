@@ -5,7 +5,7 @@
   "address": "0x24DCc881E7Dd730546834452F21872D5cb4b5293",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.scroll.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@solutech.scrolla",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/OfficialScroll",
     "youtube": ""
   }
 }

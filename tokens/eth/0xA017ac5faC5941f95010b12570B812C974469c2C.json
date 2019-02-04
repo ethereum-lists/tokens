@@ -5,7 +5,7 @@
   "address": "0xA017ac5faC5941f95010b12570B812C974469c2C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://proxeus.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@proxeusapp_4423",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/proxeus",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/proxeusapp",
     "youtube": ""
   }
 }

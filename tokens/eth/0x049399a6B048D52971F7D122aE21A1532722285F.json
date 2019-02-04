@@ -5,7 +5,7 @@
   "address": "0x049399a6B048D52971F7D122aE21A1532722285F",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://firelotto.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@FireLottery",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Firelotto",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/FireLottery",
     "youtube": ""
   }
 }

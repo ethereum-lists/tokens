@@ -5,7 +5,7 @@
   "address": "0xEee2d00Eb7DEB8Dd6924187f5AA3496B7d06E62A",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.tigereum.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/tigereumtokens",
     "youtube": ""
   }
 }

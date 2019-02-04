@@ -1,11 +1,11 @@
 {
   "symbol": "BTRN",
-  "name": "BTRN",
+  "name": "Biotron",
   "type": "ERC20",
   "address": "0x03C780cD554598592B97b7256dDAad759945b125",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://biotron.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Biotron",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/biotron_io",
     "youtube": ""
   }
 }

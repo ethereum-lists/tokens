@@ -2,7 +2,7 @@
   "symbol": "BCDN",
   "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
   "decimals": 15,
-  "name": "BCDN",
+  "name": "BlockCDN",
   "ens_address": "",
   "website": "https://www.blockcdn.org",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/BlockCDN",
     "youtube": ""
   }
 }
