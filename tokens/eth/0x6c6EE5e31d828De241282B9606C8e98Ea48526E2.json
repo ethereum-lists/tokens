@@ -1,8 +1,8 @@
 {
-  "symbol": "HOT",
+  "symbol": "HOT (Holo)",
   "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
   "decimals": 18,
-  "name": "HoloToken",
+  "name": "Holo Token",
   "ens_address": "token.holo-host.eth",
   "website": "https://holo.host/",
   "logo": {
