@@ -1,11 +1,11 @@
 {
-  "symbol": "MITx",
+  "symbol": "MITX",
   "name": "Morpheus Infrastructure Token",
   "type": "ERC20",
   "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://token.morpheuslabs.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/morpheuslabs_io",
     "youtube": ""
   }
 }

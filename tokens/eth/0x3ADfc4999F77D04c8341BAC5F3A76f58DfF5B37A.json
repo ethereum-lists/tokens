@@ -5,7 +5,7 @@
   "address": "0x3ADfc4999F77D04c8341BAC5F3A76f58DfF5B37A",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://privatix.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/privatix",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/privatix",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/privatix1",
     "youtube": ""
   }
 }

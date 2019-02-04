@@ -1,11 +1,11 @@
 {
   "symbol": "HBT",
-  "name": "Hubiits",
+  "name": "Hubii Network",
   "type": "ERC20",
   "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
   "ens_address": "",
   "decimals": 15,
-  "website": "",
+  "website": "https://www.hubii.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@jacobotoll",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/hubiinetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/hubiinetwork",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://mywish.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@VladimirTikhomirov",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/mywish",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/mywishplatform",
     "youtube": ""
   }
 }

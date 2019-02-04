@@ -5,7 +5,7 @@
   "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "http://www.swftcoin.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://forum.bitcoin.com/alternative-cryptocurrencies-altcoins/smartcash-t29835.html",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/swftcoin",
     "youtube": ""
   }
 }

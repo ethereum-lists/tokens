@@ -5,7 +5,7 @@
   "address": "0xD0352a019e9AB9d757776F532377aAEbd36Fd541",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://fusion.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@fusionprotocol",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FusionFoundation",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/FUSIONProtocol",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "NBC",
-  "name": "Niobium",
+  "name": "Niobium Coin",
   "type": "ERC20",
   "address": "0x9F195617fA8fbAD9540C5D113A99A0a0172aaEDC",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://niobiumcoin.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/NiobiumBomesp",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/NiobiumCoins",
     "youtube": ""
   }
 }

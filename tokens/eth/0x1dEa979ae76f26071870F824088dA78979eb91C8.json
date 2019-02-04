@@ -1,11 +1,11 @@
 {
   "symbol": "SPD",
-  "name": "Spindle",
+  "name": "SPINDLE",
   "type": "ERC20",
   "address": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://spindle.zone",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/spindlezone",
     "youtube": ""
   }
 }

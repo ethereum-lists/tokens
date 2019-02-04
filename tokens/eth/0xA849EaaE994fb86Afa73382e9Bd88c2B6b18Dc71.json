@@ -5,7 +5,7 @@
   "address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://mvlchain.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://mvlchain.io/blog",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/MVL",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/mvlchain",
     "youtube": ""
   }
 }

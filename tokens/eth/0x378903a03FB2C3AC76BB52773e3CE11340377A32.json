@@ -1,11 +1,11 @@
 {
   "symbol": "CCCX",
-  "name": "Clipper Coin Capital",
+  "name": "Clipper Coin",
   "type": "ERC20",
   "address": "0x378903a03FB2C3AC76BB52773e3CE11340377A32",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://clippercoin.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ClipperCoinCap",
     "youtube": ""
   }
 }

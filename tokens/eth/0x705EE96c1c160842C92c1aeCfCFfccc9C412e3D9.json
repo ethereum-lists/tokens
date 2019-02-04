@@ -5,7 +5,7 @@
   "address": "0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://clearpoll.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/clearpoll",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/voteclearpoll",
     "youtube": ""
   }
 }

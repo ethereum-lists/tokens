@@ -1,11 +1,11 @@
 {
   "symbol": "IDH",
-  "name": "indaHash Coin",
+  "name": "indaHash",
   "type": "ERC20",
   "address": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
   "ens_address": "",
   "decimals": 6,
-  "website": "",
+  "website": "https://indahash.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@indahash",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/indaHash",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/indaHash",
     "youtube": ""
   }
 }

@@ -1,11 +1,11 @@
 {
   "symbol": "MEDX",
-  "name": "MEDX TOKEN",
+  "name": "MediBloc [ERC20]",
   "type": "ERC20",
   "address": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://medibloc.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/medibloc",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/_MediBloc",
     "youtube": ""
   }
 }

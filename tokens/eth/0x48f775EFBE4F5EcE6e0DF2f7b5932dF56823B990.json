@@ -1,11 +1,11 @@
 {
   "symbol": "R",
-  "name": "Revian",
+  "name": "Revain",
   "type": "ERC20",
   "address": "0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990",
   "ens_address": "",
   "decimals": 0,
-  "website": "",
+  "website": "https://revain.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/revain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/revain_org",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/revain_org",
     "youtube": ""
   }
 }

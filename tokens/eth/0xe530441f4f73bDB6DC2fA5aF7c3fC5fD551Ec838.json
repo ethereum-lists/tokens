@@ -4,7 +4,7 @@
   "decimals": 4,
   "name": "GSENetwork",
   "ens_address": "",
-  "website": "https://www.gse.network",
+  "website": "https://gse.network",
   "logo": {
     "src": "https://www.gse.network/static/media/gse-logo.png",
     "width": "120",
@@ -15,7 +15,7 @@
     "email": "info@gselab.org"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@gselabofficial",
     "chat": "",
     "facebook": "https://www.facebook.com/gselabofficial",
     "forum": "",
@@ -23,7 +23,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/GSENetwork",
     "slack": "",
     "telegram": "https://t.me/GSENetworkOfficial",
     "twitter": "https://twitter.com/gselabofficial",

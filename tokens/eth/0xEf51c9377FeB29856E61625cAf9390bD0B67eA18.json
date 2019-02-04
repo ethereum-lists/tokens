@@ -5,7 +5,7 @@
   "address": "0xEf51c9377FeB29856E61625cAf9390bD0B67eA18",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://bionic-coin.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@bioniccoin",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bionic_coin",
     "youtube": ""
   }
 }

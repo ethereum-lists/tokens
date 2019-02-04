@@ -1,11 +1,11 @@
 {
   "symbol": "XMCT",
-  "name": "XMED Chain Token",
+  "name": "XMED Chain",
   "type": "ERC20",
   "address": "0x44449Fa4d607F807d1eD4a69ad942971728391C8",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://xmedchain.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/XMEDChain",
     "youtube": ""
   }
 }

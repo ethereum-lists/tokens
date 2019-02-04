@@ -1,11 +1,11 @@
 {
-  "symbol": "LGD",
-  "name": "Legends",
+  "symbol": "MORE",
+  "name": "More Coin",
   "type": "ERC20",
   "address": "0x59061b6f26BB4A9cE5828A19d35CFD5A4B80F056",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "http://www.mre.live",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/getmorecoin",
     "youtube": ""
   }
 }

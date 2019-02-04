@@ -1,11 +1,11 @@
 {
   "symbol": "FDZ",
-  "name": "Friendz Coin",
+  "name": "Friendz",
   "type": "ERC20",
   "address": "0x23352036E911A22Cfc692B5E2E196692658ADED9",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://friendz.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FriendzICO",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Friendz_ICO",
     "youtube": ""
   }
 }

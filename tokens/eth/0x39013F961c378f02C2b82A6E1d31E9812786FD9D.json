@@ -1,11 +1,11 @@
 {
   "symbol": "SMS",
-  "name": "Speed Mining Services",
+  "name": "Speed Mining Service",
   "type": "ERC20",
   "address": "0x39013F961c378f02C2b82A6E1d31E9812786FD9D",
   "ens_address": "",
   "decimals": 3,
-  "website": "",
+  "website": "https://smscoin.jp/en",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Speed_Mining",
     "youtube": ""
   }
 }

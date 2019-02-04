@@ -5,7 +5,7 @@
   "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://cryptaur.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@cryptaur",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Cryptaur",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Cryptaur",
     "youtube": ""
   }
 }

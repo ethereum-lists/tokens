@@ -5,7 +5,7 @@
   "address": "0x8A99ED8a1b204903Ee46e733f2c1286F6d20b177",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://fujinto.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/FUJINTO_",
     "youtube": ""
   }
 }

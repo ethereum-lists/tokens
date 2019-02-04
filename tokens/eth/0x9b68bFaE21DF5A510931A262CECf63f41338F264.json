@@ -1,11 +1,11 @@
 {
   "symbol": "DBET",
-  "name": "Decent.Bet",
+  "name": "DecentBet",
   "type": "ERC20",
   "address": "0x9b68bFaE21DF5A510931A262CECf63f41338F264",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.decent.bet",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/decentbet",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/decent_bet",
     "youtube": ""
   }
 }

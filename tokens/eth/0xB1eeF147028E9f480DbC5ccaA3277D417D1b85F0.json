@@ -1,11 +1,11 @@
 {
-  "symbol": "Seele",
-  "name": "SeeleToken",
+  "symbol": "SEELE",
+  "name": "Seele",
   "type": "ERC20",
   "address": "0xB1eeF147028E9f480DbC5ccaA3277D417D1b85F0",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://seele.pro",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/seeletech",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SeeleOfficial",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/SeeleTech",
     "youtube": ""
   }
 }

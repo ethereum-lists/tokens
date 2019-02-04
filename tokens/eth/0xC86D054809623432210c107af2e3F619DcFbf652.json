@@ -5,7 +5,7 @@
   "address": "0xC86D054809623432210c107af2e3F619DcFbf652",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://sentinelprotocol.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/sentinelprotocol",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Sentinel_Protocol",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/UPPSentinel",
     "youtube": ""
   }
 }

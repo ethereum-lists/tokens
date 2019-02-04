@@ -1,11 +1,11 @@
 {
   "symbol": "FT",
-  "name": "Fabric token",
+  "name": "Fabric Token",
   "type": "ERC20",
   "address": "0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://fabrictoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://fabrictoken.io/blog/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FabricToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/fabric_token",
     "youtube": ""
   }
 }

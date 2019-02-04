@@ -1,11 +1,11 @@
 {
   "symbol": "PST",
-  "name": "Primas Token",
+  "name": "Primas",
   "type": "ERC20",
   "address": "0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://primas.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Primas",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/PrimasOfficial",
     "youtube": ""
   }
 }

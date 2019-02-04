@@ -5,7 +5,7 @@
   "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.fintrux.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://www.medium.com/FintruX",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FintruX",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/fintrux",
     "youtube": ""
   }
 }

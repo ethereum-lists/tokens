@@ -1,11 +1,11 @@
 {
   "symbol": "OMX",
-  "name": "Omix",
+  "name": "Shivom",
   "type": "ERC20",
   "address": "0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://shivom.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@projectshivom",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Shivom",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/projectshivom",
     "youtube": ""
   }
 }

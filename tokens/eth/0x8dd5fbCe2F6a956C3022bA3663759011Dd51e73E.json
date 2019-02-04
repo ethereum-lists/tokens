@@ -30,5 +30,11 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+      "new_address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "migration_type": "auto",
+      "announcement_url": "https://blog.trusttoken.com/scnote-33ec9f1fdb32",
+      "time": "2019-01-03T00:00:00Z"
   }
 }

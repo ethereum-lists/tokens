@@ -4,7 +4,7 @@
   "decimals": 8,
   "name": "MCAP",
   "ens_address": "",
-  "website": "",
+  "website": "https://bitcoingrowthfund.com/mcap",
   "logo": {
     "src": "",
     "width": "",
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MCAPlabs",
     "youtube": ""
   }
 }

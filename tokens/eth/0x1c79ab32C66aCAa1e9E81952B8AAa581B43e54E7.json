@@ -1,11 +1,11 @@
 {
   "symbol": "TEAM",
-  "name": "TEAM",
+  "name": "TEAM (TokenStars)",
   "type": "ERC20",
   "address": "0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7",
   "ens_address": "",
   "decimals": 4,
-  "website": "",
+  "website": "https://tokenstars.com/team",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@tokenstars",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/TokenStars",
     "youtube": ""
   }
 }

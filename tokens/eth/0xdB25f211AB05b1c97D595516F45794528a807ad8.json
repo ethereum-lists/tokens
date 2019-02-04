@@ -1,11 +1,11 @@
 {
   "symbol": "EURS",
-  "name": "STASIS EURS Token",
+  "name": "STASIS EURS",
   "type": "ERC20",
   "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
   "ens_address": "",
   "decimals": 2,
-  "website": "",
+  "website": "https://stasis.net",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/stasisnet",
     "youtube": ""
   }
 }

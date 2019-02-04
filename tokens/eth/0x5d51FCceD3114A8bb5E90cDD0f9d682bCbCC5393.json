@@ -5,7 +5,7 @@
   "address": "0x5d51FCceD3114A8bb5E90cDD0f9d682bCbCC5393",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.b2bx.exchange",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/B2BX",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/b2broker_net",
     "youtube": ""
   }
 }

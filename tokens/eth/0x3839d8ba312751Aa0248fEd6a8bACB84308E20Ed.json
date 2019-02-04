@@ -1,11 +1,11 @@
 {
-  "symbol": "Bez",
+  "symbol": "BEZ",
   "name": "Bezop",
   "type": "ERC20",
   "address": "0x3839d8ba312751Aa0248fEd6a8bACB84308E20Ed",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://bezop.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@bezopnetwork",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/bezop",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/BezopNetwork",
     "youtube": ""
   }
 }

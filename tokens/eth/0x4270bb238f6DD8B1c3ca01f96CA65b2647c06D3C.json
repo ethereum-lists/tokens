@@ -1,11 +1,11 @@
 {
   "symbol": "FOTA",
-  "name": "FOTA",
+  "name": "Fortuna",
   "type": "ERC20",
   "address": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.fota.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Fota",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FortunaBlockchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Fortuna_FOTA",
     "youtube": ""
   }
 }

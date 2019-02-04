@@ -1,11 +1,11 @@
 {
   "symbol": "EQL",
-  "name": "EQUAL",
+  "name": "Equal",
   "type": "ERC20",
   "address": "0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.equaltoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@EqualToken",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EQUAL_Network",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/equaltoken",
     "youtube": ""
   }
 }

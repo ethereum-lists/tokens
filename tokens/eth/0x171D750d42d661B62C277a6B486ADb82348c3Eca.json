@@ -5,7 +5,7 @@
   "address": "0x171D750d42d661B62C277a6B486ADb82348c3Eca",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://omnitude.tech",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Omnitude",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Omnitude",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Omnitudeorg",
     "youtube": ""
   }
 }

@@ -1,10 +1,10 @@
 {
-  "symbol": "nCash",
+  "symbol": "NCASH",
   "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
   "decimals": 18,
-  "name": "NucleusVision",
+  "name": "Nucleus Vision",
   "ens_address": "",
-  "website": "",
+  "website": "https://nucleus.vision",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@NucleusVision",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/NucleusVision",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/NucleusVision",
     "youtube": ""
   }
 }

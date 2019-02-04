@@ -1,11 +1,11 @@
 {
   "symbol": "NEXO",
-  "name": "NEXO",
+  "name": "Nexo",
   "type": "ERC20",
   "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://nexo.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/nexo",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/nexo",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/NexoFinance",
     "youtube": ""
   }
 }

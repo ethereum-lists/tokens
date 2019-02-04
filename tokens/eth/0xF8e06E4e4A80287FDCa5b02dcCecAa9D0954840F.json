@@ -1,11 +1,11 @@
 {
   "symbol": "TGAME",
-  "name": "TGAME",
+  "name": "Truegame",
   "type": "ERC20",
   "address": "0xF8e06E4e4A80287FDCa5b02dcCecAa9D0954840F",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://ico.truegame.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@truegame/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/truegameSRL",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0x076C97e1c869072eE22f8c91978C99B4bcB02591",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.commerceblock.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.commerceblock.com/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/CommerceBlock",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/commerceblock",
     "youtube": ""
   }
 }

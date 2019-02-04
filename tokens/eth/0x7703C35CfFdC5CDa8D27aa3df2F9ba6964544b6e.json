@@ -1,11 +1,11 @@
 {
   "symbol": "PYLNT",
-  "name": "Pylon",
+  "name": "Pylon Network",
   "type": "ERC20",
   "address": "0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://pylon-network.org",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/KlenergyTech",
     "youtube": ""
   }
 }

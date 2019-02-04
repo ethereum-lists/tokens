@@ -5,7 +5,7 @@
   "address": "0xdaE1Baf249964bc4b6aC98c3122f0e3E785fd279",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.tokia.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@tokia_io",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/TOKIA",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/tokia_io",
     "youtube": ""
   }
 }

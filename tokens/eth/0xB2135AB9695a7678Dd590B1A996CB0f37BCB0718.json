@@ -1,11 +1,11 @@
 {
   "symbol": "SGN",
-  "name": "Signals Network Token",
+  "name": "Signals Network",
   "type": "ERC20",
   "address": "0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718",
   "ens_address": "",
   "decimals": 9,
-  "website": "",
+  "website": "https://signals.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.signals.network",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SignalsNetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/signals_network",
     "youtube": ""
   }
 }

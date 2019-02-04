@@ -1,11 +1,11 @@
 {
   "symbol": "NOAH",
-  "name": "NOAHCOIN",
+  "name": "Noah Coin",
   "type": "ERC20",
   "address": "0x58a4884182d9E835597f405e5F258290E46ae7C2",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://noahcoin.org",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/NOAHCOIN_Proj",
     "youtube": ""
   }
 }

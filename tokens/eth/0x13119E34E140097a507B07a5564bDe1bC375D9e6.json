@@ -1,11 +1,11 @@
 {
   "symbol": "IMT",
-  "name": "MoneyToken",
+  "name": "Moneytoken",
   "type": "ERC20",
   "address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://moneytoken.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@moneytoken",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MoneyToken",
     "youtube": ""
   }
 }

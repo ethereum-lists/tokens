@@ -5,7 +5,7 @@
   "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://ico.savedroid.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@ico_8796",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/savedroid_ico",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/savedroidAG",
     "youtube": ""
   }
 }

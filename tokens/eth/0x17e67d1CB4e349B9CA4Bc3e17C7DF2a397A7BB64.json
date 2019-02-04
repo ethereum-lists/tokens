@@ -1,11 +1,11 @@
 {
   "symbol": "FREC",
-  "name": "Freyr Coin",
+  "name": "Freyrchain",
   "type": "ERC20",
   "address": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.freyrchain.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@freyrchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Freyrchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/freyrchain",
     "youtube": ""
   }
 }

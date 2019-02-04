@@ -5,7 +5,7 @@
   "address": "0x4289c043A12392F1027307fB58272D8EBd853912",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://ailink.in",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ailinkofficial",
     "youtube": ""
   }
 }

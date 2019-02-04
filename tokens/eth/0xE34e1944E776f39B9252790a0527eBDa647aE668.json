@@ -1,11 +1,11 @@
 {
   "symbol": "HBZ",
-  "name": "Helbiz",
+  "name": "HBZ coin",
   "type": "ERC20",
   "address": "0xE34e1944E776f39B9252790a0527eBDa647aE668",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.hbzcoin.com/#",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@HBZCoinOfficial",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/HelbizOfficial",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/HbZcoin",
     "youtube": ""
   }
 }

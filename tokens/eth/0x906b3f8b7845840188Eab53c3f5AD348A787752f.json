@@ -1,11 +1,11 @@
 {
   "symbol": "DOR",
-  "name": "DoradoToken",
+  "name": "Dorado",
   "type": "ERC20",
   "address": "0x906b3f8b7845840188Eab53c3f5AD348A787752f",
   "ens_address": "",
   "decimals": 15,
-  "website": "",
+  "website": "https://www.dorado.tech",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@doradoico/latest",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/DoradoICO",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Dorado_ICO",
     "youtube": ""
   }
 }

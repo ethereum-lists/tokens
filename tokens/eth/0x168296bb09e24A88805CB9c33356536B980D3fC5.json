@@ -1,11 +1,11 @@
 {
   "symbol": "RHOC",
-  "name": "RHOC",
+  "name": "RChain",
   "type": "ERC20",
   "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.rchain.coop",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/rchain-cooperative",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/RChain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/rchain_coop",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.metronome.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@MetronomeToken",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/metronometoken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MET_Token",
     "youtube": ""
   }
 }

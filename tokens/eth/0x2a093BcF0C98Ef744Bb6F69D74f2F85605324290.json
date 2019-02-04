@@ -5,7 +5,7 @@
   "address": "0x2a093BcF0C98Ef744Bb6F69D74f2F85605324290",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.foodcoin.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/foodcoin_io",
     "youtube": ""
   }
 }

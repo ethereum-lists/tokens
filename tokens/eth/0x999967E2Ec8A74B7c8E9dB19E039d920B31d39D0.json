@@ -1,11 +1,11 @@
 {
   "symbol": "TIE",
-  "name": "TieToken",
+  "name": "Ties.DB",
   "type": "ERC20",
   "address": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://ties.network",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/tiesnetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/tiesnetwork",
     "youtube": ""
   }
 }

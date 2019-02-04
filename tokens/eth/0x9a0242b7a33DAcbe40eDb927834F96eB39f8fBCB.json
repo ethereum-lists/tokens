@@ -1,11 +1,11 @@
 {
   "symbol": "BAX",
-  "name": "BAX",
+  "name": "BABB",
   "type": "ERC20",
   "address": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://getbabb.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@BABB",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/getbabb",
     "youtube": ""
   }
 }

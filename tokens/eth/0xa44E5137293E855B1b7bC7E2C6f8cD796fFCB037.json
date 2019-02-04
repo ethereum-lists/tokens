@@ -5,7 +5,7 @@
   "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://sentinel.co",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SENT",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Sentinel_co",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0x054C64741dBafDC19784505494029823D89c3b13",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://www.atom-solutions.jp/en/xetchange.php",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/AdminXET",
     "youtube": ""
   }
 }

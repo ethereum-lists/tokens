@@ -1,11 +1,11 @@
 {
   "symbol": "SPX",
-  "name": "SP8DE Token",
+  "name": "Sp8de",
   "type": "ERC20",
   "address": "0x05aAaA829Afa407D83315cDED1d45EB16025910c",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://sp8de.com",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://forum.sp8de.com/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/sp8de",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/SP8DE_Official",
     "youtube": ""
   }
 }

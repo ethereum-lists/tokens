@@ -5,7 +5,7 @@
   "address": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.sentinel-chain.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://www.medium.com/sentinelchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/sentinelchain",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/sentinelchain",
     "youtube": ""
   }
 }

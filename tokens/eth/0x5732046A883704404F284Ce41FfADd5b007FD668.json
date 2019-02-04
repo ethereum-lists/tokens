@@ -2,9 +2,9 @@
   "symbol": "BLZ",
   "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
   "decimals": 18,
-  "name": "Bluezelle",
+  "name": "Bluzelle",
   "ens_address": "",
-  "website": "",
+  "website": "https://bluzelle.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bluzelle",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bluzellehq",
     "youtube": ""
   }
 }

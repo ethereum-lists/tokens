@@ -5,7 +5,7 @@
   "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.cpchain.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/CPChain_Official",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cpchain_io",
     "youtube": ""
   }
 }

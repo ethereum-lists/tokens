@@ -5,7 +5,7 @@
   "address": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://zla.io",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/ZILLAtoken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/zillatoken",
     "youtube": ""
   }
 }

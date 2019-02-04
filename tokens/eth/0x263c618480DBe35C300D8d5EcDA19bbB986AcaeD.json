@@ -1,11 +1,11 @@
 {
   "symbol": "MOT",
-  "name": "MOT",
+  "name": "Olympus Labs",
   "type": "ERC20",
   "address": "0x263c618480DBe35C300D8d5EcDA19bbB986AcaeD",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://olympuslabs.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/olympuslabsbc",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/OlympusLabs",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/olympuslabsbc",
     "youtube": ""
   }
 }

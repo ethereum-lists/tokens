@@ -5,7 +5,7 @@
   "address": "0x865ec58b06bF6305B886793AA20A2da31D034E68",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://moss.land",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://moss.land/blog",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/theMossland",
     "youtube": ""
   }
 }

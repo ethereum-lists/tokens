@@ -1,11 +1,11 @@
 {
   "symbol": "SNTR",
-  "name": "Silent Notary Token",
+  "name": "Silent Notary",
   "type": "ERC20",
   "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
   "ens_address": "",
   "decimals": 4,
-  "website": "",
+  "website": "https://silentnotary.com",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SilentNotary",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/SilentNotary",
     "youtube": ""
   }
 }

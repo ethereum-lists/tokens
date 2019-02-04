@@ -5,7 +5,7 @@
   "address": "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://lympo.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@lympo.io",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/LYMPO",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Lympo_io",
     "youtube": ""
   }
 }

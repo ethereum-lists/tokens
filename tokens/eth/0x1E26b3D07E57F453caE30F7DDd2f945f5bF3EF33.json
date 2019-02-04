@@ -5,7 +5,7 @@
   "address": "0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://clearcoin.co",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://clearcoin.co/blog/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/clearcoin",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/clearcoinhq",
     "youtube": ""
   }
 }

@@ -5,7 +5,7 @@
   "address": "0xb0280743b44bF7db4B6bE482b2Ba7b75E5dA096C",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://transcodium.com",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/transcodium",
     "youtube": ""
   }
 }

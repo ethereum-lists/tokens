@@ -1,11 +1,11 @@
 {
   "symbol": "ING",
-  "name": "IUNGO",
+  "name": "Iungo",
   "type": "ERC20",
   "address": "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://iungo.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@iungo",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/iungo",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/iungonetwork",
     "youtube": ""
   }
 }

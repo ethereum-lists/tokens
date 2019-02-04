@@ -2,7 +2,7 @@
   "symbol": "BET",
   "address": "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
   "decimals": 18,
-  "name": "BET",
+  "name": "DAO.Casino",
   "ens_address": "",
   "website": "https://dao.casino",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/daocasino",
     "youtube": ""
   }
 }

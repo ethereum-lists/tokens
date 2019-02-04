@@ -2,7 +2,7 @@
   "symbol": "LUN",
   "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
   "decimals": 18,
-  "name": "LUN",
+  "name": "Lunyr",
   "ens_address": "",
   "website": "https://lunyr.com",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/Lunyr",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/LunyrInc",
     "youtube": ""
   }
 }

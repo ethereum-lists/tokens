@@ -1,11 +1,11 @@
 {
   "symbol": "CTXC",
-  "name": "Cortex Coin",
+  "name": "Cortex",
   "type": "ERC20",
   "address": "0xEa11755Ae41D889CeEc39A63E6FF75a02Bc1C00d",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "http://www.cortexlabs.ai",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@CTXCBlockchain",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Cortex_Official",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/CTXCBlockchain",
     "youtube": ""
   }
 }

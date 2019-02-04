@@ -1,11 +1,11 @@
 {
   "symbol": "GNX",
-  "name": "Genaro X",
+  "name": "Genaro Network",
   "type": "ERC20",
   "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
   "ens_address": "",
   "decimals": 9,
-  "website": "",
+  "website": "https://genaro.network",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/genaro-network",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/GenaroNetwork",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/GenaroNetwork",
     "youtube": ""
   }
 }

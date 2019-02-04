@@ -5,7 +5,7 @@
   "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://contentbox.one",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/contentbox",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/ContentBoxOfficial",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Contentbox_one",
     "youtube": ""
   }
 }

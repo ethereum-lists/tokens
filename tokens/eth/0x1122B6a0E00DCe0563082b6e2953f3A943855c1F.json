@@ -1,11 +1,11 @@
 {
   "symbol": "CENNZ",
-  "name": "Centrality Token",
+  "name": "Centrality",
   "type": "ERC20",
   "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.centrality.ai",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/centrality",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/centralityai",
     "youtube": ""
   }
 }

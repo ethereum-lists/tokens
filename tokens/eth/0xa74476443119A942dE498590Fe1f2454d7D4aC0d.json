@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.golemproject.net/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/GolemProject",
     "slack": "https://golemproject.org:3000",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/golemproject",
     "youtube": ""
   }
 }

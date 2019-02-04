@@ -1,11 +1,11 @@
 {
   "symbol": "UBT",
-  "name": "UniBright",
+  "name": "Unibright",
   "type": "ERC20",
   "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://unibright.io",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@UnibrightIO",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Unibright",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Unibrightio",
     "youtube": ""
   }
 }

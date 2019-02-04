@@ -5,7 +5,7 @@
   "address": "0x81b4D08645DA11374a03749AB170836E4e539767",
   "ens_address": "",
   "decimals": 9,
-  "website": "",
+  "website": "https://paymon.org",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Paymon_official",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/paymonplatform",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Paymon_official",
     "youtube": ""
   }
 }

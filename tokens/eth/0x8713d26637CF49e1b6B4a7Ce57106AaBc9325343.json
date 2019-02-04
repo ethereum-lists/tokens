@@ -1,11 +1,11 @@
 {
   "symbol": "CNN",
-  "name": "CNN Token",
+  "name": "Content Neutrality Network",
   "type": "ERC20",
   "address": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://cnntoken.io",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/CNN_Blockchain",
     "youtube": ""
   }
 }

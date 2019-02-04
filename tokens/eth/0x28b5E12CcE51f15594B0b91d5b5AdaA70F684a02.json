@@ -1,11 +1,11 @@
 {
   "symbol": "NPX",
-  "name": "NapoleonX",
+  "name": "NaPoleonX",
   "type": "ERC20",
   "address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
   "ens_address": "",
   "decimals": 2,
-  "website": "",
+  "website": "https://napoleonx.ai",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@napoleonx.ai",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/NapoleonX",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/NapoleonXai",
     "youtube": ""
   }
 }

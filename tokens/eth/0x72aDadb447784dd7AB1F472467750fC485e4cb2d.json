@@ -5,7 +5,7 @@
   "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
   "ens_address": "",
   "decimals": 6,
-  "website": "",
+  "website": "https://worldcore.eu",
   "logo": {
     "src": "",
     "width": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/worldcoresocial",
     "youtube": ""
   }
 }

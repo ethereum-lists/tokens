@@ -5,7 +5,7 @@
   "address": "0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
+  "website": "https://uptoken.org",
   "logo": {
     "src": "",
     "width": "",
@@ -25,10 +25,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/UpToken",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/uptoken",
     "youtube": ""
   }
 }

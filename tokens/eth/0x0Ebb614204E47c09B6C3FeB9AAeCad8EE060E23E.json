@@ -1,11 +1,11 @@
 {
   "symbol": "CPAY",
-  "name": "CPAY",
+  "name": "Cryptopay",
   "type": "ERC20",
   "address": "0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
   "ens_address": "",
   "decimals": 0,
-  "website": "",
+  "website": "https://cryptopay.me",
   "logo": {
     "src": "",
     "width": "",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.cryptopay.me/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cryptopay",
     "youtube": ""
   }
 }
