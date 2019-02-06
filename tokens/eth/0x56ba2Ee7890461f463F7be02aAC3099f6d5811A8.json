@@ -1,8 +1,8 @@
 {
-  "symbol": "CAT (Blockcat)",
+  "symbol": "CAT (BlockCAT)",
   "address": "0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
   "decimals": 18,
-  "name": "CAT (Blockcat)",
+  "name": "BlockCAT",
   "ens_address": "",
   "website": "https://blockcat.io",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/blockcat",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,7 +24,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/blockcat",
     "slack": "https://slack.blockcat.io",
     "telegram": "",
     "twitter": "https://twitter.com/blockcatio",

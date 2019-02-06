@@ -1,10 +1,10 @@
 {
-  "symbol": "EDU",
+  "symbol": "LEDU",
   "address": "0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765",
   "decimals": 8,
-  "name": "EDU",
+  "name": "Education Ecosystem",
   "ens_address": "",
-  "website": "https://tokensale.liveedu.tv",
+  "website": "https://ledu.education-ecosystem.com",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/ledu-tokens/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/liveedutv",
     "youtube": ""
   }
 }

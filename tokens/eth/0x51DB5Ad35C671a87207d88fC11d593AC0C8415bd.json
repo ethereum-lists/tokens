@@ -2,9 +2,9 @@
   "symbol": "MDA",
   "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
   "decimals": 18,
-  "name": "MDA",
+  "name": "Moeda Loyalty Points",
   "ens_address": "",
-  "website": "https://moeda.in",
+  "website": "https://moedaseeds.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/MoedaBanking",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/moedaseeds",
     "youtube": ""
   }
 }

@@ -2,9 +2,9 @@
   "symbol": "LGO",
   "address": "0x123aB195DD38B1b40510d467a6a359b201af056f",
   "decimals": 8,
-  "name": "LGO",
+  "name": "LGO Exchange",
   "ens_address": "",
-  "website": "https://legolas.exchange/",
+  "website": "https://lgo.exchange",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/lgogroup",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/LegolasExchange",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/LGOGroup_",
     "youtube": ""
   }
 }

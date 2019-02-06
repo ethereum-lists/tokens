@@ -2,9 +2,9 @@
   "symbol": "GRID",
   "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
   "decimals": 12,
-  "name": "GRID",
+  "name": "Grid+",
   "ens_address": "",
-  "website": "https://gridplus.io/token-sale",
+  "website": "http://gridplus.io",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.gridplus.io",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/gridplus",
     "youtube": ""
   }
 }

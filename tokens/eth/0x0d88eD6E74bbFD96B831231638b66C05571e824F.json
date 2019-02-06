@@ -2,7 +2,7 @@
   "symbol": "AVT",
   "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
   "decimals": 18,
-  "name": "AVT",
+  "name": "Aventus",
   "ens_address": "",
   "website": "https://aventus.io",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.aventus.io/",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -27,7 +27,7 @@
     "reddit": "https://www.reddit.com/r/Aventus",
     "slack": "https://slack.aventus.io",
     "telegram": "",
-    "twitter": "https://twitter.com/AventusSystems",
+    "twitter": "",
     "youtube": ""
   }
 }

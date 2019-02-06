@@ -2,9 +2,9 @@
   "symbol": "UTK",
   "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
   "decimals": 18,
-  "name": "UTK",
+  "name": "UTRUST",
   "ens_address": "",
-  "website": "https://utrust.io",
+  "website": "https://utrust.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/UTRUST_Official",
     "slack": "",
     "telegram": "https://t.me/utrustofficial",
-    "twitter": "https://twitter.com/UTRUST_Official",
+    "twitter": "https://twitter.com/UTRUST",
     "youtube": ""
   }
 }

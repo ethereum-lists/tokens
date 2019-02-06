@@ -2,7 +2,7 @@
   "symbol": "CAN",
   "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
   "decimals": 6,
-  "name": "CAN",
+  "name": "CanYaCoin",
   "ens_address": "",
   "website": "https://canya.io",
   "logo": {
@@ -16,7 +16,7 @@
     "url": "support@canya.io"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/canyacoin",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/user/canya-io",
+    "reddit": "https://www.reddit.com/r/CanYaCoin",
     "slack": "",
     "telegram": "https://t.me/joinchat/HBzcbUP42NwHZKBwnEIkkw",
-    "twitter": "https://twitter.com/canya_io",
+    "twitter": "https://twitter.com/canyacoin",
     "youtube": ""
   }
 }

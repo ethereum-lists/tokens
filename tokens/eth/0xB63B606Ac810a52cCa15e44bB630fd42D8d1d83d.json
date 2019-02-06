@@ -2,9 +2,9 @@
   "symbol": "MCO",
   "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
   "decimals": 8,
-  "name": "MCO",
+  "name": "Crypto.com",
   "ens_address": "",
-  "website": "https://mona.co",
+  "website": "https://crypto.com",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Crypto.com",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Crypto_com",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cryptocom",
     "youtube": ""
   }
 }

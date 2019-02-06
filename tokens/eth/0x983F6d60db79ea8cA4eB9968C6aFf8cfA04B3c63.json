@@ -2,7 +2,7 @@
   "symbol": "SNM",
   "address": "0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
   "decimals": 18,
-  "name": "SNM",
+  "name": "SONM",
   "ens_address": "",
   "website": "https://sonm.com",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SONM",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/sonmdevelopment",
     "youtube": ""
   }
 }

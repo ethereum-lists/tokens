@@ -2,7 +2,7 @@
   "symbol": "RLT",
   "address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
   "decimals": 10,
-  "name": "RLT",
+  "name": "RouletteToken",
   "ens_address": "",
   "website": "https://smartplay.tech",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/smartplaytech",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/smartplaytech",
     "youtube": ""
   }
 }

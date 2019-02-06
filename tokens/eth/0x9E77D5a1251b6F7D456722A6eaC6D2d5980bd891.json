@@ -2,7 +2,7 @@
   "symbol": "BRAT",
   "address": "0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891",
   "decimals": 8,
-  "name": "BRAT",
+  "name": "BROTHER",
   "ens_address": "",
   "website": "http://bro-consortium.io",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "https://t.me/coinbrat",
-    "twitter": "",
+    "twitter": "https://twitter.com/coinBrat",
     "youtube": ""
   }
 }

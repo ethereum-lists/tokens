@@ -2,7 +2,7 @@
   "symbol": "BAT",
   "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
   "decimals": 18,
-  "name": "BAT",
+  "name": "Basic Attention Token",
   "ens_address": "",
   "website": "https://basicattentiontoken.org",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/BATProject",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/attentiontoken",
     "youtube": ""
   }
 }

@@ -2,9 +2,9 @@
   "symbol": "CRED",
   "address": "0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
   "decimals": 18,
-  "name": "CRED",
+  "name": "Verify",
   "ens_address": "",
-  "website": "https://verify.as",
+  "website": "https://token.verify.as",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/verifyas",
     "slack": "",
     "telegram": "https://t.me/verifyas",
-    "twitter": "",
+    "twitter": "https://twitter.com/verif_yas",
     "youtube": ""
   }
 }

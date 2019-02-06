@@ -1,10 +1,10 @@
 {
-  "symbol": "WaBi",
+  "symbol": "WABI",
   "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
   "decimals": 18,
-  "name": "WaBi",
+  "name": "Tael",
   "ens_address": "",
-  "website": "https://www.wacoin.io",
+  "website": "https://taelpay.com",
   "logo": {
     "src": "https://etherscan.io/token/images/wacoin_28.png",
     "width": 28,
@@ -16,7 +16,7 @@
     "url": "support@wacoin.io"
   },
   "social": {
-    "blog": "https://medium.com/@wabiico",
+    "blog": "https://medium.com/@Taelpay",
     "chat": "",
     "facebook": "https://www.facebook.com/wabiico",
     "forum": "https://bitcointalk.org/index.php?topic=2038385.0",
@@ -27,7 +27,7 @@
     "reddit": "https://www.reddit.com/r/WabiToken",
     "slack": "",
     "telegram": "https://t.me/joinchat/GOTG3EIRK4fBEURKmiOYFg",
-    "twitter": "https://twitter.com/wabiico",
+    "twitter": "https://twitter.com/taelpay",
     "youtube": ""
   }
 }

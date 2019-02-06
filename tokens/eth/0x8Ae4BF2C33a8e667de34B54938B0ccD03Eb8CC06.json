@@ -2,7 +2,7 @@
   "symbol": "PTOY",
   "address": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06",
   "decimals": 8,
-  "name": "PTOY",
+  "name": "Patientory",
   "ens_address": "",
   "website": "https://patientory.com",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/patientory",
     "youtube": ""
   }
 }

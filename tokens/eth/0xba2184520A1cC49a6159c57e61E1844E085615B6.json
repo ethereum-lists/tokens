@@ -2,7 +2,7 @@
   "symbol": "HGT",
   "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
   "decimals": 8,
-  "name": "HGT",
+  "name": "HelloGold",
   "ens_address": "",
   "website": "https://www.hellogold.org",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/HelloGold",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/FoundationHG",
     "youtube": ""
   }
 }

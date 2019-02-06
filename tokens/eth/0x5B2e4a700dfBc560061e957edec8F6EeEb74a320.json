@@ -2,9 +2,9 @@
   "symbol": "INS",
   "address": "0x5B2e4a700dfBc560061e957edec8F6EeEb74a320",
   "decimals": 10,
-  "name": "INS",
+  "name": "Insolar",
   "ens_address": "instoken.eth",
-  "website": "https://ins.world",
+  "website": "https://insolar.io",
   "logo": {
     "src": "",
     "width": "",
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/insolar",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/insolar",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/insolario",
     "youtube": ""
   }
 }
