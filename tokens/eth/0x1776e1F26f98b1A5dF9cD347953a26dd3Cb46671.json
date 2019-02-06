@@ -2,9 +2,9 @@
   "symbol": "NMR",
   "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
   "decimals": 18,
-  "name": "NMR",
+  "name": "Numerai",
   "ens_address": "",
-  "website": "https://numer.ai/homepage",
+  "website": "https://numer.ai",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/numerai",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/numerai",
     "youtube": ""
   }
 }

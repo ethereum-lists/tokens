@@ -2,7 +2,7 @@
   "symbol": "HST",
   "address": "0x554C20B7c486beeE439277b4540A434566dC4C02",
   "decimals": 18,
-  "name": "HST",
+  "name": "Decision Token",
   "ens_address": "",
   "website": "https://horizonstate.com",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/horizonstate",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -27,7 +27,7 @@
     "reddit": "https://www.reddit.com/r/HorizonState",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/HorizonState",
     "youtube": ""
   }
 }

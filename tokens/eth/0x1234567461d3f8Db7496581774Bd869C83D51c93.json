@@ -2,7 +2,7 @@
   "symbol": "CAT (BitClave)",
   "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
   "decimals": 18,
-  "name": "CAT (BitClave)",
+  "name": "BitClave",
   "ens_address": "",
   "website": "https://www.bitclave.com",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://weibo.com/bitclave",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "https://slack.bitclave.com",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/bitclave",
     "youtube": ""
   }
 }

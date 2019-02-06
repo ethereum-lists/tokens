@@ -2,9 +2,9 @@
   "symbol": "HMQ",
   "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
   "decimals": 8,
-  "name": "HMQ",
+  "name": "Humaniq",
   "ens_address": "",
-  "website": "https://humaniq.co",
+  "website": "https://humaniq.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Humaniq",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Humaniq",
     "youtube": ""
   }
 }

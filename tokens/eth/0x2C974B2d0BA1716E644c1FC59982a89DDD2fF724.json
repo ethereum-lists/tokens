@@ -2,9 +2,9 @@
   "symbol": "VIB",
   "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
   "decimals": 18,
-  "name": "VIB",
+  "name": "Viberate",
   "ens_address": "",
-  "website": "https://www.viberate.io",
+  "website": "https://www.viberate.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/viberate",
     "slack": "https://viberateico.slack.com",
     "telegram": "https://t.me/joinchat/F-zenkQffjbGY7YqqSQl1w",
-    "twitter": "",
+    "twitter": "https://twitter.com/Viberate_com",
     "youtube": ""
   }
 }

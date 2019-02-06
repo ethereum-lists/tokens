@@ -2,9 +2,9 @@
   "symbol": "FLIXX",
   "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
   "decimals": 18,
-  "name": "FLIXX",
+  "name": "Flixxo",
   "ens_address": "",
-  "website": "http://flixxo.com",
+  "website": "https://www.flixxo.com",
   "logo": {
     "src": "",
     "width": "",
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Flixxo",
     "slack": "",
     "telegram": "t.me/flixxo",
-    "twitter": "",
+    "twitter": "https://twitter.com/flixxo",
     "youtube": ""
   }
 }

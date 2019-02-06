@@ -1,8 +1,8 @@
 {
-  "symbol": "eBTC",
+  "symbol": "EBTC",
   "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
   "decimals": 8,
-  "name": "eBTC",
+  "name": "eBitcoin",
   "ens_address": "",
   "website": "https://ebitcoin.org",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "https://www.reddit.com/r/eBTC",
     "slack": "",
     "telegram": "https://t.me/ComTrust",
-    "twitter": "https://twitter.com/ebtcfoundation",
+    "twitter": "https://twitter.com/eBTC_Official",
     "youtube": "https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
   }
 }

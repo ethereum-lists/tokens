@@ -2,7 +2,7 @@
   "symbol": "REX",
   "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
   "decimals": 18,
-  "name": "REX",
+  "name": "imbrex",
   "ens_address": "",
   "website": "https://imbrex.io",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/REXMLS",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/imbrex_io",
     "youtube": ""
   }
 }

@@ -2,7 +2,7 @@
   "symbol": "CVC",
   "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
   "decimals": 8,
-  "name": "CVC",
+  "name": "Civic",
   "ens_address": "",
   "website": "https://www.civic.com",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/civicplatform",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/civickey",
     "youtube": ""
   }
 }

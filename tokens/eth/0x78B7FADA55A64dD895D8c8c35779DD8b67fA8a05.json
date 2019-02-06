@@ -2,7 +2,7 @@
   "symbol": "ATL",
   "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
   "decimals": 18,
-  "name": "ATL",
+  "name": "ATLANT",
   "ens_address": "",
   "website": "https://atlant.io",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@atlantio",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,7 +24,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Atlantio",
     "slack": "",
     "telegram": "https://t.me/atlant_eng",
     "twitter": "https://twitter.com/atlantio",

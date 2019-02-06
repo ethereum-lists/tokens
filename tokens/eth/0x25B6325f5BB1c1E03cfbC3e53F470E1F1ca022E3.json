@@ -1,11 +1,11 @@
 {
   "symbol": "LML",
-  "name": "LML",
+  "name": "Lisk Machine Learning",
   "type": "ERC20",
   "address": "0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.gny.io/",
+  "website": "https://www.gny.io/lisk",
   "logo": {
     "src": "https://public.liangnotes.com/images/gny/gny-logo.png",
     "width": "696",

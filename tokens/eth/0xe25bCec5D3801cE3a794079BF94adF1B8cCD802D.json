@@ -2,7 +2,7 @@
   "symbol": "MAN",
   "address": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
   "decimals": 18,
-  "name": "MAN",
+  "name": "Matrix AI Network",
   "ens_address": "",
   "website": "https://www.matrix.io",
   "logo": {
@@ -24,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/THEMATRIXAI",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MatrixAINetwork",
     "youtube": ""
   }
 }

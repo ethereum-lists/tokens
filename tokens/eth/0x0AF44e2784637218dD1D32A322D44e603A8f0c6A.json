@@ -2,7 +2,7 @@
   "symbol": "MTX",
   "address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
   "decimals": 18,
-  "name": "MTX",
+  "name": "Matryx",
   "ens_address": "",
   "website": "https://www.matryx.ai",
   "logo": {
@@ -24,7 +24,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/matryx",
     "slack": "",
     "telegram": "https://t.me/matryxai",
     "twitter": "https://twitter.com/matryx_ai",

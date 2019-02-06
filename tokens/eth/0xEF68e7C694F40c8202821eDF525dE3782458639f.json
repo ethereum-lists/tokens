@@ -2,7 +2,7 @@
   "symbol": "LRC",
   "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
   "decimals": 18,
-  "name": "LRC",
+  "name": "Loopring",
   "ens_address": "",
   "website": "https://loopring.org",
   "logo": {
@@ -16,7 +16,7 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@loopring",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -24,7 +24,7 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/loopringorg",
     "slack": "",
     "telegram": "",
     "twitter": "https://twitter.com/loopringorg",
