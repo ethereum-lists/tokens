@@ -1,0 +1,34 @@
+{
+  "symbol": "GUSD",
+  "name": "Gemini dollar",
+  "type": "ERC20",
+  "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
