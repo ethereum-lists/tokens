@@ -52,7 +52,7 @@ dependencies {
     compile "com.github.walleth.kethereum:functions:0.70"
     compile "com.github.walleth.kethereum:crypto_impl_bouncycastle:0.70"
 
-    compile 'com.beust:klaxon:5.0.4'
+    compile 'com.beust:klaxon:5.0.5'
     compile 'com.squareup.moshi:moshi-kotlin:1.8.0'
 }
 
