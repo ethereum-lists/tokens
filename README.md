@@ -35,6 +35,7 @@ This repository has the tokens as single files. This makes it easier for contrib
 - [MyCrypto](https://mycrypto.com)
 - [TREZOR](https://trezor.io) - they even [import via IPFS ;-)](https://github.com/trezor/trezor-common/blob/078cf07658a99888adca19e3284864a5354da550/ethereum_tokens-gen.py#L7)
 - [Tokenstation](https://github.com/TripleSpeeder/TokenStation)
+- [pyetherbalance](https://pypi.org/project/pyetherbalance/)
 - please let us know when you do (you don't need to but it would be nice!)
 
 # Maintainers
