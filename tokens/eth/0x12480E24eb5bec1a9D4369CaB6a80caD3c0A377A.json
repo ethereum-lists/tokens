@@ -1,0 +1,39 @@
+{
+  "symbol": "SUB (old)",
+  "address": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "decimals": 2,
+  "name": "Substratum (old contract)",
+  "ens_address": "",
+  "website": "https://substratum.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SubstratumNetwork",
+    "slack": "http://x.co/SubSlack",
+    "telegram": "",
+    "twitter": "https://twitter.com/SubstratumNet",
+    "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+    "announcement_url": "https://substratum.net/news/substratum-smart-contract-upgrade-token-swap/",
+    "time": "2018-12-18T10:12:18Z",
+    "migration_type": "auto"
+  }
+}
