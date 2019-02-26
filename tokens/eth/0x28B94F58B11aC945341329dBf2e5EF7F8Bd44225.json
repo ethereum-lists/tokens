@@ -1,0 +1,34 @@
+{
+  "symbol": "EMB",
+  "name": "Emblem",
+  "type": "ERC20",
+  "address": "0x28B94F58B11aC945341329dBf2e5EF7F8Bd44225",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://blockcollider.org",
+  "logo": {
+    "src": "https://res.cloudinary.com/dnbcgedbu/image/upload/v1550314565/bc-logo-250x250.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@blockcollider.org",
+    "url": "https://blockcollider.org"
+  },
+  "social": {
+    "blog": "https://blog.blockcollider.org/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockcollider/",
+    "forum": "",
+    "github": "https://github.com/blockcollider",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/blockcollider",
+    "reddit": "https://www.reddit.com/r/blockcollider",
+    "slack": "",
+    "telegram": "https://t.me/blockcollider",
+    "twitter": "https://twitter.com/blockcollider",
+    "youtube": ""
+  }
+}
