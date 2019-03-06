@@ -1,0 +1,33 @@
+{
+  "symbol": "AEUR",
+  "address": "0xc994a2dEb02543Db1f48688438b9903c4b305ce3",
+  "decimals": 2,
+  "name": "Augmint Euro",
+  "ens_address": "",
+  "website": "https://www.augmint.org",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/Qmdv6i9kgFke5mpTH5D2PfVyND1PAtva6p5WvTQUfgd6My",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "Qmdv6i9kgFke5mpTH5D2PfVyND1PAtva6p5WvTQUfgd6My"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/PwDmsnu",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Augmint",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/augmint",
+    "twitter": "https://twitter.com/AugmintStable",
+    "youtube": ""
+  }
+}
