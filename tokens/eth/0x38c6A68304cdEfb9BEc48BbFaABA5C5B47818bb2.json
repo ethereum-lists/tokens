@@ -30,5 +30,9 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+    "migration_type": "newchain:auto:100",
+    "time": "2018-10-14T18:01:00Z"
   }
 }
