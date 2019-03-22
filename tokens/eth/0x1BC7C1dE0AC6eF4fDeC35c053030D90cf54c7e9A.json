@@ -1,0 +1,34 @@
+{
+  "symbol": "YNN",
+  "name": "YANG",
+  "type": "ERC20",
+  "address": "0x1BC7C1dE0AC6eF4fDeC35c053030D90cf54c7e9A",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "https://prnt.sc/mwg7ak",
+    "width": "20",
+    "height": "20",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@yangglobal.com",
+    "url": "www.yangglobal.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GlobalYangYNN/",
+    "forum": "",
+    "github": "https://github.com/Yangglobal/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/yang-global/",
+    "reddit": "https://www.reddit.com/user/yangglobal/",
+    "slack": "",
+    "telegram": "https://t.me/yangglobal",
+    "twitter": "https://twitter.com/GlobalYang",
+    "youtube": ""
+  }
+}
