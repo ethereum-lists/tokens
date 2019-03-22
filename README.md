@@ -6,15 +6,18 @@ This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists]
 
 Information related to tokens. ERC-20 compliant or compatible only, please.
 
+## Format/filename:
+
+The tokens are described in individual, JSON-formatted files. The filename for each token file should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted Ethereum (or other chain) address of the token contract, with a `.json` extension.
+
 ## Fields:
 
 ### Mandatory
 
 -  `symbol`:    Short ticker style symbol of token.
 -  `name`:      Longer human version of token.
--  `address`:   Ethereum (or other chain) address of ERC-20 token.
+-  `address`:   Ethereum (or other chain) address of ERC-20 token, in [ERC-55](https://eips.ethereum.org/EIPS/eip-55) mixed-case format.
 -  `decimals`:  The decimals of the token. As Number and not String.
-
 
 ### Optional
 
