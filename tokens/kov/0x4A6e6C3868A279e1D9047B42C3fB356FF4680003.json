@@ -1,0 +1,32 @@
+{
+  "symbol": "TIB",
+  "name": "ThibCoin",
+  "address": "0x4A6e6C3868A279e1D9047B42C3fB356FF4680003",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "https://i.imgur.com/qvmnsxw.jpg",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
