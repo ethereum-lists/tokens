@@ -1,8 +1,8 @@
 {
-  "symbol": "PCL",
+  "symbol": "OLDPCL",
   "address": "0x3618516F45CD3c913F81F9987AF41077932Bc40d",
   "decimals": 8,
-  "name": "Peculium",
+  "name": "OLDPeculium",
   "ens_address": "",
   "website": "https://peculium.io",
   "logo": {
