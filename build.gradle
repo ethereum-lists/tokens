@@ -55,5 +55,8 @@ dependencies {
 
     compile 'com.beust:klaxon:5.0.5'
     compile 'com.squareup.moshi:moshi-kotlin:1.8.0'
+
+    testImplementation "org.jetbrains.kotlin:kotlin-test"
+    testImplementation "org.jetbrains.kotlin:kotlin-test-junit"
 }
 

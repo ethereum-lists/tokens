@@ -69,15 +69,6 @@ class TheTokenChecker {
         checkTokenFile(file)
     }
 
-
-    @Test(expected = InvalidJSON::class)
-    fun shouldFailForInvalidDeprecation() {
-        val file = getFile("invalid_deprecation/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
-
-        checkTokenFile(file)
-    }
-
-
     @Test(expected = InvalidDeprecationMigrationType::class)
     fun shouldFailForInvalidDeprecationMigrationType() {
         val file = getFile("invalid_deprecation_migration/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
