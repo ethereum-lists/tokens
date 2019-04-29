@@ -1,0 +1,34 @@
+{
+  "symbol": "GCX",
+  "name": "GermanCoin",
+  "type": "ERC20",
+  "address": "0x44A67C8570a61A28bAfd0035042f2F0A73a64428",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://www.germancoin.info",
+  "logo": {
+    "src": "https://www.germancoin.info/attachments/Logo/Germancoin_1.jpg",
+    "width": "311",
+    "height": "312",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@germancoin.info",
+    "url": "https://www.germancoin.info/Contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/engenie/GermanCoin_GCX",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/GermanCoin_GCX",
+    "youtube": ""
+  }
+}
