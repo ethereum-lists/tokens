@@ -1,11 +1,11 @@
 {
   "symbol": "HPB",
-  "name": "HPBCoin",
+  "name": "High Performance Blockchain",
   "type": "ERC20",
   "address": "0x38c6A68304cdEfb9BEc48BbFaABA5C5B47818bb2",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://hpb.io",
   "logo": {
     "src": "",
     "width": "",
@@ -13,22 +13,25 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "hpb@hpb.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://hpb.io/blog",
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/hpb-project/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/hpbglobal",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "deprecation": {
+    "migration_type": "newchain:auto:269",
+    "time": "2018-10-14T18:01:00Z"
 }
