@@ -34,4 +34,5 @@
   "deprecation": {
     "migration_type": "newchain:auto:269",
     "time": "2018-10-14T18:01:00Z"
+  }
 }
