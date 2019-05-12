@@ -2,7 +2,7 @@ package org.ethereum.lists.tokens
 
 import com.beust.klaxon.Klaxon
 
-fun main(args: Array<String>) {
+fun main() {
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
         singleNetworkTokenDirectory.listFiles().forEach {

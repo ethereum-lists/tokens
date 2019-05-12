@@ -4,7 +4,7 @@ import com.beust.klaxon.Klaxon
 import org.kethereum.model.Address
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
         singleNetworkTokenDirectory.listFiles().forEach {
