@@ -1,7 +1,6 @@
 package org.ethereum.lists.tokens
 
-import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
 import org.ethereum.lists.tokens.model.Token
@@ -24,7 +23,7 @@ class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecati
 class InvalidDeprecationTime : InvalidTokenException("Invalid Deprecation Time - Must be ISO8601")
 
 fun checkTokenFile(file: File) {
-    val jsonObject = Parser().parse(file.reader()) as JsonObject
+    val jsonObject = Klaxon().parseJsonObject(file.reader())
     val address = Address(jsonObject["address"] as String)
     when {
         !address.isValid() -> throw InvalidAddress(address)
