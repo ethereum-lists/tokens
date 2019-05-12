@@ -9,6 +9,7 @@ import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.functions.isValid
 import org.kethereum.model.Address
 import java.io.File
+import java.math.BigInteger
 import java.time.format.DateTimeFormatter
 
 open class InvalidTokenException(message: String) : IllegalArgumentException(message)
@@ -47,14 +48,17 @@ fun checkTokenFile(file: File) {
 
         token?.deprecation?.let {
             val safeMigrationType: String = it.migration_type ?: "auto"
-            if (safeMigrationType != "auto" && !safeMigrationType.startsWith("instructions:")) {
-                throw InvalidDeprecationMigrationType()
+            when {
+                safeMigrationType == "auto" || safeMigrationType.startsWith("instructions:") -> Unit
+                safeMigrationType.startsWith("newchain:auto:") -> BigInteger(safeMigrationType.replace("newchain:auto:", ""))
+                else -> throw InvalidDeprecationMigrationType()
             }
+
 
             it.time?.let {
                 try {
                     DateTimeFormatter.ISO_DATE_TIME.parse(it)
-                } catch (e:Exception) {
+                } catch (e: Exception) {
                     throw InvalidDeprecationTime()
                 }
             }

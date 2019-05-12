@@ -26,6 +26,14 @@ class TheTokenChecker {
     }
 
 
+    @Test
+    fun shouldPassForValidTokenWithDeprecationMigrationNewChain() {
+        val file = getFile("valid_deprecation_newchain/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
+
     @Test(expected = InvalidAddress::class)
     fun shouldFailForInvalidAddress() {
         val file = getFile("invalid_address/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
@@ -72,6 +80,13 @@ class TheTokenChecker {
     @Test(expected = InvalidDeprecationMigrationType::class)
     fun shouldFailForInvalidDeprecationMigrationType() {
         val file = getFile("invalid_deprecation_migration/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
+    @Test(expected = NumberFormatException::class)
+    fun shouldFailForInvalidDeprecationNewChain() {
+        val file = getFile("invalid_deprecation_newchain/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
 
         checkTokenFile(file)
     }
