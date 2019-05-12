@@ -46,7 +46,7 @@ task importMEW(type: JavaExec) {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
-    compile "com.github.ethereum-lists:cilib:0.2"
+    compile "com.github.ethereum-lists:cilib:1.0"
 
     compile "com.github.komputing.kethereum:erc55:${KETHEREUM_VERSION}"
     compile "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
