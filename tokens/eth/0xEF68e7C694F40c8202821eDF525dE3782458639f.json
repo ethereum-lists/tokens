@@ -1,0 +1,38 @@
+{
+  "symbol": "LRC (old)",
+  "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
+  "decimals": 18,
+  "name": "Loopring",
+  "ens_address": "",
+  "website": "https://loopring.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "foundation@loopring.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@loopring",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/loopringorg",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/loopringorg",
+    "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+    "announcement_url": "https://medium.com/loopring-protocol/lrc-token-upgraded-a26ee6f87b84",
+    "time": "2019-05-17T17:50:31.903Z" 
+   }
+}
