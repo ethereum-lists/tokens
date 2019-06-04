@@ -1,7 +1,6 @@
 package org.ethereum.lists.tokens
 
-import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
 import org.ethereum.lists.tokens.model.Token
@@ -10,6 +9,7 @@ import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.functions.isValid
 import org.kethereum.model.Address
 import java.io.File
+import java.math.BigInteger
 import java.time.format.DateTimeFormatter
 
 open class InvalidTokenException(message: String) : IllegalArgumentException(message)
@@ -24,7 +24,7 @@ class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecati
 class InvalidDeprecationTime : InvalidTokenException("Invalid Deprecation Time - Must be ISO8601")
 
 fun checkTokenFile(file: File) {
-    val jsonObject = Parser().parse(file.reader()) as JsonObject
+    val jsonObject = Klaxon().parseJsonObject(file.reader())
     val address = Address(jsonObject["address"] as String)
     when {
         !address.isValid() -> throw InvalidAddress(address)
@@ -48,14 +48,17 @@ fun checkTokenFile(file: File) {
 
         token?.deprecation?.let {
             val safeMigrationType: String = it.migration_type ?: "auto"
-            if (safeMigrationType != "auto" && !safeMigrationType.startsWith("instructions:")) {
-                throw InvalidDeprecationMigrationType()
+            when {
+                safeMigrationType == "auto" || safeMigrationType.startsWith("instructions:") -> Unit
+                safeMigrationType.startsWith("newchain:auto:") -> BigInteger(safeMigrationType.replace("newchain:auto:", ""))
+                else -> throw InvalidDeprecationMigrationType()
             }
+
 
             it.time?.let {
                 try {
                     DateTimeFormatter.ISO_DATE_TIME.parse(it)
-                } catch (e:Exception) {
+                } catch (e: Exception) {
                     throw InvalidDeprecationTime()
                 }
             }

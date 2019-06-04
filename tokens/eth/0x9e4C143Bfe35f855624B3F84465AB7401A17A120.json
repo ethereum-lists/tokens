@@ -1,0 +1,34 @@
+{
+  "symbol": "EXC",
+  "name": "EXCOIN CASH ",
+  "type": "ERC20",
+  "address": "0x9e4C143Bfe35f855624B3F84465AB7401A17A120",
+  "ens_address": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1550141963/exc-logo-28x28.png",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mail@domain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

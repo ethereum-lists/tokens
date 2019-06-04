@@ -1,14 +1,14 @@
 {
-  "symbol": "PCL",
+  "symbol": "OLDPCL",
   "address": "0x3618516F45CD3c913F81F9987AF41077932Bc40d",
   "decimals": 8,
-  "name": "Peculium",
+  "name": "OLDPeculium",
   "ens_address": "",
   "website": "https://peculium.io",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://peculium.io/share/pcl_logo.png",
+    "width": "320",
+    "height": "320",
     "ipfs_hash": ""
   },
   "support": {
@@ -16,18 +16,23 @@
     "url": "https://peculium.io"
   },
   "social": {
-    "blog": "",
+    "blog": "https://peculium.io/blog",
     "chat": "",
     "facebook": "https://www.facebook.com/PeculiumICO/",
-    "forum": "",
-    "github": "https://github.com/PeculiumPCL/Peculium",
+    "forum": "https://bitcointalk.org/index.php?topic=2249486",
+    "github": "https://github.com/Peculium-Dev/",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/rashid-oukhai-18888337/",
+    "instagram": "https://www.instagram.com/_peculium/",
+    "linkedin": "https://www.linkedin.com/company/peculium.io",
     "reddit": "https://www.reddit.com/r/Peculium/",
     "slack": "",
-    "telegram": "https://t.me/joinchat/GdlCOw07yJbs2Pt1H8_zrg",
+    "telegram": "https://t.me/ico_peculium",
     "twitter": "https://twitter.com/_Peculium",
-    "youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
+    "youtube": "https://www.youtube.com/channel/UCBhRs-vzAuv_ezlPBcZjmNQ"
+  },
+   "deprecation": {
+    "new_address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+    "migration_type": "instructions:https://peculium.io/blog/token-upgrade-to-path-the-way-no-action-required",
+    "time": "2019-02-21T05:01:46Z"
   }
 }

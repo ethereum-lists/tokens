@@ -2,7 +2,7 @@ package org.ethereum.lists.tokens
 
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 import org.ethereum.lists.cilib.checkFields
 import org.ethereum.lists.cilib.copyFields
 import java.io.File
@@ -10,9 +10,9 @@ import java.lang.System.exit
 import java.nio.file.Files
 
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2)
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2, "gor" to 5)
 
-fun main(args: Array<String>) {
+fun main() {
     checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
@@ -20,7 +20,9 @@ fun main(args: Array<String>) {
         singleNetworkTokenDirectory.listFiles().forEach {
             try {
                 checkTokenFile(it)
-                val jsonObject = Parser().parse(it.reader()) as JsonObject
+                val jsonObject = it.reader().use { reader ->
+                    Klaxon().parseJsonObject(reader)
+                }
                 jsonArray.add(jsonObject)
 
             } catch (e: Exception) {

@@ -1,20 +1,19 @@
 package org.ethereum.lists.tokens
 
-import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 
-fun main(args: Array<String>) {
+fun main() {
 
     allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
         singleNetworkTokenDirectory.listFiles().forEach {
-            val reader = it.reader()
-            val jsonObject = Parser().parse(reader) as JsonObject
+            val jsonObject =it.reader().use { reader ->
+                Klaxon().parseJsonObject(reader)
+            }
             val decimals = jsonObject["decimals"]
             if (decimals is String) {
                 println("got string decimal - rewrite")
                 jsonObject["decimals"] =  Integer.parseInt( decimals )
             }
-            reader.close()
             it.writeText(jsonObject.toJsonString(true))
         }
     }

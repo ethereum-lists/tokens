@@ -1,0 +1,34 @@
+{
+  "symbol": "GBO",
+  "name": "GABO",
+  "type": "ERC20",
+  "address": "0xCc2a74b28E786Fac86bE3CA354B1941c25aB3EaB",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://gabotoken.org",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1556654278/GBO-LOGO-256X256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gabotoken.org",
+    "url": "http://gabotoken.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gabo.token.1",
+    "forum": "",
+    "github": "https://github.com/GABOtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/gabotoken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BFT",
+  "name": "BnkToTheFuture",
+  "type": "ERC20",
+  "address": "0x01fF50f8b7f74E4f00580d9596cd3D0d6d6E326f",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://bnktothefuture.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://bnktothefuture.com/support"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/banktothefuture",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/bank-to-the-future",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/banktothefuture",
+    "youtube": "https://www.youtube.com/user/BankToTheFuture"
+  }
+}

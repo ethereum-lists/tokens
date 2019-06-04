@@ -1,8 +1,7 @@
 package org.ethereum.lists.tokens
 
-import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 import org.ethereum.lists.cilib.checkFields
 import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
@@ -24,7 +23,9 @@ fun main(args: Array<String>) {
     importPath.listFiles().forEach { tokenPath ->
         tokenPath.listFiles().forEach {
             print("processing " + it.name + " .. ")
-            val array = (Parser().parse(it.reader()) as JsonArray<*>).map { it as JsonObject }
+            val array = it.reader ().use { reader ->
+                Klaxon().parseJsonArray(reader).map { it as JsonObject }
+            }
             println("contains " + array.size + " entries ")
 
             array.checkFields(mandatoryFields, optionalFields)
