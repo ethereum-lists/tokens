@@ -2,7 +2,7 @@
   "symbol": "TENX",
   "name": "TenX",
   "address": "0x515bA0a2E286AF10115284F151cF398688A69170",
-  "decimals": "18",
+  "decimals": 18,
   "logo": "https://tinypng.com/web/output/2erhw61nnhe7e9u43wnuv33r69p754ce/TENXtoken128_2.png",
   "support": "support@tenx.tech",
   "github": "github.com/tenx-tech/tenx-token",
