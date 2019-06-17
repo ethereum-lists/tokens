@@ -1,0 +1,34 @@
+{
+  "symbol": "TENX",
+  "name": "TenX",
+  "type": "ERC20",
+  "address": "0x515bA0a2E286AF10115284F151cF398688A69170",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://tenx.tech/en/",
+  "logo": {
+    "src": "TODO",
+    "width": "TODO",
+    "height": "TODO",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@tenx.tech",
+    "url": "https://support.tenx.tech/hc/en-us"
+  },
+  "social": {
+    "blog": "https://blog.tenx.tech/",
+    "chat": "https://chat.tenx.tech/home",
+    "facebook": "",
+    "forum": "https://forum.tenx.tech/",
+    "github": "https://github.com/tenx-tech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tenxwallet/",
+    "reddit": "https://www.reddit.com/r/tenx",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tenxwallet",
+    "youtube": ""
+  }
+}
