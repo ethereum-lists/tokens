@@ -10,6 +10,8 @@ Information related to tokens. ERC-20 compliant or compatible only, please.
 
 The tokens are described in individual, JSON-formatted files. The filename for each token file should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted Ethereum (or other chain) address of the token contract, with a `.json` extension.
 
+This web tool should help getting the checksum: https://ethsum.netlify.com
+
 ## Fields:
 
 ### Mandatory
