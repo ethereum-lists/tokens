@@ -1,0 +1,34 @@
+{
+  "symbol": "KBC",
+  "name": "KaratBank Coin",
+  "type": "ERC20",
+  "address": "0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a",
+  "ens_address": "",
+  "decimals": 7,
+  "website": "https://karatgold.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
