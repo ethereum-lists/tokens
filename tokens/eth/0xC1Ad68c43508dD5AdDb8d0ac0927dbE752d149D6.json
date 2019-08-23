@@ -1,0 +1,33 @@
+{
+  "symbol": "STL",
+  "address": "0xC1Ad68c43508dD5AdDb8d0ac0927dbE752d149D6",
+  "decimals": 18,
+  "name": "Stablecoinswap",
+  "ens_address": "",
+  "website": "https://stablecoinswap.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/stablecoinswap",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/StablecoinSwap",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://twitter.com/stablecoinswap",
+    "youtube": ""
+  }
+}
