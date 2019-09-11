@@ -1,0 +1,33 @@
+{
+  "symbol": "PETH",
+  "address": "0xf53AD2c6851052A81B42133467480961B2321C09",
+  "decimals": 18,
+  "name": "Pooled Ether",
+  "ens_address": "",
+  "website": "https://dai.makerdao.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.makerdao.com/",
+    "chat": "https://chat.makerdao.com/",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MakerDAO",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
