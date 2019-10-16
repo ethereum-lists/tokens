@@ -1,0 +1,35 @@
+{
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "type": "ERC20",
+    "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+    "decimals": 18,
+    "ens_address": "",
+    "website": "https://www.paxos.com/paxgold",
+    "logo": {
+      "src": "https://etherscan.io/token/images/paxosgold_32.png",
+      "width": "32",
+      "height": "32",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "paxgold@paxos.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://medium.com/Paxos",
+      "chat": "",
+      "facebook": "http://facebook.com/paxosglobal",
+      "forum": "",
+      "github": "https://github.com/paxosglobal/paxos-gold-contract",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/paxos/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/PaxosGlobal",
+      "youtube": ""
+    }
+  }
+  
