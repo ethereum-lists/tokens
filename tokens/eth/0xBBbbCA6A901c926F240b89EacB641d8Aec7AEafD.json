@@ -3,12 +3,12 @@
   "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
   "decimals": 18,
   "name": "Loopring",
-  "ens_address": "",
+  "ens_address": "lrctoken.eth",
   "website": "https://loopring.org",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://loopring.org/resources/LRC/blue.svg",
+    "width": "300",
+    "height": "300",
     "ipfs_hash": ""
   },
   "support": {
@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "https://medium.com/@loopring",
+    "blog": "https://medium.com/loopring-protocol",
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/loopring",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/loopringorg",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/loopring_en",
     "twitter": "https://twitter.com/loopringorg",
     "youtube": ""
   }

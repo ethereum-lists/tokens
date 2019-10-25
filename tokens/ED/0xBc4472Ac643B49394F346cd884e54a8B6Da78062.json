@@ -1,0 +1,31 @@
+{
+  "symbol": "ED",
+  "name": "ED coin",
+  "type": "ERC20",
+  "address": "0xBc4472Ac643B49394F346cd884e54a8B6Da78062",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://edcoin.kr",
+  "logo": {
+    "src": "http://edcoin.kr/wp-content/ED_56x56.png",
+    "width": "56px",
+    "height": "56px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "edcoin.kr@gmail.com", "url": "http://edcoin.kr" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/EDCoinproject",
+    "forum": "",
+    "github": "https://github.com/ED-PROJECT01/EDCAD_sol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "t.me/edcteam",
+    "twitter": "https://twitter.com/EDCoinproject/",
+    "youtube": "https://youtu.be/KfQJBcXHTpk"
+  }
+}

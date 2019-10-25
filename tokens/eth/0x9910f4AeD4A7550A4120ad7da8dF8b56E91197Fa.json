@@ -1,0 +1,33 @@
+{
+  "symbol": "TCST",
+  "address": "0x9910f4AeD4A7550A4120ad7da8dF8b56E91197Fa",
+  "decimals": 0,
+  "name": "TradeCloud Security Token",
+  "ens_address": "tradecloud.eth",
+  "website": "https://sto.tradecloud.sg/#token-metrics-section",
+  "logo": {
+    "src": "https://sto.tradecloud.sg/wp-content/themes/tradecloud/assets/images/TradeCloudCommoditiesWeb160x160.png",
+    "width": "160",
+    "height": "160",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "tcst@tradecloud.sg",
+    "url": "https://tradecloud.sg/support/"
+  },
+  "social": {
+    "blog": "https://medium.com/tradecloud",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tradecloud-services-pte-ltd",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TradeCloud_STO",
+    "twitter": "https://twitter.com/tradecloudsto",
+    "youtube": "https://www.youtube.com/channel/UCzTOv7ten6SGGj_l2o0Tx8w"
+  }
+}
