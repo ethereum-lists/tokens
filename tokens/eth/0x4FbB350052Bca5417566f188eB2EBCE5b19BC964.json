@@ -1,0 +1,34 @@
+{
+  "symbol": "GRG",
+  "name": "Rigo Token",
+  "type": "ERC20",
+  "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "https://etherscan.io/token/images/rigotoken_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
