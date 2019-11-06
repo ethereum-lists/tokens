@@ -19,15 +19,15 @@
     "blog": "https://medium.com/@BitPopulous",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1866936",
+    "github": "https://github.com/Bitpopulous",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "slack": "https://bitpopulous.herokuapp.com/",
+    "telegram": "https://telegram.me/Populous",
+    "twitter": "https://twitter.com/bitpopulous",
     "youtube": ""
   }
 }
