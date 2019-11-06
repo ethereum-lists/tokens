@@ -4,7 +4,7 @@
   "decimals": 9,
   "name": "Digix DAO",
   "ens_address": "",
-  "website": "https://www.dgx.io",
+  "website": "https://digix.global/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "support@digix.global",
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
+    "blog": "https://medium.com/Digix",
+    "chat": "https://discord.gg/CCDBJJC",
     "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/digixglobal/",
     "reddit": "https://www.reddit.com/r/digix",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/digixofficial",
+    "twitter": "https://twitter.com/@DigixGlobal",
     "youtube": ""
   }
 }

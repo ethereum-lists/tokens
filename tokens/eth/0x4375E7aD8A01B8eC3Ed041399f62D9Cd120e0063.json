@@ -13,22 +13,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "business@bitz.info",
     "url": ""
   },
   "social": {
     "blog": "https://medium.com/@Bit_z.com",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/BitZAgency/",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "slack": "https://bit-z.slack.com/join/shared_invite/enQtMjQ0NjQxNzc2NTQ5LWZhZGY1MzkxNjRjOTU3ZTYxNWRkOTQwMmY4NzExYmI5M2Q1ODQwZDE3YjdkZjk3ZTgxOGIyYTQyYzlhMzc3ODg",
+    "telegram": "https://t.me/bitzEN",
+    "twitter": "https://twitter.com/BitZExchange",
     "youtube": ""
   }
 }

@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "tokensupport@breadapp.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://breadapp.com/blog/",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/breadapp/",
     "forum": "",
     "github": "https://github.com/breadwallet",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/breadwallet/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/HclhZ0q7-w8kx5NjYTa7Vw",
+    "twitter": "https://twitter.com/breadapp",
     "youtube": ""
   }
 }

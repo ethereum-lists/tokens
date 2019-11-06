@@ -12,21 +12,21 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "services@waltonchain.org",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/waltonchain",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/waltonchain",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/waltonchain",
-    "slack": "",
-    "telegram": "",
+    "slack": "https://waltonchain.slack.com/",
+    "telegram": "https://t.me/waltonchain_en",
     "twitter": "https://twitter.com/Waltonchain",
     "youtube": ""
   }

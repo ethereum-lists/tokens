@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@funfair.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://funfair.io/blog/",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/groups/148397155706069/",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/FunfairTech/comments/6nadvm/funfair_token_contract_update",
-    "slack": "https://funfair-slackin.herokuapp.com",
-    "telegram": "",
-    "twitter": "https://twitter.com/FunFairTech/status/885910956701876224",
+    "reddit": "https://www.reddit.com/r/FunfairTech/",
+    "slack": "https://funfair.slack.com/",
+    "telegram": "https://t.me/FunFairTech/",
+    "twitter": "https://twitter.com/FunFairTech",
     "youtube": ""
   }
 }

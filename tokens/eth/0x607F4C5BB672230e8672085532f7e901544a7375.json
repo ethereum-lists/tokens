@@ -4,7 +4,7 @@
   "decimals": 9,
   "name": "IEx.ec",
   "ens_address": "",
-  "website": "http://crowdsale.iex.ec",
+  "website": "http://iex.ec/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "contact@iex.ec",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iex-ec",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/iexecteam/",
+    "forum": "https://bitcointalk.org/index.php?topic=1746241.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "https://52.44.51.109:3000",
+    "reddit": "https://www.reddit.com/r/iexec/",
+    "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/iEx_ec",
     "youtube": ""
   }
 }
