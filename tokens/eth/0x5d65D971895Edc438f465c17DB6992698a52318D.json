@@ -5,7 +5,7 @@
   "address": "0x5d65D971895Edc438f465c17DB6992698a52318D",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://nebulas.io/index.html",
   "logo": {
     "src": "",
     "width": "",
@@ -13,11 +13,11 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "contact@nebulas.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@nebulasio",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -26,9 +26,9 @@
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "",
+    "slack": "https://nebulasio.slack.com/",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/nebulasio",
     "youtube": ""
   }
 }
