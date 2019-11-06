@@ -5,7 +5,7 @@
   "address": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://www.qubitica.net/ ",
   "logo": {
     "src": "",
     "width": "",
@@ -13,22 +13,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@qubitica.net",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Qubitica/",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/dantak2000/qubitica",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/Qubitica",
     "youtube": ""
   }
 }
