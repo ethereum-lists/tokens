@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Republic Token",
   "ens_address": "republicprotocol.eth",
-  "website": "https://republicprotocol.com",
+  "website": "https://renproject.io/",
   "logo": {
     "src": "https://republicprotocol.github.io/files/logo/128x128.png",
     "width": "128",
@@ -12,22 +12,22 @@
     "ipfs_hash": "QmYKRbioKtew8ktcVy86QmxyZ2YjN2JSbKoCQpkuLiyywe"
   },
   "support": {
-    "email": "support@republicprotocol.com",
+    "email": "support@renproject.io",
     "url": ""
   },
   "social": {
-    "blog": "https://medium.com/republicprotocol",
+    "blog": "https://medium.com/renproject",
     "chat": "",
-    "facebook": "https://www.facebook.com/RepublicProtocol",
+    "facebook": "https://www.facebook.com/RenProject/",
     "forum": "",
-    "github": "https://github.com/republicprotocol",
+    "github": "https://github.com/renproject",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/republic-protocol",
-    "reddit": "https://www.reddit.com/r/republicprotocol",
+    "linkedin": "https://www.linkedin.com/company/republic-protocol/about/",
+    "reddit": "https://www.reddit.com/r/RenProject",
     "slack": "",
-    "telegram": "https://t.me/republicprotocol",
-    "twitter": "https://twitter.com/republicorg",
+    "telegram": "https://t.me/renproject",
+    "twitter": "https://twitter.com/renprotocol",
     "youtube": "https://www.youtube.com/channel/UCd2SRjq53m4zQI54SXPgfRA"
   }
 }
