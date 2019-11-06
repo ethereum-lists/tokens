@@ -13,21 +13,21 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "co@stasis.net",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://stasis.net/blog/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/stasisnet",
+    "forum": "https://bitcointalk.org/index.php?topic=4789890",
+    "github": "https://github.com/stasisnet",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/STASIS",
     "twitter": "https://twitter.com/stasisnet",
     "youtube": ""
   }
