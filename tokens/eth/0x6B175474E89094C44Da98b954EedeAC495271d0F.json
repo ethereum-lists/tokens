@@ -1,8 +1,8 @@
 {
-  "symbol": "SAI",
-  "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+  "symbol": "DAI",
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
   "decimals": 18,
-  "name": "Dai Stablecoin v1.0",
+  "name": "Dai Stablecoin v2.0",
   "ens_address": "",
   "website": "https://makerdao.com",
   "logo": {
