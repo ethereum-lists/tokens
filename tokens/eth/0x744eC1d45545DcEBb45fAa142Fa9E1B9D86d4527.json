@@ -1,0 +1,34 @@
+{
+  "symbol": "xOXT",
+  "name": "Orchid OXT Futures",
+  "type": "ERC20",
+  "address": "0x744eC1d45545DcEBb45fAa142Fa9E1B9D86d4527",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://www.orchid.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
