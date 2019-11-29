@@ -1,0 +1,34 @@
+{
+  "symbol": "xMOBILECOIN",
+  "name": "MobileCoin MOBILECOIN Futures",
+  "type": "ERC20",
+  "address": "0xbd7D6a2183335eA25af2AF22c1F169FB0f6395f7",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://www.mobilecoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
