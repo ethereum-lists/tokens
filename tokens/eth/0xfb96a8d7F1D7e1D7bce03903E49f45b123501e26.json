@@ -1,0 +1,34 @@
+{
+  "symbol": "xKDA",
+  "name": "Kadena KDA Futures",
+  "type": "ERC20",
+  "address": "0xfb96a8d7F1D7e1D7bce03903E49f45b123501e26",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://www.kadena.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
