@@ -1,0 +1,34 @@
+{
+  "symbol": "xDOT",
+  "name": "Polkadot DOT Futures",
+  "type": "ERC20",
+  "address": "0x7C5Cf2f624182D6b019470c7cffF8Ad27AAB51A8",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://polkadot.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
