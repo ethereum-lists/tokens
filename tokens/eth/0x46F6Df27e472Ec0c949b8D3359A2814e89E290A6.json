@@ -1,0 +1,34 @@
+{
+  "symbol": "xNU",
+  "name": "NuCypher NU Futures",
+  "type": "ERC20",
+  "address": "0x46F6Df27e472Ec0c949b8D3359A2814e89E290A6",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://www.nucypher.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
