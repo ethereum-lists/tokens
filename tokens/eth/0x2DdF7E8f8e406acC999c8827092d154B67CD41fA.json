@@ -1,0 +1,34 @@
+{
+  "symbol": "xKLAY",
+  "name": "Klaytn KLAY Futures",
+  "type": "ERC20",
+  "address": "0x2DdF7E8f8e406acC999c8827092d154B67CD41fA",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://www.klaytn.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@xfutures.zendesk.com",
+    "url": "https://www.xfutures.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
