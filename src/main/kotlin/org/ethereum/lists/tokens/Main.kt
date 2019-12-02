@@ -6,8 +6,8 @@ import com.beust.klaxon.Klaxon
 import org.ethereum.lists.cilib.checkFields
 import org.ethereum.lists.cilib.copyFields
 import java.io.File
-import java.lang.System.exit
 import java.nio.file.Files
+import kotlin.system.exitProcess
 
 
 val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2, "gor" to 5)
@@ -28,7 +28,7 @@ fun main() {
             } catch (e: Exception) {
                 println("Problem with $it: $e")
 
-                exit(1)
+                exitProcess(1)
             }
         }
 
