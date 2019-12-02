@@ -15,9 +15,9 @@ val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "ro
 fun main() {
     checkForTokenDefinitionsInWrongPath()
 
-    allNetworksTokenDir.listFiles().forEach { singleNetworkTokenDirectory ->
+    allNetworksTokenDir.listFiles()?.forEach { singleNetworkTokenDirectory ->
         val jsonArray = JsonArray<JsonObject>()
-        singleNetworkTokenDirectory.listFiles().forEach {
+        singleNetworkTokenDirectory.listFiles()?.forEach {
             try {
                 checkTokenFile(it)
                 val jsonObject = it.reader().use { reader ->
@@ -47,7 +47,7 @@ private fun checkForTokenDefinitionsInWrongPath() {
         if (path.isDirectory
                 && !Files.isSameFile((path.parentFile ?: path).toPath(), allNetworksTokenDir.toPath())
                 && !path.absolutePath.contains("/test_tokens/")) {
-            path.list().firstOrNull { it.startsWith("0x") }?.let {
+            path.list()?.firstOrNull { it.startsWith("0x") }?.let {
                 throw IllegalArgumentException("There is a token definition file ($it) placed in a directory where it does not belong (${path.absolutePath})")
             }
         }
