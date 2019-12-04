@@ -1,0 +1,33 @@
+{
+  "symbol": "HEX",
+  "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+  "decimals": 8,
+  "name": "HEX",
+  "ens_address": "",
+  "website": "https://hex.win",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/QmXt29juPFuD8uuSu4XicskqjGCCBpLJgU5JzxvUcPDd7h",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmXt29juPFuD8uuSu4XicskqjGCCBpLJgU5JzxvUcPDd7h"
+  },
+  "support": {
+    "email": "",
+    "url": "https://t.me/HEXcrypto"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/HEXcrypto",
+    "facebook": "https://www.facebook.com/HEXcrypto",
+    "forum": "",
+    "github": "https://github.com/bitcoinHEX",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/HEXcrypto",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HEXcrypto",
+    "slack": "",
+    "telegram": "https://t.me/HEXcrypto",
+    "twitter": "https://twitter.com/HEXCrypto",
+    "youtube": "https://youtube.com/HexCrypto"
+  }
+}
