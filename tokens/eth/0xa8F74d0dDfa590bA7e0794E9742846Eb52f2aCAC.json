@@ -1,0 +1,34 @@
+{
+  "symbol": "EGY",
+  "name": "EGYPT",
+  "type": "ERC20",
+  "address": "0xa8F74d0dDfa590bA7e0794E9742846Eb52f2aCAC",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.egyptcryptocoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "egyptcryptocoin@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EGYPTCryptoCoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3279120.msg34185023#msg34185023",
+    "github": "https://github.com/EgyptCryptoCoin/EGYPTcryptocoin",
+    "discord": "https://discordapp.com/channels/439301994545545218/439301995191336961",
+    "instagram": "https://www.instagram.com/egyptcryptocoin",
+    "linkedin": "https://www.linkedin.com/company/egyptcryptocoin",
+    "reddit": "https://www.reddit.com/user/EGYPTCryptoCoin",
+    "slack": "https://egyptcryptocoin.slack.com/",
+    "telegram": "https://t.me/EGYcoin",
+    "twitter": "https://twitter.com/EGYPTcryptocoin",
+    "youtube": "https://www.youtube.com/channel/UC8PhDgHn_XZuOMc8el3eeDA"
+  }
+}
