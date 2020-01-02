@@ -1,7 +1,7 @@
 {
   "symbol": "TLN",
   "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
-  "decimals": "18",
+  "decimals": 18,
   "name": "Trustlines Network Token",
   "ens_address": "",
   "website": "https://trustlines.network/",
