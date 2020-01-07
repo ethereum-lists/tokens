@@ -1,0 +1,34 @@
+{
+   "symbol":"ARE",
+   "name":"Aurei",
+   "type":"ERC20",
+   "address":"0x92afBa413BF9E5DA3919A522E371884bEAC76309",
+   "ens_address":"",
+   "decimals":8,
+   "website":"https://www.aurei-crypto.io/",
+   "logo":{
+      "src":"https://i.imgur.com/EAWySyC.png",
+      "width":"128",
+      "height":"128",
+      "ipfs_hash":""
+   },
+   "support":{
+      "email":"contact@aurei-crypto.io",
+      "url":""
+   },
+   "social":{
+      "blog":"",
+      "chat":"",
+      "facebook":"",
+      "forum":"",
+      "github":"https://github.com/AureiProject/aurei-token",
+      "gitter":"",
+      "instagram":"",
+      "linkedin":"",
+      "reddit":"",
+      "slack":"",
+      "telegram":"",
+      "twitter":"https://twitter.com/AureiCrypto",
+      "youtube":""
+   }
+}
