@@ -1,0 +1,34 @@
+{
+  "symbol": "ANJ",
+  "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+  "decimals": 18,
+  "name": "Aragon Network Juror",
+  "ens_address": "",
+  "website": "https://anj.aragon.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "founders@aragon.one",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aragon.org/",
+    "chat": "https://aragon.chat/",
+    "facebook": "",
+    "forum": "https://forum.aragon.org/",
+    "github": "https://github.com/aragon/aragon-court",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/aragonproject/",
+    "reddit": "https://www.reddit.com/r/aragonproject/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/AragonProject",
+    "youtube": "https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ"
+  }
+}
+
