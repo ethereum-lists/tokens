@@ -1,0 +1,34 @@
+{
+    "symbol": "Uniswap V1",
+    "address": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14",
+    "decimals": 18,
+    "name": "UNI-V1:SAI",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}
