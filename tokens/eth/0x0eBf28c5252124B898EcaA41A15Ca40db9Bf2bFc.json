@@ -1,7 +1,7 @@
 {
     "symbol": "usETH4x",
     "address": "0x0eBf28c5252124B898EcaA41A15Ca40db9Bf2bFc",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short ETH 4x",
     "ens_address": "",
     "website": "https://bzx.network/",

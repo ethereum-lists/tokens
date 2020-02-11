@@ -1,7 +1,7 @@
 {
     "symbol": "uLWBTC4x",
     "address": "0x619732bE53BdFB270eE889Cf3DFe6fceE4171261",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long WBTC 4x",
     "ens_address": "",
     "website": "https://bzx.network/",

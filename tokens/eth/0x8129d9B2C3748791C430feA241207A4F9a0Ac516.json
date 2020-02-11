@@ -1,7 +1,7 @@
 {
     "symbol": "dLETH2x_v2",
     "address": "0x8129d9B2C3748791C430feA241207A4F9a0Ac516",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long ETH-DAI 2x v2",
     "ens_address": "",
     "website": "https://bzx.network/",

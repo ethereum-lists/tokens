@@ -1,7 +1,7 @@
 {
     "symbol": "dLETH4x",
     "address": "0x8EFE972dE7Ee0441D1E01FB0C84Ea900fD1770D0",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long ETH 4x",
     "ens_address": "",
     "website": "https://bzx.network/",

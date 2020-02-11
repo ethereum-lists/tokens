@@ -1,7 +1,7 @@
 {
     "symbol": "iBAT",
     "address": "0xA8b65249DE7f85494BC1fe75F525f568aa7dfa39",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx BAT iToken",
     "ens_address": "",
     "website": "https://bzx.network/",

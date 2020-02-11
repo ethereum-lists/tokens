@@ -1,7 +1,7 @@
 {
     "symbol": "usREP4x",
     "address": "0x7eE12ffF0A8f975fCA5193825c215612A0eb07b7",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short REP 4x",
     "ens_address": "",
     "website": "https://bzx.network/",

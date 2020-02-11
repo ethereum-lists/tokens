@@ -1,7 +1,7 @@
 {
     "symbol": "uLETH2x",
     "address": "0x6368b095a4F4702BF1373A0a2aD029696A2e7695",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long ETH 2x",
     "ens_address": "",
     "website": "https://bzx.network/",

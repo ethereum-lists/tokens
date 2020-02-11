@@ -1,7 +1,7 @@
 {
     "symbol": "dsLINK2x_v2",
     "address": "0xa901e48DB5a856Da5F27E74a936259808D4C83Af",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short LINK-DAI 2x v2",
     "ens_address": "",
     "website": "https://bzx.network/",

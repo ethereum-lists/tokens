@@ -1,7 +1,7 @@
 {
     "symbol": "dsBAT3x",
     "address": "0x6F3a5DCc36eEee5bd8B9B5Db3B6431187A8F1E17",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short BAT 3x",
     "ens_address": "",
     "website": "https://bzx.network/",

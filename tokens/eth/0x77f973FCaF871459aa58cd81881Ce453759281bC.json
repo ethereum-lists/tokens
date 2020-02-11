@@ -1,7 +1,7 @@
 {
     "symbol": "iETH",
     "address": "0x77f973FCaF871459aa58cd81881Ce453759281bC",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx ETH iToken",
     "ens_address": "",
     "website": "https://bzx.network/",

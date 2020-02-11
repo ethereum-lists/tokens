@@ -1,7 +1,7 @@
 {
     "symbol": "dsETH",
     "address": "0x29838a8f16eA5D23dF476f1b1dAb62fce7883a6b",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short ETH",
     "ens_address": "",
     "website": "https://bzx.network/",

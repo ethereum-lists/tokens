@@ -1,7 +1,7 @@
 {
     "symbol": "dLWBTC3x",
     "address": "0x6d08B86002221Dc2fE4e27170fF90e1B92de3254",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long WBTC 3x",
     "ens_address": "",
     "website": "https://bzx.network/",

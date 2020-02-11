@@ -1,7 +1,7 @@
 {
     "symbol": "dLETH3x",
     "address": "0x19a5C979e96823A79F05d3E7658DdBc2d50Bd326",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Long ETH 3x",
     "ens_address": "",
     "website": "https://bzx.network/",

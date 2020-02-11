@@ -1,7 +1,7 @@
 {
     "symbol": "dsETH4x_v2",
     "address": "0x2Ba3302C974B0B8d38ADf2E7Aa362c9bFF47d1Cc",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short ETH-DAI 4x v2",
     "ens_address": "",
     "website": "https://bzx.network/",

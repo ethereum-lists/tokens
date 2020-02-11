@@ -1,0 +1,34 @@
+{
+    "symbol": "INX",
+    "address": "0x018d7D179350f1Bb9853D04982820E37ccE13a92",
+    "decimals": 8,
+    "name": "Token INMAX",
+    "ens_address": "",
+    "website": "https://inmax.live/ ",
+    "logo": {
+      "src": "https://etherscan.io/token/images/bitscreener_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@inmax.live",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/inmax.official/",
+      "forum": "",
+      "github": "https://github.com/InMax-Exchange",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/inmax_exchange_news",
+      "twitter": "https://twitter.com/inmax_exchange",
+      "youtube": ""
+    }
+}

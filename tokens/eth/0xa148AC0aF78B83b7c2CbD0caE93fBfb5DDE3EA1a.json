@@ -1,7 +1,7 @@
 {
     "symbol": "usKNC",
     "address": "0xa148AC0aF78B83b7c2CbD0caE93fBfb5DDE3EA1a",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short KNC",
     "ens_address": "",
     "website": "https://bzx.network/",

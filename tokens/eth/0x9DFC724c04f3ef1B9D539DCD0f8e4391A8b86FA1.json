@@ -1,7 +1,7 @@
 {
     "symbol": "usWBTC",
     "address": "0x9DFC724c04f3ef1B9D539DCD0f8e4391A8b86FA1",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short WBTC",
     "ens_address": "",
     "website": "https://bzx.network/",

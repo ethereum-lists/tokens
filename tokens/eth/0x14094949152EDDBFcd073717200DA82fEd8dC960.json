@@ -1,7 +1,7 @@
 {
     "symbol": "iDAI",
     "address": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx SAI iToken ",
     "ens_address": "",
     "website": "https://bzx.network/",
