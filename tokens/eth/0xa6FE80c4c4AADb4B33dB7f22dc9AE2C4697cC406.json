@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsAUD",
+    "address": "0xa6FE80c4c4AADb4B33dB7f22dc9AE2C4697cC406",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth AUD",
     "ens_address": "",
     "website": "",
     "logo": {

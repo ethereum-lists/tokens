@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsXRP",
+    "address": "0xC64CdA66Bc1d026b984D6BEE6aDBf71eAc8A099d",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth XRP",
     "ens_address": "",
     "website": "",
     "logo": {

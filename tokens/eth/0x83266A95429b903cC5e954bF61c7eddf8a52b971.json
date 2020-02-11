@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthiBTC",
+    "address": "0x83266A95429b903cC5e954bF61c7eddf8a52b971",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth iBTC",
     "ens_address": "",
     "website": "",
     "logo": {

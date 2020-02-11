@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthiLTC",
+    "address": "0xec98BB42C8F03485bf659378da694512a16f3482",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth LTC",
     "ens_address": "",
     "website": "",
     "logo": {

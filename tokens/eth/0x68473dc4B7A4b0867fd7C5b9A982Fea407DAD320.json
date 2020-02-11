@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsEUR",
+    "address": "0x68473dc4B7A4b0867fd7C5b9A982Fea407DAD320",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth sEUR",
     "ens_address": "",
     "website": "",
     "logo": {

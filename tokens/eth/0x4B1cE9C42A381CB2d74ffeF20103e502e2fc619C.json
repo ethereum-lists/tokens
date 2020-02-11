@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsJPY",
+    "address": "0x4B1cE9C42A381CB2d74ffeF20103e502e2fc619C",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth JPY",
     "ens_address": "",
     "website": "",
     "logo": {

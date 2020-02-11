@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsBNB",
+    "address": "0xE5787927410b659cc4eA2441cDaa361f9D7b250C",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth BNB",
     "ens_address": "",
     "website": "",
     "logo": {

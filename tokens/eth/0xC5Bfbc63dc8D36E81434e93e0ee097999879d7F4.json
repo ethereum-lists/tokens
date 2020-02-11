@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthiDEFI",
+    "address": "0xC5Bfbc63dc8D36E81434e93e0ee097999879d7F4",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth iDEFI",
     "ens_address": "",
     "website": "",
     "logo": {

@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsXAU",
+    "address": "0x4d96b67f5BDe58A622D9bF2B8a1906C8B084fAf4",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth XAU",
     "ens_address": "",
     "website": "",
     "logo": {

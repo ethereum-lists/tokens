@@ -1,8 +1,8 @@
 {
-    "symbol": "MGN",
-    "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+    "symbol": "SynthsMKR",
+    "address": "0x84965DCa28c4Eb9dE61d80f80e811eA12BE1c819",
     "decimals": 18,
-    "name": "Magnolia Token",
+    "name": "Synth MKR",
     "ens_address": "",
     "website": "",
     "logo": {
