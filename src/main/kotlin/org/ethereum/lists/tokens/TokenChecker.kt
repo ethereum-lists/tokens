@@ -5,8 +5,8 @@ import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
 import org.ethereum.lists.tokens.model.Token
 import org.kethereum.erc55.hasValidERC55Checksum
+import org.kethereum.erc55.isValid
 import org.kethereum.erc55.withERC55Checksum
-import org.kethereum.functions.isValid
 import org.kethereum.model.Address
 import java.io.File
 import java.math.BigInteger
