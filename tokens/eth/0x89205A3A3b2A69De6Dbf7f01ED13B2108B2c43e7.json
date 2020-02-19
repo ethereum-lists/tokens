@@ -1,5 +1,6 @@
 {
   "symbol": "Unicorn",
+  "invalid_erc20_symbol": true,
   "address": "0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7",
   "decimals": 0,
   "name": "Unicorn",

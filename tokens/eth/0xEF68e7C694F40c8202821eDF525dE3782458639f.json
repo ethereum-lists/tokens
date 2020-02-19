@@ -1,7 +1,9 @@
 {
   "symbol": "LRC (old)",
+  "invalid_erc20_symbol": true,
   "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
   "decimals": 18,
+  "invalid_erc20_decimals": true,
   "name": "Loopring",
   "ens_address": "",
   "website": "https://loopring.org",

@@ -1,10 +1,12 @@
 {
   "symbol": "WTT",
+  "invalid_erc20_symbol": true,
   "name": "WTT",
   "type": "ERC20",
   "address": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
   "ens_address": "",
   "decimals": 0,
+  "invalid_erc20_decimals": true,
   "website": "",
   "logo": {
     "src": "",
