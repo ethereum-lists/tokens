@@ -1,14 +1,14 @@
 {
     "symbol": "iUSDC",
     "address": "0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx USDC iToken",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

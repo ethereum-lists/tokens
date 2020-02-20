@@ -1,14 +1,14 @@
 {
-    "symbol": "dsBAT3x",
+    "symbol": "dLBAT2x",
     "address": "0x6F3a5DCc36eEee5bd8B9B5Db3B6431187A8F1E17",
     "decimals": 18,
-    "name": "bZx Perpetual Short BAT 3x",
+    "name": "bZx Perpetual Long BAT 2x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

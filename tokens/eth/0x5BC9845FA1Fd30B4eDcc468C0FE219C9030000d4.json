@@ -1,5 +1,5 @@
 {
-    "symbol": "dLETH4x_v2",
+    "symbol": "dLETH4x",
     "address": "0x5BC9845FA1Fd30B4eDcc468C0FE219C9030000d4",
     "decimals": 18,
     "name": "bZx Perpetual Long ETH-DAI 4x v2",
@@ -7,8 +7,8 @@
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

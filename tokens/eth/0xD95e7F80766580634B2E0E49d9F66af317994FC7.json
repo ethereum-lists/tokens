@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiMKR",
+    "symbol": "iMKR",
     "address": "0xD95e7F80766580634B2E0E49d9F66af317994FC7",
     "decimals": 18,
     "name": "Synth MKR",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

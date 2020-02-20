@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiETH",
+    "symbol": "iETH",
     "address": "0xf53B56B6Fb98aaF514bcd28f6Fa6fd20C24E5c22",
     "decimals": 18,
     "name": "Synth iETH",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

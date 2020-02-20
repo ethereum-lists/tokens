@@ -1,5 +1,5 @@
 {
-    "symbol": "dsLINK4x_v2",
+    "symbol": "dsLINK4x",
     "address": "0x937EFce07594d14f878650d5B637f022952FAe86",
     "decimals": 18,
     "name": "bZx Perpetual Short LINK-DAI 4x v2 ",
@@ -7,8 +7,8 @@
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

@@ -1,14 +1,14 @@
 {
     "symbol": "uLWBTC3x",
     "address": "0x431E5f6f3368230b10B732Cef68ACFF62A9727f0",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx Perpetual Long WBTC 3x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

@@ -1,14 +1,14 @@
 {
     "symbol": "BREZ",
     "address": "0x01aa952C2aa0259198E403c10799557e9a6B1EC1",
-    "decimals": 18,
+    "decimals": 2,
     "name": "Brezcoin",
     "ens_address": "",
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

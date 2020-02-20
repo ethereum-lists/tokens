@@ -1,5 +1,5 @@
 {
-    "symbol": "dsBAT",
+    "symbol": "dLZRX4x",
     "address": "0xf85753Fb0Dc0A6c9B4F230eb861708677ac3C00f",
     "decimals": 18,
     "name": "bZx Perpetual Short BAT",
@@ -7,8 +7,8 @@
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

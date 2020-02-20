@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiCEX",
+    "symbol": "iCEX",
     "address": "0xDa5eD43B9B6E36b4f27cc6D8c1974532cdBd55F9",
     "decimals": 18,
     "name": "Synth iCEX",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

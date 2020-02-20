@@ -1,14 +1,14 @@
 {
     "symbol": "uLKNC2x",
     "address": "0xC30FA8484B1c35696c4A8cF7391ee0671592203B",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx Perpetual Long KNC 2x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

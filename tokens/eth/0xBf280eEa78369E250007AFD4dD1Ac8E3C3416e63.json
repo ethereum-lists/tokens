@@ -1,5 +1,5 @@
 {
-    "symbol": "dsETH2x_v2",
+    "symbol": "dsETH2x",
     "address": "0xBf280eEa78369E250007AFD4dD1Ac8E3C3416e63",
     "decimals": 18,
     "name": "bZx Perpetual Short ETH-DAI 2x v2",
@@ -7,8 +7,8 @@
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

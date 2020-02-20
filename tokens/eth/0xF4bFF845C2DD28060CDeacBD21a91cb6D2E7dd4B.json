@@ -1,14 +1,14 @@
 {
     "symbol": "uLREP3x",
     "address": "0xF4bFF845C2DD28060CDeacBD21a91cb6D2E7dd4B",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx Perpetual Long REP 3x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {
