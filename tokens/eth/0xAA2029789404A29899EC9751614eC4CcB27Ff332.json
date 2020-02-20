@@ -1,14 +1,14 @@
 {
     "symbol": "uLBAT4x",
     "address": "0xAA2029789404A29899EC9751614eC4CcB27Ff332",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx Perpetual Long BAT 4x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

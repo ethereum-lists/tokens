@@ -1,14 +1,14 @@
 {
-    "symbol": "Vizcoin",
+    "symbol": "Viz",
     "address": "0xFf2cF2A74445a115468e84FB42eDfe1D9d73CF2b",
-    "decimals": 16,
+    "decimals": 8,
     "name": "Token Vizcoin ",
     "ens_address": "",
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

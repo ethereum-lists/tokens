@@ -1,14 +1,14 @@
 {
-    "symbol": "usETH",
+    "symbol": "dLREP4x",
     "address": "0x240fe85447A878f51A74A5dC0b644b4A72587839",
     "decimals": 18,
-    "name": "bZx Perpetual Short ETH",
+    "name": "bZx Perpetual Long REP 4x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

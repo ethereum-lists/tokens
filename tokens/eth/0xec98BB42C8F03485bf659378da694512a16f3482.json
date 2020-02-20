@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiLTC",
+    "symbol": "iLTC",
     "address": "0xec98BB42C8F03485bf659378da694512a16f3482",
     "decimals": 18,
     "name": "Synth LTC",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

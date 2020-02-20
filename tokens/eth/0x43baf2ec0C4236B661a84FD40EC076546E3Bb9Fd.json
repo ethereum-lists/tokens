@@ -1,14 +1,14 @@
 {
     "symbol": "usZRX",
     "address": "0x43baf2ec0C4236B661a84FD40EC076546E3Bb9Fd",
-    "decimals": 8,
+    "decimals": 18,
     "name": "bZx Perpetual Short ZRX",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiBNB",
+    "symbol": "iBNB",
     "address": "0x09400Ec683F70174E1217d6dcdBf42448E8De5d6",
     "decimals": 18,
     "name": "Synth iBNB",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

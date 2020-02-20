@@ -1,14 +1,14 @@
 {
     "symbol": "uLZRX3x",
     "address": "0xb0AE52A539E681B9d0d489FE34abA7A88f981d2e",
-    "decimals": 18,
+    "decimals": 6,
     "name": "bZx Perpetual Long ZRX 3x",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

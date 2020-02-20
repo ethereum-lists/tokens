@@ -1,14 +1,14 @@
 {
     "symbol": "iWBTC",
     "address": "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
-    "decimals": 18,
+    "decimals": 8,
     "name": "bZx WBTC iToken",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

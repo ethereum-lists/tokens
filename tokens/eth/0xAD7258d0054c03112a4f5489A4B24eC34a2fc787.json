@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiXTZ",
+    "symbol": "iXTZ",
     "address": "0xAD7258d0054c03112a4f5489A4B24eC34a2fc787",
     "decimals": 18,
     "name": "Synth iXTZ",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

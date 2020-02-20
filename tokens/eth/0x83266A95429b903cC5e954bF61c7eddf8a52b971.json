@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiBTC",
+    "symbol": "iBTC",
     "address": "0x83266A95429b903cC5e954bF61c7eddf8a52b971",
     "decimals": 18,
     "name": "Synth iBTC",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

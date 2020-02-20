@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiLINK",
+    "symbol": "iLINK",
     "address": "0x3DdF5dAd59F8F8e8f957709B044eE84e87B42e25",
     "decimals": 18,
     "name": "Synth iLINK",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

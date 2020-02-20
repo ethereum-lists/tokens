@@ -1,5 +1,5 @@
 {
-    "symbol": "SynthiTRX",
+    "symbol": "iTRX",
     "address": "0x406555dbF02e9E4df9AdeAeC9DA76ABeED8C1BC3",
     "decimals": 18,
     "name": "Synth TRX",
@@ -7,8 +7,8 @@
     "website": "",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {

@@ -1,5 +1,5 @@
 {
-    "symbol": "dLKNC3x",
+    "symbol": "dsKNC3x",
     "address": "0x5E9188280e1e35aE8F899b09C97558d0F195cC14",
     "decimals": 18,
     "name": "bZx Perpetual Short KNC 3x",
@@ -7,8 +7,8 @@
     "website": "https://bzx.network/",
     "logo": {
       "src": "",
-      "width": "54px",
-      "height": "54px",
+      "width": "",
+      "height": "",
       "ipfs_hash": ""
     },
     "support": {
