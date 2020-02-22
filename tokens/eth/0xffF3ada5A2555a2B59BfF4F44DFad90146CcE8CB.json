@@ -1,0 +1,35 @@
+{
+    "symbol": "DXR",
+    "address": "0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB",
+    "decimals": 18,
+    "name": "DEXTER Token",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "https://etherscan.io/token/images/dexter_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

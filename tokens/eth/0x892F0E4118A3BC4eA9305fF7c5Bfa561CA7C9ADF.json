@@ -1,0 +1,34 @@
+{
+    "symbol": "aBAT",
+    "address": "0x892F0E4118A3BC4eA9305fF7c5Bfa561CA7C9ADF",
+    "decimals": 18,
+    "name": "Aave Interest bearing BAT",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

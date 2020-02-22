@@ -1,0 +1,34 @@
+{
+    "symbol": "iSAI",
+    "address": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
+    "decimals": 18,
+    "name": "bZx SAI iToken ",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/fulcrumsaiitoken_32.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

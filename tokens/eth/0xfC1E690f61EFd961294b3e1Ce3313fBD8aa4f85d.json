@@ -1,0 +1,34 @@
+{
+    "symbol": "aDAI",
+    "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+    "decimals": 18,
+    "name": "Aave Interest bearing DAI",
+    "ens_address": "",
+    "website": "https://aave.com/",
+    "logo": {
+      "src": "https://aave.com/static/media/dai.59d423e0.svg",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://discordapp.com/invite/AnSqnvV",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/aave/aave-protocol",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/aaveaave",
+      "youtube": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "symbol": "OSPVS",
+    "address": "0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d",
+    "decimals": 18,
+    "name": "Token Onyx S&P 500 Short",
+    "ens_address": "",
+    "website": "https://onyx.to/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/onyxs&p500short_32.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@onyx.to",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://onyx.to/blog",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://reddit.com/r/Onyx_investments/",
+      "slack": "",
+      "telegram": "https://t.me/alpha_token",
+      "twitter": "https://twitter.com/Onyx_finance",
+      "youtube": ""
+    }
+}

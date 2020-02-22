@@ -1,0 +1,34 @@
+{
+    "symbol": "PYN",
+    "address": "0x0142C3B2fC51819B5aF5dFc4AA52Df9722790851",
+    "decimals": 18,
+    "name": "Paycentos",
+    "ens_address": "",
+    "website": "https://paycent.com/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/paycent_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@paycent.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "https://paycent.slack.com/",
+      "discord": "",
+      "facebook": "https://www.facebook.com/paycent.sg/",
+      "forum": "",
+      "github": "https://github.com/PaycentGlobal",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/vnx-company/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/paycent",
+      "twitter": "https://twitter.com/PaycentGlobal",
+      "youtube": ""
+    }
+}
