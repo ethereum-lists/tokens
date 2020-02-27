@@ -1,8 +1,8 @@
 {
-  "symbol": "cDai",
+  "symbol": "cSai",
   "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
   "decimals": 8,
-  "name": "Compound Dai",
+  "name": "Compound Sai",
   "ens_address": "",
   "website": "https://app.compound.finance",
   "logo": {
