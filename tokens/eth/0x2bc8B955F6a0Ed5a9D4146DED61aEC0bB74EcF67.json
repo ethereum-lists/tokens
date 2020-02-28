@@ -1,0 +1,40 @@
+{
+  "symbol": "LGC (old)",
+  "address": "0x3b3A5557F119106270017A7662488C1FF6312A6b",
+  "decimals": 2,
+  "name": "LOGISTICS (old contract)",
+  "ens_address": "",
+  "website": "https://logistics.us.com/",
+  "logo": {
+    "src": "https://imgur.com/L45hreG",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@logistics.us.com",
+    "url": "https://logistics.us.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Logistics-LGC-107124210868477",
+    "forum": "",
+    "github": "https://github.com/logisticsuscom/Logistics",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/lgc-logistics-045b251a1/",
+    "reddit": "https://www.reddit.com/r/SubstratumNetwork",
+    "slack": "http://x.co/SubSlack",
+    "telegram": "https://t.me/joinchat/GN7bwE_ARJu_CdIfgXCNKw",
+    "twitter": "https://twitter.com/SubstratumNet",
+    "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67",
+    "name": "Logistics Coin",
+    "announcement_url": "https://www.linkedin.com/feed/update/urn:li:activity:6639049960216203264/",
+    "time": "2020-02-25T03:41:58Z",
+    "migration_type": "auto"
+  }
+}
