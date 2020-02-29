@@ -31,8 +31,8 @@
     "youtube": ""
   },
   "deprecation": {
-    "new_address": "0x3b3A5557F119106270017A7662488C1FF6312A6b (Old contract)",
-    "name": "LOGISTICS (Old name)",
+    "old_address": "0x3b3A5557F119106270017A7662488C1FF6312A6b (Old contract)",
+    "old_name": "LOGISTICS (Old name)",
     "announcement_url": "https://www.linkedin.com/feed/update/urn:li:activity:6639049960216203264/",
     "time": "2020-02-25T03:41:58Z",
     "migration_type": "auto"
