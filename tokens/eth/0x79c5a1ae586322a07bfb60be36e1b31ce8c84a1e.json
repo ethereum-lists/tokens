@@ -1,8 +1,8 @@
 {
   "symbol": "EDI",
-  "address": "0x2BbD954454434f33c39f37D12EA37250F1cdc69b",
+  "address": "0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
   "decimals": 18,
-  "name": "Electronic Data Interchange",
+  "name": "Freight Trust Network",
   "type": "ERC20",
   "ens_address": "",
   "website": "https://freighttrust.com/",
