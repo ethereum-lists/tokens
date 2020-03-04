@@ -1,0 +1,34 @@
+{
+    "symbol": "LGC",
+    "address": "0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67",
+    "decimals": 18,
+    "name": "Logistics Coin",
+    "ens_address": "",
+    "website": "https://logistics.us.com/",
+    "logo": {
+      "src": "https://logistics.us.com/logo.png",
+      "width": "256px",
+      "height": "256px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@logistics.us.com",
+      "url": "https://logistics.us.com/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/Logistics-LGC-107124210868477",
+      "forum": "",
+      "github": "https://github.com/logisticsuscom/Logistics",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/lgc-logistics-045b251a1/",
+      "reddit": "https://www.reddit.com/user/logisticsuscom",
+      "slack": "https://app.slack.com/client/TTS82UATX/DTS82UJ85",
+      "telegram": "https://t.me/joinchat/GN7bwE_ARJu_CdIfgXCNKw",
+      "twitter": "hhttps://twitter.com/lgc_logistics",
+      "youtube": "https://www.youtube.com/channel/UCXsaXMETkXCoVnvVoH2TJ-Q"
+    }
+}
