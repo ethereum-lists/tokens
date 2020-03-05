@@ -1,0 +1,34 @@
+{
+  "symbol": "MDX",
+  "name": "BlockMedx",
+  "type": "ERC20",
+  "address": "0xA13a41a2349D09C1E3a0dD4d9448Af4aD799fC4A",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://wanchain.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@wanchain.org",
+    "url": "https://wanchain.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}         

@@ -1,0 +1,34 @@
+{
+  "symbol": "WMKR",
+  "name": "Wanchain-MKR",
+  "type": "ERC20",
+  "address": "0x350bb91C9C8Ef4e8C0e19fbdc6A90A24bcb1eC2A",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://wanchain.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@wanchain.org",
+    "url": "https://wanchain.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}         
