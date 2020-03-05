@@ -1,10 +1,10 @@
 {
-  "symbol": "WEURS",
-  "name": "Wanchain-EURS",
+  "symbol": "WTUSD",
+  "name": "Wanchain-TUSD",
   "type": "ERC20",
-  "address": "0x3bD5B682224B26994509c9c5E87379F4C48aF0F5",
+  "address": "0x79562C955Dea8a801F057a386C9Aa9F5d9bF0F92",
   "ens_address": "",
-  "decimals": 2,
+  "decimals": 18,
   "website": "https://wanchain.org",
   "logo": {
     "src": "",

@@ -1,8 +1,8 @@
 {
-  "symbol": "WTUSD",
-  "name": "Wanchain-TUSD",
+  "symbol": "WETH (Wanchain)",
+  "name": "Wanchain-ETH",
   "type": "ERC20",
-  "address": "0x79562c955dEA8A801f057A386c9aA9f5D9Bf0f92",
+  "address": "0x28362Cd634646620eF2290058744F9244bB90ed9",
   "ens_address": "",
   "decimals": 18,
   "website": "https://wanchain.org",

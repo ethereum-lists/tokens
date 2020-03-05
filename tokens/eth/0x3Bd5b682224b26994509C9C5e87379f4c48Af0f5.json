@@ -1,8 +1,8 @@
 {
-  "symbol": "WGUSD",
-  "name": "Wanchain-GUSD",
+  "symbol": "WEURS",
+  "name": "Wanchain-EURS",
   "type": "ERC20",
-  "address": "0xf13157514786E037849b5E42217e13dda86bA90e",
+  "address": "0x3Bd5b682224b26994509C9C5e87379f4c48Af0f5",
   "ens_address": "",
   "decimals": 2,
   "website": "https://wanchain.org",

@@ -1,10 +1,10 @@
 {
-  "symbol": "WMKR",
-  "name": "Wanchain-MKR",
+  "symbol": "WUSDC",
+  "name": "Wanchain-USDC",
   "type": "ERC20",
-  "address": "0x350bb91C9C8Ef4e8C0e19fbdc6A90A24bcb1eC2A",
+  "address": "0xa26a6698B95144cE27714d4657f153dC48E676D5",
   "ens_address": "",
-  "decimals": 18,
+  "decimals": 6,
   "website": "https://wanchain.org",
   "logo": {
     "src": "",

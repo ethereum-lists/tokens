@@ -1,10 +1,10 @@
 {
-  "symbol": "WBTC (Wanchain)",
-  "name": "Wanchain-BTC",
+  "symbol": "WMKR",
+  "name": "Wanchain-MKR",
   "type": "ERC20",
-  "address": "0xD15E200060Fc17ef90546ad93c1C61BfeFDC89C7",
+  "address": "0x350BB91c9c8eF4E8c0E19FBDC6a90a24BCB1Ec2a",
   "ens_address": "",
-  "decimals": 8,
+  "decimals": 18,
   "website": "https://wanchain.org",
   "logo": {
     "src": "",

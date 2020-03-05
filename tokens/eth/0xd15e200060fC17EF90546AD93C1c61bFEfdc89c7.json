@@ -1,10 +1,10 @@
 {
-  "symbol": "WZXC",
-  "name": "Wanchain-ZXC",
+  "symbol": "WBTC (Wanchain)",
+  "name": "Wanchain-BTC",
   "type": "ERC20",
-  "address": "0x6fd293974757361e22be9F40eb54667b708D6a82",
+  "address": "0xd15e200060fC17EF90546AD93C1c61bFEfdc89c7",
   "ens_address": "",
-  "decimals": 18,
+  "decimals": 8,
   "website": "https://wanchain.org",
   "logo": {
     "src": "",

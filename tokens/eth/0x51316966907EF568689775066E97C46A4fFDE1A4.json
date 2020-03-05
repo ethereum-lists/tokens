@@ -1,8 +1,8 @@
 {
-  "symbol": "WLRC",
-  "name": "Wanchain-LRC",
+  "symbol": "WAURA",
+  "name": "Wanchain-AURA",
   "type": "ERC20",
-  "address": "0x0f2e7C0E904a525A24FF6f658053f6bA5Ce7A209",
+  "address": "0x51316966907EF568689775066E97C46A4fFDE1A4",
   "ens_address": "",
   "decimals": 18,
   "website": "https://wanchain.org",

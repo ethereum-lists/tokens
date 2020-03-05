@@ -1,8 +1,8 @@
 {
-  "symbol": "WLINK",
-  "name": "Wanchain-LINK",
+  "symbol": "WZXC",
+  "name": "Wanchain-ZXC",
   "type": "ERC20",
-  "address": "0xacEe80F83343c2C13Afb6e89E8740699AEa3D7E8",
+  "address": "0x6FD293974757361E22BE9f40EB54667B708d6A82",
   "ens_address": "",
   "decimals": 18,
   "website": "https://wanchain.org",

@@ -1,10 +1,10 @@
 {
-  "symbol": "CURV",
-  "name": "Curve",
+  "symbol": "WGUSD",
+  "name": "Wanchain-GUSD",
   "type": "ERC20",
-  "address": "0x3BEB80170272f07aCA12987AF86A59888255A807",
+  "address": "0xF13157514786e037849B5e42217E13DDA86Ba90E",
   "ens_address": "",
-  "decimals": 18,
+  "decimals": 2,
   "website": "https://wanchain.org",
   "logo": {
     "src": "",

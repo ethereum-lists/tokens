@@ -1,8 +1,8 @@
 {
-  "symbol": "WDAI",
-  "name": "Wanchain-DAI",
+  "symbol": "WLINK",
+  "name": "Wanchain-LINK",
   "type": "ERC20",
-  "address": "0x41c8b92Df1552ACD976dB7d0c9Bc269F3C45B0F5",
+  "address": "0xACeE80f83343C2c13aFB6E89e8740699aeA3d7e8",
   "ens_address": "",
   "decimals": 18,
   "website": "https://wanchain.org",
