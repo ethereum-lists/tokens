@@ -1,0 +1,33 @@
+{
+  "symbol": "EDI",
+  "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+  "decimals": 18,
+  "name": "Freight Trust Network",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://freighttrust.com/",
+  "logo": {
+    "src": "https://github.com/freight-chain/brand/blob/master/external/ethereum-list-logo.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@freight.zendesk.com"
+  },
+  "social": {
+    "blog": "https://freighttrust.com/blog",
+    "chat": "https://t.me/freighttrust",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/freight-chain",
+    "gitter": "",
+    "instagram": "https://instagram.com/freight_trust",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/freighttrust",
+    "twitter": "https://twitter.com/FreightTrustNet",
+    "youtube": ""
+  }
+}
