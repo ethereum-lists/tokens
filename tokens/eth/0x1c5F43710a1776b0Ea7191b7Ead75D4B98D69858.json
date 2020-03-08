@@ -2,7 +2,7 @@
   "symbol": "PSK",
   "name": "Pool of Stake Master Token",
   "type": "ERC20",
-  "address": "0x1c5f43710a1776b0ea7191b7ead75d4b98d69858",
+  "address": "0x1c5F43710a1776b0Ea7191b7Ead75D4B98D69858",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.poolofstake.io",
