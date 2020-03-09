@@ -1,10 +1,12 @@
 {
     "symbol": "uniSHUF",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Shuffle.Monster V3",
     "type": "ERC20",
     "address": "0x536956Fab86774fb55CfaAcF496BC25E4d2B435C",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

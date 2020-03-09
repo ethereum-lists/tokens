@@ -1,10 +1,12 @@
 {
     "symbol": "uniLINK",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: ChainLink Token",
     "type": "ERC20",
     "address": "0xF173214C720f58E03e194085B1DB28B50aCDeeaD",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

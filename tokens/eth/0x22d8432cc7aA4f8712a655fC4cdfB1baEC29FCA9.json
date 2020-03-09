@@ -1,10 +1,12 @@
 {
     "symbol": "uniSOCKS",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Unisocks Edition 0",
     "type": "ERC20",
     "address": "0x22d8432cc7aA4f8712a655fC4cdfB1baEC29FCA9",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

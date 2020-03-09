@@ -1,10 +1,12 @@
 {
     "symbol": "uniQCH",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: QChi",
     "type": "ERC20",
     "address": "0x755899F0540c3548b99E68C59AdB0f15d2695188",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

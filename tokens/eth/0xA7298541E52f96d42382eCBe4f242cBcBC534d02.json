@@ -1,10 +1,12 @@
 {
     "symbol": "uniSTORJ",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: StorjToken",
     "type": "ERC20",
     "address": "0xA7298541E52f96d42382eCBe4f242cBcBC534d02",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

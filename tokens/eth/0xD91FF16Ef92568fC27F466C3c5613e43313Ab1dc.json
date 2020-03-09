@@ -1,10 +1,12 @@
 {
     "symbol": "uniRCN",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Ripio Credit Network Token",
     "type": "ERC20",
     "address": "0xD91FF16Ef92568fC27F466C3c5613e43313Ab1dc",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

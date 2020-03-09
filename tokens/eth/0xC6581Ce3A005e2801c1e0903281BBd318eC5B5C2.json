@@ -1,10 +1,12 @@
 {
     "symbol": "uniMANA",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Decentraland MANA",
     "type": "ERC20",
     "address": "0xC6581Ce3A005e2801c1e0903281BBd318eC5B5C2",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

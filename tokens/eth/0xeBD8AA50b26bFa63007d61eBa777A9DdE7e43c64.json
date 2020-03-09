@@ -1,10 +1,12 @@
 {
     "symbol": "uniRING",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Darwinia Network Native Token",
     "type": "ERC20",
     "address": "0xeBD8AA50b26bFa63007d61eBa777A9DdE7e43c64",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

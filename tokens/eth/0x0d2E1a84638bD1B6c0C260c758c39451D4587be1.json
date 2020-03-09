@@ -1,10 +1,12 @@
 {
     "symbol": "uniPAXG",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Paxos Gold",
     "type": "ERC20",
     "address": "0x0d2E1a84638bD1B6c0C260c758c39451D4587be1",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

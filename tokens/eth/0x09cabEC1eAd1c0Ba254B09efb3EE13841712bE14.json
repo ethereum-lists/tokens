@@ -1,10 +1,12 @@
 {
     "symbol": "uniSAI",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Dai Stablecoin v1.0 (SAI)",
     "type": "ERC20",
     "address": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

@@ -1,10 +1,12 @@
 {
     "symbol": "uniPOA20",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: POA ERC20 on Foundation",
     "type": "ERC20",
     "address": "0xA2E6B3EF205FeAEe475937c4883b24E6eB717eeF",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

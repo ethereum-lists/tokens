@@ -1,10 +1,12 @@
 {
     "symbol": "uniCELR",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: CelerToken",
     "type": "ERC20",
     "address": "0x1e3740A030AF8c755c888a0ee83aC9E79e09f4F1",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

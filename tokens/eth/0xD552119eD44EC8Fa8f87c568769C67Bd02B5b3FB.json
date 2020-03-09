@@ -1,10 +1,12 @@
 {
     "symbol": "uniDONUT",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Donut",
     "type": "ERC20",
     "address": "0xD552119eD44EC8Fa8f87c568769C67Bd02B5b3FB",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

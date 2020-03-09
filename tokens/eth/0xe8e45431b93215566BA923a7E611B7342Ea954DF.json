@@ -1,10 +1,12 @@
 {
     "symbol": "uniGNO",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Gnosis Token",
     "type": "ERC20",
     "address": "0xe8e45431b93215566BA923a7E611B7342Ea954DF",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

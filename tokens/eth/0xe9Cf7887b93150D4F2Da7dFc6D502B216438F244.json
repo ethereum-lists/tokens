@@ -1,10 +1,12 @@
 {
     "symbol": "unisETH",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Synth sETH",
     "type": "ERC20",
     "address": "0xe9Cf7887b93150D4F2Da7dFc6D502B216438F244",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

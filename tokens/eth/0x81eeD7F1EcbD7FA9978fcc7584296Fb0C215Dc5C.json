@@ -1,10 +1,12 @@
 {
     "symbol": "uniiSAI",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Fulcrum SAI iToken ",
     "type": "ERC20",
     "address": "0x81eeD7F1EcbD7FA9978fcc7584296Fb0C215Dc5C",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

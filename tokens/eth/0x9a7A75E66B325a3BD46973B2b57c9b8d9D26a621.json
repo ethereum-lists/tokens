@@ -1,10 +1,12 @@
 {
     "symbol": "uniMATIC",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Matic Token",
     "type": "ERC20",
     "address": "0x9a7A75E66B325a3BD46973B2b57c9b8d9D26a621",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

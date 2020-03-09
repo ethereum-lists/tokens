@@ -1,10 +1,12 @@
 {
     "symbol": "uniXCHF",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: CryptoFranc",
     "type": "ERC20",
     "address": "0x8dE0d002DC83478f479dC31F76cB0a8aa7CcEa17",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

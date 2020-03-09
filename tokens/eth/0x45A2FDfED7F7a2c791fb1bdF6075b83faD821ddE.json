@@ -1,10 +1,12 @@
 {
     "symbol": "unicSAI",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Compound Dai",
     "type": "ERC20",
     "address": "0x45A2FDfED7F7a2c791fb1bdF6075b83faD821ddE",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

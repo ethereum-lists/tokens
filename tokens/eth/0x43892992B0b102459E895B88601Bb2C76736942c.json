@@ -1,10 +1,12 @@
 {
     "symbol": "uniREN",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Republic Token",
     "type": "ERC20",
     "address": "0x43892992B0b102459E895B88601Bb2C76736942c",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

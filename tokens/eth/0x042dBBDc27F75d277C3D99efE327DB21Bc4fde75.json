@@ -1,10 +1,12 @@
 {
     "symbol": "uniAMPL",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Ampleforth",
     "type": "ERC20",
     "address": "0x042dBBDc27F75d277C3D99efE327DB21Bc4fde75",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

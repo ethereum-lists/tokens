@@ -1,10 +1,12 @@
 {
     "symbol": "uniimBTC",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: The Tokenized Bitcoin",
     "type": "ERC20",
     "address": "0xFFcf45b540e6C9F094Ae656D2e34aD11cdfdb187",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

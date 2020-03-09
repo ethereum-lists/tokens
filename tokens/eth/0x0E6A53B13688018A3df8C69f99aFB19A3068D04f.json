@@ -1,10 +1,12 @@
 {
     "symbol": "uniBLT",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Bloom Token",
     "type": "ERC20",
     "address": "0x0E6A53B13688018A3df8C69f99aFB19A3068D04f",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

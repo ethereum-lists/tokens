@@ -1,10 +1,12 @@
 {
     "symbol": "uniUNI-V1:SAI",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Uniswap V1",
     "type": "ERC20",
     "address": "0x601c32E0580D3aef9437dB52D09f5a5D7E60eC22",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

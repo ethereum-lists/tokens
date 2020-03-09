@@ -1,10 +1,12 @@
 {
     "symbol": "uniUSDC",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: USD//C",
     "type": "ERC20",
     "address": "0x97deC872013f6B5fB443861090ad931542878126",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

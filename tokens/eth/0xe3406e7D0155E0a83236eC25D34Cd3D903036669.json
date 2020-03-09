@@ -1,10 +1,12 @@
 {
     "symbol": "uniLQD",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Liquidity.Network Token",
     "type": "ERC20",
     "address": "0xe3406e7D0155E0a83236eC25D34Cd3D903036669",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

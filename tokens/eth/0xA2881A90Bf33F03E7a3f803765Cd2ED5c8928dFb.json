@@ -1,10 +1,12 @@
 {
     "symbol": "uniWETH",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Wrapped Ether",
     "type": "ERC20",
     "address": "0xA2881A90Bf33F03E7a3f803765Cd2ED5c8928dFb",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

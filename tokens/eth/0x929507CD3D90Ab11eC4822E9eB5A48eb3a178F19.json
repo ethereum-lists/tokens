@@ -1,10 +1,12 @@
 {
     "symbol": "uniGST2",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Gastoken.io",
     "type": "ERC20",
     "address": "0x929507CD3D90Ab11eC4822E9eB5A48eb3a178F19",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

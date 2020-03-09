@@ -1,10 +1,12 @@
 {
     "symbol": "uniNEXO",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Nexo",
     "type": "ERC20",
     "address": "0x069C97DBA948175D10af4b2414969e0B88d44669",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

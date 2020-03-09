@@ -1,10 +1,12 @@
 {
     "symbol": "uniDATA",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Streamr DATAcoin",
     "type": "ERC20",
     "address": "0x4F0d6E2179938828CfF93dA40a8BA1Df7519Ca8C",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

@@ -1,10 +1,12 @@
 {
     "symbol": "uniTCAD",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: TrueCAD",
     "type": "ERC20",
     "address": "0xF996D7d9BaCb9217ca64BBce1b1cD72E0E886Be6",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

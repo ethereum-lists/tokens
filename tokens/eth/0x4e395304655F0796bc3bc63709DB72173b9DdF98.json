@@ -1,10 +1,12 @@
 {
     "symbol": "uniSPANK",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: SPANK",
     "type": "ERC20",
     "address": "0x4e395304655F0796bc3bc63709DB72173b9DdF98",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

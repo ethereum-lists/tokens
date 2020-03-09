@@ -1,10 +1,12 @@
 {
     "symbol": "uniDGX",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Digix Gold Token",
     "type": "ERC20",
     "address": "0xb92dE8B30584392Af27726D5ce04Ef3c4e5c9924",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

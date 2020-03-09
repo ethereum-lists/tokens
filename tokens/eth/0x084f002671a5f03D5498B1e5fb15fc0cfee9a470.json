@@ -1,10 +1,12 @@
 {
     "symbol": "uniIOTX",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: IoTeX Network",
     "type": "ERC20",
     "address": "0x084f002671a5f03D5498B1e5fb15fc0cfee9a470",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

@@ -1,10 +1,12 @@
 {
     "symbol": "uniPAX",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: PAX",
     "type": "ERC20",
     "address": "0xC040d51b07Aea5d94a89Bc21E8078B77366Fc6C7",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

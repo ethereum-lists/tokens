@@ -1,10 +1,12 @@
 {
     "symbol": "uniLPT",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Livepeer Token",
     "type": "ERC20",
     "address": "0xc4a1C45D5546029Fd57128483aE65b56124BFA6A",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

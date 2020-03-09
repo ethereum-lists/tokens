@@ -1,10 +1,12 @@
 {
     "symbol": "uniSNX",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: Synthetix Network Token",
     "type": "ERC20",
     "address": "0x3958B4eC427F8fa24eB60F42821760e88d485f7F",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",

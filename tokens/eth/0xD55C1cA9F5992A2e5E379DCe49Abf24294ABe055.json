@@ -1,10 +1,12 @@
 {
     "symbol": "uniDGD",
+    "invalid_erc20_symbol": true,
     "name": "Uniswap: DigixDAO",
     "type": "ERC20",
     "address": "0xD55C1cA9F5992A2e5E379DCe49Abf24294ABe055",
     "ens_address": "",
     "decimals": 18,
+    "invalid_erc20_decimals": true,
     "website": "https://www.uniswap.io",
     "logo": {
         "src": "",
