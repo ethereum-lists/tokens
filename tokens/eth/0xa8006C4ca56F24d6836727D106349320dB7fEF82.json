@@ -6,7 +6,7 @@
   "ens_address": "",
   "website": "https://internxt.com/",
   "logo": {
-    "src": "https://internxt.com/img/logos/internxtcircle.png",
+    "src": "http://internxt.com/img/icons/token.png",
     "width": "",
     "height": "",
     "ipfs_hash": ""
@@ -22,11 +22,11 @@
     "forum": "",
     "github": "https://github.com/Internxt/",
     "gitter": "",
-    "instagram": "https://www.instagram.com/InternxtHQ/",
+    "instagram": "https://www.instagram.com/Internxt/",
     "linkedin": "https://www.linkedin.com/company/internxt/",
     "reddit": "https://www.reddit.com/r/Internxt",
     "slack": "",
-    "telegram": "https://t.me/InternxtHQ",
+    "telegram": "https://t.me/Internxt",
     "twitter": "https://twitter.com/Internxt",
     "youtube": ""
   }
