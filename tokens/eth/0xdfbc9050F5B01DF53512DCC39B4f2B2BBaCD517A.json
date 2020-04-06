@@ -1,0 +1,35 @@
+{
+"symbol": "JOB",
+"name": "Jobchain",
+"type": "ERC20",
+"address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+"ens_address": "jobchain.eth",
+"decimals": 8,
+"website": "https://www.jobchain.com",
+"logo": {
+    "src": "https://www.jobchain.com/Logo256x256.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": "QmTsvchzF9b4kg35ki5eDqUQATHzKSGXrYowJZ4zVLJUJm"
+},
+"support": {
+    "email": "contact@jobchain.com",
+    "url": ""
+},
+"social": {
+    "blog": "https://blog.jobchain.com",
+    "chat": "",
+    "facebook": "https://facebook.com/JobchainOfficial",
+    "discord": "https://discord.gg/jb6rFgE",
+    "medium": "https://medium.com/jobchain",
+    "github": "https://github.com/JobchainOfficial",
+    "gitter": "",
+    "instagram": "https://wwww.instagram.com/jobchain",
+    "linkedin": "https://linkedin.com/company/jobchainofficial",
+    "reddit": "https://www.reddit.com/r/Jobchain/",
+    "slack": "",
+    "telegram": "https://t.me/JobchainOfficial",
+    "twitter": "https://twitter.com/jobchain",
+    "youtube": ""
+}
+}
