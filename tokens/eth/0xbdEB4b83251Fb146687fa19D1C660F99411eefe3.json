@@ -1,10 +1,12 @@
 {
   "symbol": "SVD",
+  "invalid_erc20_symbol": true,
   "name": "savedroid",
   "type": "ERC20",
   "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
   "ens_address": "",
   "decimals": 18,
+  "invalid_erc20_decimals": true,
   "website": "https://ico.savedroid.com",
   "logo": {
     "src": "",

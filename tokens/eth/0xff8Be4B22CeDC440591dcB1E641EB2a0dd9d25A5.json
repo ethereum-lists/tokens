@@ -1,0 +1,34 @@
+{
+    "symbol": "URAC",
+    "address": "0xff8Be4B22CeDC440591dcB1E641EB2a0dd9d25A5",
+    "decimals": 18,
+    "name": "URACToken ",
+    "ens_address": "",
+    "website": "https://www.uranus.io/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/uranus_32.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@uranus.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/Uraners",
+      "forum": "",
+      "github": "https://github.com/UranusBlockStack/uranus",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/user/Uraners",
+      "slack": "",
+      "telegram": "https://t.me/Uraners",
+      "twitter": "https://twitter.com/Uraners",
+      "youtube": ""
+    }
+}

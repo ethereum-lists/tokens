@@ -1,0 +1,34 @@
+{
+    "symbol": "A",
+    "address": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
+    "decimals": 18,
+    "name": "Alpha",
+    "ens_address": "",
+    "website": "https://alphaplatform.co/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "devdrew@alphaplatform.co",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/crypt04dvisor/AlphaWallet",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/alpha_token",
+      "twitter": "https://twitter.com/Alpha_Token",
+      "youtube": ""
+    }
+}

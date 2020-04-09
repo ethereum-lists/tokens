@@ -1,0 +1,34 @@
+{
+    "symbol": "CIG",
+    "address": "0x00380143129167395e8B4F0a35EDc1bC60E7cE65",
+    "decimals": 8,
+    "name": "Clorigin",
+    "ens_address": "",
+    "website": "https://www.ciorigin.net/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@cigbi.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

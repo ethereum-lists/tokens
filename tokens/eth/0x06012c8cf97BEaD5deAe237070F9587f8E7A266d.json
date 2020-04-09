@@ -2,6 +2,7 @@
   "symbol": "CK",
   "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
   "decimals": 0,
+  "invalid_erc20_decimals": true,
   "name": "CK",
   "ens_address": "",
   "website": "https://cryptokitties.co",

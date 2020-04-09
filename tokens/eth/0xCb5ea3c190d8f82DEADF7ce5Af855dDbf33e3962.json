@@ -1,5 +1,6 @@
 {
   "symbol": "QBIT (Old)",
+  "invalid_erc20_symbol": true,
   "name": "Qubitica (Old)",
   "type": "ERC20",
   "address": "0xCb5ea3c190d8f82DEADF7ce5Af855dDbf33e3962",

@@ -3,6 +3,7 @@
   "address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
   "decimals": 18,
   "name": "FARAD Cryptoken",
+  "type": "ERC20",
   "ens_address": "",
   "website": "https://farad.energy",
   "logo": {

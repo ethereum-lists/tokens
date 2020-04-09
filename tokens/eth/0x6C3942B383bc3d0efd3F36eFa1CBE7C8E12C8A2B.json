@@ -1,0 +1,36 @@
+{
+    "symbol": "uniCHAI",
+    "invalid_erc20_symbol": true,
+    "name": "Uniswap: Chai",
+    "type": "ERC20",
+    "address": "0x6C3942B383bc3d0efd3F36eFa1CBE7C8E12C8A2B",
+    "ens_address": "",
+    "decimals": 18,
+    "invalid_erc20_decimals": true,
+    "website": "https://www.uniswap.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@uniswap.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/uniswap",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Uniswap",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "https://www.reddit.com/r/UniSwap/",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/UniswapExchange",
+        "youtube": ""
+    }
+}

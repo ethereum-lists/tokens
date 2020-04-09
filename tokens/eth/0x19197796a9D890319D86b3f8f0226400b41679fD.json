@@ -1,0 +1,34 @@
+{
+    "symbol": "uLKNC4x",
+    "address": "0x19197796a9D890319D86b3f8f0226400b41679fD",
+    "decimals": 6,
+    "name": "bZx Perpetual Long KNC 4x",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

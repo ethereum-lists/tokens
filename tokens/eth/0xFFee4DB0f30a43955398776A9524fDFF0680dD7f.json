@@ -1,0 +1,35 @@
+{
+    "symbol": "EXR",
+    "address": "0xFFee4DB0f30a43955398776A9524fDFF0680dD7f",
+    "decimals": 8,
+    "name": "EXSERION Token",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://exserio.com/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/exserio_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@exserio.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/exserionproject",
+      "youtube": ""
+    }
+}

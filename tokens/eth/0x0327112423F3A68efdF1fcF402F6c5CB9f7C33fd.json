@@ -1,0 +1,35 @@
+{
+    "symbol": "BTC++",
+    "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
+    "decimals": 18,
+    "name": "PieDAO BTC++",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://piedao.org",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://medium.com/piedao",
+      "chat": "https://piedao.org/discord",
+      "facebook": "",
+      "forum": "https://forum.piedao.org",
+      "github": "https://github.com/pie-dao",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/piedao",
+      "twitter": "https://twitter.com/PieDAO_DeFi",
+      "youtube": ""
+    }
+  }
+  

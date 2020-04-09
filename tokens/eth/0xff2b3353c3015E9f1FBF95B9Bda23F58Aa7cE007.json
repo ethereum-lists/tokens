@@ -1,0 +1,34 @@
+{
+    "symbol": "BITX",
+    "address": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
+    "decimals": 18,
+    "name": "Token BitScreenerToken",
+    "ens_address": "",
+    "website": "https://tokensale.bitscreener.com/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/bitscreener_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@bitscreener.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/bitscreenercom",
+      "forum": "",
+      "github": "https://github.com/BitScreenerTech",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/BitScreener",
+      "twitter": "https://twitter.com/BitScreener",
+      "youtube": ""
+    }
+}

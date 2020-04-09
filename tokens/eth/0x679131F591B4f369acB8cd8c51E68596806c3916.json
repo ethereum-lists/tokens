@@ -1,0 +1,33 @@
+{
+  "symbol": "TLN",
+  "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
+  "decimals": 18,
+  "name": "Trustlines Network Token",
+  "ens_address": "",
+  "website": "https://trustlines.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/Smokyish/www.trustlines.foundation/merkle-drop-faq/src/images/TLN128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/trustlines-foundation",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/trustlines-protocol",
+    "gitter": "https://gitter.im/trustlines/community",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Trustlines/",
+    "slack": "",
+    "telegram": "https://t.me/trustlines_network",
+    "twitter": "https://twitter.com/TrustlinesFound",
+    "youtube": "https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA"
+  }
+}

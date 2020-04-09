@@ -12,14 +12,14 @@ import kotlin.system.exitProcess
 
 val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2, "gor" to 5)
 
-fun main() {
+suspend fun main() {
     checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles()?.forEach { singleNetworkTokenDirectory ->
         val jsonArray = JsonArray<JsonObject>()
         singleNetworkTokenDirectory.listFiles()?.forEach {
             try {
-                checkTokenFile(it)
+                checkTokenFile(it, true)
                 val jsonObject = it.reader().use { reader ->
                     Klaxon().parseJsonObject(reader)
                 }

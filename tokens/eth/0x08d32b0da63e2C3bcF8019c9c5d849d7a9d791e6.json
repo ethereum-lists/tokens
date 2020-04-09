@@ -1,5 +1,6 @@
 {
   "symbol": "DCN",
+  "invalid_erc20_symbol": true,
   "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
   "decimals": 0,
   "name": "Dentacoin",

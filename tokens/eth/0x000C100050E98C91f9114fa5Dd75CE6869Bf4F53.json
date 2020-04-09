@@ -1,0 +1,34 @@
+{
+    "symbol": "C10",
+    "address": "0x000C100050E98C91f9114fa5Dd75CE6869Bf4F53",
+    "decimals": 18,
+    "name": "Token CRYPTO10 Hedged",
+    "ens_address": "",
+    "website": "https://invictuscapital.com/crypto10hedged",
+    "logo": {
+      "src": "https://etherscan.io/token/images/c10_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "team@invictuscapital.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://medium.crypto20.com/",
+      "chat": "",
+      "discord": "https://discordapp.com/invite/QwaFrxX",
+      "facebook": "https://www.facebook.com/invictuscapitalofficial/",
+      "forum": "",
+      "github": "https://github.com/invictuscapital",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/invictuscapital",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/ic_invictus",
+      "youtube": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "symbol": "VNXLU",
+    "address": "0x00fC270C9cc13e878Ab5363D00354bebF6f05C15",
+    "decimals": 18,
+    "name": "VNX Exchange",
+    "ens_address": "",
+    "website": "https://vnx.io/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@vnx.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://vnx.io/blog/",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/vnx.io/",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/vnx-company/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/VNX_Exchange",
+      "twitter": "https://twitter.com/vnx_io",
+      "youtube": ""
+    }
+}

@@ -3,6 +3,7 @@
   "address": "0xfFe8196bc259E8dEDc544d935786Aa4709eC3E64",
   "decimals": 18,
   "name": "Hedge Crypto",
+  "type": "ERC20",
   "ens_address": "",
   "website": "https://www.hedge-crypto.com",
   "logo": {
