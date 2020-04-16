@@ -28,7 +28,7 @@ This web tool should help getting the checksum: https://ethsum.netlify.com
 -  `github`:    Where token or project-related code lives.
 -  `community`: Twitter, Reddit, Slack or wherever else people hang out.
 -  `website`:   Official URL of the website.
-
+-  `address_eip1191`: Ethereum (or other chain) address of ERC-20 token, in [EIP-1191](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1191.md) mixed-case format.
 
 # The assembled lists
 

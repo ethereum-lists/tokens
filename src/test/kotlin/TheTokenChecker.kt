@@ -2,6 +2,7 @@ import kotlinx.coroutines.runBlocking
 import org.ethereum.lists.tokens.*
 import org.junit.Test
 import java.io.File
+import org.kethereum.model.ChainId
 
 class TheTokenChecker {
 
@@ -32,6 +33,13 @@ class TheTokenChecker {
         val file = getFile("valid_deprecation_newchain/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
 
         checkTokenFile(file)
+    }
+
+    @Test
+    fun shouldPassForValidTokenEip1191(): Unit = runBlocking {
+        val file = getFile("valid_eip1191/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file, false, ChainId(30))
     }
 
 
@@ -97,6 +105,13 @@ class TheTokenChecker {
         val file = getFile("invalid_deprecation_time/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
 
         checkTokenFile(file)
+    }
+
+    @Test(expected = Invalid1191Checksum::class)
+    fun shouldFailForInvalidChecksumEip1191(): Unit = runBlocking {
+        val file = getFile("invalid_eip1191/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file, false, ChainId(30))
     }
 
     private fun getFile(s: String) = File(javaClass.classLoader.getResource("test_tokens/$s").file)

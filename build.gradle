@@ -1,7 +1,7 @@
 buildscript {
     ext {
         KOTLIN_VERSION = "1.3.71"
-        KETHEREUM_VERSION = "0.81.6"
+        KETHEREUM_VERSION = "0.81.7"
     }
 
     repositories {
@@ -51,6 +51,7 @@ dependencies {
 
     compile "com.github.komputing.kethereum:erc20:${KETHEREUM_VERSION}"
     compile "com.github.komputing.kethereum:erc55:${KETHEREUM_VERSION}"
+    compile "com.github.komputing.kethereum:erc1191:${KETHEREUM_VERSION}"
     compile "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
     compile "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
     compile "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
