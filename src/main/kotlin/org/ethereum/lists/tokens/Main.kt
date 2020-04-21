@@ -8,18 +8,19 @@ import org.ethereum.lists.cilib.copyFields
 import java.io.File
 import java.nio.file.Files
 import kotlin.system.exitProcess
+import org.kethereum.model.ChainId
 
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 40, "ella" to 64, "esn" to 2, "gor" to 5)
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 30, "ella" to 64, "esn" to 2, "gor" to 5)
 
 suspend fun main() {
     checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles()?.forEach { singleNetworkTokenDirectory ->
-        val jsonArray = JsonArray<JsonObject>()
+        val jsonArray = JsonArray<JsonObject>()        
         singleNetworkTokenDirectory.listFiles()?.forEach {
-            try {
-                checkTokenFile(it, true)
+            try {                 
+                checkTokenFile(it, true, getChainId(networkMapping, singleNetworkTokenDirectory.name))                
                 val jsonObject = it.reader().use { reader ->
                     Klaxon().parseJsonObject(reader)
                 }
@@ -40,6 +41,14 @@ suspend fun main() {
             minified.writeJSON("minifiedByNetworkId", it.toString())
         }
     }
+}
+
+private fun getChainId(networkMapping: Map<String, Int>, networkName: String): ChainId? {
+    var chainId: ChainId? = null
+    if (networkMapping[networkName] != null){
+        return ChainId((networkMapping[networkName]!!).toBigInteger())        
+    }
+    return chainId
 }
 
 private fun checkForTokenDefinitionsInWrongPath() {

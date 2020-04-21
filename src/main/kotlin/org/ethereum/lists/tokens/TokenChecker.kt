@@ -8,7 +8,10 @@ import org.ethereum.lists.tokens.model.Token
 import org.kethereum.erc55.hasValidERC55Checksum
 import org.kethereum.erc55.isValid
 import org.kethereum.erc55.withERC55Checksum
+import org.kethereum.erc1191.hasValidERC1191Checksum
+import org.kethereum.erc1191.withERC1191Checksum
 import org.kethereum.model.Address
+import org.kethereum.model.ChainId
 import org.kethereum.rpc.min3.getMin3RPC
 import org.komputing.kethereum.erc20.ERC20RPCConnector
 import java.io.File
@@ -18,6 +21,7 @@ import java.time.format.DateTimeFormatter
 
 open class InvalidTokenException(message: String) : IllegalArgumentException(message)
 class InvalidChecksum(message: String) : InvalidTokenException("The address is not valid with ERC-55 checksum $message")
+class Invalid1191Checksum(message: String) : InvalidTokenException("The address is not valid with EIP-1191 checksum $message")
 
 class InvalidAddress(address: Address) : InvalidTokenException("The address is not valid $address")
 class InvalidDecimals : InvalidTokenException("Decimals must be a number")
@@ -37,7 +41,7 @@ val onChainIgnore by lazy {
     File("onChainIgnore.lst").readText().split("\n")
 }
 
-suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false) {
+suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: ChainId? = null) {
     val handle = file.name.removeSuffix(".json")
     if (onChainCheck && (notToProcessFiles.contains(handle) || onChainIgnore.contains(handle))) {
         return
@@ -45,11 +49,18 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false) {
 
     val jsonObject = Klaxon().parseJsonObject(file.reader())
     val address = Address(jsonObject["address"] as String)
+    val address_eip1191 = if (jsonObject["address_eip1191"] != null) Address(jsonObject["address_eip1191"] as String) else null
+
     when {
         !address.isValid() -> throw InvalidAddress(address)
 
-        !address.hasValidERC55Checksum()
+        address_eip1191 != null && !(address_eip1191.isValid()) -> throw InvalidAddress(address)
+
+        (!address.hasValidERC55Checksum())
         -> throw InvalidChecksum(address.toString() + " expected: " + address.withERC55Checksum())
+
+        (address_eip1191 != null && chainId != null && !address_eip1191.hasValidERC1191Checksum(chainId))
+        -> throw Invalid1191Checksum(address_eip1191.toString() + " expected: " + address_eip1191.withERC1191Checksum(chainId))
 
         file.name != "${address.hex}.json" -> throw InvalidFileName()
     }
@@ -90,7 +101,7 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false) {
             throw InvalidWebsite()
         }
     }
-    try {
+    try {    
         val token = moshi.adapter(Token::class.java).failOnUnknown().fromJson(file.readText())
 
         token?.deprecation?.let {
