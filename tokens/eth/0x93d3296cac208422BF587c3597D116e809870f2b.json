@@ -2,7 +2,7 @@
     "symbol": "pUSD",
     "name": "PegNet pUSD",
     "type": "ERC20",
-    "address":"0x93d3296cac208422bf587c3597d116e809870f2b",
+    "address":"0x93d3296cac208422BF587c3597D116e809870f2b",
     "ens_address": "",
     "decimals": 8,
     "website": "https://pegnet.org/",
