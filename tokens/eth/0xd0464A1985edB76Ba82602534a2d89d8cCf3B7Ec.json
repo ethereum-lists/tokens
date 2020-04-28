@@ -1,0 +1,35 @@
+{
+  "symbol": "GEFT",
+  "name": "GlobalEdu",
+  "type": "ERC20",
+  "address": "0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec",
+  "ens_address": "globaledu.eth",
+  "decimals": 2,
+  "website": "https://globaledufoundation.org",
+  "logo": {
+    "src": "https://globaledufoundation.org/assets/images/logo.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@globaledufoundation.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "medium": "https://medium.com/@globaledu.eth",
+    "chat": "",
+    "facebook": "https://www.facebook.com/globaledu.eth",
+    "forum": "",
+    "github": "https://github.com/GlobalEducationFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/gef_global",
+    "youtube": "https://www.youtube.com/channel/UCXT8fHF9sj-ugm7-zlViJlA"
+  }
+}
