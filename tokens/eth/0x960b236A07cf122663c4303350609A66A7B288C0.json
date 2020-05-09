@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Aragon",
   "ens_address": "",
-  "website": "https://aragon.org/",
+  "website": "https://aragon.org",
   "logo": {
     "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png",
     "width": "256",
