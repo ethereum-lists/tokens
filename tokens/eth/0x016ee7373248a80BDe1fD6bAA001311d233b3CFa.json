@@ -1,0 +1,34 @@
+{
+    "symbol": "BEAR",
+    "address": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
+    "decimals": 18,
+    "name": "3X Short Bitcoin Token",
+    "ens_address": "",
+    "website": "https://ftx.com/tokens/BEAR",
+    "logo": {
+      "src": "https://etherscan.io/token/images/kingxchain_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@ftx.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://blog.ftx.com/",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/FTX_Official",
+      "twitter": "https://twitter.com/FTX_official",
+      "youtube": ""
+    }
+}

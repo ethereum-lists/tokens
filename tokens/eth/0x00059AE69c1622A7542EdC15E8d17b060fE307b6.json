@@ -1,0 +1,34 @@
+{
+    "symbol": "AMON",
+    "address": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
+    "decimals": 18,
+    "name": "Token AmonD",
+    "ens_address": "",
+    "website": "https://ados.foundation/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/amond_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@ados.foundation",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/adosfoundation",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/adosfoundation",
+      "twitter": "https://twitter.com/adosfoundation",
+      "youtube": ""
+    }
+}

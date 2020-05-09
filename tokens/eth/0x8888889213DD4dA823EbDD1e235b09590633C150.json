@@ -1,0 +1,34 @@
+{
+    "symbol": "MBC",
+    "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+    "decimals": 18,
+    "name": "Marblecoin",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

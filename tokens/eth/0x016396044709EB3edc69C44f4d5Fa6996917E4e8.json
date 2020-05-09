@@ -1,0 +1,34 @@
+{
+    "symbol": "KXC",
+    "address": "0x016396044709EB3edc69C44f4d5Fa6996917E4e8",
+    "decimals": 18,
+    "name": "Token KingXChain",
+    "ens_address": "",
+    "website": "https://kingxchain.com/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/kingxchain_28.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@kingxchain.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/kingxchain_community",
+      "twitter": "https://twitter.com/kingxchain",
+      "youtube": ""
+    }
+}

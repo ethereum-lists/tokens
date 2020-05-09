@@ -1,5 +1,6 @@
 {
   "symbol": "DF",
+  "invalid_erc20_symbol": true,
   "name": "dForce Platform Token",
   "type": "ERC20",
   "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",

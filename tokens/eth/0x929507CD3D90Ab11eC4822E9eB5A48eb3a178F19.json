@@ -1,0 +1,36 @@
+{
+    "symbol": "uniGST2",
+    "invalid_erc20_symbol": true,
+    "name": "Uniswap: Gastoken.io",
+    "type": "ERC20",
+    "address": "0x929507CD3D90Ab11eC4822E9eB5A48eb3a178F19",
+    "ens_address": "",
+    "decimals": 18,
+    "invalid_erc20_decimals": true,
+    "website": "https://www.uniswap.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@uniswap.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/uniswap",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Uniswap",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "https://www.reddit.com/r/UniSwap/",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/UniswapExchange",
+        "youtube": ""
+    }
+}

@@ -5,6 +5,7 @@
   "address": "0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
   "ens_address": "",
   "decimals": 0,
+  "invalid_erc20_decimals": true,
   "website": "https://auton.io",
   "logo": {
     "src": "",

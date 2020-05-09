@@ -1,0 +1,40 @@
+{
+  "symbol": "ITO",
+  "name": "InTime",
+  "type": "ERC20",
+  "address": "0x5E5Bc236D024Cd26BE780802aaf1E0dC118fc484",
+  "ens_address": "intime.eth",
+  "decimals": 18,
+  "website": "https://www.intimefoundation.org",
+  "logo": {
+    "src": "https://www.intimefoundation.org/assets/images/logo128.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@intimefoundation.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "medium": "https://medium.com/@intimefoundation",
+    "chat": "",
+    "facebook": "https://www.facebook.com/intime.eth",
+    "forum": "",
+    "github": "https://github.com/InTimeFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/InTimeFoundation",
+    "twitter": "https://twitter.com/intime_ito",
+    "youtube": "https://www.youtube.com/channel/UCPQEURlDwuLL8fIs8CI6Dww"
+  },
+  "deprecation": {
+    "new_address": "0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+    "migration_type": "announcement:https://t.me/InTimeFoundation/3",
+    "time": "2020-04-17 7:50:40 UTC"
+  }
+}

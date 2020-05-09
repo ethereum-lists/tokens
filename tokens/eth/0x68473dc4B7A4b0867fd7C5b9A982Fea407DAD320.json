@@ -1,0 +1,34 @@
+{
+    "symbol": "sEUR",
+    "address": "0x68473dc4B7A4b0867fd7C5b9A982Fea407DAD320",
+    "decimals": 18,
+    "name": "Synth sEUR",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

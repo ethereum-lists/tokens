@@ -1,0 +1,34 @@
+{
+    "symbol": "iMKR",
+    "address": "0xD95e7F80766580634B2E0E49d9F66af317994FC7",
+    "decimals": 18,
+    "name": "Synth MKR",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

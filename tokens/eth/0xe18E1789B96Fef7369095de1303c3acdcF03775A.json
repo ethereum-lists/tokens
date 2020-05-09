@@ -1,0 +1,34 @@
+{
+    "symbol": "dsZRX2x",
+    "address": "0xe18E1789B96Fef7369095de1303c3acdcF03775A",
+    "decimals": 18,
+    "name": "bZx Perpetual Short ZRX 2x",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

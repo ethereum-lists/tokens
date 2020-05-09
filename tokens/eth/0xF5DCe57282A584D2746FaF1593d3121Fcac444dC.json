@@ -1,14 +1,14 @@
 {
-  "symbol": "cDai",
+  "symbol": "cSai",
   "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
   "decimals": 8,
-  "name": "Compound Dai",
+  "name": "Compound Sai",
   "ens_address": "",
   "website": "https://app.compound.finance",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://compound.finance/images/ctoken_dai.svg",
+    "width": "54px",
+    "height": "54px",
     "ipfs_hash": ""
   },
   "support": {
@@ -18,16 +18,17 @@
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "https://discord.gg/874ntdw",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/compound-finance/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/compound",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/compoundfinance",
     "youtube": ""
   }
 }

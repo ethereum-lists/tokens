@@ -1,0 +1,34 @@
+{
+    "symbol": "FAME",
+    "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+    "decimals": 18,
+    "name": "SAINT FAME: Genesis Shirt",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

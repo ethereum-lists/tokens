@@ -1,0 +1,34 @@
+{
+    "symbol": "dLETH3x",
+    "address": "0x19a5C979e96823A79F05d3E7658DdBc2d50Bd326",
+    "decimals": 18,
+    "name": "bZx Perpetual Long ETH 3x",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

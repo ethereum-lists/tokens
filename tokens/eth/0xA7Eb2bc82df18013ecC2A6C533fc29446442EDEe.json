@@ -1,0 +1,34 @@
+{
+    "symbol": "iZRX",
+    "address": "0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe",
+    "decimals": 18,
+    "name": "bZx ZRX iToken",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

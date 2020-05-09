@@ -1,0 +1,34 @@
+{
+    "symbol": "aUSDT",
+    "address": "0xC2102b921b49ea863476fa5Cc9E5851dCE8cc699",
+    "decimals": 6,
+    "name": "Aave Interest bearing USDT",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

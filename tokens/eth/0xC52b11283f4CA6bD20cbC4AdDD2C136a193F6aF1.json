@@ -1,0 +1,40 @@
+{
+  "symbol": "OTO",
+  "name": "OnTime",
+  "type": "ERC20",
+  "address": "0xC52b11283f4CA6bD20cbC4AdDD2C136a193F6aF1",
+  "ens_address": "ontime.eth",
+  "decimals": 18,
+  "website": "https://www.ontimefoundation.org",
+  "logo": {
+    "src": "https://www.ontimefoundation.org/assets/images/logo128.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@ontimefoundation.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "medium": "https://medium.com/@ontimefoundation",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ontime.eth",
+    "forum": "",
+    "github": "https://github.com/OnTimeFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/OnTimeFoundation",
+    "twitter": "https://twitter.com/ontime_oto",
+    "youtube": "https://www.youtube.com/channel/UCiiQ9AsYW8jed70RtNCSuQQ"
+  },
+  "deprecation": {
+    "new_address": "0x028CE5EA3298a50c0D8a27b937b1F48Cf0d68b56",
+    "migration_type": "announcement:https://t.me/OnTimeFoundation/3",
+    "time": "2020-04-17 8:19:39 UTC"
+  }
+}

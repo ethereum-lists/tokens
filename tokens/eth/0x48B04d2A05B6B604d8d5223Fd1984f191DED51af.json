@@ -1,0 +1,36 @@
+{
+    "symbol": "uniREP",
+    "invalid_erc20_symbol": true,
+    "name": "Uniswap: Reputation",
+    "type": "ERC20",
+    "address": "0x48B04d2A05B6B604d8d5223Fd1984f191DED51af",
+    "ens_address": "",
+    "decimals": 18,
+    "invalid_erc20_decimals": true,
+    "website": "https://www.uniswap.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@uniswap.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/uniswap",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Uniswap",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "https://www.reddit.com/r/UniSwap/",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/UniswapExchange",
+        "youtube": ""
+    }
+}

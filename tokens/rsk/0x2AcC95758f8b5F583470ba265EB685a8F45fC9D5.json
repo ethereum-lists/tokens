@@ -1,0 +1,34 @@
+{
+    "symbol": "RIF",
+    "address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+    "address_eip1191": "0x2aCc95758f8b5F583470bA265Eb685a8f45fC9D5",
+    "decimals": 18,
+    "name": "RIF Token",
+    "ens_address": "",
+    "website": "https://rifos.org",
+    "logo": {
+      "src": "https://developers.rsk.co/assets/img/rif/rif-logo.png",
+      "width": "817",
+      "height": "817",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@rifos.org",
+      "url": "https://developers.rsk.co/rif/token/"
+    },
+    "social": {
+      "blog": "https://www.rifos.org/blog/",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/riflabs",
+      "gitter": "https://gitter.im/rsksmart/",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/iovlabs",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/rif_os_community",
+      "twitter": "https://twitter.com/rif_os",
+      "youtube": ""
+    }
+  }

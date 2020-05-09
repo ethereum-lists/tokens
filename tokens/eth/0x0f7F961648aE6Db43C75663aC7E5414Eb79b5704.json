@@ -1,0 +1,34 @@
+{
+    "symbol": "XIO",
+    "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+    "decimals": 18,
+    "name": "XIO Network",
+    "ens_address": "",
+    "website": "https://xio.network/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/xionetwork_32.png",
+      "width": "54px",
+      "height": "54px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "dash@xio.network",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://facebook.com/groups/xionetwork",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/xio-incubator",
+      "reddit": "https://www.reddit.com/r/bombx",
+      "slack": "",
+      "telegram": "https://t.me/xio_network",
+      "twitter": "https://twitter.com/xio_network",
+      "youtube": ""
+    }
+}

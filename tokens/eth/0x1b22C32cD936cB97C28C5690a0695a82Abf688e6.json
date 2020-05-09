@@ -1,5 +1,6 @@
 {
   "symbol": "WISH",
+  "invalid_erc20_symbol": true,
   "name": "MyWish",
   "type": "ERC20",
   "address": "0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",

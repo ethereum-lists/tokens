@@ -1,0 +1,36 @@
+{
+    "symbol": "uniMGN",
+    "invalid_erc20_symbol": true,
+    "name": "Uniswap: Magnolia Token",
+    "type": "ERC20",
+    "address": "0xdd80Ca8062c7Ef90FcA2547E6a2A126C596e611F",
+    "ens_address": "",
+    "decimals": 18,
+    "invalid_erc20_decimals": true,
+    "website": "https://www.uniswap.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@uniswap.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/uniswap",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Uniswap",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "https://www.reddit.com/r/UniSwap/",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/UniswapExchange",
+        "youtube": ""
+    }
+}

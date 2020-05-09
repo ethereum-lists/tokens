@@ -1,0 +1,34 @@
+{
+  "symbol": "PSK",
+  "name": "Pool of Stake Master Token",
+  "type": "ERC20",
+  "address": "0x1c5F43710a1776b0Ea7191b7Ead75D4B98D69858",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.poolofstake.io",
+  "logo": {
+    "src": "https://www.poolofstake.io/logo/PSK.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mail@poolofstake.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@poolofstake",
+    "chat": "",
+    "facebook": "https://www.facebook.com/poolofstake",
+    "forum": "https://bitcointalk.org/index.php?topic=3283742.0",
+    "github": "https://github.com/poolofstake/PSK",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/poolofstake",
+    "linkedin": "https://www.linkedin.com/company/pool-of-stake",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.me/poolofstake",
+    "twitter": "https://twitter.com/poolofstake",
+    "youtube": "https://www.youtube.com/channel/UCenEbx5MwCF7kjTAWU-jv_g?"
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "symbol": "CHAI",
+    "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+    "decimals": 18,
+    "name": "Chai",
+    "ens_address": "",
+    "website": "https://chai.money/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/dapphub/chai",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/MartinLundfall",
+      "youtube": ""
+    }
+}

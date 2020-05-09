@@ -1,0 +1,34 @@
+{
+    "symbol": "BALI",
+    "address": "0x013A06558f07d9E6F9A00c95a33f3a0E0255176b",
+    "decimals": 18,
+    "name": "BALI COIN",
+    "ens_address": "",
+    "website": "https://balicoin.io/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "admin@balicoin.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/Bali-Coin-815339625300724/",
+      "forum": "",
+      "github": "https://github.com/adamyusfan/balicoin",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/vnx-company/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/joinchat/CdUpoBDN10siPVeKzXFTdQ",
+      "twitter": "https://twitter.com/balicoincrypto",
+      "youtube": ""
+    }
+}

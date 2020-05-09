@@ -1,0 +1,34 @@
+{
+    "symbol": "UAT",
+    "address": "0x01C0987E88F778DF6640787226bc96354E1a9766",
+    "decimals": 18,
+    "name": "UltrAlpha token",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "", 
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+}

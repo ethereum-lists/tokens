@@ -1,0 +1,36 @@
+{
+    "symbol": "uniimBTC",
+    "invalid_erc20_symbol": true,
+    "name": "Uniswap: The Tokenized Bitcoin",
+    "type": "ERC20",
+    "address": "0xFFcf45b540e6C9F094Ae656D2e34aD11cdfdb187",
+    "ens_address": "",
+    "decimals": 18,
+    "invalid_erc20_decimals": true,
+    "website": "https://www.uniswap.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@uniswap.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/uniswap",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Uniswap",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "https://www.reddit.com/r/UniSwap/",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/UniswapExchange",
+        "youtube": ""
+    }
+}

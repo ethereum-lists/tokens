@@ -1,0 +1,34 @@
+{
+    "symbol": "dLLINK4x",
+    "address": "0x3789A8cAc9D2Eb3Cb87c09CA3422b928c768b362",
+    "decimals": 18,
+    "name": "bZx Perpetual Long LINK-DAI 4x v2 ",
+    "ens_address": "",
+    "website": "https://bzx.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@bzx.network",
+      "url": "https://help.bzx.network/en/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://bzx.network/discord",
+      "facebook": "https://www.facebook.com/b0xNetwork/",
+      "forum": "",
+      "github": "https://github.com/bZxNetwork",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/b0x/",
+      "reddit": "https://reddit.com/r/compound",
+      "slack": "",
+      "telegram": "https://t.me/b0xNet",
+      "twitter": "https://twitter.com/bzxHQ",
+      "youtube": ""
+    }
+}

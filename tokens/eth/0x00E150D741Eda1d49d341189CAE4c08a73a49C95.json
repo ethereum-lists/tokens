@@ -1,0 +1,34 @@
+{
+    "symbol": "INF",
+    "address": "0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
+    "decimals": 18,
+    "name": "InfinitusTokens",
+    "ens_address": "",
+    "website": "https://inftech.io/ ",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@infinitustoken.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/InfinitusTechOfficial",
+      "forum": "",
+      "github": "https://github.com/InfinitusToken/InfinitusToken",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/infinitustoken",
+      "twitter": "https://twitter.com/InfinitusToken",
+      "youtube": ""
+    }
+}

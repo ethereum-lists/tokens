@@ -3,6 +3,7 @@
   "address": "0x0a1D2fF7156a48131553CF381F220bbedB4eFa37",
   "decimals": 18,
   "name": "FABA",
+  "type": "ERC20",
   "ens_address": "",
   "website": "https://vc.fabainvest.com",
   "logo": {

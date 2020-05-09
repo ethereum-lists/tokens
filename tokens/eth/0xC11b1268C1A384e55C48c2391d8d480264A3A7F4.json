@@ -1,0 +1,34 @@
+{
+  "symbol": "cWBTC",
+  "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
+  "decimals": 8,
+  "name": "Compound Wrapped BTC",
+  "ens_address": "",
+  "website": "https://compound.finance",
+  "logo": {
+    "src": "https://compound.finance/images/ctoken_wbtc.svg",
+    "width": "54px",
+    "height": "54px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "tokens@compound.finance",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/874ntdw",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/compound-finance/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/compound",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/compoundfinance",
+    "youtube": ""
+  }
+}

@@ -1,5 +1,6 @@
 {
   "symbol": "BLX (Iconomi)",
+  "invalid_erc20_symbol": true,
   "address": "0xE5a7c12972f3bbFe70ed29521C8949b8Af6a0970",
   "decimals": 18,
   "name": "Iconomi",

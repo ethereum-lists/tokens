@@ -1,0 +1,34 @@
+{
+    "symbol": "CELR",
+    "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+    "decimals": 18,
+    "name": "CelerToken",
+    "ens_address": "",
+    "website": "https://www.celer.network/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://medium.com/celer-network",
+      "chat": "",
+      "discord": "https://discordapp.com/invite/Trhab5w",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/celer-network",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/CelerNetwork",
+      "youtube": ""
+    }
+}

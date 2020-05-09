@@ -1,0 +1,36 @@
+{
+	"symbol": "fstETHDAI",
+	"invalid_erc20_symbol": true,
+	"name": "Futureswap: ETHUSD",
+	"type": "ERC20",
+	"address": "0xCbe83d6323a9eC795D5Cb73b333b23377a823ECC",
+	"ens_address": "",
+	"decimals": 18,
+	"invalid_erc20_decimals": true,
+	"website": "https://futureswap.com",
+	"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+	},
+	"support": {
+			"email": "",
+			"url": ""
+	},
+	"social": {
+			"blog": "https://medium.com/futureswap",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/futureswap",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/futureswapx",
+			"youtube": ""
+	}
+}

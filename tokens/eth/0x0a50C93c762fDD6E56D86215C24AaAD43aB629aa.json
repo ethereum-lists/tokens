@@ -3,6 +3,7 @@
   "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
   "decimals": 8,
   "name": "LGO Token",
+  "type": "ERC20",
   "ens_address": "",
   "website": "https://lgo.group",
   "logo": {
