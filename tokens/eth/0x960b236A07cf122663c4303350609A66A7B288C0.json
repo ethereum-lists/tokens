@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://aragon.org",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png",
+    "width": "256",
+    "height": "256",
     "ipfs_hash": ""
   },
   "support": {
@@ -17,17 +17,17 @@
   },
   "social": {
     "blog": "https://blog.aragon.org/",
-    "chat": "https://aragon.chat/home",
+    "chat": "https://aragon.chat/",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://forum.aragon.org/",
+    "github": "https://github.com/aragon/aragon",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/aragonproject/",
+    "reddit": "https://www.reddit.com/r/aragonproject/",
     "slack": "",
     "telegram": "",
     "twitter": "https://twitter.com/AragonProject",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ"
   }
 }
