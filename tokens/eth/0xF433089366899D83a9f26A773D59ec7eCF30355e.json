@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://www.metalpay.com",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png",
+    "width": "64",
+    "height": "64",
     "ipfs_hash": ""
   },
   "support": {
@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/metalpaysme",
     "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
+    "instagram": "https://www.instagram.com/metalpaysme/?hl=en",
+    "linkedin": "https://www.linkedin.com/company/metalpaysme",
     "reddit": "https://reddit.com/r/MetalPay",
     "slack": "https://www.metalpay.chat",
-    "telegram": "",
+    "telegram": "https://t.me/MetalPayCommunity",
     "twitter": "https://twitter.com/metalpaysme",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/channel/UCbB7oW7WQIpk5KIY5gkHJrA"
   }
 }
