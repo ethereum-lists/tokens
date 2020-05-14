@@ -1,0 +1,31 @@
+{
+    "symbol": "CTSI",
+    "name": "Cartesi Token",
+    "type": "ERC20",
+    "address":"0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://cartesi.io",
+    "logo": {
+        "src": "https://drive.google.com/file/d/1QVlIVIpQ6HwcMow4mynvQIhCIwO6Pcsp/view?usp=sharing",
+        "width": "128px",
+        "height": "128px",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "info@cartesi.io",
+        "url": "https://cartesi.io/"
+    },
+    "social": {
+        "blog": "https://medium.com/cartesi",
+        "facebook": "https://facebook.com/cartesiproject",
+        "github": "https://github.com/cartesi",
+        "discord": "https://discord.gg/Pt2NrnS",
+        "instagram": "https://www.instagram.com/cartesiproject/",
+        "linkedin": "https://www.linkedin.com/company/cartesiproject/",
+        "reddit": "https://www.reddit.com/r/cartesi/",
+        "telegram": "https://t.me/cartesiproject",
+        "twitter": "https://twitter.com/cartesiproject",
+        "youtube": "https://www.youtube.com/channel/UCJ2As__5GSeP6yPBGPbzSOw"
+    }
+}
