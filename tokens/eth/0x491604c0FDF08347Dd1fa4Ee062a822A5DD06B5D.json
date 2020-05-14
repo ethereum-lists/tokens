@@ -2,7 +2,7 @@
     "symbol": "CTSI",
     "name": "Cartesi Token",
     "type": "ERC20",
-    "address":"0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+    "address":"0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "ens_address": "",
     "decimals": 18,
     "website": "https://cartesi.io",
