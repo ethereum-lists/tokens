@@ -1,0 +1,15 @@
+{
+    "symbol": "FYZ",
+    "name": "Fyooz",
+    "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+    "decimals": 18,
+    "website": "https://www.fyooz.io/",
+    "logo": "https://drive.google.com/file/d/1cqogQKwLoOjabwqcbKXDQR9kPlxpQ4ha/view?usp=sharing",
+    "support": "hello@fyooz.io",
+    "social": {
+        "blog": "https://medium.com/fyooz",
+        "facebook": "https://www.facebook.com/fyooz.io/",
+        "instagram": "https://www.instagram.com/fyoozofficial",
+        "twitter": "https://twitter.com/fyooz_io",
+    }
+}
