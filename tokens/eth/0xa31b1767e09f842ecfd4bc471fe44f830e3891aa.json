@@ -1,0 +1,23 @@
+{
+    "symbol": "ROOBEE",
+    "name": "ROOBEE",
+    "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+    "decimals": 18,
+    "website": "https://roobee.io/",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/roobee-platform/Roobee/master/assets/Logo%20128.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@roobee.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://medium.com/@roobee_invest",
+      "facebook": "https://www.facebook.com/roobee.invest/",
+      "instagram": "https://twitter.com/Roobee_invest",
+      "twitter": "https://www.instagram.com/roobee_invest/"
+    }
+} 
