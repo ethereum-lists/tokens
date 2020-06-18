@@ -1,0 +1,35 @@
+{
+  "symbol": "XPR",
+  "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "decimals": 4,
+  "name": "Proton",
+  "ens_address": "",
+  "website": "https://www.protonchain.com/",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/5350.png",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@protonchain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://protonchainnews.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/protonxpr/",
+    "forum": "",
+    "github": "https://github.com/ProtonProtocol",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/protonxpr/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ProtonChain/",
+    "slack": "",
+    "telegram": "https://t.me/protonxpr",
+    "twitter": "https://twitter.com/protonxpr",
+    "youtube": ""
+  }
+}
+
+
