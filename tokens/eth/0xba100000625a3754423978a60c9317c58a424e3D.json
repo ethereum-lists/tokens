@@ -1,0 +1,34 @@
+{
+  "symbol": "BAL",
+  "name": "Balancer",
+  "type": "ERC20",
+  "address": " 0xba100000625a3754423978a60c9317c58a424e3D",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://balancer.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@balancer.finance",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/balancer-protocol",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/balancer-labs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BalancerLabs",
+    "youtube": ""
+  }
+}
