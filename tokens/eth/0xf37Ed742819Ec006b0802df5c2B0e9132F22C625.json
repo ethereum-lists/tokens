@@ -1,0 +1,34 @@
+{
+  "symbol": "univ2GENETH",
+  "name": "Uniswap V2 GEN-ETH",
+  "type": "ERC20",
+  "address": "0xf37Ed742819Ec006b0802df5c2B0e9132F22C625",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.uniswap.org",
+  "logo": {
+    "src": "https://uniswap.info/static/media/logo.5827780d.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@uniswap.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://uniswap.org/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Uniswap",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Uniswap",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/UniswapProtocol",
+    "youtube": ""
+  }
+}

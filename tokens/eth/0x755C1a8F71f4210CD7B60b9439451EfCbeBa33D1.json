@@ -1,0 +1,34 @@
+{
+  "symbol": "univ2LPTETH",
+  "name": "Uniswap V2 LPT-ETH",
+  "type": "ERC20",
+  "address": "0x755C1a8F71f4210CD7B60b9439451EfCbeBa33D1",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.uniswap.org",
+  "logo": {
+    "src": "https://uniswap.info/static/media/logo.5827780d.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@uniswap.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://uniswap.org/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Uniswap",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Uniswap",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/UniswapProtocol",
+    "youtube": ""
+  }
+}
