@@ -1,5 +1,6 @@
 {
   "symbol": "univ2FUNETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 FUN-ETH",
   "type": "ERC20",
   "address": "0x05B0c1D8839eF3a989B33B6b63D3aA96cB7Ec142",

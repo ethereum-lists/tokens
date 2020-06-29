@@ -1,5 +1,6 @@
 {
   "symbol": "univ2XNSETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 XNS-ETH",
   "type": "ERC20",
   "address": "0xB5bdb51fDC635359181111439Efe2799Bc2336c6",

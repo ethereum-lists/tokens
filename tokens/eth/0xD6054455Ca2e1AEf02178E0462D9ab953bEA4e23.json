@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DATAETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DATA-ETH",
   "type": "ERC20",
   "address": "0xD6054455Ca2e1AEf02178E0462D9ab953bEA4e23",

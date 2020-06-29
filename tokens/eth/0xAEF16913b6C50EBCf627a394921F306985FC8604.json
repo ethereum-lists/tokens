@@ -1,5 +1,6 @@
 {
   "symbol": "univ2STORJETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 STORJ-ETH",
   "type": "ERC20",
   "address": "0xAEF16913b6C50EBCf627a394921F306985FC8604",

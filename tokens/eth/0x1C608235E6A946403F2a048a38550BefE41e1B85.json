@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHPAMP",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-PAMP",
   "type": "ERC20",
   "address": "0x1C608235E6A946403F2a048a38550BefE41e1B85",

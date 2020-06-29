@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHZRX",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-ZRX",
   "type": "ERC20",
   "address": "0xc6F348dd3B91a56D117ec0071C1e9b83C0996De4",

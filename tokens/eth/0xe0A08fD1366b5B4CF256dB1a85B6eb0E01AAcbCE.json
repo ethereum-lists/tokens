@@ -1,5 +1,6 @@
 {
   "symbol": "univ2STONKETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 STONK-ETH",
   "type": "ERC20",
   "address": "0xe0A08fD1366b5B4CF256dB1a85B6eb0E01AAcbCE",

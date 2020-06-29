@@ -1,5 +1,6 @@
 {
   "symbol": "univ2LENDETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 LEND-ETH",
   "type": "ERC20",
   "address": "0xaB3F9bF1D81ddb224a2014e98B238638824bCf20",

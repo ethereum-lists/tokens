@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHDMG",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-DMG",
   "type": "ERC20",
   "address": "0x8175362afBeeE32AfB22d05adc0bbD08dE32F5Ae",

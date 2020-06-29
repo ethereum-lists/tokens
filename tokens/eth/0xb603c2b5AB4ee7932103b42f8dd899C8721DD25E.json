@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DAILEND",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DAI-LEND",
   "type": "ERC20",
   "address": "0xb603c2b5AB4ee7932103b42f8dd899C8721DD25E",

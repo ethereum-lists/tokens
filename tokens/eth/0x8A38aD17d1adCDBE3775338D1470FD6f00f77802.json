@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHBUIDL",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-BUIDL",
   "type": "ERC20",
   "address": "0x8A38aD17d1adCDBE3775338D1470FD6f00f77802",

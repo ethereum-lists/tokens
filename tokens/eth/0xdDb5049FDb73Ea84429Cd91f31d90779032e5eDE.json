@@ -1,5 +1,6 @@
 {
   "symbol": "univ2LPTDAI",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 LPT-DAI",
   "type": "ERC20",
   "address": "0xdDb5049FDb73Ea84429Cd91f31d90779032e5eDE",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2KAIETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 KAI-ETH",
   "type": "ERC20",
   "address": "0x6507ba0f3eb82cba185c088A3fBD0435f1A73B28",

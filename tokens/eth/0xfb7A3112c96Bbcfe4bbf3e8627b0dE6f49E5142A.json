@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHSHIP",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-SHIP",
   "type": "ERC20",
   "address": "0xfb7A3112c96Bbcfe4bbf3e8627b0dE6f49E5142A",

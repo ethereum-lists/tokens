@@ -1,5 +1,6 @@
 {
   "symbol": "univ2OGNETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 OGN-ETH",
   "type": "ERC20",
   "address": "0xce2Cc0513634CEf3a7C9C257E294EF5E3092f185",

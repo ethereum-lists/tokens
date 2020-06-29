@@ -1,5 +1,6 @@
 {
   "symbol": "univ2LPTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 LPT-ETH",
   "type": "ERC20",
   "address": "0x755C1a8F71f4210CD7B60b9439451EfCbeBa33D1",

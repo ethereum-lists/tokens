@@ -1,5 +1,6 @@
 {
   "symbol": "univ2REPETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 REP-ETH",
   "type": "ERC20",
   "address": "0xec2D2240D02A8cf63C3fA0B7d2C5a3169a319496",

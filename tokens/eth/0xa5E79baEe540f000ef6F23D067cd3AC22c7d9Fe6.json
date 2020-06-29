@@ -1,5 +1,6 @@
 {
   "symbol": "univ2CELETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 CEL-ETH",
   "type": "ERC20",
   "address": "0xa5E79baEe540f000ef6F23D067cd3AC22c7d9Fe6",

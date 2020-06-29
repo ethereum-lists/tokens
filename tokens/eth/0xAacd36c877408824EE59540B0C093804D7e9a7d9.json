@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MRDNETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MRDN-ETH",
   "type": "ERC20",
   "address": "0xAacd36c877408824EE59540B0C093804D7e9a7d9",

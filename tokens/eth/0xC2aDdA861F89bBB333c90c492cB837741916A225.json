@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MKRETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MKR-ETH",
   "type": "ERC20",
   "address": "0xC2aDdA861F89bBB333c90c492cB837741916A225",

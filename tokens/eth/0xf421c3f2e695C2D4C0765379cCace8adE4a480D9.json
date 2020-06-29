@@ -1,5 +1,6 @@
 {
   "symbol": "univ2BANDETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 BAND-ETH",
   "type": "ERC20",
   "address": "0xf421c3f2e695C2D4C0765379cCace8adE4a480D9",

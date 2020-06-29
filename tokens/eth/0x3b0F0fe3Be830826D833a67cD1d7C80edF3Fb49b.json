@@ -1,5 +1,6 @@
 {
   "symbol": "univ2EBASEETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 EBASE-ETH",
   "type": "ERC20",
   "address": "0x3b0F0fe3Be830826D833a67cD1d7C80edF3Fb49b",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHUBOMB",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-UBOMB",
   "type": "ERC20",
   "address": "0xEd9C854Cb02dE75Ce4C9BBA992828d6CB7fd5C71",

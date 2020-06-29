@@ -1,5 +1,6 @@
 {
   "symbol": "univ2LRCETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 LRC-ETH",
   "type": "ERC20",
   "address": "0x8878Df9E1A7c87dcBf6d3999D997f262C05D8C70",

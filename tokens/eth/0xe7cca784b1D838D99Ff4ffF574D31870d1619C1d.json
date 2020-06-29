@@ -1,5 +1,6 @@
 {
   "symbol": "univ2PODETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 POD-ETH",
   "type": "ERC20",
   "address": "0xe7cca784b1D838D99Ff4ffF574D31870d1619C1d",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2XIOETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 XIO-ETH",
   "type": "ERC20",
   "address": "0xE0cc5aFc0FF2c76183416Fb8d1a29f6799FB2cdF",

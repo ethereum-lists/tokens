@@ -1,5 +1,6 @@
 {
   "symbol": "univ2SNXETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 SNX-ETH",
   "type": "ERC20",
   "address": "0x43AE24960e5534731Fc831386c07755A2dc33D47",

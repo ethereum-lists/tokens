@@ -1,5 +1,6 @@
 {
   "symbol": "univ2FOAMETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 FOAM-ETH",
   "type": "ERC20",
   "address": "0xd9d39540d61F8D6Eb2EE7eEdFae93CC09cC24f0E",

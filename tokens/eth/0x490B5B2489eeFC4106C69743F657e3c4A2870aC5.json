@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ATISETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ATIS-ETH",
   "type": "ERC20",
   "address": "0x490B5B2489eeFC4106C69743F657e3c4A2870aC5",

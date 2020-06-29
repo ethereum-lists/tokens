@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DAIETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DAI-ETH",
   "type": "ERC20",
   "address": "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11",

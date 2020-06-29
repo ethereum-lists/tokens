@@ -1,5 +1,6 @@
 {
   "symbol": "univ2PNKETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 PNK-ETH",
   "type": "ERC20",
   "address": "0x343FD171caf4F0287aE6b87D75A8964Dc44516Ab",

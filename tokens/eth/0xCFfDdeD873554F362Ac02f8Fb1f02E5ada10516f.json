@@ -1,5 +1,6 @@
 {
   "symbol": "univ2COMPETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 COMP-ETH",
   "type": "ERC20",
   "address": "0xCFfDdeD873554F362Ac02f8Fb1f02E5ada10516f",

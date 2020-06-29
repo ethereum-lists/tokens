@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ALEPHETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ALEPH-ETH",
   "type": "ERC20",
   "address": "0x583CaDD830374bb5C1eC8E1b648e0294CC1E01f1",

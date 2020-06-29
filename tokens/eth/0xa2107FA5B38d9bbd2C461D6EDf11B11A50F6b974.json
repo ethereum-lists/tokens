@@ -1,5 +1,6 @@
 {
   "symbol": "univ2LINKETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 LINK-ETH",
   "type": "ERC20",
   "address": "0xa2107FA5B38d9bbd2C461D6EDf11B11A50F6b974",

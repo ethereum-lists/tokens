@@ -1,5 +1,6 @@
 {
   "symbol": "univ2GENETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 GEN-ETH",
   "type": "ERC20",
   "address": "0xf37Ed742819Ec006b0802df5c2B0e9132F22C625",

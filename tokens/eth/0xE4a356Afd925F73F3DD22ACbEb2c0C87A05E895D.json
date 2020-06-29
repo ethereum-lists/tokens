@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DAIJRT",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DAI-JRT",
   "type": "ERC20",
   "address": "0xE4a356Afd925F73F3DD22ACbEb2c0C87A05E895D",

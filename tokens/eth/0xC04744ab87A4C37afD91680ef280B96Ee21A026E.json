@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHAUC",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-AUC",
   "type": "ERC20",
   "address": "0xC04744ab87A4C37afD91680ef280B96Ee21A026E",

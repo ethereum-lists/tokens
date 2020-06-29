@@ -1,5 +1,6 @@
 {
   "symbol": "univ2BATETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 BAT-ETH",
   "type": "ERC20",
   "address": "0xB6909B960DbbE7392D405429eB2b3649752b4838",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHKNC",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-KNC",
   "type": "ERC20",
   "address": "0xf49C43Ae0fAf37217bDcB00DF478cF793eDd6687",

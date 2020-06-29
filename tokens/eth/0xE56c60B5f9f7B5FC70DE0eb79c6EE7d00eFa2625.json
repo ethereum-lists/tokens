@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHENJ",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-ENJ",
   "type": "ERC20",
   "address": "0xE56c60B5f9f7B5FC70DE0eb79c6EE7d00eFa2625",

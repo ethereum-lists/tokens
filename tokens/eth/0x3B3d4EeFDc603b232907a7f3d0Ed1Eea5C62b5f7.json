@@ -1,5 +1,6 @@
 {
   "symbol": "univ2STAKEETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 STAKE-ETH",
   "type": "ERC20",
   "address": "0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7",

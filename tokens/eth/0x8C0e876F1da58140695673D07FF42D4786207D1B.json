@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ESWAETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ESWA-ETH",
   "type": "ERC20",
   "address": "0x8C0e876F1da58140695673D07FF42D4786207D1B",

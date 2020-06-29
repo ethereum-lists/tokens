@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DEXTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DEXT-ETH",
   "type": "ERC20",
   "address": "0x37a0464f8F4c207B54821f3C799Afd3D262Aa944",

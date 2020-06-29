@@ -1,5 +1,6 @@
 {
   "symbol": "univ2sETHETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 sETH-ETH",
   "type": "ERC20",
   "address": "0x598E740cda7C525080d3FCb9Fa7C4E1bd0044B34",

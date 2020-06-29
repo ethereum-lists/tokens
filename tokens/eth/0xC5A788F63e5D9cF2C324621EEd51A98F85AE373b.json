@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DZARETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DZAR-ETH",
   "type": "ERC20",
   "address": "0xC5A788F63e5D9cF2C324621EEd51A98F85AE373b",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2USDCBUIDL",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 USDC-BUIDL",
   "type": "ERC20",
   "address": "0xfd226C17A57f5eEF0b848D9b65bc53Cbbf7eD965",

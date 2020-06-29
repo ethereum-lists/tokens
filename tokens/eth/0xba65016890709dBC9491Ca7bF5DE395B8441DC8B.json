@@ -1,5 +1,6 @@
 {
   "symbol": "univ2RSRETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 RSR-ETH",
   "type": "ERC20",
   "address": "0xba65016890709dBC9491Ca7bF5DE395B8441DC8B",

@@ -1,5 +1,6 @@
 {
   "symbol": "univ2OCEANETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 OCEAN-ETH",
   "type": "ERC20",
   "address": "0x8Fd3A04CB30A1fD9fFaF1548972B2e5117D0a52D",

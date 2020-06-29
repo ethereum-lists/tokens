@@ -1,5 +1,6 @@
 {
   "symbol": "univ2RAINETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 RAIN-ETH",
   "type": "ERC20",
   "address": "0xcB7f78A079B5fC387C80b93BE79d40309C27A237",

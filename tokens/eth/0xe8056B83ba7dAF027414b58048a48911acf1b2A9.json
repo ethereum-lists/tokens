@@ -1,5 +1,6 @@
 {
   "symbol": "univ2DAIMFT",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 DAI-MFT",
   "type": "ERC20",
   "address": "0xe8056B83ba7dAF027414b58048a48911acf1b2A9",

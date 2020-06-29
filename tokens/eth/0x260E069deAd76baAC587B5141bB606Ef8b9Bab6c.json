@@ -1,5 +1,6 @@
 {
   "symbol": "univ2SHUFETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 SHUF-ETH",
   "type": "ERC20",
   "address": "0x260E069deAd76baAC587B5141bB606Ef8b9Bab6c",

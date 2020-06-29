@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHPOWER",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-POWER",
   "type": "ERC20",
   "address": "0x49F9316EB22de90d9343C573fbD7Cc0B5ec6e19f",

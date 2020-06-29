@@ -1,5 +1,6 @@
 {
   "symbol": "univ2XRTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 XRT-ETH",
   "type": "ERC20",
   "address": "0x3185626c14aCB9531d19560dECb9d3E5E80681b1",

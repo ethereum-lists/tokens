@@ -1,5 +1,6 @@
 {
   "symbol": "univ2HEXETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 HEX-ETH",
   "type": "ERC20",
   "address": "0x55D5c232D921B9eAA6b37b5845E439aCD04b4DBa",

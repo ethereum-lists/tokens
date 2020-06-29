@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MKRUSDC",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MKR-USDC",
   "type": "ERC20",
   "address": "0x340A5a2F73eBaa181eC2826802Fdf8ED21Fc759a",

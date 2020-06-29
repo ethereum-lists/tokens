@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHFRM",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-FRM",
   "type": "ERC20",
   "address": "0x92330D8818e8A3B50f027C819FA46031FfBa2C8C",

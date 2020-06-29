@@ -1,5 +1,6 @@
 {
   "symbol": "univ2sXAUUSDC",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 sXAU-USDC",
   "type": "ERC20",
   "address": "0x34a0216C5057bC18e5d34D4405284564eFd759b2",

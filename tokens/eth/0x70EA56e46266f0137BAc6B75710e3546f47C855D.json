@@ -1,5 +1,6 @@
 {
   "symbol": "univ2RPLETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 RPL-ETH",
   "type": "ERC20",
   "address": "0x70EA56e46266f0137BAc6B75710e3546f47C855D",

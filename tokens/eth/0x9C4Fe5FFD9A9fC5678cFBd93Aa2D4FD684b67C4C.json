@@ -1,5 +1,6 @@
 {
   "symbol": "univ2PAXGETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 PAXG-ETH",
   "type": "ERC20",
   "address": "0x9C4Fe5FFD9A9fC5678cFBd93Aa2D4FD684b67C4C",

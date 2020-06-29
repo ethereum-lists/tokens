@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHAMPL",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-AMPL",
   "type": "ERC20",
   "address": "0xc5be99A02C6857f9Eac67BbCE58DF5572498F40c",

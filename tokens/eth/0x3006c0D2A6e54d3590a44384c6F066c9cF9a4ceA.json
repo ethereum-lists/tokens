@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MATHETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MATH-ETH",
   "type": "ERC20",
   "address": "0x3006c0D2A6e54d3590a44384c6F066c9cF9a4ceA",

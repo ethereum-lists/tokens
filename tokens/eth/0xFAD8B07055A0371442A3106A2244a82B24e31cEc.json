@@ -1,5 +1,6 @@
 {
   "symbol": "univ2BIZETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 BIZ-ETH",
   "type": "ERC20",
   "address": "0xFAD8B07055A0371442A3106A2244a82B24e31cEc",

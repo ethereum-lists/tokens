@@ -1,5 +1,6 @@
 {
   "symbol": "univ2TRBETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 TRB-ETH",
   "type": "ERC20",
   "address": "0x70258Aa9830C2C84d855Df1D61E12C256F6448b4",

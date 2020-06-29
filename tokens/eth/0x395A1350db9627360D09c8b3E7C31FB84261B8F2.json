@@ -1,5 +1,6 @@
 {
   "symbol": "univ2GHOSTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 GHOST-ETH",
   "type": "ERC20",
   "address": "0x395A1350db9627360D09c8b3E7C31FB84261B8F2",

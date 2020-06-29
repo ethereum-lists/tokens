@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MOONETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MOON-ETH",
   "type": "ERC20",
   "address": "0xf89403ad67d659d5d1FAe7c6Ec163110506b858a",

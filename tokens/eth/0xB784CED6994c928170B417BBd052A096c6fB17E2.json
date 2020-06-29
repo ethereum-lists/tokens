@@ -1,5 +1,6 @@
 {
   "symbol": "univ2NMRETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 NMR-ETH",
   "type": "ERC20",
   "address": "0xB784CED6994c928170B417BBd052A096c6fB17E2",

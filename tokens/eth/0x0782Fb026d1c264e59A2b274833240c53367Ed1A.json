@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHDAOX",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-DAOX",
   "type": "ERC20",
   "address": "0x0782Fb026d1c264e59A2b274833240c53367Ed1A",

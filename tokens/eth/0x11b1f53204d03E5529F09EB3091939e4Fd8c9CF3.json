@@ -1,5 +1,6 @@
 {
   "symbol": "univ2MANAETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 MANA-ETH",
   "type": "ERC20",
   "address": "0x11b1f53204d03E5529F09EB3091939e4Fd8c9CF3",

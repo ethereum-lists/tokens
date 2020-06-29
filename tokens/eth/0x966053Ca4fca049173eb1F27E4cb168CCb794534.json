@@ -1,5 +1,6 @@
 {
   "symbol": "univ2VLTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 VLT-ETH",
   "type": "ERC20",
   "address": "0x966053Ca4fca049173eb1F27E4cb168CCb794534",

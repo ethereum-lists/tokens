@@ -1,5 +1,6 @@
 {
   "symbol": "univ2USDCETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 USDC-ETH",
   "type": "ERC20",
   "address": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",

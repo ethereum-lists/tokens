@@ -1,5 +1,6 @@
 {
   "symbol": "univ2TRACETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 TRAC-ETH",
   "type": "ERC20",
   "address": "0x1A58Aa618DF8F1eC282748feF6185C1a1cC2FAa6",

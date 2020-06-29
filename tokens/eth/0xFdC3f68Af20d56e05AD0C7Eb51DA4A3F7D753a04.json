@@ -1,5 +1,6 @@
 {
   "symbol": "univ2IDXTETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 IDXT-ETH",
   "type": "ERC20",
   "address": "0xFdC3f68Af20d56e05AD0C7Eb51DA4A3F7D753a04",

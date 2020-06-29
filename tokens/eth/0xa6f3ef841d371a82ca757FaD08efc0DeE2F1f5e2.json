@@ -1,5 +1,6 @@
 {
   "symbol": "univ2CHIETH",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 CHI-ETH",
   "type": "ERC20",
   "address": "0xa6f3ef841d371a82ca757FaD08efc0DeE2F1f5e2",

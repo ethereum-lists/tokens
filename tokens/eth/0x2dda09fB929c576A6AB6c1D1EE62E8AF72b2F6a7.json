@@ -1,5 +1,6 @@
 {
   "symbol": "univ2ETHNEC",
+  "invalid_erc20_symbol": true,
   "name": "Uniswap V2 ETH-NEC",
   "type": "ERC20",
   "address": "0x2dda09fB929c576A6AB6c1D1EE62E8AF72b2F6a7",
