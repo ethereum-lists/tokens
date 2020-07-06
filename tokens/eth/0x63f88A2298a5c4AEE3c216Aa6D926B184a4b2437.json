@@ -1,0 +1,34 @@
+{
+  "symbol": "GAME",
+  "address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
+  "decimals": 18,
+  "name": "GAME Credits",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.gamecredits.org",
+  "logo": {
+    "src": "https://gamecredits.org/wp-content/uploads/2020/05/game-credits-white-text-3.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@gamecredits.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/gamecredits",
+    "chat": "https://discord.com/invite/gamecredits",
+    "facebook": "https://www.facebook.com/gamecredits/",
+    "forum": "",
+    "github": "https://github.com/gamecredits-project",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gamecreditsnetwork/",
+    "linkedin": "https://www.linkedin.com/company/game-credits/about/?viewAsMember=true",
+    "reddit": "https://www.reddit.com/r/GameCredits/",
+    "slack": "",
+    "telegram": "https://t.me/gamecreditsglobal",
+    "twitter": "https://twitter.com/gamecredits",
+    "youtube": ""
+  }
+}

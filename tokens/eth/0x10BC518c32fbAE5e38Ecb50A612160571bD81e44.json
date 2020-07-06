@@ -1,0 +1,34 @@
+{
+    "symbol": "VRO",
+    "name": "VeraOne",
+    "type": "ERC20",
+    "address": "0x10BC518c32fbAE5e38Ecb50A612160571bD81e44",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://veraone.io/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/veraone_32.png",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@veraone.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "https://www.facebook.com/VROstablecoin/",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/veraone-io",
+      "reddit": "",
+      "slack": "",
+      "telegram": "t.me/VROstablecoin",
+      "twitter": "https://twitter.com/VROstablecoin",
+      "youtube": "https://www.youtube.com/channel/UClcQMNQps7N1RoMAFYn-TFw"
+    }
+  }
