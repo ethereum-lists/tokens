@@ -49,18 +49,18 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
 
     val jsonObject = Klaxon().parseJsonObject(file.reader())
     val address = Address(jsonObject["address"] as String)
-    val address_eip1191 = if (jsonObject["address_eip1191"] != null) Address(jsonObject["address_eip1191"] as String) else null
+    val addressEIP1191 = if (jsonObject["address_eip1191"] != null) Address(jsonObject["address_eip1191"] as String) else null
 
     when {
         !address.isValid() -> throw InvalidAddress(address)
 
-        address_eip1191 != null && !(address_eip1191.isValid()) -> throw InvalidAddress(address)
+        addressEIP1191 != null && !(addressEIP1191.isValid()) -> throw InvalidAddress(address)
 
         (!address.hasValidERC55Checksum())
         -> throw InvalidChecksum(address.toString() + " expected: " + address.withERC55Checksum())
 
-        (address_eip1191 != null && chainId != null && !address_eip1191.hasValidERC1191Checksum(chainId))
-        -> throw Invalid1191Checksum(address_eip1191.toString() + " expected: " + address_eip1191.withERC1191Checksum(chainId))
+        (addressEIP1191 != null && chainId != null && !addressEIP1191.hasValidERC1191Checksum(chainId))
+        -> throw Invalid1191Checksum(addressEIP1191.toString() + " expected: " + addressEIP1191.withERC1191Checksum(chainId))
 
         file.name != "${address.hex}.json" -> throw InvalidFileName()
     }
