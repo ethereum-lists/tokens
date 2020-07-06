@@ -14,4 +14,5 @@ data class Token(val symbol: String,
                  val support: Support? = null,
                  val social: Social? = null,
                  val deprecation: Deprecation? = null,
-                 val address_eip1191: String? = null)
+                 val address_eip1191: String? = null,
+                 val red_flags: List<RedFlags>? = null)
