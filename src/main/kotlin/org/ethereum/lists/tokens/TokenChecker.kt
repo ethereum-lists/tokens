@@ -41,6 +41,8 @@ val onChainIgnore by lazy {
     File("onChainIgnore.lst").readText().split("\n")
 }
 
+val rpc by lazy { getMin3RPC(listOf("https://in3-v2.slock.it/mainnet/nd-1")) }
+
 suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: ChainId? = null) {
     val handle = file.name.removeSuffix(".json")
     if (onChainCheck && (notToProcessFiles.contains(handle) || onChainIgnore.contains(handle))) {
@@ -76,7 +78,7 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
     val symbol = jsonObject["symbol"] as String
 
     if (onChainCheck) {
-        val rpc = getMin3RPC(listOf("https://in3-v2.slock.it/mainnet/nd-1"))
+
         val contract = ERC20RPCConnector(address, rpc)
 
         if (jsonObject["invalid_erc20_decimals"] as? Boolean != true) {
