@@ -27,6 +27,27 @@ class TheTokenChecker {
         checkTokenFile(file)
     }
 
+    @Test
+    fun shouldPassForValidTokenWithSuspiciousField(): Unit = runBlocking {
+        val file = getFile("valid_with_optional_suspicious_field/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
+    @Test
+    fun shouldPassForValidTokenWithSuspiciousFieldSmall(): Unit = runBlocking {
+        val file = getFile("valid_with_optional_suspicious_field_small/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
+    @Test(expected = InvalidJSON::class)
+    fun shouldFailForNoRedFlagType(): Unit = runBlocking {
+        val file = getFile("invalidvalid_with_optional_suspicious_field_no_type/0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91.json")
+
+        checkTokenFile(file)
+    }
+
 
     @Test
     fun shouldPassForValidTokenWithDeprecationMigrationNewChain(): Unit = runBlocking {
