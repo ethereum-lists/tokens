@@ -1,0 +1,14 @@
+{
+  "symbol": "RBT",
+  "address": "0x165B6749812900538402CD540c55be68411F8Ea0",
+  "decimals": 18,
+  "name": "realtybits",
+  "type": "ERC20",
+  "red_flags": [
+    {
+      "type": "suspicious",
+      "comment": "fake scam token",
+      "url": "https://etherscan.io/token/0x165B6749812900538402CD540c55be68411F8Ea0"
+    }
+  ]
+}
