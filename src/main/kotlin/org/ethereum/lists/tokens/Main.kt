@@ -20,12 +20,11 @@ suspend fun main() {
         val jsonArray = JsonArray<JsonObject>()        
         singleNetworkTokenDirectory.listFiles()?.forEach {
             try {                 
-                checkTokenFile(it, true, getChainId(networkMapping, singleNetworkTokenDirectory.name))                
-                val jsonObject = it.reader().use { reader ->
-                    Klaxon().parseJsonObject(reader)
+                it.reader().use { reader ->
+                    jsonArray.add(Klaxon().parseJsonObject(reader))
                 }
-                jsonArray.add(jsonObject)
 
+                checkTokenFile(it, true, getChainId(networkMapping, singleNetworkTokenDirectory.name))
             } catch (e: Exception) {
                 println("Problem with $it: $e")
 

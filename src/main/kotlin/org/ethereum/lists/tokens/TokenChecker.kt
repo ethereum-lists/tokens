@@ -1,5 +1,6 @@
 package org.ethereum.lists.tokens
 
+import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Klaxon
 import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonEncodingException
@@ -44,6 +45,10 @@ val onChainIgnore by lazy {
 val rpc by lazy { getMin3RPC(listOf("https://in3-v2.slock.it/mainnet/nd-1")) }
 
 suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: ChainId? = null) {
+
+    file.reader().use { reader ->
+        Klaxon().parseJsonObject(reader).checkFields(mandatoryFields, optionalFields)
+    }
     val handle = file.name.removeSuffix(".json")
     if (onChainCheck && (notToProcessFiles.contains(handle) || onChainIgnore.contains(handle))) {
         return
@@ -103,7 +108,7 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
             throw InvalidWebsite()
         }
     }
-    try {    
+    try {
         val token = moshi.adapter(Token::class.java).failOnUnknown().fromJson(file.readText())
 
         token?.deprecation?.let {
@@ -151,4 +156,23 @@ suspend fun <T> retryIO(
         currentDelay = (currentDelay * factor).toLong().coerceAtMost(maxDelay)
     }
     return block() // last attempt
+}
+
+fun JsonObject.checkFields(mandatoryFields: List<String>, optionalFields: List<String>) {
+    if (!keys.containsAll(mandatoryFields)) {
+        throw IllegalArgumentException("$this does not contain " + mandatoryFields.minus(keys))
+    }
+
+    mandatoryFields.forEach {
+        if (this[it] is String && string(it)?.isBlank() == true) {
+            throw IllegalArgumentException("$this has blank value for $it")
+        }
+    }
+
+
+    val unknownFields = keys.minus(mandatoryFields.plus(optionalFields))
+    if (unknownFields.isNotEmpty()) {
+        throw IllegalArgumentException("$this contains unknown " + unknownFields)
+    }
+
 }
