@@ -17,9 +17,9 @@ suspend fun main() {
     checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles()?.forEach { singleNetworkTokenDirectory ->
-        val jsonArray = JsonArray<JsonObject>()        
+        val jsonArray = JsonArray<JsonObject>()
         singleNetworkTokenDirectory.listFiles()?.forEach {
-            try {                 
+            try {
                 it.reader().use { reader ->
                     jsonArray.add(Klaxon().parseJsonObject(reader))
                 }
@@ -42,12 +42,8 @@ suspend fun main() {
     }
 }
 
-private fun getChainId(networkMapping: Map<String, Int>, networkName: String): ChainId? {
-    var chainId: ChainId? = null
-    if (networkMapping[networkName] != null){
-        return ChainId((networkMapping[networkName]!!).toBigInteger())        
-    }
-    return chainId
+private fun getChainId(networkMapping: Map<String, Int>, networkName: String) = networkMapping[networkName]?.let {
+    ChainId(it.toBigInteger())
 }
 
 private fun checkForTokenDefinitionsInWrongPath() {
