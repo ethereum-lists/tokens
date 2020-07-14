@@ -2,7 +2,6 @@ package org.ethereum.lists.tokens
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Klaxon
-import org.ethereum.lists.cilib.checkFields
 import org.kethereum.erc55.withERC55Checksum
 import org.kethereum.model.Address
 import java.io.File
@@ -28,7 +27,9 @@ fun main(args: Array<String>) {
             }
             println("contains " + array.size + " entries ")
 
-            array.checkFields(mandatoryFields, optionalFields)
+            array.forEach { element ->
+                element.checkFields(mandatoryFields, optionalFields)
+            }
 
             val newPath = it.name.substringAfter("-").substringBefore(".")
 

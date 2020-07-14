@@ -3,8 +3,6 @@ package org.ethereum.lists.tokens
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Klaxon
-import org.ethereum.lists.cilib.checkFields
-import org.ethereum.lists.cilib.copyFields
 import java.io.File
 import java.nio.file.Files
 import kotlin.system.exitProcess
@@ -32,7 +30,6 @@ suspend fun main() {
             }
         }
 
-        jsonArray.checkFields(mandatoryFields, optionalFields)
         jsonArray.writeJSON("full", singleNetworkTokenDirectory.name)
         val minified = jsonArray.copyFields(mandatoryFields)
         minified.writeJSON("minified", singleNetworkTokenDirectory.name)
@@ -64,4 +61,16 @@ fun JsonArray<*>.writeJSON(pathName: String, filename: String) {
     val fullOutFile = File(fullOutDir, "$filename.json")
 
     fullOutFile.writeText(toJsonString(false))
+}
+
+fun List<JsonObject>.copyFields(fields: List<String>): JsonArray<JsonObject> {
+    val minimalJSONArray = JsonArray<JsonObject>()
+    forEach { jsonObject ->
+        val minimalJsonObject = JsonObject()
+        fields.forEach {
+            minimalJsonObject[it] = jsonObject[it]
+        }
+        minimalJSONArray.add(minimalJsonObject)
+    }
+    return minimalJSONArray
 }
