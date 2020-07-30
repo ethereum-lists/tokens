@@ -13,6 +13,7 @@ import org.kethereum.erc1191.hasValidERC1191Checksum
 import org.kethereum.erc1191.withERC1191Checksum
 import org.kethereum.model.Address
 import org.kethereum.model.ChainId
+import org.kethereum.rpc.EthereumRPC
 import org.kethereum.rpc.min3.getMin3RPC
 import org.komputing.kethereum.erc20.ERC20RPCConnector
 import java.io.File
@@ -42,7 +43,14 @@ val onChainIgnore by lazy {
     File("onChainIgnore.lst").readText().split("\n")
 }
 
-val rpc by lazy { getMin3RPC(listOf("https://in3-v2.slock.it/mainnet/nd-1")) }
+val rpcMap = mutableMapOf<BigInteger, EthereumRPC>()
+
+fun getRPC(chainId: ChainId): EthereumRPC? {
+    if (rpcMap[chainId.value] == null) {
+        getMin3RPC(chainId)?.let { rpcMap[chainId.value] = it }
+    }
+    return rpcMap[chainId.value]
+}
 
 suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: ChainId? = null) {
 
@@ -82,7 +90,8 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
     val decimals = jsonObject["decimals"] as Int
     val symbol = jsonObject["symbol"] as String
 
-    if (onChainCheck) {
+    val rpc = chainId?.let { getRPC(it) }
+    if (onChainCheck && rpc != null) {
 
         val contract = ERC20RPCConnector(address, rpc)
 
