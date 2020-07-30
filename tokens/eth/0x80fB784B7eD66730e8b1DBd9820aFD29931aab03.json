@@ -2,9 +2,9 @@
   "symbol": "LEND",
   "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
   "decimals": 18,
-  "name": "EHTLend",
+  "name": "ETHLend",
   "ens_address": "",
-  "website": "https://ethlend.io/",
+  "website": "https://aave.com/",
   "logo": {
     "src": "https://raw.githubusercontent.com/ETHLend/logos/master/LEND_128x128.png",
     "width": 128,
