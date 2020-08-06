@@ -1,0 +1,33 @@
+{
+  "symbol": "REPv2",
+  "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+  "decimals": 18,
+  "name": "Augur",
+  "ens_address": "",
+  "website": "https://augur.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Augur",
+    "slack": "https://invite.augur.net",
+    "telegram": "",
+    "twitter": "https://twitter.com/AugurProject",
+    "youtube": ""
+  }
+}
