@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://www.adex.network",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://raw.githubusercontent.com/AdExNetwork/adex-brand/master/logos/Adex-logo500x500px-07.png",
+    "width": "500px",
+    "height": "500px",
     "ipfs_hash": ""
   },
   "support": {
