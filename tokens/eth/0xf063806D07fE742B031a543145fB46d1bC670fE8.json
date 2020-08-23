@@ -3,7 +3,7 @@
   "invalid_erc20_symbol": true,
   "name": "Uniswap V2 OCEAN-ETH",
   "type": "ERC20",
-  "address": "0xf063806d07fe742b031a543145fb46d1bc670fe8",
+  "address": "0xf063806D07fE742B031a543145fB46d1bC670fE8",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.uniswap.org",

@@ -33,7 +33,7 @@
     "youtube": ""
   },
   "deprecation": {
-    "new_address": "0xf063806d07fe742b031a543145fb46d1bc670fe8",
+    "new_address": "0xf063806D07fE742B031a543145fB46d1bC670fE8",
     "migration_type": "announcement:https://blog.oceanprotocol.com/ocean-token-swap-completed-new-contract-live-f0768423b3e1",
     "time": "2020-08-21 16:00:00 UTC"
   }
