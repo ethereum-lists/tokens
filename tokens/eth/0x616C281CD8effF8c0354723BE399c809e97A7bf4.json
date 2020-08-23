@@ -1,0 +1,34 @@
+{
+		"symbol": "SGT",
+		"address": "0x616C281CD8effF8c0354723BE399c809e97A7bf4",
+		"decimals": 18,
+		"name": "SelfieYo Gold Token",
+		"ens_address": "",
+		"website": "https://selfieyo.com",
+		"logo": {
+			"src": "https://selfieyo.com/wp-content/uploads/2018/01/token-new.png",
+			"width": "400",
+			"height": "400",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "sgt@selfieyo.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"discord": "https://discord.gg/QY6EVuY",
+			"facebook": "https://www.facebook.com/SelfieYoApp/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/SGTcoin",
+			"twitter": "https://twitter.com/SelfieYo",
+			"youtube": ""
+		}
+	}
