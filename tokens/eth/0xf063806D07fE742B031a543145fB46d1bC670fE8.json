@@ -3,7 +3,7 @@
   "invalid_erc20_symbol": true,
   "name": "Uniswap V2 OCEAN-ETH",
   "type": "ERC20",
-  "address": "0x8Fd3A04CB30A1fD9fFaF1548972B2e5117D0a52D",
+  "address": "0xf063806D07fE742B031a543145fB46d1bC670fE8",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.uniswap.org",
@@ -31,10 +31,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/UniswapProtocol",
     "youtube": ""
-  },
-  "deprecation": {
-    "new_address": "0xf063806D07fE742B031a543145fB46d1bC670fE8",
-    "migration_type": "announcement:https://blog.oceanprotocol.com/ocean-token-swap-completed-new-contract-live-f0768423b3e1",
-    "time": "2020-08-21 16:00:00 UTC"
   }
 }
