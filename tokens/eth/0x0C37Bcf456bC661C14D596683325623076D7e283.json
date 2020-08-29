@@ -1,0 +1,37 @@
+{
+ "symbol": "ARNX",
+
+ "name": "Aeron",
+
+ "type": "ERC20",
+
+ "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
+ "ens_address": "",
+ "decimals": 18,
+ "website": "https://aeron.aero",
+ "logo": {
+     "src": "https://aeron.aero/img/ARNX-token-logo-256x256.png",
+     "width": "256",
+     "height": "256",
+     "ipfs_hash": ""
+ },
+ "support": {
+     "email": "info@aeron.aero",
+     "url": ""
+ },
+ "social": {
+     "blog": "https://medium.com/@aeronaero",
+     "chat": "",
+     "facebook": "https://www.facebook.com/aeronpublic/",
+     "forum": "",
+     "github": "https://github.com/aeronaero/aeron",
+     "gitter": "",
+     "instagram": "",
+     "linkedin": "",
+     "reddit": "https://www.reddit.com/user/aeronaero",
+     "slack": "",
+     "telegram": "https://t.me/aeronaero",
+     "twitter": "https://twitter.com/aeron_aero",
+     "youtube": ""
+ }
+ }
