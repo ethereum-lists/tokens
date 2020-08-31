@@ -1,0 +1,34 @@
+{
+  "symbol": "NU",
+  "name": "NuCypher Network",
+  "type": "ERC20",
+  "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://nucypher.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "security@nucypher.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.nucypher.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/nucypher",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/nucypher",
+    "twitter": "https://twitter.com/nucypher",
+    "youtube": "https://www.youtube.com/channel/UC-BQfqCN2_Icg_0MGAvCd9w"
+  }
+}
