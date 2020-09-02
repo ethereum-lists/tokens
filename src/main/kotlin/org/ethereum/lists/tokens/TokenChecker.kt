@@ -31,7 +31,7 @@ class InvalidSymbol : InvalidTokenException("Symbol must be a string")
 class InvalidFileName : InvalidTokenException("Filename must be the address + .json")
 class InvalidWebsite : InvalidTokenException("Website invalid")
 class InvalidJSON(message: String?) : InvalidTokenException("JSON invalid $message")
-class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecation Migration type - currently only auto and instructions: is allowed")
+class InvalidDeprecationMigrationType : InvalidTokenException("Invalid Deprecation Migration type - currently only auto, instructions and announcement is allowed")
 class InvalidDeprecationTime : InvalidTokenException("Invalid Deprecation Time - Must be ISO8601")
 
 val onChainCheckFile = File("onChainCheck.lst")
@@ -123,7 +123,9 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
         token?.deprecation?.let {
             val safeMigrationType: String = it.migration_type ?: "auto"
             when {
-                safeMigrationType == "auto" || safeMigrationType.startsWith("instructions:") -> Unit
+                safeMigrationType == "auto" -> Unit
+                safeMigrationType.startsWith("instructions:") -> Unit
+                safeMigrationType.startsWith("announcement:") -> Unit
                 safeMigrationType.startsWith("newchain:auto:") -> BigInteger(safeMigrationType.replace("newchain:auto:", ""))
                 else -> throw InvalidDeprecationMigrationType()
             }
