@@ -1,0 +1,35 @@
+
+{
+  "symbol": "YAM",
+  "name": "YAM V1",
+  "type": "ERC20",
+  "address": "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://yam.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@yamfinance",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/yam-finance/yam-protocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/YamFinance",
+    "youtube": ""
+  }
+}
