@@ -1,0 +1,34 @@
+{
+  "symbol": "PICKLE",
+  "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "decimals": 18,
+  "name": "Pickle Finance",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://pickle.finance/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12435/large/pickle_finance_logo.jpg",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/gR85hmC",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://discord.com/invite/gR85hmC",
+    "telegram": "",
+    "twitter": "https://twitter.com/picklefinance",
+    "youtube": ""
+  }
+}
