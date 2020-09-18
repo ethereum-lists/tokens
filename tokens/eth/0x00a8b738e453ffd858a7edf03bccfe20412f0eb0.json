@@ -1,0 +1,33 @@
+{
+    "symbol": "ALBT",
+    "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+    "decimals": 18,
+    "name": "AllianceBlock Token",
+    "ens_address": "",
+    "website": "https://www.allianceblock.io/",
+    "logo": {
+        "src": "https://www.allianceblock.io/logo256.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "hello@allianceblock.io",
+        "url": "https://www.allianceblock.io/"
+    },
+    "social": {
+        "blog": "https://medium.com/@allianceblock",
+        "chat": "https://discord.gg/hF7AGgt",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/Stichting-AllianceBlock-Foundation",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/allianceblock",
+        "reddit": "https://www.reddit.com/r/Allianceblock/",
+        "slack": "",
+        "telegram": "https://t.me/allianceblock",
+        "twitter": "https://twitter.com/allianceblock",
+        "youtube": "https://www.youtube.com/channel/UCzsfjvEv3qOfTJtG4RNAW3A"
+    }
+}
