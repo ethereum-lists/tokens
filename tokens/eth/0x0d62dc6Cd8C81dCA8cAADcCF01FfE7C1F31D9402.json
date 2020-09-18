@@ -1,0 +1,39 @@
+{
+  "symbol": "MNL",
+  "address": "0x0d62dc6Cd8C81dCA8cAADcCF01FfE7C1F31D9402",
+  "decimals": 18,
+  "name": "Moonlite",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.moonlite.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.moonlite.io/#news",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "whitepaper": "",
+    "youtube": ""
+  },
+  "pricing": {
+    "cmc": "",
+    "cg": ""
+  }
+}
