@@ -1,0 +1,8 @@
+{
+  "symbol": "MNL",
+  "address": "0x0d62dc6Cd8C81dCA8cAADcCF01FfE7C1F31D9402",
+  "decimals": 18,
+  "name": "Moonlite",
+  "type": "ERC20",
+  "website": "https://www.moonlite.io/"
+}
