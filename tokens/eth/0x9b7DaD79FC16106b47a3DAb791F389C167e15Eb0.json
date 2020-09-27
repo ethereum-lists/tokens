@@ -3,7 +3,7 @@
   "invalid_erc20_symbol": true,
   "name": "Uniswap V2 OCEAN-ETH",
   "type": "ERC20",
-  "address": "0xf063806D07fE742B031a543145fB46d1bC670fE8",
+  "address": "0x9b7DaD79FC16106b47a3DAb791F389C167e15Eb0",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.uniswap.org",
@@ -31,10 +31,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/UniswapProtocol",
     "youtube": ""
-  },
-  "deprecation": {
-    "new_address": "0x9b7DaD79FC16106b47a3DAb791F389C167e15Eb0",
-    "migration_type": "announcement:https://blog.oceanprotocol.com/september-2020-hard-fork-ocean-token-completed-8142059361d7",
-    "time": "2020-09-28 20:00:00 UTC"
   }
 }
