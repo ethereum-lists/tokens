@@ -1,0 +1,24 @@
+{
+    "symbol": "NCR",
+    "address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
+    "decimals": 18,
+    "name": "Neos Credits",
+    "website": "https://neos.com/",
+    "logo": {
+        "src": "https://neos.com/wp-content/uploads/2020/09/neos_credits_square_135.png",
+        "width": "135",
+        "height": "135"
+    },
+    "support": {
+        "email": "hello@neosvr.com",
+        "url": "https://discord.gg/NeosVR"
+    },
+    "social": {
+        "blog": "https://neos.com/",
+        "chat": "https://discord.gg/NeosVR",
+        "github": "https://github.com/Frooxius/NeosPublic",
+        "reddit": "https://www.reddit.com/r/NeosVR/",
+        "twitter": "https://twitter.com/neos_vr",
+        "youtube": "https://www.youtube.com/channel/UCxPXPA8QPbuI5FyHL9_FGwQ"
+    }
+}
