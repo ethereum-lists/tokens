@@ -1,0 +1,34 @@
+{
+  "symbol": "BID",
+  "address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+  "decimals": 18,
+  "name": "Bidao",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bidaochain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bidaoofficial",
+    "twitter": "https://twitter.com/Bidaochain",
+    "youtube": ""
+  }
+}
