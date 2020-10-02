@@ -1,18 +1,18 @@
 {
   "symbol": "UTK",
-  "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
+  "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
   "decimals": 18,
-  "name": "UTRUST",
+  "name": "Utrust",
   "ens_address": "",
   "website": "https://utrust.com",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://utrust.com/wp-content/uploads/2020/09/Etherscan.png",
+    "width": "256",
+    "height": "256",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "contact@utrust.io",
+    "email": "support@utrust.com",
     "url": ""
   },
   "social": {
@@ -20,14 +20,14 @@
     "chat": "",
     "facebook": "https://www.facebook.com/utrust.io",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/utrustdev/",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
+    "instagram": "https://www.instagram.com/utrust_/",
+    "linkedin": "https://www.linkedin.com/company/utrust-payments/",
     "reddit": "https://www.reddit.com/r/UTRUST_Official",
     "slack": "",
     "telegram": "https://t.me/utrustofficial",
     "twitter": "https://twitter.com/UTRUST",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/UtrustPayments"
   }
 }
