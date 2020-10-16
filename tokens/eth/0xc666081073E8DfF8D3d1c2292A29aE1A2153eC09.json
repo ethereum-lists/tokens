@@ -1,0 +1,33 @@
+{
+  "symbol": "DGTX",
+  "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+  "decimals": 18,
+  "name": "DigitexFutures",
+  "ens_address": "",
+  "website": "https://digitexfutures.com",
+  "logo": {
+    "src": "https://s3.eu-north-1.amazonaws.com/digitexfutures.com/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@digitexfutures.com",
+    "url": "https://support.digitexfutures.com/"
+  },
+  "social": {
+    "blog": "https://digitexfutures.com/blog/",
+    "chat": "",
+    "facebook": "https://facebook.com/digitexfutures",
+    "forum": "",
+    "github": "https://github.com/DigitexFutures",
+    "gitter": "",
+    "instagram": "https://instagram.com/digitexfutures",
+    "linkedin": "https://www.linkedin.com/company/digitex-futures-exchange/",
+    "reddit": "https://www.reddit.com/r/Digitex_Official/",
+    "slack": "",
+    "telegram": "https://t.me/digitexfutureschat",
+    "twitter": "https://twitter.com/digitexfutures",
+    "youtube": "https://youtube.com/digitexfutures"
+  }
+}
