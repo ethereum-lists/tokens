@@ -1,6 +1,6 @@
 {
   "symbol": "UTK",
-  "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
+  "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
   "decimals": 18,
   "name": "Utrust",
   "ens_address": "",
@@ -29,11 +29,5 @@
     "telegram": "https://t.me/utrustofficial",
     "twitter": "https://twitter.com/UTRUST",
     "youtube": "https://www.youtube.com/UtrustPayments"
-  },
-  "deprecation": {
-    "new_address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
-    "migration_type": "tokenswap:https://medium.com/utrust/utrust-statement-and-next-steps-on-the-kucoin-hack-bd0ddedf9080",
-    "announcement_url": "https://medium.com/utrust/utrust-statement-and-next-steps-on-the-kucoin-hack-bd0ddedf9080",
-    "time": "2020-09-30T014:39:30Z"
   }
 }
