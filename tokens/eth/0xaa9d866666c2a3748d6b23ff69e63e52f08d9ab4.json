@@ -3,6 +3,7 @@
   "name": "Fundamenta",
   "type": "ERC20",
   "address": "0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4",
+  "ens_address": "",
   "decimals": 18,
   "website": "https://fundamenta.network",
   "logo": {
