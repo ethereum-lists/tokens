@@ -1,0 +1,30 @@
+{
+  "symbol": "FMTA",
+  "name": "Fundamenta",
+  "type": "ERC20",
+  "address": "0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4",
+  "decimals": 18,
+  "website": "https://fundamenta.network",
+  "logo": {
+    "src": "https://avatars2.githubusercontent.com/u/69758209?s=128&v=4",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mhooft@fundamenta.network",
+    "url": "https://discord.gg/c34JeVN"
+  },
+  "social": {
+    "blog": "https://medium.com/@CivitasFundamenta",
+    "discord": "https://discord.gg/c34JeVN",
+    "facebook": "",
+    "github": "https://github.com/civitas-fundamenta",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/originprotocol",
+    "reddit": "https://reddit.com/r/FMTA",
+    "telegram": "https://t.me/CivitasFundamenta",
+    "twitter": "https://twitter.com/FundamentaToken",
+    "youtube": ""
+  }
+}
