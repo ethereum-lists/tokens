@@ -1,0 +1,33 @@
+{
+  "symbol": "TBTC",
+  "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+  "decimals": 18,
+  "name": "TBTC",
+  "ens_address": "",
+  "website": "https://tbtc.network",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/QmQa3nXVbbKdg2JQ3Q3gAo9iYJeNW4gYeRAVLpwzMG9ytY/tbtclogo200x200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmQa3nXVbbKdg2JQ3Q3gAo9iYJeNW4gYeRAVLpwzMG9ytY"
+  },
+  "support": {
+    "email": "work@keep.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.keep.network",
+    "chat": "https://chat.tbtc.network",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/keep-network",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/KeepNetwork",
+    "slack": "",
+    "telegram": "https://t.me/KeepNetworkOfficial",
+    "twitter": "https://twitter.com/tBTC_project",
+    "youtube": ""
+  }
+}
