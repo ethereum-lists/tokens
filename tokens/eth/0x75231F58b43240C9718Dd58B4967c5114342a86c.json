@@ -1,0 +1,33 @@
+{
+  "symbol": "OKB",
+  "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+  "decimals": 18,
+  "name": "OKB",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://cn.etherscan.com/token/images/okex_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@okcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/okex/okberc20token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
