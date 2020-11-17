@@ -1,0 +1,31 @@
+{
+  "symbol": "YOUC",
+  "address": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
+  "decimals": 10,
+  "name": "yOUcash",
+  "type": "ERC20",
+  "ens_address": "youc.eth",
+  "website": "https://youengine.io",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "https://youengine.io/blog",
+    "chat": "https://t.me/YouEngineGroup",
+    "facebook": "https://www.facebook.com/YouEngineOfficial",
+    "forum": "https://bitcointalk.org/index.php?topic=5237861.0",
+    "github": "https://github.com/YOUengine",
+    "linkedin": "https://www.linkedin.com/company/youengine-io",
+    "reddit": "https://www.reddit.com/r/YOUengineFANs",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": "https://www.youtube.com/c/YOUengine"
+  }
+}
