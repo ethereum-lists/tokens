@@ -1,15 +1,15 @@
 {
-  "symbol": "ADX",
-  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "symbol": "ADX-LOYALTY",
+  "address": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
   "decimals": 18,
-  "name": "AdEx Network",
+  "name": "AdEx Loyalty",
   "ens_address": "",
   "website": "https://www.adex.network",
   "logo": {
-    "src": "https://raw.githubusercontent.com/AdExNetwork/adex-brand/master/logos/Adex-logo500x500px-07.png",
-    "width": "500px",
-    "height": "500px",
-    "ipfs_hash": ""
+    "src": "https://raw.githubusercontent.com/AdExNetwork/adex-brand/master/logos/ADX-loyalty@128x128.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": "QmRdkPtRDKCxKdQ96Uq869dPDMPSHkLaRNGhNXyYNtoCox"
   },
   "support": {
     "email": "contactus@adex.network",
