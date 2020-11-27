@@ -1,0 +1,34 @@
+{
+  "symbol": "WILC",
+  "name": "Wrapped ILCOIN",
+  "type": "ERC20",
+  "address": "0xC98a910eDE52E7d5308525845F19e17470DbCCF7",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://ilcoincrypto.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/PlusBitPos/PlusBit-graphic-kit-for-media-and-graphic-identity/master/icons/logo-512.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
