@@ -1,0 +1,35 @@
+{
+    "symbol": "OPT",
+    "name": "OpenPredict",
+    "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+    "decimals": 18,
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://openpredict.io/",
+    "logo": {
+      "src": "https://drive.google.com/file/d/1TFyyY5YfV9R4sj_FLYFpwXstdolxeydv/view?usp=sharing",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@openpredict.io",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/OpenPredict",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "t.me/openpredict",
+      "twitter": "https://twitter.com/optprotocol",
+      "youtube": ""
+    }
+  }
+  
