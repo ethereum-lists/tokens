@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://aeron.aero",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://aeron.aero/img/ARN-token-logo-256x256.png",
+    "width": "256",
+    "height": "256",
     "ipfs_hash": ""
   },
   "support": {
