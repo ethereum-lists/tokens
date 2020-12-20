@@ -1,0 +1,33 @@
+{
+  "symbol": "GHX",
+  "address": "0x728f30fa2f100742C7949D1961804FA8E0B1387d",
+  "decimals": 18,
+  "name": "GamerCoin",
+  "type": "ERC20",
+  "website": "https://gamerhash.io/",
+  "logo": {
+    "src": "https://gamerhash.io/storage/gamercoin-icon-ethereum-lists-tokens.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gamercoin.eu",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/we-are-the-gamerhash",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GamerHashApp/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gamerhash/",
+    "linkedin": "https://www.linkedin.com/company/gamerhash/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/KN7AOBQvrP58x619Fyg95A",
+    "twitter": "https://twitter.com/GamerHashCom",
+    "youtube": "https://www.youtube.com/channel/UCv6axnIN6jczLcLraH4cK6g"
+  }
+}
