@@ -1,0 +1,35 @@
+{
+  "symbol": "mUSD",
+  "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+  "decimals": 18,
+  "name": "mStable USD",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "http://mstable.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@mstable.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/mstable",
+    "chat": "",
+    "discord": "https://discord.gg/pgCVG7e",
+    "facebook": "",
+    "forum": "https://forum.mstable.org",
+    "github": "https://github.com/mstable",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mstableofficial",
+    "twitter": "https://twitter.com/mstable",
+    "youtube": "https://www.youtube.com/channel/UCEvUVedgY4SnuwMVOGmoUUQ"
+  }
+}
