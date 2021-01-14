@@ -1,0 +1,35 @@
+{
+  "symbol": "ALEPH",
+  "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+  "decimals": 18,
+  "name": "Aleph.im",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://aleph.im",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@aleph.im",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/aleph-im",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/aleph-im/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/aleph-im/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/alephim",
+    "twitter": "https://twitter.com/aleph_im",
+    "youtube": ""
+  }
+}
