@@ -1,0 +1,37 @@
+{
+	  "symbol": "ALZ",
+	  "address": "0xAAC111447138F8E44463b526875e762Fbf1c504F",
+	  "decimals": 18,
+	  "name": "AlzheimerCoin",
+	  "type": "ERC20",
+	  "ens_address": "",
+	  "website": "https://www.alzheimerchain.com",
+	  "logo": "https://drive.google.com/file/d/1w_0Klk2v5WOt359eKGxdblex2fbcYxMR/view"
+	    "src": "",
+	    "width": "",
+	    "height": "",
+	    "ipfs_hash": ""
+	  },
+	  "support": {
+	    "email": "zajacova@alzheimerchain.com",
+	    "url": ""
+	  },
+	  "social": {
+	    "blog": "",
+	    "chat": "",
+	    "discord": "",
+	    "facebook": "",
+	    "forum": " ",
+	    "github": " https://github.com/AlzheimerChain",
+	    "gitter": "",
+	    "instagram": "",
+	    "linkedin": "",
+	    "reddit": "",
+	    "slack": "",
+	    "telegram": "",
+	    "twitter": "",
+	    "youtube": "https://www.youtube.com/watch?v=3TTiQoLaTxo&feature=youtu.be"
+	  }
+	}
+
+
