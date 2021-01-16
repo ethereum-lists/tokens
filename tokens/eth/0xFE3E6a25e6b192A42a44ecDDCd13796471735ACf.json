@@ -1,0 +1,33 @@
+{
+  "symbol": "REEF",
+  "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+  "decimals": 18,
+  "name": "Reef Finance",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "http://reef.finance",
+  "logo": {
+    "src": "https://app.reef.finance/assets/images/reef/reef-token.svg",
+    "width": "75",
+    "height": "75",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@reef.finance"
+  },
+  "social": {
+    "blog": "https://reefdefi.medium.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "http://github.com/reef-defi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/reefdefi",
+    "twitter": "https://twitter.com/reefdefi",
+    "youtube": ""
+  }
+}
