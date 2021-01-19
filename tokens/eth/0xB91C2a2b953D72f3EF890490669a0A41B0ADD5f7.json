@@ -32,10 +32,12 @@
     "tiktok": "https://www.tiktok.com/@belifex",
     "twitter": "https://twitter.com/BelifexE",
     "youtube": "https://www.youtube.com/channel/UCwXLUJQ2mlQrjZYrTQKDvFw"
-  }
-  "deprecation": {
+  },
+  "deprecation": 
+  {
     "new_address": "0xFBcECb002177e530695B8976638fBd18d2038C3C",
     "migration_type": "https://belifex.medium.com/belifex-befx-new-contract-swap-b79d691e298d",
     "announcement_url": "https://belifex.medium.com/belifex-befx-new-contract-swap-b79d691e298d",
     "time": "2021-01-30T012:00:00Z"
+  }
 }
