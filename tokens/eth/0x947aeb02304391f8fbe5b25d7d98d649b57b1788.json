@@ -8,8 +8,8 @@
   "website": "https://mandala.exchange",
   "logo": {
     "src": "https://mandala.exchange/press-kit/mdx-logo.svg",
-    "width": "28",
-    "height": "28",
+    "width": "",
+    "height": "",
     "ipfs_hash": ""
   },
   "support": {
