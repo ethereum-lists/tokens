@@ -1,0 +1,34 @@
+{
+  "symbol": "MDX",
+  "address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+  "decimals": 18,
+  "name": "MANDALA EXCHANGE TOKEN",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://mandala.exchange",
+  "logo": {
+    "src": "https://github.com/Mandala-Exchange/media-kit/blob/main/Mandala_Logos_SVG/Mandala_LogoMark.svg",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@mandala.exchange",
+    "url": "https://support.mandala.exchange"
+  },
+  "social": {
+    "blog": "https://www.mandala.exchange/blog",
+    "chat": "https://discord.com/invite/GRZsb28",
+    "facebook": "https://www.facebook.com/mandalaexchange",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mandalaexchange",
+    "twitter": "https://www.twitter.com/mandalaex",
+    "youtube": "https://www.youtube.com/channel/UCTUb3DrAoOaIbPTc-VSCCsg"
+  }
+}
