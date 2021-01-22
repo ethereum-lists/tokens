@@ -7,9 +7,9 @@
   "ens_address": "",
   "website": "https://mandala.exchange",
   "logo": {
-    "src": "https://mandala.exchange/press-kit/mdx-logo.svg",
-    "width": "",
-    "height": "",
+    "src": "https://mandala.exchange/press-kit/mdx-logo-128x128.png",
+    "width": "128",
+    "height": "128",
     "ipfs_hash": ""
   },
   "support": {
