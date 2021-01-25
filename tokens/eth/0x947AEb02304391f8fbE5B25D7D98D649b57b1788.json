@@ -1,13 +1,13 @@
 {
   "symbol": "MDX",
-  "address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+  "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
   "decimals": 18,
   "name": "Mandala Exchange Token",
   "type": "ERC20",
   "ens_address": "",
   "website": "https://trade.mandala.exchange",
   "logo": {
-    "src": "https://mandala.exchange/press-kit/mdx-logo-128x128.png",
+    "src": "https://static.wixstatic.com/media/8fdab8_96d298cc46774e9caefc77fff6c49694~mv2.png",
     "width": "128",
     "height": "128",
     "ipfs_hash": ""
