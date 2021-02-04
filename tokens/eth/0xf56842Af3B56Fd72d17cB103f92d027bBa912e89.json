@@ -1,0 +1,34 @@
+{
+  "symbol": "BAMBOO",
+  "address": "0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+  "decimals": 18,
+  "name": "BambooDeFi",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.bamboodefi.com/",
+  "logo": {
+    "src": "https://i.ibb.co/jh3dFzn/Bamboo-token-logo-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bamboodefi.com",
+    "url": "https://www.bamboodefi.com/"
+  },
+  "social": {
+    "blog": "https://bamboodefi.medium.com/",
+    "chat": "https://t.me/BambooDeFi",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/bamboo-defi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/bambooDeFi",
+    "slack": "",
+    "telegram": "https://t.me/BambooDeFi",
+    "twitter": "https://twitter.com/FiBamboo",
+    "youtube": ""
+  }
+}
