@@ -1,0 +1,33 @@
+{
+  "symbol": "DNA",
+  "name": "EncrypGen",
+  "address": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://encrypgen.com",
+  "logo": {
+    "src": "https://encrypgen.com/logo128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@encrypgen.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://encrypgen.com/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/encrypgen/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/encrypgen-llc",
+    "reddit": "https://www.reddit.com/r/encrypgen",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/encrypgen",
+    "youtube": "https://www.youtube.com/channel/UC1qg5ZxwT4B2LNl8HUwj4NQ"
+  }
+}
