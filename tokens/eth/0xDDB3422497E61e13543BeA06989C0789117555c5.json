@@ -1,0 +1,33 @@
+{
+    "symbol": "COTI",
+    "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+    "decimals": 18,
+    "name": "COTI",
+    "ens_address": "",
+    "website": "https://coti.io",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "support@coti.io",
+        "url": ""
+    },
+    "social": {
+        "blog": "https://medium.com/cotinetwork",
+        "chat": "",
+        "facebook": "https://www.facebook.com/COTInetwork",
+        "forum": "https://bitcointalk.org/index.php?action=profile;u=1364597",
+        "github": "https://github.com/coti-io",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/coti-ltd/",
+        "reddit": "https://www.reddit.com/r/cotinetwork/",
+        "slack": "",
+        "telegram": "https://t.me/COTInetwork",
+        "twitter": "https://twitter.com/COTInetwork",
+        "youtube": "https://www.youtube.com/channel/UCl-2YzhaPnouvBtotKuM4DA/www.coti.io"
+    }
+}
