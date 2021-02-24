@@ -1,0 +1,34 @@
+{
+  "symbol": "USDT",
+  "name": "Tether",
+  "type": "ERC20",
+  "address": "0xde3A24028580884448a5397872046a019649b084",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://tether.to/",
+  "logo": {
+    "src": "https://tether.to/wp-content/uploads/2015/02/Tether_logo_dm-e1537976324456.png",
+    "width": "160",
+    "height": "140",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@tether.to",
+    "url": "https://tether.to/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tether.to",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tether",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/OfficialTether",
+    "twitter": "https://twitter.com/Tether_to/",
+    "youtube": ""
+  }
+}
