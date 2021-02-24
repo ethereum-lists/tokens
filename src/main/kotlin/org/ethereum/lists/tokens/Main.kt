@@ -9,7 +9,7 @@ import kotlin.system.exitProcess
 import org.kethereum.model.ChainId
 
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 30, "ella" to 64, "esn" to 2, "gor" to 5)
+val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 30, "ella" to 64, "esn" to 2, "gor" to 5, "avax" to 43114)
 
 suspend fun main() {
     checkForTokenDefinitionsInWrongPath()
