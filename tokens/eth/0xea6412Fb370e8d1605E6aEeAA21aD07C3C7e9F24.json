@@ -1,0 +1,33 @@
+{
+  "symbol": "MUSH",
+  "address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+  "decimals": 18,
+  "name": "Mushroom",
+  "ens_address": "",
+  "website": "https://www.mushroom.community/",
+  "logo": {
+    "src": "https://gateway.pinata.cloud/ipfs/QmbhwAjcoaEAcd8441i422S5NBHGC7E1WR7ZMasgh8dA7S",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": "QmbhwAjcoaEAcd8441i422S5NBHGC7E1WR7ZMasgh8dA7S"
+  },
+  "support": {
+    "email": "dev@mushroom.community",
+    "url": "https://www.mushroom.community"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/anthonykarter100/MUSHToken",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/getmushroom/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/mushroomcommunity",
+    "slack": "",
+    "telegram": "https://t.me/mushroomcommunity",
+    "twitter": "https://twitter.com/getmushroom",
+    "youtube": ""
+  }
+}
