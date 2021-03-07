@@ -2,6 +2,7 @@
   "symbol": "WMA",
   "address": "0x685ED390B16Ac9Df9Ab9707294a42a107cFB62Af",
   "decimals": 18,
+  "invalid_erc20_decimals": true,
   "name": "weeMarketplaceAccessToken",
   "type": "ERC20",
   "ens_address": "",
