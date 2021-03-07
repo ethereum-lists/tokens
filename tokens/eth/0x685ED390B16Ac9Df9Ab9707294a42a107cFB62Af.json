@@ -1,0 +1,35 @@
+{
+  "symbol": "WMA",
+  "address": "0x685ED390B16Ac9Df9Ab9707294a42a107cFB62Af",
+  "decimals": 18,
+  "invalid_erc20_decimals": true,
+  "name": "weeMarketplaceAccessToken",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.weemat.io",
+  "logo": {
+    "src": "https://weemat.io/img/logo.png",
+    "width": "140",
+    "height": "100",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@weemat.io",
+    "url": "https://www.weemat.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Weemarketplaceaccess/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/31001730",
+    "reddit": "https://www.reddit.com/user/WeeMat/",
+    "slack": "",
+    "telegram": "https://t.me/weeMAT",
+    "twitter": "https://twitter.com/wee_ITO",
+    "youtube": "https://www.youtube.com/channel/UC6u9hyNx-07jAMSpW0OkoTw"
+  }
+}
