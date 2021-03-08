@@ -1,0 +1,34 @@
+{
+  "symbol": "BCMC1",
+  "address": "0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+  "decimals": 18,
+  "name": "BeforeCoinMarketCap",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://beforecoinmarketcap.com/",
+  "logo": {
+    "src": "https://i.ibb.co/94ymZ41/BCMC1-logo-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@beforecoinmarketcap.com",
+    "url": "https://beforecoinmarketcap.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/BeforeCMCgroup",
+    "facebook": "https://www.facebook.com/BeforeCMC",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/beforecoinmarketcap",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BeforeCMCgroup",
+    "twitter": "https://twitter.com/BeforeCMC",
+    "youtube": "https://www.youtube.com/c/BeforeCoinmarketCap"
+  }
+}
