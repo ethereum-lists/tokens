@@ -1,0 +1,34 @@
+{
+  "symbol": "KRP",
+  "address": "0xaefad686f4b894ce4f9c74af755ab4651e420eba",
+  "decimals": 18,
+  "name": "Krisper",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://krisper.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/krisper_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@krisper.io",
+    "url": "https://krisper.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/krisperio",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/krisperio/",
+    "slack": "",
+    "telegram": "https://t.me/krisperio",
+    "twitter": "https://twitter.com/krisperio",
+    "youtube": ""
+  }
+}
