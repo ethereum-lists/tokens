@@ -1,0 +1,34 @@
+{
+  "symbol": "DRC",
+  "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+  "decimals": 0,
+  "name": "Digital Reserve Currency",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://drcglobal.org/",
+  "logo": {
+    "src": "https://avatars.githubusercontent.com/u/71727307",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQQ3iWanU8HjBfpfaqXDDHTEdSbVKWX8ANMzKTUyfpeiV"
+  },
+  "support": {
+    "email": "info@drcglobal.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://digitalreservecurrency.medium.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/digitalreserve",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/drc-global",
+    "reddit": "https://www.reddit.com/r/DRCToken/",
+    "slack": "",
+    "telegram": "https://t.me/DigitalReserveCurrency",
+    "twitter": "https://twitter.com/DRCToken",
+    "youtube": "https://www.youtube.com/channel/UCXkqt2I6CYex3M74ojxgRmg"
+  }
+}
