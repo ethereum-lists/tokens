@@ -1,0 +1,29 @@
+{
+		"symbol": "CRPT",
+		"name": "Crypterium (CRPT)",
+		"type": "ERC20",
+		"address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+		"ens_address": "",
+		"decimals": 18,
+		"website": "https://www.crypterium.com",
+		"support": {
+		    "email": "support@crypterium.com",
+		    "url": "https://www.crypterium.com/"
+		},
+		"social": {
+		    "blog": "https://medium.com/@crypterium",
+		    "chat": "https://t.me/crypterium",
+		    "discord": "",
+		    "facebook": "https://www.facebook.com/crypterium.org/",
+		    "forum": "",
+		    "github": "",
+		    "gitter": "",
+		    "instagram": "",
+		    "linkedin": "",
+		    "reddit": "https://www.reddit.com/r/Crypterium/",
+		    "slack": "",
+		    "telegram": "https://t.me/crypterium_en",
+		    "twitter": "https://twitter.com/crypterium",
+		    "youtube": "https://www.youtube.com/channel/UChl-t3ilQK9mKj0jgXCdaxA"
+		}
+		}
