@@ -3,14 +3,14 @@
   "invalid_erc20_symbol": true,
   "invalid_erc20_decimals": true,
   "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
-  "decimals": 1,
-  "name": "DAO",
+  "decimals": 16,
+  "name": "TheDAO",
   "ens_address": "",
   "website": "https://blog.daohub.org",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://etherscan.io/token/images/thedao-logo.png",
+    "width": "30",
+    "height": "30",
     "ipfs_hash": ""
   },
   "support": {
@@ -22,7 +22,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/TheDAO/DAO-1.0",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
