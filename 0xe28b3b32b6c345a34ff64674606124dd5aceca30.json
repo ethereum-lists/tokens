@@ -1,0 +1,35 @@
+{
+    "symbol": "INJ",
+    "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "decimals": 18,
+    "name": "Injective Token",
+    "ens_address": "",
+    "website": "https://www.injectiveprotocol.com/",
+    "logo": {
+      "src": "https://gateway.pinata.cloud/ipfs/QmYVUeRSddPJYUgcwnki7pZ8S4XES1dbWjrrdVLYCz6Na8",
+      "width": "877",
+      "height": "866",
+      "ipfs_hash": "QmYVUeRSddPJYUgcwnki7pZ8S4XES1dbWjrrdVLYCz6Na8"
+    },
+    "support": {
+      "email": "contact@injectiveprotocol.com",
+      "url": "https://injectiveprotocol.zendesk.com/hc/en-us"
+    },
+    "social": {
+      "blog": "https://blog.injectiveprotocol.com/",
+      "chat": "",
+      "discord": "https://discord.gg/injective",
+      "facebook": "https://www.facebook.com/injectiveprotocol",
+      "forum": "https://gov.injective.network",
+      "github": "https://github.com/InjectiveLabs",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/injectivelabs/?hl=en",
+      "linkedin": "https://www.linkedin.com/company/injective-protocol",
+      "reddit": "https://www.reddit.com/r/injective/",
+      "slack": "",
+      "telegram": "https://t.me/joininjective",
+      "twitter": "https://twitter.com/InjectiveLabs",
+      "weibo": "https://weibo.com/7452104340/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1",
+      "youtube": "https://www.youtube.com/channel/UCN99m0dicoMjNmJV9mxioqQ"
+    }
+}
