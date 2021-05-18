@@ -1,0 +1,34 @@
+{
+  "symbol": "TNO",
+  "address": "0xAD6683b7f3618c44F5CA6040902812Dd890DdE4d",
+  "decimals": 18,
+  "name": "TNOS COIN",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://tnoscoin.cash",
+  "logo": {
+    "src": "https://whitepaper.tnoscoin.cash/logo-tnos/tnos128px.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "tnosadmin@tnoscoin.cash",
+    "url": "https://tnoscoin.cash/contact-us"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/tnos_crypto",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TNOSCOINS/TNOS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/thetnoscoin",
+    "slack": "",
+    "telegram": "https://t.me/tnos_crypto_discussions",
+    "twitter": "https://twitter.com/tnoscoin",
+    "youtube": ""
+  }
+}
