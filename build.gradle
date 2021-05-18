@@ -45,21 +45,21 @@ task importMEW(type: JavaExec) {
 }
 
 dependencies {
-    compile "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3-native-mt"
-    compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3-native-mt"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
 
-    compile "com.github.komputing.kethereum:erc20:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:erc55:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:erc1191:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
-    compile "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:erc20:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:erc55:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:erc1191:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
+    implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
-    "implementation"("com.squareup.okhttp3:okhttp:4.9.1")
+    implementation "com.squareup.okhttp3:okhttp:4.9.1"
 
-    compile 'com.beust:klaxon:5.4'
-    compile 'com.squareup.moshi:moshi-kotlin:1.8.0'
+    implementation 'com.beust:klaxon:5.4'
+    implementation 'com.squareup.moshi:moshi-kotlin:1.8.0'
 
     testImplementation "org.jetbrains.kotlin:kotlin-test"
     testImplementation "org.jetbrains.kotlin:kotlin-test-junit"
