@@ -1,0 +1,34 @@
+{
+  "symbol": "DIRTY",
+  "address": "0x4faB740779C73aA3945a5CF6025bF1b0e7F6349C",
+  "decimals": 18,
+  "name": "dirty.finance",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://dirty.finance/",
+  "logo": {
+    "src": "https://i.ibb.co/Yh6h148/DIRTY-token-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@dirty.finance",
+    "url": "https://dirty.finance/"
+  },
+  "social": {
+    "blog": "https://dirtyfinance.medium.com/",
+    "chat": "https://t.me/DIRTYFIN",
+    "facebook": "http://fb.me/dirtyfinance",
+    "forum": "",
+    "github": "https://github.com/nodezy/dirty_finance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dirtyfinance/",
+    "slack": "",
+    "telegram": "https://t.me/DIRTYFIN",
+    "twitter": "https://twitter.com/financedirty",
+    "youtube": ""
+  }
+}
