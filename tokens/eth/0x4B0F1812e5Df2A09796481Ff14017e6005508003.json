@@ -1,0 +1,33 @@
+{
+  "symbol": "TWT",
+  "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+  "decimals": 18,
+  "name": "Trust Wallet Token",
+  "ens_address": "",
+  "website": "https://trustwallet.com",
+  "logo": {
+    "src": "https://github.com/trustwallet/assets/blob/master/blockchains/smartchain/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@trustwallet.com",
+    "url": "https://support.trustwallet.com/hc/en-us/requests/new"
+  },
+  "social": {
+    "blog": "https://community.trustwallet.com/c/blog/42",
+    "chat": "https://t.me/trustwallet",
+    "facebook": "https://www.facebook.com/trustwalletapp",
+    "forum": "https://community.trustwallet.com",
+    "github": "https://github.com/trustwallet",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/trustwallet",
+    "linkedin": "https://www.linkedin.com/company/trustwallet",
+    "reddit": "https://www.reddit.com/r/trustapp",
+    "slack": "",
+    "telegram": "https://t.me/trustwallet",
+    "twitter": "https://twitter.com/TrustWalletApp",
+    "youtube": "https://www.youtube.com/channel/UCrYnRK55nYUDd6flEZ2Kf6g"
+  }
+}
