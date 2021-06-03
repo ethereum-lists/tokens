@@ -1,0 +1,34 @@
+{
+  "symbol": "PFB",
+  "address": "0x46760d2BF2F4dd5405646D9b2cE7B723EFE74a48",
+  "decimals": 18,
+  "name": "Penny For Bit",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://pfbproject.net/",
+  "logo": {
+    "src": "https://pfbproject.net/wp-content/uploads/2021/06/Logo-e1622715638181.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@pfbproject.net",
+    "url": "https://pfbproject.net"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/PFB_Project_Chat",
+    "facebook": "https://www.facebook.com/PFBProject",
+    "forum": "https://bitcointalk.org/index.php?topic=5332898",
+    "github": "https://github.com/PFB-Project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pfbproject",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": "https://twitter.com/PFB_Project"
+  }
+}
