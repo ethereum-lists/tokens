@@ -1,0 +1,34 @@
+{
+  "symbol": "SPACE",
+  "address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
+  "decimals": 18,
+  "name": "Spacelens",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://spacetoken.spacelens.com/",
+  "logo": {
+    "src": "https://drive.google.com/uc?id=1vaJZucWt86a3WraBabzv2pd1lZyFvyfi",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "help@spacelens.com",
+    "url": "https://help.spacelens.com"
+  },
+  "social": {
+    "blog": "https://blog.spacelens.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/spacelens",
+    "forum": "",
+    "github": "https://github.com/thespacelens",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/thespacelens",
+    "linkedin": "https://www.linkedin.com/company/spacelens",
+    "reddit": "https://www.reddit.com/r/Spacelens",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/spacelens",
+    "youtube": "https://www.youtube.com/spacelens"
+  }
+}
