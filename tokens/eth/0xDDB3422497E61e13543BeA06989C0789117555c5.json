@@ -6,9 +6,9 @@
     "ens_address": "",
     "website": "https://coti.io",
     "logo": {
-        "src": "",
-        "width": "",
-        "height": "",
+        "src": "https://coti.io/coti_icon_color_128X128.png",
+        "width": "128",
+        "height": "128",
         "ipfs_hash": ""
     },
     "support": {
