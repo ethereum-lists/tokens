@@ -1,0 +1,34 @@
+{
+  "symbol": "MINDS",
+  "name": "Minds Token",
+  "type": "ERC20",
+  "address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "https://www.minds.com/",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/8675.png",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://minds.com/help"
+  },
+  "social": {
+    "blog": "https://minds.medium.com",
+    "chat": "https://chat.minds.com",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/minds/",
+    "slack": "",
+    "telegram": "https://t.me/MindsOfficial",
+    "twitter": "https://twitter.com/minds",
+    "youtube": ""
+  }
+}
