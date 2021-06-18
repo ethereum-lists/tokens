@@ -4,7 +4,7 @@
   "type": "ERC20",
   "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
   "ens_address": "",
-  "decimals": 2,
+  "decimals": 18,
   "website": "https://www.minds.com/",
   "logo": {
     "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/8675.png",
