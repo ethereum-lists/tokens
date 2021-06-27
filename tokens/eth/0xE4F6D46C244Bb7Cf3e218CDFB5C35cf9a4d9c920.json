@@ -1,6 +1,6 @@
 {
   "symbol": "DONK",
-  "address": "0xE4F6D46C244Bb7Cf3e218CDFB5C35cf9a4d9c920.json",
+  "address": "0xE4F6D46C244Bb7Cf3e218CDFB5C35cf9a4d9c920",
   "decimals": 18,
   "name": "Donkey",
   "type": "ERC20",
