@@ -1,0 +1,34 @@
+{
+  "symbol": "DONK",
+  "address": "0xE4F6D46C244Bb7Cf3e218CDFB5C35cf9a4d9c920",
+  "decimals": 18,
+  "name": "Donkey",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.projectdonkey.com",
+  "logo": {
+    "src": "https://i.ibb.co/WyXQmJM/C5-FD8134-7419-42-AF-A558-9-FCF3812-CDF3.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@projectdonkey.com",
+    "url": "https://www.projectdonkey.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/donkeytoken",
+    "twitter": "https://twitter.com/projectdonk",
+    "youtube": "https://www.youtube.com/channel/UCZiLLOQ7s8VYNvgrE3I57Hg"
+  }
+}
