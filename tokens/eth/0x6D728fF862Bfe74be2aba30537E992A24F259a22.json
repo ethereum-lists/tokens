@@ -1,0 +1,34 @@
+{
+  "symbol": "SIH",
+  "address": "0x6D728fF862Bfe74be2aba30537E992A24F259a22",
+  "decimals": 18,
+  "name": "Salient Investment Holding",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://salientinvestmentholding.com",
+  "logo": {
+    "src": "https://salientinvestmentholding.com/SIH-Logo128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@salientinvestmentholding.com",
+    "url": "https://salientinvestmentholding.com"
+  },
+  "social": {
+    "blog": "https://sihtoken.medium.com/",
+    "chat": "https://discord.gg/bZHcXnY",
+    "facebook": "https://www.facebook.com/SIHtoken",
+    "forum": "https://bitcointalk.org/index.php?topic=5347036.0",
+    "github": "https://github.com/ClintonK227/SIH-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SIH_Token/",
+    "slack": "",
+    "telegram": "https://t.me/SIH_Official",
+    "twitter": "https://twitter.com/HoldingSalient",
+    "youtube": "https://www.youtube.com/channel/UCAkO7munHzsLboRkqJjHPQQ"
+  }
+}
