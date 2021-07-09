@@ -40,8 +40,9 @@ This repository has the tokens as single files. This makes it easier for contrib
 - [WallETH](https://walleth.org)
 - [MyCrypto](https://mycrypto.com)
 - [TREZOR](https://trezor.io) - they even [import via IPFS ;-)](https://github.com/trezor/trezor-common/blob/078cf07658a99888adca19e3284864a5354da550/ethereum_tokens-gen.py#L7)
-- [Tokenstation](https://github.com/TripleSpeeder/TokenStation)
-- [pyetherbalance](https://pypi.org/project/pyetherbalance/)
+- [Tokenstation](https://eeder/TokenStation)
+- [pyetherbalance](https://pypi.org/project/pyetherbalance))
+- [rainbow-me/rainbow-token-list](https://github.com/rainbow-me/rainbow-token-list)
 - please let us know when you do (you don't need to but it would be nice!)
 
 # Maintainers
