@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProkeyCoinsInfoGrabber.Models;
+using System;
 using System.Collections.Generic;
 using System.Net;
 
@@ -34,7 +35,7 @@ namespace ProkeyCoinsInfoGrabber
 
         static List<CoinGeckoMarketCap> GetMarketcap()
         {
-            ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps, please wait...");
+            ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps...");
             List<CoinGeckoMarketCap> marketCaps = new List<CoinGeckoMarketCap>();
             int page = 1;
             while (page <= HOW_MANY_POPULAR_TOKEN_PAGES)

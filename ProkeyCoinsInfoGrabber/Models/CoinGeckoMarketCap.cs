@@ -1,7 +1,7 @@
 ﻿
-namespace ProkeyCoinsInfoGrabber
+namespace ProkeyCoinsInfoGrabber.Models
 {
-    public class CoinGeckoMarketCap
+    public class CoinGeckoMarketCap:CoinBasenIfo
     {
         public string image { get; set; }
         public long market_cap { set; get; }

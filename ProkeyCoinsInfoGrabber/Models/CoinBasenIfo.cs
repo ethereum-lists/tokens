@@ -1,7 +1,7 @@
 ﻿
-namespace ProkeyCoinsInfoGrabber
+namespace ProkeyCoinsInfoGrabber.Models
 {
-    class CoinBasenIfo
+    public class CoinBasenIfo
     {
         public string name { get; set; } = string.Empty;
         public string id { get; set; }
