@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ProkeyCoinsInfoGrabber.Models
 {
-    class ERC20Token: CoinBasenIfo
+    class ERC20Token: CoinBaseInfo
     {
         //Inherited fields
         //"symbol": "GST2",
@@ -40,8 +40,8 @@ namespace ProkeyCoinsInfoGrabber.Models
         //  "ipfs_hash": ""
         //}
         public string src { get; set; }
-        public int width { get; set; }
-        public int height { get; set; }
+        public int? width { get; set; }
+        public int? height { get; set; }
         public string ipfs_hash { get; set; }
     }
     class ERC20TokenSupport

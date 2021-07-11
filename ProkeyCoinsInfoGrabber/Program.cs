@@ -1,7 +1,11 @@
 ﻿using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net;
+using System.Net.Http;
+using System.Text.Json;
+using System.Threading.Tasks;
 
 namespace ProkeyCoinsInfoGrabber
 {
@@ -9,11 +13,13 @@ namespace ProkeyCoinsInfoGrabber
     {
         public static string ERC20TOKENS_DIRECTORY_PATH = "tokens\\eth";
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
+        public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";
+
         static void Main(string[] args)
         {
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();
-            List<CoinGeckoMarketCap> marketCaps = GetMarketcap();
+            List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
 
         }
 
@@ -42,25 +48,34 @@ namespace ProkeyCoinsInfoGrabber
         /// Get Top marketcap from coingecko
         /// </summary>
         /// <returns></returns>
-        private static List<CoinGeckoMarketCap> GetMarketcap()
+        private static List<CoinGeckoMarketCap> GetCoinGeckoMarketCap()
         {
-            ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps...");
+            ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps ...");
             List<CoinGeckoMarketCap> marketCaps = new List<CoinGeckoMarketCap>();
             int page = 1;
             while (page <= HOW_MANY_POPULAR_TOKEN_PAGES)
             {
-                using (WebClient wc = new WebClient())
+                try
                 {
-                    var json = wc.DownloadString($"https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_desc&per_page=250&page={page}&sparkline=false");
+                    using (WebClient wc = new WebClient())
+                    {
+                        var json = wc.DownloadString($"https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_desc&per_page=250&page={page}&sparkline=false");
 
-                    List<CoinGeckoMarketCap> markets = System.Text.Json.JsonSerializer.Deserialize<List<CoinGeckoMarketCap>>(json);
-                    marketCaps.AddRange(markets);
+                        List<CoinGeckoMarketCap> markets = JsonSerializer.Deserialize<List<CoinGeckoMarketCap>>(json);
+                        marketCaps.AddRange(markets);
 
+                    }
+                    page++;
                 }
-                page++;
+                catch(WebException webExp)
+                {
+                    ConsoleUtiliy.LogInfo($"Web exeption: {webExp.Message}");
+                    return null;
+                }
             }
-
-            return marketCaps;
+            return marketCaps;         
+           
         }
+        
     }
 }
