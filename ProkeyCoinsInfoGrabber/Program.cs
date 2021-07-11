@@ -30,16 +30,30 @@ namespace ProkeyCoinsInfoGrabber
         private static List<string> GetPreExistingErc20Tokens()
         {
             ConsoleUtiliy.LogInfo("Getting pre-existing Erc20 tokens...");
+            string erc20TokensDirctoryAbsolutePath = string.Empty;
             List<string> erc20TokenfileName_List = new List<string>();
-            string erc20TokensDirctoryAbsolutePath = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, ERC20TOKENS_DIRECTORY_PATH);
-            string[] erc20TokenfileNames = System.IO.Directory.GetFiles(erc20TokensDirctoryAbsolutePath);
-            foreach (string tokenFileName in erc20TokenfileNames)
+            try
             {
-                string[] fileNameParts = tokenFileName.Split(System.IO.Path.DirectorySeparatorChar);
-                string fileNameWithExt = fileNameParts[^1];
-                char[] trimJsonChars = new char[] { '.', 'j', 's', 'o', 'n' };
-                string fileNameWithoutExt = fileNameWithExt.TrimEnd(trimJsonChars);
-                erc20TokenfileName_List.Add(fileNameWithoutExt);
+                erc20TokensDirctoryAbsolutePath = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, ERC20TOKENS_DIRECTORY_PATH);
+                string[] erc20TokenfileNames = System.IO.Directory.GetFiles(erc20TokensDirctoryAbsolutePath);
+                foreach (string tokenFileName in erc20TokenfileNames)
+                {
+                    string[] fileNameParts = tokenFileName.Split(System.IO.Path.DirectorySeparatorChar);
+                    string fileNameWithExt = fileNameParts[^1];
+                    char[] trimJsonChars = new char[] { '.', 'j', 's', 'o', 'n' };
+                    string fileNameWithoutExt = fileNameWithExt.TrimEnd(trimJsonChars);
+                    erc20TokenfileName_List.Add(fileNameWithoutExt);
+                }
+            }
+            catch (System.IO.DirectoryNotFoundException)
+            {
+                ConsoleUtiliy.LogError($"Directory {erc20TokensDirctoryAbsolutePath} not found!");
+                return null;
+            }
+            catch(Exception exp)
+            {
+                ConsoleUtiliy.LogError($"Error: {exp.Message}");
+                return null;
             }
             return erc20TokenfileName_List;
         }
@@ -69,7 +83,7 @@ namespace ProkeyCoinsInfoGrabber
                 }
                 catch(WebException webExp)
                 {
-                    ConsoleUtiliy.LogInfo($"Web exeption: {webExp.Message}");
+                    ConsoleUtiliy.LogError($"Web exeption: {webExp.Message}");
                     return null;
                 }
             }
