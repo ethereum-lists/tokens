@@ -1,2 +1,6 @@
 build/
 out/
+
+*/.vs
+*/bin
+*/obj
