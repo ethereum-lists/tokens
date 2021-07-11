@@ -14,8 +14,13 @@ namespace ProkeyCoinsInfoGrabber
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();
             List<CoinGeckoMarketCap> marketCaps = GetMarketcap();
+
         }
 
+        /// <summary>
+        /// Get pre-existing erc20 tokens from token/eth
+        /// </summary>
+        /// <returns></returns>
         private static List<string> GetPreExistingErc20Tokens()
         {
             ConsoleUtiliy.LogInfo("Getting pre-existing Erc20 tokens...");
@@ -33,7 +38,11 @@ namespace ProkeyCoinsInfoGrabber
             return erc20TokenfileName_List;
         }
 
-        static List<CoinGeckoMarketCap> GetMarketcap()
+        /// <summary>
+        /// Get Top marketcap from coingecko
+        /// </summary>
+        /// <returns></returns>
+        private static List<CoinGeckoMarketCap> GetMarketcap()
         {
             ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps...");
             List<CoinGeckoMarketCap> marketCaps = new List<CoinGeckoMarketCap>();
