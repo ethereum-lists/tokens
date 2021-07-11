@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 
 namespace ProkeyCoinsInfoGrabber
 {
     class Program
     {
         public static string ERC20TOKENS_DIRECTORY_PATH = "tokens\\eth";
+        public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         static void Main(string[] args)
         {
             //Get eth directory file names(ERC20 Token addresses) as an array
-            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();            
-            
+            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();
+            List<CoinGeckoMarketCap> marketCaps = GetMarketcap();
         }
 
         private static List<string> GetPreExistingErc20Tokens()
@@ -28,6 +30,27 @@ namespace ProkeyCoinsInfoGrabber
                 erc20TokenfileName_List.Add(fileNameWithoutExt);
             }
             return erc20TokenfileName_List;
+        }
+
+        static List<CoinGeckoMarketCap> GetMarketcap()
+        {
+            ConsoleUtiliy.LogInfo($"Reading {HOW_MANY_POPULAR_TOKEN_PAGES * 250} Coingecko Marketcaps, please wait...");
+            List<CoinGeckoMarketCap> marketCaps = new List<CoinGeckoMarketCap>();
+            int page = 1;
+            while (page <= HOW_MANY_POPULAR_TOKEN_PAGES)
+            {
+                using (WebClient wc = new WebClient())
+                {
+                    var json = wc.DownloadString($"https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_desc&per_page=250&page={page}&sparkline=false");
+
+                    List<CoinGeckoMarketCap> markets = System.Text.Json.JsonSerializer.Deserialize<List<CoinGeckoMarketCap>>(json);
+                    marketCaps.AddRange(markets);
+
+                }
+                page++;
+            }
+
+            return marketCaps;
         }
     }
 }
