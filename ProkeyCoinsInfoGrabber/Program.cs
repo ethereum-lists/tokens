@@ -223,6 +223,10 @@ namespace ProkeyCoinsInfoGrabber
             FunctionalityResult result = GetDecimalFromEthplorerApi(newERC20Token_List);
             if (result == FunctionalityResult.Succeed)
             {
+                if (newERC20Token_List.Count > 0)
+                {
+                    ConsoleUtiliy.LogSuccess($"{newERC20Token_List.Count} tokens found and neccessary data surfed!");
+                }
                 return newERC20Token_List;
             }
             return null;
@@ -246,6 +250,7 @@ namespace ProkeyCoinsInfoGrabber
                 try
                 {
                     string url = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
+                    ConsoleUtiliy.LogInfo($"Get {erc20Token.address} token info(https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey=ETHPLORER_APIKEY)");
                     HttpResponseMessage response = httpClient.GetAsync(url).Result;
                     responseContent = response.Content.ReadAsStringAsync().Result;
                     EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
