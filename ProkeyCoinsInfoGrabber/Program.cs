@@ -12,16 +12,16 @@ namespace ProkeyCoinsInfoGrabber
 {
     class Program
     {
-        public static string ERC20TOKENS_DIRECTORY_PATH = "tokens\\eth";
+        public static string ERC20TOKENS_DIRECTORY_PATH = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "tokens\\eth");
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";
         public static string COINS_HAVE_LANDINGPAGE_PATH = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName,"data\\landingPageList.txt");
         static void Main(string[] args)
         {
-            //
+            //Get Coins Have LandingPage
             List<string> landingPages = GetCoinsHaveLandingPage(COINS_HAVE_LANDINGPAGE_PATH);
             //Get eth directory file names(ERC20 Token addresses) as an array
-            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();
+            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
 
         }
@@ -30,14 +30,13 @@ namespace ProkeyCoinsInfoGrabber
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>
         /// <returns></returns>
-        private static List<string> GetPreExistingErc20Tokens()
+        private static List<string> GetPreExistingErc20Tokens(string erc20TokensDirctoryAbsolutePath)
         {
             ConsoleUtiliy.LogInfo("Getting pre-existing Erc20 tokens...");
-            string erc20TokensDirctoryAbsolutePath = string.Empty;
+
             List<string> erc20TokenfileName_List = new List<string>();
             try
             {
-                erc20TokensDirctoryAbsolutePath = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, ERC20TOKENS_DIRECTORY_PATH);
                 string[] erc20TokenfileNames = System.IO.Directory.GetFiles(erc20TokensDirctoryAbsolutePath);
                 foreach (string tokenFileName in erc20TokenfileNames)
                 {
@@ -95,7 +94,7 @@ namespace ProkeyCoinsInfoGrabber
         }
         
         /// <summary>
-        /// Get Landing Page
+        /// Get coins with landing page from txt file
         /// </summary>
         /// <param name="filePath"></param>
         /// <returns></returns>
