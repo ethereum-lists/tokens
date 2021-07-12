@@ -140,6 +140,15 @@ namespace ProkeyCoinsInfoGrabber
 
         }
 
+        /// <summary>
+        ///1-Get Tokens that are popular and erc20 but
+        ///2- They are not in token/eth yet
+        ///3- get some info such as decimal from ethplorer 
+        /// </summary>
+        /// <param name="erc20TokenfileName_List"></param>
+        /// <param name="marketCaps"></param>
+        /// <param name="landingPages"></param>
+        /// <returns></returns>
         private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenfileName_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
         {
             List<ERC20Token> erc20TokensList = new List<ERC20Token>();
@@ -156,6 +165,7 @@ namespace ProkeyCoinsInfoGrabber
                     List<CoingeckoCoinsListAPIResponse> coinsList = System.Text.Json.JsonSerializer.Deserialize<List<CoingeckoCoinsListAPIResponse>>(coinsListResponse);
                     foreach (CoinGeckoMarketCap marketCapInfoItem in marketCaps)
                     {
+                        //Get Tokens that are popular and erc20
                         var coin = coinsList.SingleOrDefault(c => c.id.Equals(marketCapInfoItem.id) && !string.IsNullOrEmpty(c.platforms.ethereum));
                         if (coin != null)
                         {
