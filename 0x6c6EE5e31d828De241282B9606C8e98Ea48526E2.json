@@ -1,0 +1,34 @@
+{
+  "symbol": "HOT",
+  "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+  "decimals": 18,
+  "name": "HoloToken",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/YouEngineOfficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/youengine-io",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": "https://www.youtube.com/c/YOUengine"
+  }
+}
