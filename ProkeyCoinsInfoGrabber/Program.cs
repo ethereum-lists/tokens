@@ -21,7 +21,7 @@ namespace ProkeyCoinsInfoGrabber
             //Get Coins Have LandingPage
             List<string> landingPages = GetCoinsHaveLandingPage(COINS_HAVE_LANDINGPAGE_PATH);
             //Get eth directory file names(ERC20 Token addresses) as an array
-            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
+            Dictionary<string, string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
             List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps, landingPages);
         }
@@ -31,11 +31,11 @@ namespace ProkeyCoinsInfoGrabber
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>
         /// <returns></returns>
-        private static List<string> GetPreExistingErc20Tokens(string erc20TokensDirctoryAbsolutePath)
+        private static Dictionary<string, string> GetPreExistingErc20Tokens(string erc20TokensDirctoryAbsolutePath)
         {
             ConsoleUtiliy.LogInfo("Getting pre-existing Erc20 tokens...");
 
-            List<string> erc20TokenfileName_List = new List<string>();
+            Dictionary<string, string> erc20TokenfileName_List = new Dictionary<string, string>();
             try
             {
                 string[] erc20TokenfileNames = System.IO.Directory.GetFiles(erc20TokensDirctoryAbsolutePath);
@@ -45,7 +45,7 @@ namespace ProkeyCoinsInfoGrabber
                     string fileNameWithExt = fileNameParts[^1];
                     char[] trimJsonChars = new char[] { '.', 'j', 's', 'o', 'n' };
                     string fileNameWithoutExt = fileNameWithExt.TrimEnd(trimJsonChars);
-                    erc20TokenfileName_List.Add(fileNameWithoutExt);
+                    erc20TokenfileName_List.Add(fileNameWithoutExt, fileNameWithoutExt);
                 }
             }
             catch (System.IO.DirectoryNotFoundException)
@@ -149,7 +149,7 @@ namespace ProkeyCoinsInfoGrabber
         /// <param name="marketCaps"></param>
         /// <param name="landingPages"></param>
         /// <returns></returns>
-        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenFromfileNames_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
+        private static List<ERC20Token> GetNewPopularERC20Tokens(Dictionary<string, string> erc20TokenFromfileNames_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
         {
             List<ERC20Token> erc20TokensList = new List<ERC20Token>();
             ConsoleUtiliy.LogInfo("Getting coin list from coingecko ...");
@@ -211,7 +211,7 @@ namespace ProkeyCoinsInfoGrabber
             List<ERC20Token> newERC20Token_List = new List<ERC20Token>();
             foreach (ERC20Token erc20Token in erc20TokensList)
             {
-                if (!erc20TokenFromfileNames_List.Exists(t => t.Equals(erc20Token.address))) newERC20Token_List.Add(erc20Token);
+                if (!erc20TokenFromfileNames_List.ContainsKey(erc20Token.address)) newERC20Token_List.Add(erc20Token);
             }
             #endregion
 
