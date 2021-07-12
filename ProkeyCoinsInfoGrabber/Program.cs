@@ -141,18 +141,19 @@ namespace ProkeyCoinsInfoGrabber
         }
 
         /// <summary>
-        ///1-Get Tokens that are popular and erc20 but
+        ///1- Get Tokens that are popular and erc20 but
         ///2- They are not in token/eth yet
         ///3- get some info such as decimal from ethplorer 
         /// </summary>
-        /// <param name="erc20TokenfileName_List"></param>
+        /// <param name="erc20TokenFromfileNames_List"></param>
         /// <param name="marketCaps"></param>
         /// <param name="landingPages"></param>
         /// <returns></returns>
-        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenfileName_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
+        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenFromfileNames_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
         {
             List<ERC20Token> erc20TokensList = new List<ERC20Token>();
             ConsoleUtiliy.LogInfo("Getting coin list from coingecko ...");
+            #region 1-Get Tokens that are popular and erc20
             //! Get Id of coin from coingecko coin/list api
             string coinsListResponse = GetCoinGeckoCoinsList().Result;
 
@@ -203,7 +204,18 @@ namespace ProkeyCoinsInfoGrabber
                 ConsoleUtiliy.LogError("Coins list is empty, check your connection please!");
                 return null;
             }
-            return erc20TokensList;
+            #endregion
+
+            //2- They are not in token/eth yet
+            #region 2- They are not in token/eth yet
+            List<ERC20Token> newERC20Token_List = new List<ERC20Token>();
+            foreach (ERC20Token erc20Token in erc20TokensList)
+            {
+                if (!erc20TokenFromfileNames_List.Exists(t => t.Equals(erc20Token.address))) newERC20Token_List.Add(erc20Token);
+            }
+            #endregion
+
+            return newERC20Token_List;
         }
 
     }
