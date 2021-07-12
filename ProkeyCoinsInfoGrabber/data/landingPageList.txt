@@ -1,0 +1,7 @@
+﻿Bitcoin
+Ethereum
+USD Tether (erc20)
+USD Tether (omni)
+Litecoin
+Bitcoin Cash
+Zcash

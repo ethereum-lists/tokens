@@ -1,6 +1,7 @@
 ﻿using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -14,9 +15,11 @@ namespace ProkeyCoinsInfoGrabber
         public static string ERC20TOKENS_DIRECTORY_PATH = "tokens\\eth";
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";
-
+        public static string COINS_HAVE_LANDINGPAGE_PATH = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName,"data\\landingPageList.txt");
         static void Main(string[] args)
         {
+            //
+            List<string> landingPages = GetCoinsHaveLandingPage(COINS_HAVE_LANDINGPAGE_PATH);
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens();
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
@@ -91,5 +94,23 @@ namespace ProkeyCoinsInfoGrabber
            
         }
         
+        /// <summary>
+        /// Get Landing Page
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns></returns>
+        private static List<string> GetCoinsHaveLandingPage(string filePath)
+        {
+            List<string> landingPages = new List<string>();
+            if (File.Exists(filePath))
+            {
+                using StreamReader sr = new StreamReader(filePath);
+                while (sr.EndOfStream == false)
+                {
+                    landingPages.Add(sr.ReadLine().Trim());
+                }
+            }
+            return landingPages;
+        }
     }
 }
