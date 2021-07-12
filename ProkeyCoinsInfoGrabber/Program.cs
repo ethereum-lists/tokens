@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Text.Json;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ProkeyCoinsInfoGrabber
@@ -16,6 +17,8 @@ namespace ProkeyCoinsInfoGrabber
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";
         public static string COINS_HAVE_LANDINGPAGE_PATH = System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName,"data\\landingPageList.txt");
+        public static string ETHPLORER_APIKEY = "EK-nFPsq-fhXwSwW-CofSq";
+
         static void Main(string[] args)
         {
             //Get Coins Have LandingPage
@@ -215,7 +218,60 @@ namespace ProkeyCoinsInfoGrabber
             }
             #endregion
 
-            return newERC20Token_List;
+            //3- get some info such as decimal from ethplorer 
+            #region  3- get some info such as decimal from ethplorer
+            FunctionalityResult result = GetDecimalFromEthplorerApi(newERC20Token_List);
+            if (result == FunctionalityResult.Succeed)
+            {
+                return newERC20Token_List;
+            }
+            return null;
+            #endregion
+
+        }
+
+
+        /// <summary>
+        /// Get Decimal From Ethplorer Api
+        /// </summary>
+        /// <param name="tokens"></param>
+        /// <returns></returns>
+        private static FunctionalityResult GetDecimalFromEthplorerApi(List<ERC20Token> tokens)
+        {
+            using HttpClient httpClient = new HttpClient();
+            string responseContent = string.Empty;
+            ConsoleUtiliy.LogInfo("Geting decimal from Ethplorer api, this may take a few minutes, ...");
+            foreach (ERC20Token erc20Token in tokens)
+            {
+                try
+                {
+                    string url = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
+                    HttpResponseMessage response = httpClient.GetAsync(url).Result;
+                    responseContent = response.Content.ReadAsStringAsync().Result;
+                    EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
+                    erc20Token.decimals = int.Parse(tokenInfo.decimals);
+                }
+                catch (System.Text.Json.JsonException)
+                {
+                    EthplorerApiError error = System.Text.Json.JsonSerializer.Deserialize<EthplorerApiError>(responseContent);
+                    ConsoleUtiliy.LogError("Error in Ethplorer api: " + error.error.message);
+                    return FunctionalityResult.Exception;
+                }
+                catch (HttpRequestException httpExp)
+                {
+                    ConsoleUtiliy.LogError("Http Exception, Check your connection! " + httpExp.Message);
+                    return FunctionalityResult.Exception;
+                }
+                catch (Exception exp)
+                {
+                    ConsoleUtiliy.LogError("Exception: " + exp.Message);
+                    return FunctionalityResult.Exception;
+                }
+                //api ethplorer
+                Thread.Sleep(2000);
+            }
+            return FunctionalityResult.Succeed;
+
         }
 
     }
