@@ -6,6 +6,7 @@ namespace ProkeyCoinsInfoGrabber.Models
         Succeed,
         Failed,
         Exception,
-        Error
+        Error,
+        NotFound
     }
 }

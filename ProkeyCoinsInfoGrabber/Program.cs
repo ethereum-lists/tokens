@@ -27,9 +27,44 @@ namespace ProkeyCoinsInfoGrabber
             Dictionary<string, string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
             List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps, landingPages);
+            if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+            {
+                StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+            }
         }
 
-      
+        /// <summary>
+        /// Store new tokens in json files
+        /// </summary>
+        /// <param name="tokens"></param>
+        /// <returns></returns>
+        private static FunctionalityResult StoreNewTokensInFile(List<ERC20Token> tokens, string erc20DirectoryPath)
+        {
+            if(Directory.Exists(erc20DirectoryPath))
+            {
+                foreach (ERC20Token token in tokens)
+                {
+                    string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
+                    if (!File.Exists(fileFullPath))
+                    {
+                        string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token);
+                        File.WriteAllText(fileFullPath, tokenJsonString);
+                    }
+                    else
+                    {
+                        ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
+                        return FunctionalityResult.NotFound;
+                    }
+                }
+                return FunctionalityResult.Succeed;
+            }
+            else
+            {
+                return FunctionalityResult.NotFound;
+            }
+        }
+
+
         /// <summary>
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>
