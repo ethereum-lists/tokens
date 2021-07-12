@@ -23,9 +23,10 @@ namespace ProkeyCoinsInfoGrabber
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-
+            List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps, landingPages);
         }
 
+      
         /// <summary>
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>
@@ -111,5 +112,89 @@ namespace ProkeyCoinsInfoGrabber
             }
             return landingPages;
         }
+
+        /// <summary>
+        /// Get CoinGecko all coins list 
+        /// Request URL:https://api.coingecko.com/api/v3/coins/list?include_platform=true
+        /// </summary>
+        /// <returns></returns>
+        static async Task<string> GetCoinGeckoCoinsList()
+        {
+            try
+            {
+                using HttpClient httpClient = new HttpClient();
+                var response = await httpClient.GetAsync(COINGECKO_LISTCOINS_API_URL);
+                string responseContent = await response.Content.ReadAsStringAsync();
+                return responseContent;
+            }
+            catch (HttpRequestException httpExp)
+            {
+                ConsoleUtiliy.LogError("HttpRequestException in CoinGecko Coins List API: " + httpExp.Message);
+                return string.Empty;
+            }
+            catch (Exception exp)
+            {
+                ConsoleUtiliy.LogError("Exception in CoinGecko Coins List API: " + exp.Message);
+                return string.Empty;
+            }
+
+        }
+
+        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenfileName_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
+        {
+            List<ERC20Token> erc20TokensList = new List<ERC20Token>();
+            ConsoleUtiliy.LogInfo("Getting coin list from coingecko ...");
+            //! Get Id of coin from coingecko coin/list api
+            string coinsListResponse = GetCoinGeckoCoinsList().Result;
+
+            if (!string.IsNullOrEmpty(coinsListResponse))
+            {
+                try
+                {
+                    ConsoleUtiliy.LogInfo("Parsing coingecko coins list...");
+                    //List of coins that was gotten from coingecko
+                    List<CoingeckoCoinsListAPIResponse> coinsList = System.Text.Json.JsonSerializer.Deserialize<List<CoingeckoCoinsListAPIResponse>>(coinsListResponse);
+                    foreach (CoinGeckoMarketCap marketCapInfoItem in marketCaps)
+                    {
+                        var coin = coinsList.SingleOrDefault(c => c.id.Equals(marketCapInfoItem.id) && !string.IsNullOrEmpty(c.platforms.ethereum));
+                        if (coin != null)
+                        {
+                            //Add Coin to erc list
+                            erc20TokensList.Add(new ERC20Token()
+                            {
+                                //https://api.coingecko.com/api/v3/asset_platforms
+                                //id: "ethereum",
+                                //chain_identifier: 1,
+                                //name: "Ethereum",
+                                //chain_id = 1,
+                                address = coin.platforms.ethereum,
+                                symbol = marketCapInfoItem.symbol,
+                                decimals = 8, //int.Parse(coindecimal),
+                                name = marketCapInfoItem.name,
+                                //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
+                                //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
+                            });
+                        }
+                    }                   
+                }
+                catch (System.Text.Json.JsonException jsonException)
+                {
+                    ConsoleUtiliy.LogError("JsonException of coin list string: " + jsonException.Message);
+                    return null;
+                }
+                catch (Exception exp)
+                {
+                    ConsoleUtiliy.LogError("Exception of getting id from coin list(coingecko coin/list): " + exp.Message);
+                    return null;
+                }
+            }
+            else
+            {
+                ConsoleUtiliy.LogError("Coins list is empty, check your connection please!");
+                return null;
+            }
+            return erc20TokensList;
+        }
+
     }
 }
