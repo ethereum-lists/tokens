@@ -29,7 +29,15 @@ namespace ProkeyCoinsInfoGrabber
             List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps, landingPages);
             if (newErc20Tokens != null && newErc20Tokens.Count > 0)
             {
-                StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                if (result == FunctionalityResult.Succeed)
+                {
+                    ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                }
+            }
+            else
+            {
+                ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
             }
         }
 
@@ -53,7 +61,7 @@ namespace ProkeyCoinsInfoGrabber
                     else
                     {
                         ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
-                        //return FunctionalityResult.NotFound;
+                        return FunctionalityResult.NotFound;
                     }
                 }
                 return FunctionalityResult.Succeed;
@@ -248,7 +256,7 @@ namespace ProkeyCoinsInfoGrabber
             List<ERC20Token> newERC20Token_List = new List<ERC20Token>();
             foreach (ERC20Token erc20Token in erc20TokensList)
             {
-                if (!erc20TokenFromfileNames_List.Contains(erc20Token.address)) newERC20Token_List.Add(erc20Token);
+                if (!erc20TokenFromfileNames_List.Any(t => t.Equals(erc20Token.address,StringComparison.OrdinalIgnoreCase))) newERC20Token_List.Add(erc20Token);
             }
             #endregion
 
