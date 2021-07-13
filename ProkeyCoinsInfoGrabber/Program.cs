@@ -53,7 +53,7 @@ namespace ProkeyCoinsInfoGrabber
                     else
                     {
                         ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
-                        return FunctionalityResult.NotFound;
+                        //return FunctionalityResult.NotFound;
                     }
                 }
                 return FunctionalityResult.Succeed;
@@ -248,7 +248,7 @@ namespace ProkeyCoinsInfoGrabber
             List<ERC20Token> newERC20Token_List = new List<ERC20Token>();
             foreach (ERC20Token erc20Token in erc20TokensList)
             {
-                if (!erc20TokenFromfileNames_List.Any(t => t.Equals(erc20Token.address))) newERC20Token_List.Add(erc20Token);
+                if (!erc20TokenFromfileNames_List.Contains(erc20Token.address)) newERC20Token_List.Add(erc20Token);
             }
             #endregion
 
@@ -279,16 +279,18 @@ namespace ProkeyCoinsInfoGrabber
             using HttpClient httpClient = new HttpClient();
             string responseContent = string.Empty;
             ConsoleUtiliy.LogInfo("Geting decimal from Ethplorer api, this may take a few minutes, ...");
+            int i = 1;
             foreach (ERC20Token erc20Token in tokens)
             {
                 try
                 {
                     string url = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
-                    ConsoleUtiliy.LogInfo($"Get {erc20Token.address} token info(https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey=ETHPLORER_APIKEY)");
+                    ConsoleUtiliy.LogInfo($"Get {i} of {tokens.Count} tokens info(https://api.ethplorer.io/getTokenInfo/{erc20Token.address})");
                     HttpResponseMessage response = httpClient.GetAsync(url).Result;
                     responseContent = response.Content.ReadAsStringAsync().Result;
                     EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
                     erc20Token.decimals = int.Parse(tokenInfo.decimals);
+                    i++;
                 }
                 catch (System.Text.Json.JsonException)
                 {
