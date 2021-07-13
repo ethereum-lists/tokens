@@ -1,6 +1,8 @@
 build/
 out/
 
+tokens/
+
 */.vs
 */bin
 */obj
