@@ -159,25 +159,6 @@ namespace ProkeyCoinsInfoGrabber
         }
         
         /// <summary>
-        /// Get coins with landing page from txt file
-        /// </summary>
-        /// <param name="filePath"></param>
-        /// <returns></returns>
-        private static List<string> GetCoinsHaveLandingPage(string filePath)
-        {
-            List<string> landingPages = new List<string>();
-            if (File.Exists(filePath))
-            {
-                using StreamReader sr = new StreamReader(filePath);
-                while (sr.EndOfStream == false)
-                {
-                    landingPages.Add(sr.ReadLine().Trim());
-                }
-            }
-            return landingPages;
-        }
-
-        /// <summary>
         /// Get CoinGecko all coins list 
         /// Request URL:https://api.coingecko.com/api/v3/coins/list?include_platform=true
         /// </summary>
