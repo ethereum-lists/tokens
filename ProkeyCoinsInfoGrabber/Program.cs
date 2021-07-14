@@ -22,13 +22,11 @@ namespace ProkeyCoinsInfoGrabber
         public static string ETHPLORER_APIKEY = "EK-nFPsq-fhXwSwW-CofSq";
 
         static void Main(string[] args)
-        {
-            //Get Coins Have LandingPage
-            List<string> landingPages = GetCoinsHaveLandingPage(COINS_HAVE_LANDINGPAGE_PATH);
+        {            
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-            List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps, landingPages);
+            List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
             if (newErc20Tokens != null && newErc20Tokens.Count > 0)
             {
                 FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
@@ -205,7 +203,7 @@ namespace ProkeyCoinsInfoGrabber
         /// <param name="marketCaps"></param>
         /// <param name="landingPages"></param>
         /// <returns></returns>
-        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenFromfileNames_List, List<CoinGeckoMarketCap> marketCaps, List<string> landingPages)
+        private static List<ERC20Token> GetNewPopularERC20Tokens(List<string> erc20TokenFromfileNames_List, List<CoinGeckoMarketCap> marketCaps)
         {
             List<ERC20Token> erc20TokensList = new List<ERC20Token>();
             ConsoleUtiliy.LogInfo("Getting coin list from coingecko ...");
