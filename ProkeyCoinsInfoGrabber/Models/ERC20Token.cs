@@ -11,25 +11,25 @@ namespace ProkeyCoinsInfoGrabber.Models
         //"name": "Gastoken.io",
 
         //"address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
-        public string address { get; set; }
+        public string address { get; set; } = string.Empty;
 
         //"decimals": 2,
         public int decimals { get; set; }
 
         //"ens_address": "",
-        public string ens_address { get; set; }
+        public string ens_address { get; set; } = string.Empty;
 
         //"website": "",
-        public string website { get; set; }
+        public string website { get; set; } = string.Empty;
 
         // "logo": {
-        public ERC20TokenLogo logo { get; set; }
+        public ERC20TokenLogo logo { get; set; } = new ERC20TokenLogo();
 
         //"support": {
-        public ERC20TokenSupport support { get; set; }
+        public ERC20TokenSupport support { get; set; } = new ERC20TokenSupport();
 
         //"social": {
-        public ERC20TokenSocial social { get; set; }
+        public ERC20TokenSocial social { get; set; } = new ERC20TokenSocial();
     }
     class ERC20TokenLogo
     {
@@ -39,10 +39,10 @@ namespace ProkeyCoinsInfoGrabber.Models
         //  "height": "",
         //  "ipfs_hash": ""
         //}
-        public string src { get; set; }
+        public string src { get; set; } = string.Empty;
         public int? width { get; set; }
         public int? height { get; set; }
-        public string ipfs_hash { get; set; }
+        public string ipfs_hash { get; set; } = string.Empty;        
     }
     class ERC20TokenSupport
     {
@@ -51,54 +51,54 @@ namespace ProkeyCoinsInfoGrabber.Models
         //"url": ""
         //  },
         [EmailAddress]
-        public string email { get; set; }
-        public Uri url { get; set; }
+        public string email { get; set; } = string.Empty;
+        public string url { get; set; } = string.Empty;
     }
     
     class ERC20TokenSocial
     {
         //    "social": {
         //  "blog": "",
-        public Uri blog { get; set; }
+        public string blog { get; set; } = string.Empty;
 
         //  "chat": "",
-        public Uri chat { get; set; }
+        public string chat { get; set; } = string.Empty;
 
         //  "discord": "",
-        public Uri discord { get; set; }
+        public string discord { get; set; } = string.Empty;
 
         //  "facebook": "",
-        public Uri facebook { get; set; }
+        public string facebook { get; set; } = string.Empty;
 
         //  "forum": "",
-        public Uri forum { get; set; }
+        public string forum { get; set; } = string.Empty;
 
         //  "github": "",
-        public Uri github { get; set; }
+        public string github { get; set; } = string.Empty;
 
         //  "gitter": "",
-        public Uri gitter { get; set; }
+        public string gitter { get; set; } = string.Empty;
 
         //  "instagram": "",
-        public Uri instagram { get; set; }
+        public string instagram { get; set; } = string.Empty;
 
         //  "linkedin": "",
-        public Uri linkedin { get; set; }
+        public string linkedin { get; set; } = string.Empty;
 
         //  "reddit": "",
-        public Uri reddit { get; set; }
+        public string reddit { get; set; } = string.Empty;
 
         //  "slack": "",
-        public Uri slack { get; set; }
+        public string slack { get; set; } = string.Empty;
 
         //  "telegram": "",
-        public Uri telegram { get; set; }
+        public string telegram { get; set; } = string.Empty;
 
         //  "twitter": "",
-        public Uri twitter { get; set; }
+        public string twitter { get; set; } = string.Empty;
 
         //  "youtube": ""
-        public Uri youtube { get; set; }
+        public string youtube { get; set; } = string.Empty;
 
         //}
     }

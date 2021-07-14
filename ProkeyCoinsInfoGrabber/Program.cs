@@ -63,7 +63,7 @@ namespace ProkeyCoinsInfoGrabber
                             JsonSerializerOptions (){
                             
                             WriteIndented = true,
-                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase                           
                         };
                         string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
                         File.WriteAllText(fileFullPath, tokenJsonString);
