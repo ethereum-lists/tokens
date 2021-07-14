@@ -6,7 +6,6 @@ namespace ProkeyCoinsInfoGrabber.Models
 {
     class ERC20Token
     {
-        public string name { get; set; } = string.Empty;
         public string symbol { get; set; } = string.Empty;
 
         //"address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
@@ -14,6 +13,8 @@ namespace ProkeyCoinsInfoGrabber.Models
 
         //"decimals": 2,
         public int decimals { get; set; }
+
+        public string name { get; set; } = string.Empty;
 
         //"ens_address": "",
         public string ens_address { get; set; } = string.Empty;
