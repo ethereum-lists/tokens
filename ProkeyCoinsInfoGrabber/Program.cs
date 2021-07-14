@@ -26,19 +26,23 @@ namespace ProkeyCoinsInfoGrabber
             //Get eth directory file names(ERC20 Token addresses) as an array
             List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
             List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-            List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
-            if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+            if (marketCaps != null && marketCaps.Count > 0)
             {
-                FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
-                if (result == FunctionalityResult.Succeed)
+                List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
+                if (newErc20Tokens != null && newErc20Tokens.Count > 0)
                 {
-                    ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                    FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                    if (result == FunctionalityResult.Succeed)
+                    {
+                        ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                    }
+                }
+                else
+                {
+                    ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
                 }
             }
-            else
-            {
-                ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
-            }
+            
         }
 
         /// <summary>
@@ -55,7 +59,13 @@ namespace ProkeyCoinsInfoGrabber
                     string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
                     if (!File.Exists(fileFullPath))
                     {
-                        string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token);
+                        JsonSerializerOptions jsonSrlzrOptions = new 
+                            JsonSerializerOptions (){
+                            
+                            WriteIndented = true,
+                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                        };
+                        string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
                         File.WriteAllText(fileFullPath, tokenJsonString);
                     }
                     else
