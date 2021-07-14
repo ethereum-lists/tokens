@@ -4,11 +4,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ProkeyCoinsInfoGrabber.Models
 {
-    class ERC20Token: CoinBaseInfo
+    class ERC20Token
     {
-        //Inherited fields
-        //"symbol": "GST2",
-        //"name": "Gastoken.io",
+        public string name { get; set; } = string.Empty;
+        public string symbol { get; set; } = string.Empty;
 
         //"address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
         public string address { get; set; } = string.Empty;
@@ -40,8 +39,8 @@ namespace ProkeyCoinsInfoGrabber.Models
         //  "ipfs_hash": ""
         //}
         public string src { get; set; } = string.Empty;
-        public int? width { get; set; }
-        public int? height { get; set; }
+        public string width { get; set; } = string.Empty;
+        public string height { get; set; } = string.Empty;
         public string ipfs_hash { get; set; } = string.Empty;        
     }
     class ERC20TokenSupport
