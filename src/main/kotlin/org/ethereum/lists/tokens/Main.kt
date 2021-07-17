@@ -9,13 +9,32 @@ import kotlin.system.exitProcess
 import org.kethereum.model.ChainId
 
 
-val networkMapping = mapOf("etc" to 61, "eth" to 1, "kov" to 42, "rin" to 4, "rop" to 3, "rsk" to 30, "ella" to 64, "esn" to 2, "gor" to 5, "avax" to 43114)
+val networkMapping = mapOf(
+    "eth" to 1,
+    "esn" to 2,
+    "rop" to 3,
+    "rin" to 4,
+    "gor" to 5,
+    "ubq" to 8,
+    "rsk" to 30,
+    "kov" to 42,
+    "etc" to 61,
+    "ella" to 64,
+    "avax" to 43114
+)
 
 suspend fun main() {
     checkForTokenDefinitionsInWrongPath()
 
     allNetworksTokenDir.listFiles()?.forEach { singleNetworkTokenDirectory ->
         val jsonArray = JsonArray<JsonObject>()
+
+        if (!networkMapping.containsKey(singleNetworkTokenDirectory.name)) {
+            println("Found directory for unknown cha " + singleNetworkTokenDirectory.name)
+
+            exitProcess(1)
+        }
+
         singleNetworkTokenDirectory.listFiles()?.forEach {
             try {
                 it.reader().use { reader ->
@@ -46,8 +65,9 @@ private fun getChainId(networkMapping: Map<String, Int>, networkName: String) = 
 private fun checkForTokenDefinitionsInWrongPath() {
     File(".").walk().forEach { path ->
         if (path.isDirectory
-                && !Files.isSameFile((path.parentFile ?: path).toPath(), allNetworksTokenDir.toPath())
-                && !path.absolutePath.contains("/test_tokens/")) {
+            && !Files.isSameFile((path.parentFile ?: path).toPath(), allNetworksTokenDir.toPath())
+            && !path.absolutePath.contains("/test_tokens/")
+        ) {
             path.list()?.firstOrNull { it.startsWith("0x") }?.let {
                 throw IllegalArgumentException("There is a token definition file ($it) placed in a directory where it does not belong (${path.absolutePath})")
             }
