@@ -1,0 +1,34 @@
+{
+  "symbol": "GRT",
+  "address": "0xf31AFdA9269DC4486666Fe76A60A484c6212a05C",
+  "decimals": 18,
+  "name": "Graph Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://youengine.io",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/YouEngineOfficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/youengine-io",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": "https://www.youtube.com/c/YOUengine"
+  }
+}
