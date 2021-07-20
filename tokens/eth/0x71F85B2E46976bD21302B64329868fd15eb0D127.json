@@ -1,0 +1,33 @@
+{
+  "symbol": "AXN",
+  "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127",
+  "decimals": 18,
+  "name": "Axion",
+  "ens_address": "",
+  "website": "https://axion.network/",
+  "logo": {
+    "src": "https://stake.axion.network/metamask-axn-logo.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@axion.network",
+    "url": "https://support.axion.network"
+  },
+  "social": {
+    "blog": "https://axion.network/news/blog",
+    "chat": "https://discord.gg/axion",
+    "facebook": "https://www.facebook.com/AxionCryptoCD/",
+    "forum": "",
+    "github": "https://github.com/Axion-Network",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/axionnetwork",
+    "reddit": "https://www.reddit.com/r/AXION",
+    "slack": "",
+    "telegram": "https://t.me/axionofficial",
+    "twitter": "https://twitter.com/axion_network/",
+    "youtube": "https://www.youtube.com/c/AxionOfficial"
+  }
+}
