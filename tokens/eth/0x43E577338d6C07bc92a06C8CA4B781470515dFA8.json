@@ -1,0 +1,34 @@
+{
+  "symbol": "OBC",
+  "address": "0x43E577338d6C07bc92a06C8CA4B781470515dFA8",
+  "decimals": 18,
+  "name": "Oblichain",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://oblichain.com/en/home",
+  "logo": {
+    "src": "https://i.ibb.co/2MFPrVb/1589894107133-2.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@oblichain.com",
+    "url": "https://www.oblichain.com/en/contact-us"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/hVc5p8BbjB",
+    "facebook": "https://www.facebook.com/Oblichain",
+    "forum": "",
+    "github": "https://github.com/Oblichain-team/Oblichain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/oblichain-obc/posts/?feedView=all",
+    "reddit": "https://www.reddit.com/r/oblichain/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/tzp_KYbR9Bs3ZjA8",
+    "twitter": "",
+    "youtube": ""
+  }
+}
