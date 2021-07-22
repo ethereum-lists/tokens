@@ -1,0 +1,34 @@
+{
+  "symbol": "GMT",
+  "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+  "decimals": 18,
+  "name": "GoMining Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://token.gomining.com",
+  "logo": {
+    "src": "https://token.gomining.com/logo_square.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "token@gomining.com",
+    "url": "https://t.me/GMT_Support"
+  },
+  "social": {
+    "blog": "https://www.reddit.com/user/GoMiningToken",
+    "chat": "https://t.me/gmt_token_talk",
+    "facebook": "https://www.facebook.com/GoMiningToken",
+    "forum": "",
+    "github": "https://github.com/gomining-token/smart",
+    "gitter": "",
+    "instagram": "https://instagram.com/gmt_token",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/GoMiningToken",
+    "slack": "",
+    "telegram": "https://t.me/gmt_token_talk",
+    "twitter": "https://twitter.com/GMT_Token",
+    "youtube": ""
+  }
+}
