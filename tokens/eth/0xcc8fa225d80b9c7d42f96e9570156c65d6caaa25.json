@@ -1,0 +1,35 @@
+{
+    "symbol": "SLP",
+    "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+    "decimals": 0,
+    "name": "Smooth Love Potion",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://axieinfinity.com/",
+    "logo": {
+      "src": "https://marketplace.axieinfinity.com/static/image/love-potion.png",
+      "width": "106",
+      "height": "126",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@axieinfinity.com",
+      "url": "https://discord.gg/axie"
+    },
+    "social": {
+      "blog": "https://axieinfinity.medium.com/",
+      "chat": "https://discord.gg/axie",
+      "facebook": "https://www.facebook.com/AxieInfinity",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/AxieInfinity/",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/axieinfinity",
+      "youtube": ""
+    }
+  }
+  
