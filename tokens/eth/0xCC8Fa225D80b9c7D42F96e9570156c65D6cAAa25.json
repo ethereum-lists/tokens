@@ -1,13 +1,13 @@
 {
-  "symbol": "AXS",
-  "name": "Axie Infinity Shards",
+  "symbol": "SLP",
+  "name": "Smooth Love Potion",
   "type": "ERC20",
-  "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+  "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
   "ens_address": "",
-  "decimals": 18,
+  "decimals": 0,
   "website": "https://axieinfinity.com/",
   "logo": {
-    "src": "https://etherscan.io/token/images/axieinfinityshard_32.png",
+    "src": "https://etherscan.io/token/images/slp_32.png",
     "width": "32",
     "height": "32",
     "ipfs_hash": ""

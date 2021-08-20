@@ -1,15 +1,15 @@
 {
-  "symbol": "AXS",
-  "name": "Axie Infinity Shards",
+  "symbol": "WETH",
+  "name": "WETH on Ronin",
   "type": "ERC20",
-  "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+  "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
   "ens_address": "",
   "decimals": 18,
   "website": "https://axieinfinity.com/",
   "logo": {
-    "src": "https://etherscan.io/token/images/axieinfinityshard_32.png",
-    "width": "32",
-    "height": "32",
+    "src": "https://explorer.roninchain.com/contract-icon/eth.png",
+    "width": "48",
+    "height": "48",
     "ipfs_hash": ""
   },
   "support": {
