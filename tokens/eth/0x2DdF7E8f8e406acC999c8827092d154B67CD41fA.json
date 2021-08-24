@@ -5,7 +5,7 @@
   "address": "0x2DdF7E8f8e406acC999c8827092d154B67CD41fA",
   "decimals": 18,
   "ens_address": "",
-  "website": "https://www.klaytn.com/",
+  "website": "https://swap.xfutures.io/",
   "logo": {
     "src": "",
     "width": "",
@@ -30,5 +30,9 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+    "time": "2021-01-22T00:00:00+01:00",
+    "announcement_url": "https://xfutures.zendesk.com/hc/en-us/articles/360018775760-xFutures-Closure"
   }
 }

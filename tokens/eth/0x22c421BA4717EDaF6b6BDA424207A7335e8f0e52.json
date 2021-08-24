@@ -5,7 +5,7 @@
   "address": "0x22c421BA4717EDaF6b6BDA424207A7335e8f0e52",
   "decimals": 18,
   "ens_address": "",
-  "website": "https://solana.com/",
+  "website": "https://swap.xfutures.io/",
   "logo": {
     "src": "",
     "width": "",
@@ -30,5 +30,9 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+    "time": "2021-01-22T00:00:00+01:00",
+    "announcement_url": "https://xfutures.zendesk.com/hc/en-us/articles/360018775760-xFutures-Closure"
   }
 }
