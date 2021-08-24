@@ -1,0 +1,7 @@
+{
+  "symbol": "CTSI",
+  "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+  "decimals": 10,
+  "name": "CARTESI",
+  "type": "ERC20",
+  }
