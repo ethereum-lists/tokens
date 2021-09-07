@@ -1,0 +1,32 @@
+{
+  "symbol": "MOC",
+  "address": "0x9AC7fE28967B30E3A4e6e03286d715b42B453D10",
+  "address_eip1191": "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10",
+  "decimals": 18,
+  "name": "Money on Chain Governance Token",
+  "ens_address": "",
+  "website": "https://moneyonchain.com/moc-govern-stake/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/moc.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/9pt728aD5K",
+    "facebook": "",
+    "forum": "https://forum.moneyonchain.com/",
+    "github": "https://github.com/money-on-chain/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MoneyOnChainCommunity",
+    "twitter": "https://twitter.com/moneyonchainok",
+    "youtube": ""
+  }
+}

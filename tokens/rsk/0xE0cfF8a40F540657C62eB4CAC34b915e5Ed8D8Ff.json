@@ -1,0 +1,31 @@
+{
+  "symbol": "INV",
+  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address_eip1191": "0xe0CFF8a40f540657c62EB4CAC34b915e5ed8d8FF",
+  "decimals": 18,
+  "name": "Invecoin",
+  "ens_address": "",
+  "website": "https://www.sesocio.com/projects/cryptocurrency/investolan",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "USDCB",
+  "address": "0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a",
+  "address_eip1191": "0xaA5dc2Ea0E056Fc962F48aB25547d66d3586eE8a",
+  "decimals": 18,
+  "name": "Dolar Americano PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

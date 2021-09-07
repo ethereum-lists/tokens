@@ -1,0 +1,31 @@
+{
+  "symbol": "rUSDC",
+  "address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
+  "address_eip1191": "0x1BDa44fda023F2af8280a16FD1b01D1A493BA6c4",
+  "decimals": 18,
+  "name": "USD Coin on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdc.png",
+    "width": "181",
+    "height": "181",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

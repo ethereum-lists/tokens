@@ -1,0 +1,31 @@
+{
+  "symbol": "EURCB",
+  "address": "0xAe2ceb4B57ade22643Be2909425105d5114b1dBC",
+  "address_eip1191": "0xae2CEB4B57AdE22643BE2909425105d5114b1DbC",
+  "decimals": 18,
+  "name": "Euro PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/eurcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

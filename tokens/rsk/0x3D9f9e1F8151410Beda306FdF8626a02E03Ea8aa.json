@@ -1,0 +1,31 @@
+{
+  "symbol": "IDRCB",
+  "address": "0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa",
+  "address_eip1191": "0x3d9f9e1f8151410BEdA306fDF8626a02e03ea8aa",
+  "decimals": 18,
+  "name": "Rupia Indonesia PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/idrcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

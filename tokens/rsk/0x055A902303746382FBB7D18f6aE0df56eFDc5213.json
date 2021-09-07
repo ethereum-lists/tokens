@@ -1,0 +1,32 @@
+{
+  "symbol": "FISH",
+  "address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
+  "address_eip1191": "0x055a902303746382Fbb7D18f6aE0df56EFDC5213",
+  "decimals": 18,
+  "name": "Babelfish",
+  "ens_address": "",
+  "website": "https://babelfish.money",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/fish.png",
+    "width": "486",
+    "height": "486",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/mEddUjcEfT",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BabelFishProtocol/babelfish-phase-1",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BabelFishTalk",
+    "twitter": "https://twitter.com/babelfishmoney",
+    "youtube": ""
+  }
+}

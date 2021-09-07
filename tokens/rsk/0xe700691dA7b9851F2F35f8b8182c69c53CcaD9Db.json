@@ -1,0 +1,32 @@
+{
+  "symbol": "DOC",
+  "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+  "address_eip1191": "0xE700691Da7B9851F2F35f8b8182C69C53ccad9DB",
+  "decimals": 18,
+  "name": "Dollar on Chain",
+  "ens_address": "",
+  "website": "https://moneyonchain.com/doc-bitcoin-backed-stablecoin",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/doc.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/9pt728aD5K",
+    "facebook": "",
+    "forum": "https://forum.moneyonchain.com/",
+    "github": "https://github.com/money-on-chain/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MoneyOnChainCommunity",
+    "twitter": "https://twitter.com/moneyonchainok",
+    "youtube": ""
+  }
+}

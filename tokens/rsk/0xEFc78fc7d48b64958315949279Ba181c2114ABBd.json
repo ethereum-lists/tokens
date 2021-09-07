@@ -1,0 +1,32 @@
+{
+  "symbol": "SOV",
+  "address": "0xEFc78fc7d48b64958315949279Ba181c2114ABBd",
+  "address_eip1191": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
+  "decimals": 18,
+  "name": "Sovryn Token",
+  "ens_address": "",
+  "website": "https://www.sovryn.app",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/sov.png",
+    "width": "180",
+    "height": "180",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/J22WS6z",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/DistributedCollective",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/SovrynBitcoin",
+    "twitter": "https://twitter.com/SovrynBTC",
+    "youtube": ""
+  }
+}

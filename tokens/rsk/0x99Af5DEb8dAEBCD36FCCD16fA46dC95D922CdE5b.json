@@ -1,0 +1,31 @@
+{
+  "symbol": "PABCB",
+  "address": "0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b",
+  "address_eip1191": "0x99AF5DeB8dAebcD36FCCd16fa46dC95D922cDe5b",
+  "decimals": 18,
+  "name": "Pesos Panameños PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pabcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "ARSCB",
+  "address": "0xD52dA63689543924dCa66bCBe2e2ea599c45D575",
+  "address_eip1191": "0xd52da63689543924dcA66bCBe2e2Ea599c45d575",
+  "decimals": 18,
+  "name": "Pesos Argentinos PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/arscb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

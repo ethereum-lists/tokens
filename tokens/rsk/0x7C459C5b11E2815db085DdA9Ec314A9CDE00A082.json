@@ -1,0 +1,31 @@
+{
+  "symbol": "COPCB",
+  "address": "0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082",
+  "address_eip1191": "0x7C459C5B11E2815DB085DDA9EC314a9cDe00a082",
+  "decimals": 18,
+  "name": "Pesos Colombianos PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/copcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

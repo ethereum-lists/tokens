@@ -1,0 +1,33 @@
+
+{
+  "symbol": "BRZ",
+  "address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
+  "address_eip1191": "0xE355C280131dfaf18Bf1C3648aEE3c396Db6B5Fd",
+  "decimals": 18,
+  "name": "Brezilian Digital Coin",
+  "ens_address": "",
+  "website": "https://www.brztoken.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/brz.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@brztoken.io", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@BrzToken",
+    "chat": "https://chat.whatsapp.com/Hxzjub7MjfzHYBYJKpBk1o",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/BRZtoken",
+    "slack": "",
+    "telegram": "https://t.me/brztoken",
+    "twitter": "https://twitter.com/BrzToken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "BPro",
+  "address": "0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8",
+  "address_eip1191": "0x440cd83C160de5C96DDb20246815EA44C7Abbca8",
+  "decimals": 18,
+  "name": "BitPro",
+  "ens_address": "",
+  "website": "https://moneyonchain.com/bpro-hodl-earn-token",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bpro.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/9pt728aD5K",
+    "facebook": "",
+    "forum": "https://forum.moneyonchain.com/",
+    "github": "https://github.com/money-on-chain/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MoneyOnChainCommunity",
+    "twitter": "https://twitter.com/moneyonchainok",
+    "youtube": ""
+  }
+}

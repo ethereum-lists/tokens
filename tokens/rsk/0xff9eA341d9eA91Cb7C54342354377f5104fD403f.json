@@ -1,0 +1,31 @@
+{
+  "symbol": "rAMLT",
+  "address": "0xff9eA341d9eA91Cb7C54342354377f5104fD403f",
+  "address_eip1191": "0xFF9EA341d9ea91CB7c54342354377f5104Fd403f",
+  "decimals": 18,
+  "name": "AMLT Coinfirm on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/amlt.png",
+    "width": "202",
+    "height": "201",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

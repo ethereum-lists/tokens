@@ -1,0 +1,31 @@
+{
+  "symbol": "RIFP",
+  "address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
+  "address_eip1191": "0xF4d27C56595eD59B66cC7f03CFF5193E4Bd74a61",
+  "decimals": 18,
+  "name": "RIF Pro",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rifpro.png",
+    "width": "690",
+    "height": "690",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

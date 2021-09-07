@@ -1,0 +1,31 @@
+{
+  "symbol": "rBUND",
+  "address": "0x4991516DF6053121121274397a8C1dAD608Bc95B",
+  "address_eip1191": "0x4991516DF6053121121274397A8C1DAD608bc95B",
+  "decimals": 18,
+  "name": "Bundles Finance on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bund.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
