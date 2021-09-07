@@ -1,0 +1,31 @@
+{
+  "symbol": "rLINK",
+  "address": "0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827",
+  "address_eip1191": "0x14ADAE34beF7Ca957ce2DDe5AdD97EA050123827",
+  "decimals": 18,
+  "name": "ChainLink Token on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/link.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

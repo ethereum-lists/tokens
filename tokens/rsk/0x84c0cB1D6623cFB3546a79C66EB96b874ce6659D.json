@@ -1,0 +1,31 @@
+{
+  "symbol": "ETHCB",
+  "address": "0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D",
+  "address_eip1191": "0x84C0Cb1D6623cfB3546a79c66eB96b874CE6659d",
+  "decimals": 18,
+  "name": "Ether PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/eth.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

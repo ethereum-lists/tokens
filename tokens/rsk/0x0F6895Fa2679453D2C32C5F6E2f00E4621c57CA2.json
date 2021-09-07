@@ -1,0 +1,31 @@
+{
+  "symbol": "PENCB",
+  "address": "0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2",
+  "address_eip1191": "0x0f6895FA2679453d2c32C5f6E2f00e4621c57Ca2",
+  "decimals": 18,
+  "name": "Sol Peruano PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pencb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

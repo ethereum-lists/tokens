@@ -1,0 +1,31 @@
+{
+  "symbol": "UYUCB",
+  "address": "0xD8132625b10b3962239F6842981Dce02F1A163D2",
+  "address_eip1191": "0xd8132625b10B3962239F6842981dCE02f1a163D2",
+  "decimals": 18,
+  "name": "Peso Uruguayo PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/uyucb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

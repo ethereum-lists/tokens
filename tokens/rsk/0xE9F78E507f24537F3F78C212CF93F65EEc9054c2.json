@@ -1,0 +1,31 @@
+{
+  "symbol": "VESCB",
+  "address": "0xE9F78E507f24537F3F78C212CF93F65EEc9054c2",
+  "address_eip1191": "0xE9F78E507F24537f3f78c212Cf93F65eEC9054C2",
+  "decimals": 18,
+  "name": "Bolivares PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/vescb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

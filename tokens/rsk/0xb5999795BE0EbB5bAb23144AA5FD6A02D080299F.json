@@ -1,0 +1,32 @@
+{
+  "symbol": "XUSD",
+  "address": "0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F",
+  "address_eip1191": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
+  "decimals": 18,
+  "name": "XUSD Babelfish Stablecoin",
+  "ens_address": "",
+  "website": "https://babelfish.money",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/fish.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/mEddUjcEfT",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BabelFishProtocol/babelfish-phase-1",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BabelFishTalk",
+    "twitter": "https://twitter.com/babelfishmoney",
+    "youtube": ""
+  }
+}

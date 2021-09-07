@@ -1,0 +1,31 @@
+{
+  "symbol": "MXNCB",
+  "address": "0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123",
+  "address_eip1191": "0x2058BA9577C4F90246bEa9D74Ae2e4Cd0167A123",
+  "decimals": 18,
+  "name": "Pesos Mexicanos PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/mxncb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

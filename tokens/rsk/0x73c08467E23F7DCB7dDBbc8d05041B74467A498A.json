@@ -1,0 +1,31 @@
+{
+  "symbol": "rFLIXX",
+  "address": "0x73c08467E23F7DCB7dDBbc8d05041B74467A498A",
+  "address_eip1191": "0x73C08467E23F7DcB7DdbBc8d05041b74467A498A",
+  "decimals": 18,
+  "name": "Flixxo on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/flixx.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "WRBTC",
+  "address": "0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0",
+  "address_eip1191": "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0",
+  "decimals": 18,
+  "name": "Wrapped RBTC on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/wrbtc.png",
+    "width": "252",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

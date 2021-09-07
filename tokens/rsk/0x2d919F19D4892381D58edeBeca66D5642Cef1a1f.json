@@ -1,0 +1,31 @@
+{
+  "symbol": "RDOC",
+  "address": "0x2d919F19D4892381D58edeBeca66D5642Cef1a1f",
+  "address_eip1191": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
+  "decimals": 18,
+  "name": "RIF Dollar on Chain",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc.png",
+    "width": "690",
+    "height": "690",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "crUSDT",
+  "address": "0xd256C121a507CAdd2687599E27fa45E31B7C3199",
+  "address_eip1191": "0xD256C121A507cadd2687599E27fA45E31B7c3199",
+  "decimals": 18,
+  "name": "rLending USDT",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/crusdt.png",
+    "width": "601",
+    "height": "601",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

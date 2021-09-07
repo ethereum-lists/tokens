@@ -1,0 +1,31 @@
+{
+  "symbol": "BOBCB",
+  "address": "0x977675B863B3b1cf46A927FdDcBE0C831BF50135",
+  "address_eip1191": "0x977675B863b3b1Cf46A927fdDcbe0c831bF50135",
+  "decimals": 18,
+  "name": "Pesos Bolivianos PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bobcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "rUSDT",
+  "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+  "address_eip1191": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
+  "decimals": 18,
+  "name": "Tether USD on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdt.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

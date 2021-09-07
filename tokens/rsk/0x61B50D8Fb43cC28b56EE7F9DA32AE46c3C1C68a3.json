@@ -1,0 +1,31 @@
+{
+  "symbol": "CNYCB",
+  "address": "0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3",
+  "address_eip1191": "0x61B50d8fB43Cc28b56EE7f9DA32aE46c3c1C68A3",
+  "decimals": 18,
+  "name": "Yuan Chino PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/cnycb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

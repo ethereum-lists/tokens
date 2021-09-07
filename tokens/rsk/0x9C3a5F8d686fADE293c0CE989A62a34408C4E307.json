@@ -1,0 +1,31 @@
+{
+  "symbol": "rRFOX",
+  "address": "0x9C3a5F8d686fADE293c0CE989A62a34408C4E307",
+  "address_eip1191": "0x9C3a5F8d686fadE293c0Ce989A62a34408C4e307",
+  "decimals": 18,
+  "name": "RedFOX Labs on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rfox.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

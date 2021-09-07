@@ -1,0 +1,31 @@
+{
+  "symbol": "rUBI",
+  "address": "0x70566D8541BEaBE984C8BAbF8a816eD908514ba8",
+  "address_eip1191": "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8",
+  "decimals": 18,
+  "name": "Universal Basic Income on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/ubi.png",
+    "width": "600",
+    "height": "600",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

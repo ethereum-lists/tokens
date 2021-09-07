@@ -1,0 +1,31 @@
+{
+  "symbol": "rDAI",
+  "address": "0x6B1A73d547F4009a26B8485B63d7015d248Ad406",
+  "address_eip1191": "0x6B1a73d547F4009A26B8485b63D7015D248AD406",
+  "decimals": 18,
+  "name": "Dai Stablecoin on RSK",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/dai.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

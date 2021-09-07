@@ -1,0 +1,31 @@
+{
+  "symbol": "PYGCB",
+  "address": "0xa05Fd8082e19923AA4868Ff3C2AE48850b734736",
+  "address_eip1191": "0xA05Fd8082e19923aa4868ff3C2aE48850B734736",
+  "decimals": 18,
+  "name": "Guaranies Paraguayos PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pygcb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

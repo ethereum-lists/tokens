@@ -1,0 +1,31 @@
+{
+  "symbol": "BTCCB",
+  "address": "0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e",
+  "address_eip1191": "0xAb2d290b7a600f5eA8d5B933f6F15c867Fd7e60e",
+  "decimals": 18,
+  "name": "Bitcoin PagoLinea",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/btccb.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
