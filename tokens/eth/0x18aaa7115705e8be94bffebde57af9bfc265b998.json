@@ -10,15 +10,11 @@
     "height": "",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "",
-    "url": ""
-  },
   "social": {
     "blog": "https://blog.audius.co",
-    "chat": "",
+    "chat": "https://discord.gg/audius",
     "facebook": "",
-    "forum": "",
+    "forum": "https://gov.audius.org/",
     "github": "https://github.com/audiusproject",
     "gitter": "",
     "instagram": "https://www.instagram.com/audiusmusic/",
