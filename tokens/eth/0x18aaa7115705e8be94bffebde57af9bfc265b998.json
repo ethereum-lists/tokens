@@ -1,0 +1,32 @@
+{
+  "symbol": "AUDIO",
+  "name": "Audius",
+  "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "decimals": 9,
+  "website": "https://audius.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.audius.co",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/audiusproject",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/audiusmusic/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Audius",
+    "slack": "",
+    "telegram": "https://t.me/audius",
+    "twitter": "https://twitter.com/AudiusProject",
+    "youtube": ""
+  }
+}
