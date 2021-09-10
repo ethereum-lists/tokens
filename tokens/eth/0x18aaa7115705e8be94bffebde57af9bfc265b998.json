@@ -5,24 +5,18 @@
   "decimals": 9,
   "website": "https://audius.co",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
+    "src": "https://github.com/AudiusProject/audius.org/blob/master/public/img/audius@2x.png?raw=true",
+    "width": "176",
+    "height": "176"
   },
   "social": {
     "blog": "https://blog.audius.co",
     "chat": "https://discord.gg/audius",
-    "facebook": "",
     "forum": "https://gov.audius.org/",
     "github": "https://github.com/audiusproject",
-    "gitter": "",
     "instagram": "https://www.instagram.com/audiusmusic/",
-    "linkedin": "",
     "reddit": "https://www.reddit.com/r/Audius",
-    "slack": "",
     "telegram": "https://t.me/audius",
-    "twitter": "https://twitter.com/AudiusProject",
-    "youtube": ""
+    "twitter": "https://twitter.com/AudiusProject"
   }
 }
