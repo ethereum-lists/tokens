@@ -1,7 +1,7 @@
 {
   "symbol": "AUDIO",
   "name": "Audius",
-  "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
   "decimals": 9,
   "website": "https://audius.co",
   "logo": {
