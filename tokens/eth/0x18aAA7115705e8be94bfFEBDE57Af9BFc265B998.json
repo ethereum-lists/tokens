@@ -2,7 +2,7 @@
   "symbol": "AUDIO",
   "name": "Audius",
   "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
-  "decimals": 9,
+  "decimals": 18,
   "website": "https://audius.co",
   "logo": {
     "src": "https://github.com/AudiusProject/audius.org/blob/master/public/img/audius@2x.png?raw=true",
