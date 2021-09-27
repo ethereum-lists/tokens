@@ -1,0 +1,34 @@
+{
+  "symbol": "SMSCT",
+  "address": "0x668f7dfb8c8D716839fa5dBEa317D8723Ebe6110",
+  "decimals": 0,
+  "name": "SMSCodes",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://crypto.smscodes.io",
+  "logo": {
+    "src": "https://crypto.smscodes.io/images/logo128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@smscodes.io",
+    "url": "https://smscodes.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Globalebill/SMSCT",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/smscodes.io",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SMSCodesio/",
+    "slack": "",
+    "telegram": "https://t.me/wwwSMSCodesio",
+    "twitter": "https://twitter.com/SMSCodesio",
+    "youtube": ""
+  }
+}
