@@ -1,0 +1,34 @@
+{
+  "symbol": "CSW",
+  "address": "0x9883966DD53D6F1f998D997B4B22a0AddC113046",
+  "decimals": 18,
+  "name": "WolfDog",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://csw-wolfdog.wixsite.com/token",
+  "logo": {
+    "src": "https://www.linkpicture.com/q/100_2.png",
+    "width": "100",
+    "height": "100",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "csw.wolfdog@gmail.com",
+    "url": "https://mail.google.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/WolfDog_CSW",
+    "youtube": ""
+  }
+}
