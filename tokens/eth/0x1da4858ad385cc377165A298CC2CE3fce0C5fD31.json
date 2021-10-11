@@ -16,6 +16,7 @@
     "email": "",
     "url": "http://cloutcontracts.net"
   },
+  "invalid_erc20_decimals": true,
   "social": {
     "blog": "",
     "chat": "",
