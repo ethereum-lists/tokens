@@ -1,7 +1,7 @@
 {
     "symbol": "STATE",
     "name": "New World Order",
-    "address": "0x00c2999c8b2adf4abc835cc63209533973718eb1",
+    "address": "0x00C2999c8B2AdF4ABC835cc63209533973718eB1",
     "decimals": 10,
     "type": "ERC20",
     "ens_address": "",
