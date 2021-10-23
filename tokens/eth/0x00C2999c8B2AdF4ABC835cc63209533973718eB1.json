@@ -2,7 +2,7 @@
     "symbol": "STATE",
     "name": "New World Order",
     "address": "0x00C2999c8B2AdF4ABC835cc63209533973718eB1",
-    "decimals": 10,
+    "decimals": 18,
     "type": "ERC20",
     "ens_address": "",
     "website": "https://nwo.capital ",
