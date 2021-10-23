@@ -1,0 +1,34 @@
+{
+    "symbol": "STATE",
+    "name": "New World Order",
+    "address": "0x00C2999c8B2AdF4ABC835cc63209533973718eB1",
+    "decimals": 18,
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://nwo.capital ",
+    "logo": {
+        "src": "http://nwo.capital/wp-content/uploads/2021/10/icon.png",
+        "width": "250",
+        "height": "250",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "state@nwo.capital",
+        "url": "https://nwo.capital/contact/"
+    },
+    "social": {
+        "blog": "https://medium.com/@publicae",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/aave",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/publicae",
+        "reddit": "",
+        "slack": "",
+        "telegram": "https://t.me/Publicae",
+        "twitter": "https://twitter.com/PublicaeOrg",
+        "youtube": ""
+    }
+}
