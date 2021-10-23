@@ -1,0 +1,34 @@
+{
+  "symbol": "SLP",
+  "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
+  "decimals": 0,
+  "name": "Smooth Love Potion",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://youengine.io",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/YouEngineOfficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/youengine-io",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": "https://www.youtube.com/c/YOUengine"
+  }
+}
