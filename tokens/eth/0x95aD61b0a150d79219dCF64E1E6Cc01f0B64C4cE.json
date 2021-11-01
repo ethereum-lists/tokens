@@ -1,0 +1,21 @@
+{
+  "symbol": "SHIB",
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "decimals": 18,
+  "name": "SHIBA INU",
+  "type": "ERC20",
+  "website": "https://shibatoken.com",
+  "logo": {
+    "src": "https://i.ibb.co/bQqBbSH/shib-logo.png",
+    "width": "128",
+    "height": "128"
+  },
+  "support": {
+    "url": "https://shibatoken.com",
+    "email": "shibaswap@shibatoken.com"
+  },
+  "social": {
+    "telegram": "https://t.me/shibainuthedogecoinkiller",
+    "twitter": "https://twitter.com/shibtoken"
+  }
+}
