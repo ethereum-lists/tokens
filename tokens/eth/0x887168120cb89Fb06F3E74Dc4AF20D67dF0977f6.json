@@ -1,0 +1,34 @@
+{
+  "symbol": "SKRT",
+  "address": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
+  "decimals": 18,
+  "name": "Sekuritance",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.sekuritance.com",
+  "logo": {
+    "src": "https://www.sekuritance.com/wp-content/uploads/2021/11/SKRTLogo128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@sekuritance.com",
+    "url": "https://www.sekuritance.com"
+  },
+  "social": {
+    "blog": "https://www.sekuritance.com/blog/",
+    "chat": "",
+    "facebook": "http://facebook.com/sekuritance",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/sekuritance/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/sekuritance",
+    "twitter": "http://twitter.com/sekuritance",
+    "youtube": "https://www.youtube.com/channel/UCuZmAHjqKbVMG-1Azc6EN_w"
+  }
+}
