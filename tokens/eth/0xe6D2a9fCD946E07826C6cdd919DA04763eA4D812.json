@@ -1,0 +1,35 @@
+
+{
+  "symbol": "BRUH",
+  "address": "0xe6D2a9fCD946E07826C6cdd919DA04763eA4D812",
+  "decimals": 18,
+  "name": "Bruh",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bruhcrypto.org",
+  "logo": {
+    "src": "https://ibb.co/c37cpty",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "0x1220A84C60FBEA198BF9BA5F032DCC491064"
+  },
+  "support": {
+    "email": "bruhofficial@bruhcrypto.org",
+    "url": "https://bruhcrypto.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/DwVPkPAG",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/bruhtokeno/bruhtokeno",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/youengine-io",
+    "reddit": "https://reddit.com/r/bruhcrypto",
+    "slack": "",
+    "telegram": "https://t.me/bruhcrypto",
+    "twitter": "https://twitter.com/bruhtokeno",
+    "youtube": "https://www.youtube.com/channel/UCfpjmsJMmRKAs6Ff9MPAzsQ"
+  }
+}
