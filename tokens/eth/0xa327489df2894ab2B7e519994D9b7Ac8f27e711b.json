@@ -1,0 +1,34 @@
+{
+  "symbol": "RACA",
+  "address": "0xa327489df2894ab2B7e519994D9b7Ac8f27e711b",
+  "decimals": 10,
+  "name": "Radio Caca",
+  "type": "ERC55",
+  "ens_address": "",
+  "website": "https://www.radiocaca.com",
+  "logo": {
+    "src": "https://racawebsource.s3.us-east-2.amazonaws.com/assets/logo.svg",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@radiocaca.com",
+    "url": "https://www.radiocaca.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "o",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
