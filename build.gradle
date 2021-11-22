@@ -56,7 +56,7 @@ dependencies {
     implementation "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
-    implementation "com.squareup.okhttp3:okhttp:4.9.2"
+    implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation 'com.beust:klaxon:5.5'
     implementation 'com.squareup.moshi:moshi-kotlin:1.8.0'
