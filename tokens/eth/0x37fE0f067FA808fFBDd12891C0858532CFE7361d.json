@@ -1,0 +1,34 @@
+{
+  "symbol": "CIV",
+  "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+  "decimals": 18,
+  "name": "Civilization",
+  "type": "ERC20",
+  "ens_address": "civ.eth",
+  "website": "https://civfund.org",
+  "logo": {
+    "src": "https://ibb.co/zn4M6Nc",
+    "width": "494",
+    "height": "494",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "civ@civfund.org",
+    "url": "https://civfund.org"
+  },
+  "social": {
+    "blog": "https://news.civfund.org",
+    "chat": "https://t.me/cisettlers",
+    "facebook": "https://www.facebook.com/Civilization-CIV-140053864869064",
+    "forum": "",
+    "github": "https://github.com/CivilizationCIV",
+    "gitter": "",
+    "instagram": "https://instagram.com/civfund",
+    "linkedin": "https://www.linkedin.com/company/civilization-civ/",
+    "reddit": "https://www.reddit.com/r/civfund/",
+    "slack": "",
+    "telegram": "https://t.me/cisettlers",
+    "twitter": "https://twitter.com/CivFund",
+    "youtube": "https://www.youtube.com/channel/UCNI2vs89YuGcQfAVkQNDlpw"
+  }
+}
