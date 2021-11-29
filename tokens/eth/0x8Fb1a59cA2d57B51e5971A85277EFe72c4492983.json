@@ -1,0 +1,34 @@
+{
+  "symbol": "DAF",
+  "address": "0x8fb1a59ca2d57b51e5971a85277efe72c4492983",
+  "decimals": 6,
+  "name": "Diamonds are Forever",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://daftoken.io",
+  "logo": {
+    "src": "https://user-images.githubusercontent.com/93827367/142946181-4c104027-9735-47d1-bb57-d98c8bf0141e.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@daftoken.io",
+    "url": "https://daftoken.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/daftoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin":"",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/daftoken",
+    "twitter": "https://twitter.com/daf_token",
+    "youtube": ""
+  }
+}
