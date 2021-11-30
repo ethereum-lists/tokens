@@ -1,0 +1,28 @@
+{
+  "symbol": "BCMC",
+  "address": "0x2BA8349123de45E931a8C8264c332E6e9CF593F9",
+  "decimals": 18,
+  "name": "Blockchain Monster Coin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bcmhunt.com",
+  "logo": {
+    "src": "https://bcmhunt.com/bcmc-coin-200x200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@bcmhunt.com",
+    "url": "https://discord.com/invite/Ee9aJ287J2"
+  },
+  "social": {
+    "medium": "https://medium.com/bcmhunt",
+    "chat": "https://discord.com/invite/Ee9aJ287J2",
+    "discord": "https://discord.com/invite/Ee9aJ287J2",
+    "telegram": "https://t.me/BcmHuntGroup",
+    "twitter": "https://twitter.com/bcmhunt",
+    "tiktok": "https://www.tiktok.com/@bcmhunt",
+    "youtube": "https://www.youtube.com/channel/UCzKIjqylMMBngslHazydgKQ"
+  }
+}
