@@ -1,0 +1,30 @@
+{
+  "symbol": "DATA",
+  "name": "Streamr (DATA)",
+  "type": "ERC20",
+  "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://streamr.network/",
+  "logo": {
+    "src": "https://cdn.streamr.com/landing-page-cdn/static/logo_colour_mark-773fbcb6d54f35a6f12833a7b5be8afe.svg",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "social": {
+    "blog": "https://medium.com/streamrblog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/streamr-dev",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/streamr-network",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/streamr",
+    "youtube": "https://www.youtube.com/channel/UCGWEA61RueG-9DV53s-ZyJQ"
+  }
+}
