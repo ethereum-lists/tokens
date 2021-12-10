@@ -3,7 +3,7 @@
   "address": "0xfb11D7ffdE8D643F5368C62fA9943BceaBcB0c36",
   "decimals": 2,
   "name": "GooseCoin",
-  "type": "ERC20",
+  "type": "BEP20",
   "ens_address": "",
   "website": "https://www.thegoosecoin.com",
   "logo": {
