@@ -10,6 +10,7 @@ data class Social(
         val reddit: String? = null,
         val twitter: String? = null,
         val medium: String? = null,
+        val tiktok: String? = null,
         val bitcointalk: String? = null,
         val slack: String? = null,
         val telegram: String? = null,
