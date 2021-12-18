@@ -1,0 +1,34 @@
+{
+    "symbol": "WGRLC",
+    "address": "0x58f7345b5295e43aa454911571f13be186655be9",
+    "decimals": 18,
+    "name": "Wrapped Garlicoin",
+    "ens_address": "",
+    "website": "https://garlicoin.io/",
+    "logo": {
+      "src": "https://garlicoin.io/static/WGRLC_Logo_Arrow_128.png",
+      "width": "128px",
+      "height": "128px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@garlicoin.io",
+      "url": "https://linktr.ee/Garlicoin"
+    },
+    "social": {
+      "blog": "https://www.garlicwatch.com/",
+      "chat": "",
+      "discord": "https://discord.gg/h227t7j6EC",
+      "facebook": "https://www.facebook.com/garlicoin/",
+      "forum": "",
+      "github": "https://github.com/GarlicoinOrg/Garlicoin/",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/garlicoin/",
+      "slack": "",
+      "telegram": "https://t.me/GarlicoinOfficial",
+      "twitter": "https://twitter.com/garliccoin",
+      "youtube": "https://www.youtube.com/channel/UCgB2lx2zI4yVbZXHzPfDq0w"
+    }
+}
