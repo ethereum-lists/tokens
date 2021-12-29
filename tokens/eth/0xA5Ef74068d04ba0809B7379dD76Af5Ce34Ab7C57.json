@@ -1,0 +1,34 @@
+{
+  "symbol": "LUCHOW",
+  "address": "0xA5Ef74068d04ba0809B7379dD76Af5Ce34Ab7C57",
+  "decimals": 18,
+  "name": "LunaChow",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://lunachow.com",
+  "logo": {
+    "src": "https://https://lunachow.com/wp-content/uploads/2021/07/256x256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@lunachow.com",
+    "url": "https://lunachow.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LunaChowOfficial",
+    "forum": "",
+    "github": "https://github.com/lunachoww/contract",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/lunachow.io/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LunaChow/",
+    "slack": "",
+    "telegram": "https://t.me/LuChow",
+    "twitter": "https://twitter.com/Lunachoww",
+    "youtube": "https://www.youtube.com/c/LunaChoww"
+  }
+}
