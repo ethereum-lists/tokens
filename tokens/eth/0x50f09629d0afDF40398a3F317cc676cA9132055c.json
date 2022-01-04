@@ -1,0 +1,34 @@
+{
+  "symbol": "EVAI",
+  "address": "0x50f09629d0afDF40398a3F317cc676cA9132055c",
+  "decimals": 10,
+  "name": "Evai.io",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://https://www.evai..io",
+  "logo": {
+    "src": "https://www.evai.io/downloads/EV-icon-DarkBlueTurquoise.svg",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@evai.io",
+    "url": "https://https://www.evai.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://m.facebook.com/Evaiio-100932841420323/",
+    "forum": "",
+    "github": "https://github.com/evai-official",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/evai_io/?hl=en",
+    "linkedin": "hhttps://www.linkedin.com/company/evai2020",
+    "reddit": "https://www.reddit.com/r/Evai_io/",
+    "slack": "",
+    "telegram": "https://t.me/UX1O4O9QIeUf48FB",
+    "twitter": "https://twitter.com/evai_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "youtube": "https://www.youtube.com/channel/UCjbt6UddWuhDNu5EyD2FsuA"
+  }
+}
