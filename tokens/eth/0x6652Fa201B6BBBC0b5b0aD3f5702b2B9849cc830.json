@@ -1,0 +1,34 @@
+{
+  "symbol": "MEDCASH",
+  "address": "0x6652Fa201B6BBBC0b5b0aD3f5702b2B9849cc830",
+  "decimals": 4,
+  "name": "MEDCASH",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://medxchange.io",
+  "logo": {
+    "src": "https://medxchange.io/wp-content/uploads/2022/01/medxchange_logo_final_med_SQ-128x128-1.jpg",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@medxchange.io",
+    "url": "https://medxchange.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/med.xchange.73",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/medxchange-powered-by-medcash-196935158/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Medcash_IEO",
+    "twitter": "https://twitter.com/medXchange1",
+    "youtube": "https://www.youtube.com/channel/UCNQuGNAnGQFjRGsGwx0uyOA"
+  }
+}
