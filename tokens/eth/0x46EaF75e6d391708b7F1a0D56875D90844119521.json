@@ -1,7 +1,7 @@
 {
   "symbol": "SYS",
   "address": "0x46EaF75e6d391708b7F1a0D56875D90844119521",
-  "decimals": 10,
+  "decimals": 18,
   "name": "Syscoin",
   "type": "ERC20",
   "ens_address": "",
