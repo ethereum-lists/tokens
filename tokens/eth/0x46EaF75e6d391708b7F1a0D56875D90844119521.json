@@ -1,0 +1,34 @@
+{
+  "symbol": "SYS",
+  "address": "0x46EaF75e6d391708b7F1a0D56875D90844119521",
+  "decimals": 18,
+  "name": "Syscoin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://syscoin.org",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/YouEngineOfficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/syscoin",
+    "youtube": ""
+  }
+}
