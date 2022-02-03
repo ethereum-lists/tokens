@@ -7,13 +7,13 @@
   "ens_address": "",
   "website": "https://candlelabs.org",
   "logo": {
-    "src": "https://raw.githubusercontent.com/CandlePlatforms/Docs/main/logo.svg",
+    "src": "https://i.ibb.co/f0Wj02g/candlelogo-128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "https://pin.ski/346rzTz"
   },
   "support": {
-    "email": "info@candlelabs.org",
+    "email": "contact@candlelabs.org",
     "url": "https://candlelabs.org"
   },
   "social": {
@@ -21,7 +21,7 @@
     "chat": "",
     "facebook": "https://www.facebook.com/candlelabs",
     "forum": "",
-    "github": "https://GitHub.com/candleplatforms",
+    "github": "https://GitHub.com/candleprotocol",
     "gitter": "",
     "instagram": "https://instagram.com/candlelabs",
     "linkedin": "",
