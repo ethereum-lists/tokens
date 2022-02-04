@@ -1,0 +1,35 @@
+{
+  "symbol": "AGRS",
+  "name": "Agoras: Currency of Tau",
+  "type": "ERC20",
+  "address": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://tau.net/",
+  "logo": {
+    "src": "https://www.idni.org/agoras.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@idni.org",
+    "url": "https://tau.net/"
+  },
+  "social": {
+    "blog": "https://tauchain.medium.com/",
+    "chat": "https://bitcointalk.org/index.php?topic=950309.0",
+    "facebook": "https://www.facebook.com/Tau-105008192053157",
+    "forum": "",
+    "github": "https://github.com/IDNI",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tau-chain/",
+    "reddit": "https://www.reddit.com/r/tauchain/",
+    "slack": "",
+    "telegram": "https://t.me/tauchain",
+    "twitter": "https://twitter.com/TauChainOrg",
+    "youtube": "https://www.youtube.com/channel/UCixBquLFTBhLcUFVX0DDTpQ"
+  }
+}
+
