@@ -4,7 +4,7 @@
     "type": "ERC20",
     "address": "0xAa1d9D0788dACA9A30111D12aA0D98090F02ea30",
     "ens_address": "",
-    "decimals": 0,
+    "decimals": 18,
     "website": "",
     "logo": {
       "src": "https://github.com/Marcel2448/Logo-Rascal/blob/main/Logo%20(2).png",
