@@ -4,8 +4,5 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-  open-pull-requests-limit: 10
-  ignore:
-  - dependency-name: com.squareup.moshi:moshi-kotlin
-    versions:
-    - 1.11.0
+  open-pull-requests-limit: 4
+
