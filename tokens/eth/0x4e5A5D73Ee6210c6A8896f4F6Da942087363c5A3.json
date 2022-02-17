@@ -1,0 +1,23 @@
+{
+    "symbol": "RCLC",
+    "address": "0x4e5A5D73Ee6210c6A8896f4F6Da942087363c5A3",
+    "decimals": 8,
+    "name": "RascalCoin",
+    "type": "ERC20",
+    "website": "",
+    "logo": {
+      "src": "https://github.com/Marcel2448/Rascal/blob/main/logo.png",
+      "width": "256",
+      "height": "256"
+    },
+    "support": {
+      "email": "melchermarcel44448@gmail.com",
+      "url": ""
+    },
+    "social": {
+      "linkedin": "",
+      "telegram": "",
+      "twitter": ""
+    }
+  }
+  
