@@ -1,7 +1,7 @@
 {
   "symbol": "NOE",
   "address": "0x1a38F34dF3E4E480BFc57b789F605ce87B807848",
-  "decimals": "9",
+  "decimals": 9,
   "name": "NOE CRYPTO BANK",
   "type": "BEP20",
   "ens_address": "",
