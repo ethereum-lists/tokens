@@ -1,0 +1,33 @@
+{
+  "symbol": "ESCH",
+  "address": "0xcf3222b7FDa7a7563b9E1E6C966Bead04AC23c36",
+  "decimals": 18,
+  "name": "Escher",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xcf3222b7FDa7a7563b9E1E6C966Bead04AC23c36/logo.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
