@@ -1,0 +1,34 @@
+{
+  "symbol": "WLKRR",
+  "name": "Walker",
+  "type": "ERC20",
+  "address": "0xC90206AB21bdbF5e92AfF4E6B5F097B65b0eCc06",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://wlkr.finance",
+  "logo": {
+    "src": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg",
+    "width": "124",
+    "height": "124",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@wlkr.finanace",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/wlkrfinancial",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/wlkrfinancial",
+    "youtube": ""
+  }
+}
