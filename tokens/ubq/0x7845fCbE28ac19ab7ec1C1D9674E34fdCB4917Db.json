@@ -1,0 +1,33 @@
+{
+  "symbol": "INK",
+  "address": "0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db",
+  "decimals": 18,
+  "name": "INK",
+  "ens_address": "",
+  "website": "https://tentacle.finance",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db/logo.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

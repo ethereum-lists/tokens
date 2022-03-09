@@ -1,0 +1,33 @@
+{
+  "symbol": "GRANS",
+  "address": "0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73",
+  "decimals": 18,
+  "name": "10grans",
+  "ens_address": "",
+  "website": "https://https://10grans.cash",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73/logo.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
