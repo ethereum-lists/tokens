@@ -1,0 +1,33 @@
+{
+  "symbol": "GEO",
+  "address": "0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD",
+  "decimals": 8,
+  "name": "GeoCoin",
+  "ens_address": "",
+  "website": "https://geo.money",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD/logo.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

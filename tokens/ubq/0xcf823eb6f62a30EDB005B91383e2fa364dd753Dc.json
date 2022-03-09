@@ -1,0 +1,33 @@
+{
+  "symbol": "TGE1",
+  "address": "0xcf823eb6f62a30EDB005B91383e2fa364dd753Dc",
+  "decimals": 18,
+  "name": "Ubiq TGE 1",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xcf823eb6f62a30EDB005B91383e2fa364dd753Dc/logo.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

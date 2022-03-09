@@ -1,0 +1,33 @@
+{
+  "symbol": "SPHRC",
+  "address": "0x402C2C3aceeb52b8654A0631012ceD49cbc9bDc4",
+  "decimals": 18,
+  "name": "Sphere Cubed",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x402C2C3aceeb52b8654A0631012ceD49cbc9bDc4/logo.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

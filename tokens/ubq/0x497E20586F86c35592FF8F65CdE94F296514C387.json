@@ -1,0 +1,33 @@
+{
+  "symbol": "SNARG",
+  "address": "0x497E20586F86c35592FF8F65CdE94F296514C387",
+  "decimals": 0,
+  "name": "Snarg01",
+  "ens_address": "",
+  "website": "https://snarg01.horse",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x497E20586F86c35592FF8F65CdE94F296514C387/logo.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
