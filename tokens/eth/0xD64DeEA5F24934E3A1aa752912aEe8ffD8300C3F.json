@@ -1,0 +1,34 @@
+{
+    "symbol": "WLKR",
+    "name": "WLKR Innovation",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "decimals": 18,
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://wlkr.finance/ ",
+    "logo": {
+        "src": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg",
+        "width": "128",
+        "height": "128",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "support@wlkr.finance",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/wlkrfinancial",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "",
+        "youtube": ""
+    }
+}
