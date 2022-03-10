@@ -1,7 +1,7 @@
 {
     "symbol": "WLKR",
-    "name": "WLKR Innovation",
-    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "name": "WLKR Innovation Index", 
+    "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
     "decimals": 18,
     "type": "ERC20",
     "ens_address": "",
@@ -23,7 +23,7 @@
         "forum": "",
         "github": "https://github.com/wlkrfinancial",
         "gitter": "",
-        "instagram": "",
+        "instagram": "https://instagram.com/wlkrfinancial",
         "linkedin": "",
         "reddit": "",
         "slack": "",
