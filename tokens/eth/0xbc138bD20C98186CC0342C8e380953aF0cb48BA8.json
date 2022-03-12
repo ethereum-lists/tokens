@@ -7,10 +7,10 @@
   "ens_address": "",
   "website": "https://candlelabs.org",
   "logo": {
-    "src": "https://i.ibb.co/f0Wj02g/candlelogo-128x128.png",
-    "width": "128",
-    "height": "128",
-    "ipfs_hash": "https://pin.ski/346rzTz"
+    "src": "https://i.ibb.co/3zyFRVD/candleenlargedicon.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
   },
   "support": {
     "email": "contact@candlelabs.org",
@@ -24,7 +24,7 @@
     "github": "https://GitHub.com/candleprotocol",
     "gitter": "",
     "instagram": "https://instagram.com/candlelabs",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/candle-labs",
     "reddit": "https://Reddit.com/r/cndl",
     "slack": "",
     "telegram": "https://t.me/candlelabs",
