@@ -6,6 +6,7 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://wlkr.finance",
+  "extensions": { "color": "#0043d5",  "isRainbowCurated": "true",  "isVerified": "true"},
   "logo": {
     "src": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg",
     "width": "124",
