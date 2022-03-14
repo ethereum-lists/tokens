@@ -58,7 +58,7 @@ dependencies {
 
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
-    implementation 'com.beust:klaxon:5.5'
+    implementation 'com.beust:klaxon:5.6'
     implementation 'com.squareup.moshi:moshi-kotlin:1.13.0'
 
     testImplementation "org.jetbrains.kotlin:kotlin-test"
