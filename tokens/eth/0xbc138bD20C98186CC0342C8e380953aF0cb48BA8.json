@@ -6,7 +6,6 @@
   "type": "ERC20",
   "ens_address": "cndl.eth",
   "website": "https://candlelabs.org",
-  "extensions": { "color": "#0043d5",  "isRainbowCurated": "true",  "isVerified": "true"},
   "logo": { "src": "https://svgshare.com/i/f8x.svg", "width": "640px", "height": "640px", "ipfs_hash": "" },
   "support": {
     "email": "contact@candlelabs.org",
