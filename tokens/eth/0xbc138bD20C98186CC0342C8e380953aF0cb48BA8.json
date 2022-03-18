@@ -4,7 +4,6 @@
   "decimals": 18,
   "name": "Candle",
   "type": "ERC20",
-  "ens_address": "cndl.eth",
   "website": "https://candlelabs.org",
   "logo": { "src": "https://svgshare.com/i/f8x.svg", "width": "640px", "height": "640px", "ipfs_hash": "" },
   "support": {
