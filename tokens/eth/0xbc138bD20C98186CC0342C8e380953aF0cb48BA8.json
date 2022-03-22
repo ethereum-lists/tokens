@@ -4,14 +4,8 @@
   "decimals": 18,
   "name": "Candle",
   "type": "ERC20",
-  "ens_address": "",
   "website": "https://candlelabs.org",
-  "logo": {
-    "src": "https://i.ibb.co/3zyFRVD/candleenlargedicon.png",
-    "width": "256",
-    "height": "256",
-    "ipfs_hash": ""
-  },
+  "logo": { "src": "https://svgshare.com/i/f8x.svg", "width": "640px", "height": "640px", "ipfs_hash": "" },
   "support": {
     "email": "contact@candlelabs.org",
     "url": "https://candlelabs.org"
@@ -19,9 +13,9 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/candlelabs",
+    "facebook": "https://www.facebook.com/candlelabsinc",
     "forum": "",
-    "github": "https://GitHub.com/candleprotocol",
+    "github": "https://GitHub.com/candleplatforms",
     "gitter": "",
     "instagram": "https://instagram.com/candlelabs",
     "linkedin": "https://linkedin.com/company/candle-labs",

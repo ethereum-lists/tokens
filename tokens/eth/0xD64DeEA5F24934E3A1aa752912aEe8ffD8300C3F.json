@@ -1,10 +1,9 @@
 {
     "symbol": "WLKR",
-    "name": "WLKR Innovation Index", 
+    "name": "WLKR Innovation Index",
     "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
     "decimals": 18,
     "type": "ERC20",
-    "ens_address": "",
     "website": "https://wlkr.finance/ ",
     "logo": {
         "src": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg",
