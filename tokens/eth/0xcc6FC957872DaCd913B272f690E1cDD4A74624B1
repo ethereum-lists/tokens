@@ -1,0 +1,34 @@
+{
+    "symbol": "AIT",
+    "address": "0xcc6FC957872DaCd913B272f690E1cDD4A74624B1",
+    "decimals": 8,
+    "name": "Ai Trader",
+    "type": "BEP20",
+    "ens_address": "",
+    "website": "http://worldaitrader.com",
+    "logo": {
+      "src": "http://www.worldaitrader.com/aitrav.jpg",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@worldaitrader.com",
+      "url": "http://worldaitrader.com"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/AITRADERCOM",
+      "twitter": "https://twitter.com/aitrader_token",
+      "youtube": ""
+    }
+  }
