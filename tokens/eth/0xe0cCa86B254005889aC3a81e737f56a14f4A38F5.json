@@ -1,0 +1,35 @@
+{
+  "symbol": "ALTA",
+  "name": "Alta Finance",
+  "type": "ERC20",
+  "address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://alta.finance",
+  "logo": {
+    "src": "https://images.ctfassets.net/dj2ij87ekk1y/6QLADorHyGFcr804X0spbG/a11f3a582c9f6b40bc7b010d481c9242/AltaFin-Logo-Square-700x.png",
+    "width": "700",
+    "height": "700",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "help@alta.finance",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://alta.finance/updates",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/altafinprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/altafincommunity",
+    "twitter": "https://twitter.com/altafinprotocol",
+    "youtube": "",
+    "discord": "https://discord.gg/Xkcj95p2Gx"
+  }
+}
