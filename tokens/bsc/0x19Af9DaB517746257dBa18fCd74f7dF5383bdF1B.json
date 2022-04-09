@@ -1,0 +1,34 @@
+{
+  "symbol": "POMO",
+  "address": "0x19Af9DaB517746257dBa18fCd74f7dF5383bdF1B",
+  "decimals": 18,
+  "name": "POMO",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://pomoprotocol.net",
+  "logo": {
+    "src": "https://bscscan.com/token/images/pomoprotocol_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@pomoprotocol.net",
+    "url": "https://pomoprotocol.net"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100064611664713",
+    "forum": "",
+    "github": "https://github.com/Pomo-Protocol/",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/pomoprotocol",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pomocoin",
+    "twitter": "https://twitter.com/TokenPomo",
+    "youtube": "https://www.youtube.com/channel/UCcnxMw0rM5dFIZRYD9VQVpQ"
+  }
+}
