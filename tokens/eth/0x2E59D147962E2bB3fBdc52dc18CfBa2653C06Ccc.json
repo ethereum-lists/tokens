@@ -1,0 +1,33 @@
+{
+  "symbol": "ZENI",
+  "address": "0x2E59D147962E2bB3fBdc52dc18CfBa2653C06Ccc",
+  "decimals": 18,
+  "name": "Zeni Token",
+  "ens_address": "",
+  "website": "https://thesevensofficial.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/thesevens_7",
+    "youtube": ""
+  }
+}
