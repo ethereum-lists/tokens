@@ -1,0 +1,34 @@
+{
+  "symbol": "DPS",
+  "address": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
+  "decimals": 9,
+  "name": "DEEPSPACE",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://deepspace.game",
+  "logo": {
+    "src": "https://bscscan.com/token/images/deepspace_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@deepspace.game",
+    "url": "https://feedback.deepspace.game"
+  },
+  "social": {
+    "blog": "https://dps.space/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100064611664713",
+    "forum": "",
+    "github": "https://github.com/deepspace-game",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/pomoprotocol",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DeepSpaceGame/",
+    "slack": "",
+    "telegram": "https://t.me/DeepSpaceGame",
+    "twitter": "https://twitter.com/DeepSpaceBSC",
+    "youtube": "https://www.youtube.com/c/DeepSpaceBSC"
+  }
+}
