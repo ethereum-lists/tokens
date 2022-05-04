@@ -1,0 +1,34 @@
+{
+  "symbol": "$DEWO",
+  "address": "0xCDD6494aEB193C8d5541b5B9c5e72a3809A98fdc",
+  "decimals": 18,
+  "name": "DecentraWorld",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://decentraworld.co",
+  "logo": {
+    "src": "https://decentraworld.co/200x200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@decentraworld.co",
+    "url": "https://decentraworld.co"
+  },
+  "social": {
+    "blog": "https://blog.decentraworld.co/",
+    "chat": "https://t.me/decentraworldchat/",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=5393952",
+    "github": "https://github.com/decentraworlddewo",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/decentraworld_/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DecentraWorldChat",
+    "twitter": "https://twitter.com/decentraworld_",
+    "youtube": "https://www.youtube.com/watch?v=oED18UT3CHc"
+  }
+}
