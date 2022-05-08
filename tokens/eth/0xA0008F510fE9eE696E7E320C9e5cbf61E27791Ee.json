@@ -1,0 +1,34 @@
+{
+  "symbol": "GMB",
+  "address": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "decimals": 18,
+  "name": "GAMB",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://gamb.io",
+  "logo": {
+    "src": "https://gamb.io/wp-content/uploads/2022/04/gamb_128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@glbrain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GAMBcommunity",
+    "twitter": "https://twitter.com/GAMBproject",
+    "youtube": ""
+  }
+}
