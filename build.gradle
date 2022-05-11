@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        KOTLIN_VERSION = "1.6.10"
+        KOTLIN_VERSION = "1.6.21"
         KETHEREUM_VERSION = "0.85.7"
     }
 
@@ -45,7 +45,7 @@ task importMEW(type: JavaExec) {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1"
     implementation "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
 
     implementation "com.github.komputing.kethereum:erc20:${KETHEREUM_VERSION}"
@@ -58,7 +58,7 @@ dependencies {
 
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
-    implementation 'com.beust:klaxon:5.5'
+    implementation 'com.beust:klaxon:5.6'
     implementation 'com.squareup.moshi:moshi-kotlin:1.13.0'
 
     testImplementation "org.jetbrains.kotlin:kotlin-test"

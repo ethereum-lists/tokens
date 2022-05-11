@@ -1,0 +1,33 @@
+{
+  "symbol": "NFTL",
+  "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
+  "decimals": 18,
+  "name": "Nifty League",
+  "ens_address": "",
+  "website": "https://niftyleague.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/NiftyLeague",
+    "youtube": ""
+  }
+}

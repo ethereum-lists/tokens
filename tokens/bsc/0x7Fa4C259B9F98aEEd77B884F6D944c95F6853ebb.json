@@ -1,0 +1,34 @@
+{
+  "symbol": "KEEC",
+  "address": "0x7Fa4C259B9F98aEEd77B884F6D944c95F6853ebb",
+  "decimals": 4,
+  "name": "KeeCoin",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://keecoin.io",
+  "logo": {
+    "src": "https://keecoin.io/assets/image/keecointoken-200.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "crypto@keecoin.io",
+    "url": "https://keecoin.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/FCNEZR3GvQ",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=5385686.0",
+    "github": "https://github.com/Keecointoken/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/KeecoinToken",
+    "youtube": "https://www.youtube.com/channel/UCprTl207s1m_7WWewXK5HEw"
+  }
+}
