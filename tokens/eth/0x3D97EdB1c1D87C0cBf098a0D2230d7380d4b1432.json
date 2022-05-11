@@ -1,0 +1,28 @@
+{
+  "symbol": "CNDL",
+  "address": "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432",
+  "decimals": 18,
+  "name": "Candle",
+  "type": "ERC20",
+  "website": "https://candlelabs.org",
+  "logo": { "src": "https://svgshare.com/i/f8x.svg", "width": "640px", "height": "640px", "ipfs_hash": "" },
+  "support": {
+    "email": "contact@candlelabs.org",
+    "url": "https://candlelabs.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/candlelabsinc",
+    "forum": "",
+    "github": "https://GitHub.com/candleplatforms",
+    "gitter": "",
+    "instagram": "https://instagram.com/candlelabs",
+    "linkedin": "https://linkedin.com/company/candle-labs",
+    "reddit": "https://Reddit.com/r/cndl",
+    "slack": "",
+    "telegram": "https://t.me/candleupdates",
+    "twitter": "https://twitter.com/candle_labs",
+    "youtube": ""
+  }
+}
