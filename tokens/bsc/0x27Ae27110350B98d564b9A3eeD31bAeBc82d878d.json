@@ -1,0 +1,34 @@
+{
+  "symbol": "CUMMIES",
+  "address": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+  "decimals": 18,
+  "name": "CumRocket",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://cumrocket.io",
+  "logo": {
+    "src": "https://bscscan.com/token/images/cumrocket_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@cumrocket.io",
+    "url": "https://cumrocket.io/"
+  },
+  "social": {
+    "blog": "https://cumrocket.medium.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cumrocket",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cumrocketofficial",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/CumRocket/",
+    "slack": "",
+    "telegram": "https://t.me/cumrocket",
+    "twitter": "https://twitter.com/CumRocketCrypto",
+    "youtube": "https://www.youtube.com/channel/UCUqxXJdKK5pTLhSMMTNt9jw"
+  }
+}
