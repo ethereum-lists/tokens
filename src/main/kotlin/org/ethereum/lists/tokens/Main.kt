@@ -21,6 +21,7 @@ val networkMapping = mapOf(
     "bsc" to 56,
     "etc" to 61,
     "ella" to 64,
+    "arb" to 42161,
     "avax" to 43114
 )
 
