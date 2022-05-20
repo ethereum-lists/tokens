@@ -1,0 +1,33 @@
+{
+  "symbol": "MAGIC",
+  "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+  "decimals": 18,
+  "name": "MAGIC",
+  "ens_address": "",
+  "website": "https://treasure.lol/",
+  "logo": {
+    "src": "https://arbiscan.io/token/images/magictoken_32.png",
+    "width": 32,
+    "height": 32,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/treasuredao",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TreasureProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Treasure_DAO",
+    "youtube": ""
+  }
+}
