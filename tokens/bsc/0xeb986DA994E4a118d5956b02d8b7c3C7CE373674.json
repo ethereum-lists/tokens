@@ -1,0 +1,34 @@
+{
+  "symbol": "GTH",
+  "address": "0xeb986DA994E4a118d5956b02d8b7c3C7CE373674",
+  "decimals": 18,
+  "name": "GTH",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://gather.network",
+  "logo": {
+    "src": "https://bscscan.com/token/images/gather_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@gather.network",
+    "url": "https://gather.network"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GthNetwork",
+    "forum": "",
+    "github": "https://github.com/GatherNetwork",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gather_network/",
+    "linkedin": "https://www.linkedin.com/company/gathernetwork/",
+    "reddit": "https://www.reddit.com/r/GatherNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/GatherNetwork",
+    "twitter": "https://twitter.com/Gather_Network",
+    "youtube": ""
+  }
+}
