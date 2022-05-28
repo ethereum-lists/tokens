@@ -1,0 +1,34 @@
+{
+  "symbol": "JYC",
+  "address": "0x13b8abB1cFd7BBE1F5764fE967ED049d488d9D1d",
+  "decimals": 9,
+  "name": "Joe-Yo Coin",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://joeyocoin.com/",
+  "logo": {
+    "src": "https://ibb.co/1T2LrdM",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "Joe-Yo@joeyocoin.com",
+    "url": "https://joeyocoin.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coinjoeyo",
+    "twitter": "https://twitter.com/JoeYoCoin",
+    "youtube": ""
+  }
+}
