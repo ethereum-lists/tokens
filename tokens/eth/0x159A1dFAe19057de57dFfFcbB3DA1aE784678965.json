@@ -1,0 +1,34 @@
+{
+  "symbol": "RFX",
+  "address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "decimals": 8,
+  "name": "Reflex",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://reflextoken.com",
+  "logo": {
+    "src": "https://reflextoken.com/images/logo/500x500.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@reflextoken.com",
+    "url": "https://reflextoken.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ReflexToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/ReflexToken",
+    "linkedin": "https://www.linkedin.com/company/reflextoken",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/reflextoken",
+    "twitter": "https://twitter.com/reflextoken",
+    "youtube": "https://www.youtube.com/c/ReflexToken"
+  }
+}
