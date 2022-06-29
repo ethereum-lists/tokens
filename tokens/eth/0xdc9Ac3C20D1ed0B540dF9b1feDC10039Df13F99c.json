@@ -29,5 +29,11 @@
     "telegram": "https://t.me/utrustofficial",
     "twitter": "https://twitter.com/UTRUST",
     "youtube": "https://www.youtube.com/UtrustPayments"
+  },
+  "deprecation": {
+    "new_address": "erd1kc3y0d3jhmv4j42lvyq84t395s7s47tucpw97grwgaj8dqlkzumsw97k34",
+    "migration_type": "https://elrond.com/blog/utk-20-esdt-token/",
+    "announcement_url": "https://elrond.com/blog/utk-20-esdt-token/",
+    "time": "2022-06-29T018:41:30Z"
   }
 }
