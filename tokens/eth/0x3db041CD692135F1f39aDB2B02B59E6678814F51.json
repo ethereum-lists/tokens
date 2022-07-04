@@ -1,0 +1,67 @@
+{
+
+  "symbol": "CPC",
+
+  "address": "0x3db041CD692135F1f39aDB2B02B59E6678814F51",
+
+  "decimals": 18,
+
+  "name": "Crypton Crystal",
+
+  "type": "MRC20",
+
+  "ens_address": "",
+
+  "website": "https://cryptoncrystal.space",
+
+  "logo": {
+
+    "src": "https://drive.google.com/file/d/1FE7CxV81s9bS89wlC-ddMkAHHgmozDaU/view?usp=drivesdk",
+
+    "width": "128",
+
+    "height": "128",
+
+    "ipfs_hash": ""
+
+  },
+
+  "support": {
+
+    "email": "info@cryptoncrystal.space",
+
+    "url": "https://cryptoncrystal.space"
+
+  },
+
+  "social": {
+
+    "blog": "",
+
+    "chat": "",
+
+    "facebook": "",
+
+    "forum": "",
+
+    "github": "",
+
+    "gitter": "",
+
+    "instagram": "",
+
+    "linkedin": "",
+
+    "reddit": "",
+
+    "slack": "",
+
+    "telegram": "https://t.me/cryptoncrystalShark",
+
+    "twitter": "https://twitter.com/crypton_crystal",
+
+    "youtube": ""
+
+  }
+
+}
