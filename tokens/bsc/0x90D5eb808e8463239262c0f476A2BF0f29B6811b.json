@@ -1,0 +1,34 @@
+{
+  "symbol": "RHT",
+  "address": "0x90D5eb808e8463239262c0f476A2BF0f29B6811b",
+  "decimals": 18,
+  "name": "RaddixHodlToken",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://raddix-brands.io/RHT",
+  "logo": {
+    "src": "https://raddix-brands.io/Metamask/Logo-RHT_128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@raddix-brands.io",
+    "url": "https://raddix-brands.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@RaddixBrands",
+    "chat": "https://discord.gg/euGkmvuabz",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/ExaltedRaddix/Raddix-Brands",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/RaddixBrands",
+    "twitter": "https://twitter.com/RaddixBrands",
+    "youtube": ""
+  }
+}
