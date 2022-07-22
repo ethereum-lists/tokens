@@ -1,0 +1,34 @@
+{
+  "symbol": "veOGV",
+  "address": "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9",
+  "decimals": 18,
+  "name": "Vote Escrowed Origin Dollar Governance",
+  "type": "ERC20",
+  "ens_address": "veogv.eth",
+  "website": "https://governance.ousd.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/OriginProtocol/origin-website/master/static/img/coins/veogv-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.originprotocol.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/OriginProtocol/ousd-governance",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/originprotocol",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "slack": "",
+    "telegram": "https://t.me/originprotocol",
+    "twitter": "https://twitter.com/OriginProtocol",
+    "youtube": "https://www.youtube.com/c/originprotocol"
+  }
+}

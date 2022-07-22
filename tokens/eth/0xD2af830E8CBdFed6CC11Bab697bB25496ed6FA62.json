@@ -1,0 +1,34 @@
+{
+  "symbol": "WOUSD",
+  "address": "0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62",
+  "decimals": 18,
+  "name": "Wrapped OUSD",
+  "type": "ERC20",
+  "ens_address": "wousd.eth",
+  "website": "https://www.ousd.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/OriginProtocol/origin-website/master/static/img/coins/wousd-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.originprotocol.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/OriginProtocol/origin-dollar",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/originprotocol",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "slack": "",
+    "telegram": "https://t.me/originprotocol",
+    "twitter": "https://twitter.com/OriginProtocol",
+    "youtube": "https://www.youtube.com/c/originprotocol"
+  }
+}
