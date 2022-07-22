@@ -17,8 +17,8 @@
     "url": "https://www.originprotocol.com"
   },
   "social": {
-    "blog": "",
-    "chat": "",
+    "blog": "https://medium.com/originprotocol",
+    "chat": "https://originprotocol.com/discord",
     "facebook": "",
     "forum": "",
     "github": "https://github.com/OriginProtocol/ousd-governance",
