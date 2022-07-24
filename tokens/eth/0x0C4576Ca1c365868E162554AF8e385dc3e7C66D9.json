@@ -1,7 +1,9 @@
 {
   "symbol": "veOGV",
+  "invalid_erc20_symbol": true,
   "address": "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9",
   "decimals": 18,
+  "invalid_erc20_decimals": true,
   "name": "Vote Escrowed Origin Dollar Governance",
   "type": "ERC20",
   "ens_address": "veogv.eth",
