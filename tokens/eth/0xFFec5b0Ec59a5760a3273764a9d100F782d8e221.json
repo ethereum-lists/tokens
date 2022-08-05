@@ -1,0 +1,34 @@
+{
+  "symbol": "MV",
+  "address": "0xFFec5b0Ec59a5760a3273764a9d100F782d8e221",
+  "decimals": 18,
+  "name": "MULTIVERSE",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://fntokens4.editorx.io/multiverse",
+  "logo": {
+    "src": "https://i.ibb.co/vzD48D9/Photo-Room-20220702-203635-2.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "c2c@fntokens.xyz",
+    "url": "https://t.me/fntoken"
+  },
+  "social": {
+    "blog": "https://medium.com/@FN_TOKENS",
+    "chat": "https://t.me/fntoken",
+    "facebook": "https://www.facebook.com/FN_TOKEN",
+    "forum": "https://medium.com/@FN_TOKENS",
+    "github": "https://github.com/MULTIVERSE-C2C",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/davin-corbett-994020226",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/fntoken",
+    "twitter": "https://twitter.com/multiversec2c",
+    "youtube": "https://www.youtube.com/c/FN_TOKENS"
+  }
+}
