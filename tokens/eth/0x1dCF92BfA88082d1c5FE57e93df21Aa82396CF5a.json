@@ -1,0 +1,34 @@
+{
+  "symbol": "CDT",
+  "address": "0x1dCF92BfA88082d1c5FE57e93df21Aa82396CF5a",
+  "decimals": 18,
+  "name": "CheckDot",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://checkdot.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/checkdot_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@checkdot.io",
+    "url": "https://checkdot.io"
+  },
+  "social": {
+    "blog": "https://checkdot.medium.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/checkdot",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/checkdot_protocol",
+    "linkedin": "https://www.linkedin.com/company/checkdot",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/checkdot",
+    "twitter": "https://twitter.com/checkdot_proto",
+    "youtube": "https://www.youtube.com/channel/UCzUKo78VJWDMDIXNw-3EGqA"
+  }
+}
