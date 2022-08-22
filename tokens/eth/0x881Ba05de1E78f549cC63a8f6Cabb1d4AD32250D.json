@@ -1,0 +1,34 @@
+{
+  "symbol": "00",
+  "address": "0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D",
+  "decimals": 18,
+  "name": "00 Token",
+  "type": "ERC20",
+  "ens_address": "zerozero.eth",
+  "website": "https://p00ls.io",
+  "logo": {
+    "src": "https://gmt.io/logo_square.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@zeroze.ro",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@P00LS",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/p00ls/contracts",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/p00ls_/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/p00ls_",
+    "youtube": ""
+  }
+}
