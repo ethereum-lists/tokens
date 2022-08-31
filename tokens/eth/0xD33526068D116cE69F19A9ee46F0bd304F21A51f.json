@@ -1,0 +1,34 @@
+{
+  "symbol": "RPL",
+  "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+  "decimals": 18,
+  "name": "Rocket Pool",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://rocketpool.net/",
+  "logo": {
+    "src": "https://cdn.discordapp.com/attachments/405163713063288832/1006356201845555200/IMG_0082.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "discord": "https://discord.gg/86U4YWFZNJ",
+    "url": "https://rocketpool.net/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/rocket-pool",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/rocketpool/",
+    "slack": "",
+    "discord": "https://discord.gg/86U4YWFZNJ",
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "youtube": "https://www.youtube.com/rocketpool"
+  }
+}
