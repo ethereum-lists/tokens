@@ -1,0 +1,34 @@
+{
+  "symbol": "QG",
+  "address": "0xFB8Bf58B23e3CbCbaBB169cfC704Ebb2878Cb48A",
+  "decimals": 9,
+  "name": "Quieroganar Audits Academy",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://quieroganar.es",
+  "logo": {
+    "src": "https://ibb.co/bWVC8WR",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contacto@quieroganar.es",
+    "url": "https://quieroganar.es"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/quieroganarweb/",
+    "linkedin": "https://www.linkedin.com/in/jose-stiven-rodriguez-exposito/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/youtuberquieroganar",
+    "twitter": "https://twitter.com/webquieroganar",
+    "youtube": "https://www.youtube.com/c/QuieroGanarOficial/"
+  }
+}
