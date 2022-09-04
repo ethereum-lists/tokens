@@ -1,0 +1,34 @@
+{
+  "symbol": "BPT",
+  "address": "0xBB2Ea6F3a9d169301B4f98726EdC4077aFFF83c5",
+  "decimals": 8,
+  "name": "Boomcoin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://boomcoin.live",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@boomcoin.live",
+    "url": "https://boomcoin.live"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/boomcoinbpt",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/boom-coin-86b10724a/",
+    "reddit": "https://www.reddit.com/user/boomcoinBPT",
+    "slack": "",
+    "telegram": "https://web.telegram.org/k/#-1596186717",
+    "twitter": "https://twitter.com/boomcoinbpt",
+    "youtube": "https://www.youtube.com/channel/UCuVYjqXeGkO7Q6rCUTnBnRA"
+  }
+}
