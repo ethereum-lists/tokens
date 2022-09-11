@@ -1,0 +1,34 @@
+{
+    "sembol": "BCHEC",
+    "adres": "0x97Ae1A743aed9cAE6a39E132c3bcE5874E0fE545",
+    "ondalık sayılar": 18,
+    "isim": "Bitkimyasal",
+    "ens_address": "",
+    "web sitesi": "https://bitchemicaldefi.com/",
+    "logo": {
+      "src": "https://i.imgur.com/wlEejZN.png",
+      "Genişlik": "",
+      "yükseklik": "",
+      "ipfs_hash": ""
+    },
+    "destek": {
+      "e-posta": "support@bitchemicaldefi.com",
+      "url": ""
+    },
+    "sosyal": {
+      "blog": "https://medium.com/@BitchemicalDefi",
+      "sohbet": "",
+      "anlaşmazlık": "",
+      "facebook": "https://www.facebook.com/ChemicalDefi/",
+      "forum": "",
+      "github": "https://github.com/Bitchemicaldefi",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/bitchemical-defi",
+      "reddit": "",
+      "gevşek": "",
+      "telgraf": "https://t.me/bitchemicaldefi",
+      "twitter": "https://twitter.com/Bitchemical",
+      "Youtube": ""
+    }
+}
