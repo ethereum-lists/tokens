@@ -1,0 +1,34 @@
+{
+  "symbol": "TAMA",
+  "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+  "decimals": 18,
+  "name": "TAMADOGE",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://youengine.io",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@youengine.io",
+    "url": "https://youengine.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tamadoge-io",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/tamadogeofficial",
+    "twitter": "https://twitter.com/tamadoge",
+    "youtube": "https://www.youtube.com/c/tamadoge"
+  }
+}
