@@ -1,0 +1,34 @@
+{
+  "symbol": "MVX",
+  "address": "0x2760E46d9BB43dafCbEcaad1F64b93207f9f0eD7",
+  "decimals": 18,
+  "name": "Metavault Trade",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://metavault.trade",
+  "logo": {
+    "src": "https://res.cloudinary.com/metavault/image/upload/v1664355202/token-logos/mvx-logo.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@metavault.trade",
+    "url": "https://metavault.trade"
+  },
+  "social": {
+    "blog": "https://medium.com/@metavault.trade",
+    "chat": "https://discord.gg/metavault",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/metavaultorg/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MetavaultTrade/",
+    "twitter": "https://twitter.com/MetavaultTRADE/",
+    "youtube": ""
+  }
+}
