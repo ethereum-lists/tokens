@@ -1,0 +1,34 @@
+{
+  "symbol": "ESPRO",
+  "address": "0x29C56E7CB9C840d2b2371b17e28BaB44AD3c3ead",
+  "decimals": 10,
+  "name": "EsportsPro",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://esportspro.gg",
+  "logo": {
+    "src": "https://etherscan.io/token/images/esportspro_32.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@esportspro.gg",
+    "url": "https://esportspro.gg"
+  },
+  "social": {
+    "blog": "https://www.twopointnet.com/?m=0",
+    "chat": "https://t.me/EsportsPro_Official_Group",
+    "facebook": "https://m.facebook.com/EsportsPro.gg",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/esportspro",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/EsportsPro_Official_Group",
+    "twitter": "https://twitter.com/EsportsProESPRO",
+    "youtube": "https://www.youtube.com/user/kajeni24"
+  }
+}
