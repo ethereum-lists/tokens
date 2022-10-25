@@ -1,0 +1,33 @@
+{
+  "symbol": "SLP",
+  "address": "0xa8754b9Fa15fc18BB59458815510E40a12cD2014",
+  "decimals": 0,
+  "name": "Smooth Love Potion",
+  "ens_address": "",
+  "website": "https://axieinfinity.com/",
+  "logo": {
+    "src": "https://storage.googleapis.com/axie-cdn/assets/slp.png",
+    "width": "48",
+    "height": "48",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://support.axieinfinity.com"
+  },
+  "social": {
+    "blog": "https://axie.substack.com",
+    "chat": "https://discord.gg/axie",
+    "facebook": "https://www.facebook.com/AxieInfinity",
+    "forum": "",
+    "github": "https://github.com/axieinfinity",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/axieinfinity/",
+    "linkedin": "https://www.linkedin.com/company/axieinfinity",
+    "reddit": "https://www.reddit.com/r/AxieInfinity",
+    "slack": "",
+    "telegram": "https://t.me/axieinfinity",
+    "twitter": "https://twitter.com/AxieInfinity",
+    "youtube": "https://youtube.com/c/AxieInfinity"
+  }
+}
