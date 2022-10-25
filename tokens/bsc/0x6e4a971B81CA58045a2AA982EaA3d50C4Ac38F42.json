@@ -1,0 +1,34 @@
+{
+  "symbol": "BRG",
+  "address": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+  "decimals": 18,
+  "name": "Bridge",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://bridge.link",
+  "logo": {
+    "src": "https://bscscan.com/token/images/bridgeoracle_32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@bridge.link",
+    "url": "https://bridge.link/#contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://https://t.me/BridgeOracle",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BridgeOracle",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bridge.oracle/",
+    "linkedin": "https://www.linkedin.com/company/bridge-oracle/",
+    "reddit": "https://www.reddit.com/r/bridge_oracle",
+    "slack": "",
+    "telegram": "https://https://t.me/Bridge_Oracle",
+    "twitter": "https://twitter.com/bridge_oracle",
+    "youtube": "https://www.youtube.com/channel/UCvsC4gDpKKX_Ffulwfsbsow"
+  }
+}
