@@ -1,7 +1,7 @@
 {
   "symbol": "ESPRO",
   "address": "0x29C56E7CB9C840d2b2371b17e28BaB44AD3c3ead",
-  "decimals": 10,
+  "decimals": 18,
   "name": "EsportsPro",
   "type": "ERC20",
   "ens_address": "",
