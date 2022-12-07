@@ -1,6 +1,6 @@
 {
   "symbol": "TRUCCO",
-  "address": "0xf10E3E8F6B02B594b7C95fca59DC7E5ce7364df5.json",
+  "address": "0xf10E3E8F6B02B594b7C95fca59DC7E5ce7364df5",
   "decimals": 8,
   "name": "Truco Token",
   "type": "ERC20",
