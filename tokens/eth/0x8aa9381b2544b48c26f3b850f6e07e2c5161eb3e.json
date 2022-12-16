@@ -1,0 +1,34 @@
+{
+  "symbol": "WDOGE",
+  "address": "0x8aa9381b2544b48c26f3b850f6e07e2c5161eb3e",
+  "decimals": 8,
+  "name": "Wrapped DOGE",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://wdoge.tech/",
+  "logo": {
+    "src": "https://wdoge.tech/wdoge-symbol-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "devs@wdoge.tech",
+    "url": "https://wdoge.tech/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/WrappedBTC/bitcoin-token-smart-contracts/blob/master/ethereumV2/contracts/token/WDOGE.sol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/wDogeOK",
+    "youtube": ""
+  }
+}
