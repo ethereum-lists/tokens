@@ -1,0 +1,35 @@
+{
+  "symbol": "Skey",
+  "name": "Skey Network",
+  "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+  "decimals": 8,
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://skey.network",
+  "logo": {
+    "src": "https://skey.network/downloads/logo-transparent.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "office@skey.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://skeynetwork.medium.com",
+    "chat": "https://t.me/SkeyNetworkChat",
+    "discord": "https://discord.com/invite/en7YQU4EBR",
+    "facebook": "https://www.facebook.com/SkeyNetwork",
+    "forum": "",
+    "github": "https://github.com/skey-network",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/skeynetwork",
+    "linkedin": "https://www.linkedin.com/company/skeynetwork",
+    "reddit": "https://www.reddit.com/r/skeynetwork",
+    "slack": "",
+    "telegram": "https://t.me/SkeyNetworkNews",
+    "twitter": "https://twitter.com/skeynetwork",
+    "youtube": "https://www.youtube.com/channel/UC6oK-S1xW9yysYFAXBou6sA"
+  }
+}
