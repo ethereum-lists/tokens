@@ -1,6 +1,6 @@
 {
   "symbol": "WDOGE",
-  "address": "0x8aa9381b2544b48c26f3b850f6e07e2c5161eb3e",
+  "address": "0x8aa9381b2544b48c26f3b850F6e07E2c5161EB3e",
   "decimals": 8,
   "name": "Wrapped DOGE",
   "type": "ERC20",
