@@ -1,0 +1,35 @@
+{
+  "symbol": "TDX",
+  "name": "Tidex Token",
+  "address": "0x317eb4ad9cfaC6232f0046831322E895507bcBeb",
+  "decimals": 18,
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://tidex.com/",
+  "logo": {
+    "src": "https://dev.tagzdev.biz/tdx_token.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@tidex.com",
+    "url": "https://tidex.com/support"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://tidex.com/",
+    "discord": "https://discord.gg/tidex",
+    "facebook": "https://www.facebook.com/TidexExchange/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Tidex_Global/",
+    "slack": "",
+    "telegram": "https://t.me/Tidex_News",
+    "twitter": "https://twitter.com/Tidex_Exchange",
+    "youtube": "https://www.youtube.com/channel/UC5C5h2fePy4CG_FcwgUgwpg"
+  }
+}
