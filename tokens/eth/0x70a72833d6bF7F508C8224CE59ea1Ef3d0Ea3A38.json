@@ -32,8 +32,8 @@
   },
   "deprecation": {
     "new_address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
-    "migration_type": "tokenswap:https://medium.com/utrust/utrust-statement-and-next-steps-on-the-kucoin-hack-bd0ddedf9080",
+    "migration_type": "announcement:https://medium.com/utrust/utrust-statement-and-next-steps-on-the-kucoin-hack-bd0ddedf9080",
     "announcement_url": "https://medium.com/utrust/utrust-statement-and-next-steps-on-the-kucoin-hack-bd0ddedf9080",
-    "time": "2020-09-30T014:39:30Z"
+    "time": "2020-09-30T14:39:30Z"
   }
 }
