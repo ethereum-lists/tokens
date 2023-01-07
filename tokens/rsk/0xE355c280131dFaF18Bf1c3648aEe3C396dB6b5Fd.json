@@ -1,9 +1,8 @@
-
 {
   "symbol": "BRZ",
   "address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
   "address_eip1191": "0xE355C280131dfaf18Bf1C3648aEE3c396Db6B5Fd",
-  "decimals": 18,
+  "decimals": 4,
   "name": "Brezilian Digital Coin",
   "ens_address": "",
   "website": "https://www.brztoken.io",

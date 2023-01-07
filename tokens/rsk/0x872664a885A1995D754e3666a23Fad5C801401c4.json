@@ -2,7 +2,7 @@
   "symbol": "cRBTC",
   "address": "0x872664a885A1995D754e3666a23Fad5C801401c4",
   "address_eip1191": "0x872664A885A1995D754E3666A23FaD5c801401C4",
-  "decimals": 18,
+  "decimals": 8,
   "name": "rLending RBTC",
   "ens_address": "",
   "website": "",
