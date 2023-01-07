@@ -23,7 +23,6 @@ mainClassName = "org.ethereum.lists.tokens.MainKt"
 repositories {
     mavenCentral()
     maven { url 'https://jitpack.io' }
-    maven { url "https://kotlin.bintray.com/kotlinx" }
 }
 
 task correctFileNames(type: JavaExec) {
@@ -53,9 +52,10 @@ dependencies {
     implementation "com.github.komputing.kethereum:erc1191:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
-    implementation "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
+    implementation "com.github.ethereum-lists.chains:httpsloader:1.5"
+    implementation "com.github.ethereum-lists.chains:model:1.5"
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation 'com.beust:klaxon:5.6'

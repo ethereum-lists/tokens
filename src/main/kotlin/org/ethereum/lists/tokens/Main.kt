@@ -10,7 +10,7 @@ import org.kethereum.model.ChainId
 
 
 val networkMapping = mapOf(
-    "eth" to 1,
+    "eth" to 1L,
     "esn" to 2,
     "rop" to 3,
     "rin" to 4,
@@ -61,7 +61,7 @@ suspend fun main() {
     }
 }
 
-private fun getChainId(networkMapping: Map<String, Int>, networkName: String) = networkMapping[networkName]?.let {
+private fun getChainId(networkMapping: Map<String, Long>, networkName: String) = networkMapping[networkName]?.let {
     ChainId(it.toBigInteger())
 }
 
