@@ -1,0 +1,34 @@
+{
+  "symbol": "TRUCCO",
+  "address": "0xf10E3E8F6B02B594b7C95fca59DC7E5ce7364df5",
+  "decimals": 8,
+  "name": "Truco Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://trucco.com",
+  "logo": {
+    "src": "https://drive.google.com/file/d/1WxZP7B-7NROI2rHnL20p-WYbjmLaDUjd/view",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": "QmfTRSnzJTxCtPdwZn9jMriGFRrZVrezYsZzyeYzsQ6d93"
+  },
+  "support": {
+    "email": "daniloar94@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
