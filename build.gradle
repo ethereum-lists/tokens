@@ -25,18 +25,26 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 
+task onChainCheck(type: JavaExec) {
+    mainClass = "org.ethereum.lists.tokens.OnChainCheckKt"
+    classpath = sourceSets.main.runtimeClasspath
+    if (project.hasProperty("fileToCheck")) {
+        args fileToCheck
+    }
+}
+
 task correctFileNames(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.CorrectFileNamesKt"
+    mainClass = "org.ethereum.lists.tokens.CorrectFileNamesKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task correctDecimals(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.CorrectDecimalsKt"
+    mainClass = "org.ethereum.lists.tokens.CorrectDecimalsKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task importMEW(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.ImportKt"
+    mainClass = "org.ethereum.lists.tokens.ImportKt"
     classpath = sourceSets.main.runtimeClasspath
     if (project.hasProperty("importPath")) {
         args importPath
@@ -64,4 +72,3 @@ dependencies {
     testImplementation "org.jetbrains.kotlin:kotlin-test"
     testImplementation "org.jetbrains.kotlin:kotlin-test-junit"
 }
-

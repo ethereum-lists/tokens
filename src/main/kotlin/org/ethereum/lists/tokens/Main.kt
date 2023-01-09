@@ -8,7 +8,6 @@ import java.nio.file.Files
 import kotlin.system.exitProcess
 import org.kethereum.model.ChainId
 
-
 val networkMapping = mapOf(
     "eth" to 1L,
     "esn" to 2,
@@ -33,7 +32,7 @@ suspend fun main() {
         val jsonArray = JsonArray<JsonObject>()
 
         if (!networkMapping.containsKey(singleNetworkTokenDirectory.name)) {
-            println("Found directory for unknown cha " + singleNetworkTokenDirectory.name)
+            println("Found directory for unknown chain " + singleNetworkTokenDirectory.name)
 
             exitProcess(1)
         }
@@ -44,7 +43,7 @@ suspend fun main() {
                     jsonArray.add(Klaxon().parseJsonObject(reader))
                 }
 
-                checkTokenFile(it, true, getChainId(networkMapping, singleNetworkTokenDirectory.name))
+                checkTokenFile(it, false, getChainId(singleNetworkTokenDirectory.name))
             } catch (e: Exception) {
                 println("Problem with $it: $e")
 
@@ -61,7 +60,7 @@ suspend fun main() {
     }
 }
 
-private fun getChainId(networkMapping: Map<String, Long>, networkName: String) = networkMapping[networkName]?.let {
+fun getChainId(networkName: String) = networkMapping[networkName]?.let {
     ChainId(it.toBigInteger())
 }
 
