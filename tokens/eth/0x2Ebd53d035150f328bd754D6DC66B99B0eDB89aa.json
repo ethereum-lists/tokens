@@ -1,26 +1,26 @@
 {
   "symbol": "MET",
-  "name": "Metronome 2.0",
+  "name": "Metronome",
   "type": "ERC20",
   "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
   "ens_address": "metronome.eth",
   "decimals": 18,
   "website": "https://metronome.io",
   "logo": {
-    "src": "https://tinypng.com/web/output/nk9139nf1urt7869k61tydqq7f80ng15/MET_Token_128x128.png",
+    "src": "https://tinypng.com/web/output/759cp456jkadzyx3rjbz36frwcudu53f/150x150V2.png",
     "width": "128",
     "height": "128",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "hello@metronome.io",
     "url": "docs.metronome.io"
   },
   "social": {
     "blog": "https://metronomedao.medium.com/",
     "chat": "https://discord.gg/metronome",
     "facebook": "",
-    "forum": "",
+    "forum": "https://discourse.metronome.io/",
     "github": "https://github.com/autonomoussoftware",
     "gitter": "",
     "instagram": "",
@@ -28,7 +28,7 @@
     "reddit": "https://www.reddit.com/r/MetronomeToken/",
     "slack": "",
     "telegram": "https://t.me/metronometoken",
-    "twitter": "https://twitter.com/MET_Token",
-    "youtube": ""
+    "twitter": "https://twitter.com/MetronomeDAO",
+    "youtube": "https://www.youtube.com/@metronome_dao"
   }
 }
