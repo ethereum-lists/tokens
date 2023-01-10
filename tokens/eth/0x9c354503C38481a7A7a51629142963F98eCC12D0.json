@@ -1,0 +1,34 @@
+{
+  "symbol": "OGV",
+  "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+  "decimals": 18,
+  "name": "Origin Dollar Governance",
+  "type": "ERC20",
+  "ens_address": "ogv.eth",
+  "website": "https://governance.ousd.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/OriginProtocol/origin-website/master/static/img/coins/ogv-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.originprotocol.com"
+  },
+  "social": {
+    "blog": "https://medium.com/originprotocol",
+    "chat": "https://originprotocol.com/discord",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/OriginProtocol/ousd-governance",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/originprotocol",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "slack": "",
+    "telegram": "https://t.me/originprotocol",
+    "twitter": "https://twitter.com/OriginProtocol",
+    "youtube": "https://www.youtube.com/c/originprotocol"
+  }
+}

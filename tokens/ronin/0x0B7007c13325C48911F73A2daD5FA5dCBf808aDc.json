@@ -1,10 +1,10 @@
 {
-  "symbol": "SWRM",
-  "address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
-  "decimals": 18,
-  "name": "StreamShares",
+  "symbol": "USDC",
+  "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+  "decimals": 6,
+  "name": "USD//Coin",
   "ens_address": "",
-  "website": "https://www.stream.space",
+  "website": "https://www.centre.io",
   "logo": {
     "src": "",
     "width": "",
@@ -13,14 +13,14 @@
   },
   "support": {
     "email": "",
-    "url": ""
+    "url": "https://www.centre.io"
   },
   "social": {
     "blog": "",
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/centrehq/centre-tokens",
     "gitter": "",
     "instagram": "",
     "linkedin": "",

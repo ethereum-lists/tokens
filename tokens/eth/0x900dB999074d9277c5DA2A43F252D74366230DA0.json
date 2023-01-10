@@ -1,0 +1,35 @@
+{
+  "symbol": "GIV",
+  "name": "Giveth",
+  "address": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
+  "decimals": 18,
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://giveth.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png",
+    "width": "226",
+    "height": "226",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@giveth.io",
+    "url": "https://giveth.io/support"
+  },
+  "social": {
+    "blog": "https://medium.com/giveth",
+    "chat": "",
+    "discord": "https://discord.giveth.io/",
+    "facebook": "https://www.facebook.com/givethio",
+    "forum": "https://forum.giveth.io/",
+    "github": "https://github.com/Giveth",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/giveth.io/",
+    "linkedin": "https://www.linkedin.com/company/givethio/",
+    "reddit": "https://www.reddit.com/r/giveth/",
+    "slack": "",
+    "telegram": "https://t.me/Givethio",
+    "twitter": "https://twitter.com/Givethio",
+    "youtube": "https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ"
+  }
+}

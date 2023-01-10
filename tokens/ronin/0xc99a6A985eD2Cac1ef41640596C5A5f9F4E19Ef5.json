@@ -1,11 +1,10 @@
 {
-  "symbol": "SNTR",
-  "name": "Silent Notary",
-  "type": "ERC20",
-  "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+  "symbol": "WETH",
+  "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+  "decimals": 18,
+  "name": "WETH",
   "ens_address": "",
-  "decimals": 4,
-  "website": "https://silentnotary.com",
+  "website": "https://weth.io",
   "logo": {
     "src": "",
     "width": "",
@@ -13,8 +12,8 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "support@makerdao.com",
+    "url": "https://chat.makerdao.com"
   },
   "social": {
     "blog": "",
@@ -25,10 +24,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/SilentNotary",
+    "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/SilentNotary",
+    "twitter": "",
     "youtube": ""
   }
 }

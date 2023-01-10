@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        KOTLIN_VERSION = "1.7.10"
+        KOTLIN_VERSION = "1.8.0"
         KETHEREUM_VERSION = "0.85.7"
     }
 
@@ -10,7 +10,7 @@ buildscript {
 
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${KOTLIN_VERSION}"
-        classpath 'com.github.ben-manes:gradle-versions-plugin:0.42.0'
+        classpath 'com.github.ben-manes:gradle-versions-plugin:0.44.0'
     }
 }
 
@@ -23,21 +23,28 @@ mainClassName = "org.ethereum.lists.tokens.MainKt"
 repositories {
     mavenCentral()
     maven { url 'https://jitpack.io' }
-    maven { url "https://kotlin.bintray.com/kotlinx" }
+}
+
+task onChainCheck(type: JavaExec) {
+    mainClass = "org.ethereum.lists.tokens.OnChainCheckKt"
+    classpath = sourceSets.main.runtimeClasspath
+    if (project.hasProperty("fileToCheck")) {
+        args fileToCheck
+    }
 }
 
 task correctFileNames(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.CorrectFileNamesKt"
+    mainClass = "org.ethereum.lists.tokens.CorrectFileNamesKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task correctDecimals(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.CorrectDecimalsKt"
+    mainClass = "org.ethereum.lists.tokens.CorrectDecimalsKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
 task importMEW(type: JavaExec) {
-    main = "org.ethereum.lists.tokens.ImportKt"
+    mainClass = "org.ethereum.lists.tokens.ImportKt"
     classpath = sourceSets.main.runtimeClasspath
     if (project.hasProperty("importPath")) {
         args importPath
@@ -53,15 +60,15 @@ dependencies {
     implementation "com.github.komputing.kethereum:erc1191:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:model:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
-    implementation "com.github.komputing.kethereum:rpc_min3:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
+    implementation "com.github.ethereum-lists.chains:httpsloader:1.5"
+    implementation "com.github.ethereum-lists.chains:model:1.5"
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation 'com.beust:klaxon:5.6'
-    implementation 'com.squareup.moshi:moshi-kotlin:1.13.0'
+    implementation 'com.squareup.moshi:moshi-kotlin:1.14.0'
 
     testImplementation "org.jetbrains.kotlin:kotlin-test"
     testImplementation "org.jetbrains.kotlin:kotlin-test-junit"
 }
-
