@@ -1,34 +1,34 @@
 {
   "symbol": "MET",
-  "name": "Metronome OLD",
+  "name": "Metronome",
   "type": "ERC20",
-  "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
-  "ens_address": "",
+  "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
+  "ens_address": "metronome.eth",
   "decimals": 18,
-  "website": "https://www.metronome.io",
+  "website": "https://metronome.io",
   "logo": {
-    "src": "https://tinypng.com/web/output/cpkxkhe85dmc5mj1kauz1a84e8y71gbw/V2_128x128.png",
+    "src": "https://tinypng.com/web/output/759cp456jkadzyx3rjbz36frwcudu53f/150x150V2.png",
     "width": "128",
     "height": "128",
     "ipfs_hash": ""
   },
   "support": {
     "email": "hello@metronome.io",
-    "url": ""
+    "url": "docs.metronome.io"
   },
   "social": {
     "blog": "https://metronomedao.medium.com/",
     "chat": "https://discord.gg/metronome",
     "facebook": "",
-    "forum": "",
+    "forum": "https://discourse.metronome.io/",
     "github": "https://github.com/autonomoussoftware",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/metronometoken",
+    "reddit": "https://www.reddit.com/r/MetronomeToken/",
     "slack": "",
     "telegram": "https://t.me/metronometoken",
     "twitter": "https://twitter.com/MetronomeDAO",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/@metronome_dao"
   }
 }
