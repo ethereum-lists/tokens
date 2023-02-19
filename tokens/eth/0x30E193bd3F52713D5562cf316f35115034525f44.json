@@ -1,0 +1,34 @@
+{
+  "symbol": "GTEC",
+  "address": "0x30E193bd3F52713D5562cf316f35115034525f44",
+  "decimals": 18,
+  "name": "Green Tech Coin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://greentechcoin.xyz",
+  "logo": {
+    "src": "",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "bafkreif2gd4mbsu5jxewriti55zz34k2zenwrmx6etuk5tkyb2hqw3scba"
+  },
+  "support": {
+    "email": "info@greentechcoin.xyz",
+    "url": "https://greentechcoin.xyz"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/Hydrogen-Innovations-107105358173864",
+    "forum": "",
+    "github": "https://github.com/Sustainability-Creative-Co/GreenTechCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/BlockchainBanknTrust",
+    "slack": "",
+    "telegram": "https://t.me/greentechcoin",
+    "twitter": "https://www.twitter.com/greentechtoken",
+    "youtube": ""
+  }
+}
