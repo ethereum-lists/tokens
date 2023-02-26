@@ -1,0 +1,34 @@
+{
+  "symbol": "BORZ",
+  "address": "0x08da9eb6147694e671a455d946a620a70d721eae",
+  "decimals": 9,
+  "name": "Borzoi Inu",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://borztoken.com/",
+  "logo": {
+    "src": "https://borztoken.com/wp-content/uploads/2023/02/borzoi-inu-logo-official.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@borztoken.com",
+    "url": "https://borztoken.com/"
+  },
+  "social": {
+    "blog": "https://medium.com/@wolfgangtheborzoi",
+    "chat": "https://discord.gg/HFAZXWPJDg",
+    "facebook": "https://www.facebook.com/profile.php?id=100090740461638",
+    "forum": "",
+    "github": "https://github.com/WolfgangTheBorzoi",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/borzoiinu/",
+    "linkedin": "https://www.linkedin.com/in/wolfgang-the-borzoi-47a952267/",
+    "reddit": "https://www.reddit.com/r/borztoken/",
+    "slack": "",
+    "telegram": "https://t.me/BORZTalk/",
+    "twitter": "https://twitter.com/WolfgangBorzoi",
+    "youtube": "https://www.youtube.com/@BorzoiInu"
+  }
+}
