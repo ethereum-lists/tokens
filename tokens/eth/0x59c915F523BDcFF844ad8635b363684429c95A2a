@@ -1,0 +1,33 @@
+{
+  "symbol": "FLY",
+  "address": "0x59c915F523BDcFF844ad8635b363684429c95A2a",
+  "decimals": 15,
+  "name": "VOLARE",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://ilvolare.com",
+  "logo": {
+    "src": "https://cdn.shopify.com/s/files/1/0735/8418/1570/files/Volare_128_x_128_px.png?v=1678829395",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "6c202e9f5ca13ee953ea8d023727fea33c1cc840b9c09ec10750d539582004b2"
+  },
+  "support": {
+    "email": "volare@flybirdinc.com",
+    "url": "https://ilvolare.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/channels/1085307489052004442",
+    "facebook": "https://www.facebook.com/profile.php?id=115546911484679",
+    "forum": "",
+    "github": "https://github.com/ilvolare",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/ilvolare/",
+    "reddit": "https://www.reddit.com/r/ilvolare/",
+    "slack": "",
+    "telegram": "https://t.me/ilvolare/",
+    "twitter": "https://twitter.com/ilvolare",
+    "youtube": "https://www.youtube.com/@ilvolare"
+  }
+}
