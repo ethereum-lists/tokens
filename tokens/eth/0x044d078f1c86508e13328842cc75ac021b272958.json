@@ -1,0 +1,35 @@
+{
+  "symbol": "wPPC",
+  "address": "0x044d078f1c86508e13328842cc75ac021b272958",
+  "decimals": 6,
+  "name": "WrappedPeercoin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://peercoin.net",
+  "logo": {
+    "src": "https://www.peercoin.net/img/logos/favicons/Icon/favicon256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "foundation@peercoin.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.peercoin.net/blog/",
+    "chat": "",
+    "discord": "https://discord.gg/XPxfwtG",
+    "facebook": "https://www.facebook.com/Peercoin/",
+    "forum": "https://talk.peercoin.net/",
+    "github": "https://github.com/peercoin/peercoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/peercoin",
+    "slack": "",
+    "telegram": "https://t.me/peercoin",
+    "twitter": "https://twitter.com/PeercoinPPC",
+    "youtube": "https://www.youtube.com/user/PeerCoin"
+  }
+}
