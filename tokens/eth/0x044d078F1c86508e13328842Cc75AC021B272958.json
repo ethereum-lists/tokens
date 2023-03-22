@@ -1,6 +1,6 @@
 {
   "symbol": "wPPC",
-  "address": "0x044d078f1c86508e13328842cc75ac021b272958",
+  "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
   "decimals": 6,
   "name": "WrappedPeercoin",
   "type": "ERC20",
