@@ -1,0 +1,28 @@
+{
+  "symbol": "shiBTC",
+  "address": "0xb33bfaB26984a3135D6c36E7E362a1B61cb17A64",
+  "decimals": 18,
+  "name": "shiBTC",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://shibtc.site/",
+  "logo": {
+    "src": "https://img1.wsimg.com/isteam/ip/88204555-4671-47e9-ae53-cd001f1b748a/shibtc200x200.png/:/",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/shiBTC01",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://instagram.com/shibtc1",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/shiBTC",
+    "tiktok ": "tiktok.com/@shibtc1",
+    "telegram": "https://t.me/ShiBTCPortal",
+    "twitter": "https://mobile.twitter.com/SHIBTC_",
+}
