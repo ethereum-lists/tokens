@@ -63,7 +63,7 @@ dependencies {
     implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
     implementation "com.github.ethereum-lists.chains:httpsloader:1.5"
-    implementation "com.github.ethereum-lists.chains:model:1.5"
+    implementation "com.github.ethereum-lists.chains:model:1.6"
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation 'com.beust:klaxon:5.6'
