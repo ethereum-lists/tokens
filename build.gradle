@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        KOTLIN_VERSION = "1.8.10"
+        KOTLIN_VERSION = "1.8.20"
         KETHEREUM_VERSION = "0.85.7"
     }
 
@@ -62,8 +62,8 @@ dependencies {
     implementation "com.github.komputing.kethereum:rpc:${KETHEREUM_VERSION}"
     implementation "com.github.komputing.kethereum:crypto_impl_bouncycastle:${KETHEREUM_VERSION}"
 
-    implementation "com.github.ethereum-lists.chains:httpsloader:1.5"
-    implementation "com.github.ethereum-lists.chains:model:1.5"
+    implementation "com.github.ethereum-lists.chains:httpsloader:1.6"
+    implementation "com.github.ethereum-lists.chains:model:1.6"
     implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation 'com.beust:klaxon:5.6'

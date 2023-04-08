@@ -1,0 +1,35 @@
+{
+  "symbol": "BZZ",
+  "address": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
+  "decimals": 16,
+  "name": "Swarm",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://ethswarm.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/tonytony32/swarm/main/Circle_Orange_onWhite_256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@ethswarm.org",
+    "url": "https://ethswarm.org"
+  },
+  "social": {
+    "blog": "https://blog.ethswarm.org/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/ethersphere",
+		"discord": "https://discord.ethswarm.org/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethswarm/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ethswarm",
+    "youtube": "https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos"
+  }
+}
