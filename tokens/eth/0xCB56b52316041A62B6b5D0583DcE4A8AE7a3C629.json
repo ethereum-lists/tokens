@@ -7,10 +7,10 @@
   "decimals": 18,
   "website": "https://cigtoken.eth.limo",
   "logo": {
-    "src": "https://raw.githubusercontent.com/0xTycoon/punksceo/febe6af0907dd4188e394261e5d1c5bb4dda37bd/img/logo128.png",
+    "src": "https://raw.githubusercontent.com/0xTycoon/punksceo/76c6e016de451f716500baf449256fd4657e7379/img/logo128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": "QmcafPjKnpCLMJ2ki1LMQzAMf1xWRZAMWY7nk4HQZt3WRq"
+    "ipfs_hash": "QmTMtMng4RR4TrBvnHCagX88gG2Tk7ou5AnwZmreZBpFsw"
   },
   "support": {
     "email": "",
