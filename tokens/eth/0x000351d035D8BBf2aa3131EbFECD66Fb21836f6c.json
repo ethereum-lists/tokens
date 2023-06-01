@@ -1,0 +1,34 @@
+{
+  "symbol": "SCOTTY",
+  "address": "0x000351d035D8BBf2aa3131EbFECD66Fb21836f6c",
+  "decimals": 18,
+  "name": "Scotty Beam",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://scottybeam.io",
+  "logo": {
+    "src": "https://cdn.kaizen.finance/assets/images/logos/scotty-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@scottybeam.io",
+    "url": "https://scottybeam.io"
+  },
+  "social": {
+    "blog": "https://scottybeam.medium.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/ScottyBeam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ScottyBeamIO",
+    "twitter": "https://twitter.com/scottybeamio",
+    "youtube": ""
+  }
+}
