@@ -1,0 +1,34 @@
+{
+  "symbol": "KZEN",
+  "address": "0x4550003152F12014558e5CE025707E4DD841100F",
+  "decimals": 18,
+  "name": "Kaizen.Finance",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://kaizen.finance",
+  "logo": {
+    "src": "https://cdn.kaizen.finance/assets/images/logos/kaizen-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ask@kaizen.finance",
+    "url": "https://kaizen.finance"
+  },
+  "social": {
+    "blog": "https://kaizenfinance.medium.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://etherscan.io/address/0x4550003152F12014558e5CE025707E4DD841100F#readProxyContract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/kaizenfinance",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/KaizenFinance",
+    "twitter": "https://twitter.com/kaizen_finance",
+    "youtube": "https://www.youtube.com/@kaizen.finance/videos"
+  }
+}
