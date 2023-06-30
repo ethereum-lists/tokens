@@ -1,0 +1,34 @@
+{
+    "symbol": "BAD",
+    "address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+    "decimals": 18,
+    "name": "Bad Idea AI",
+    "ens_address": "",
+    "website": "https://badidea.ai",
+    "logo": {
+      "src": "https://imgur.com/a/OSuu5Aq",
+      "width": "200",
+      "height": "200",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://gitlab.com/badideacoin/badideai/-/blob/main/Badideai",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/badideaai",
+      "twitter": "https://twitter.com/badideaai",
+      "youtube": ""
+    }
+}
