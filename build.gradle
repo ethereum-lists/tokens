@@ -52,7 +52,7 @@ task importMEW(type: JavaExec) {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
     implementation "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
 
     implementation "com.github.komputing.kethereum:erc20:${KETHEREUM_VERSION}"
