@@ -1,0 +1,34 @@
+{
+    "symbol": "HOTDOG",
+    "address": "0x01e87d74b11f656a673a3e7c441425816213eb0c",
+    "decimals": 18,
+    "name": "Sonic",
+    "ens_address": "",
+    "website": "https://sonicthehotdog.com",
+    "logo": {
+      "src": "https://i.ibb.co/DkZC22B/Sonic-The-Hot-Dog-NO-BG-NO-TEXT-1-10-2.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "marketing@sonicthehotdog.com",
+      "url": "https://sonicthehotdog.com"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/SonicTheHotdog",
+      "twitter": "https://twitter.com/hotdogERC",
+      "youtube": ""
+    }
+}
