@@ -1,0 +1,19 @@
+{
+    "symbol": "PEPINA",
+    "address": "0xbf015ad383cc034c5437072529cc56e3cefa1d4a",
+    "decimals": 18,
+    "name": "Pepina",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://pepina.vip",
+    "logo": {
+      "src": "https://ibb.co/cb7C5Mc",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "social": {
+      "telegram": "https://t.me/PepinaTokenEth",
+      "twitter": "https://twitter.com/PepinaToken"
+    }
+  }
