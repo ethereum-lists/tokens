@@ -7,7 +7,7 @@
   "ens_address": "",
   "website": "https://badidea.ai",
   "logo": {
-    "src": "https://i.ibb.co/1TVSRgT/BAD-AI-Logo-200-x-200.png",
+    "src": "https://i.ibb.co/cLbbvCr/BAD-IDEA-AI-200x200.png",
     "width": "200",
     "height": "200",
     "ipfs_hash": ""
@@ -17,11 +17,11 @@
     "url": "https://badidea.ai"
   },
   "social": {
-    "blog": "https://medium.com/@badideaai_37015",
-    "chat": "",
-    "facebook": "",
+    "blog": "https://medium.com/@MrLightspeed",
+    "chat": "https://discord.gg/badideaai",
+    "facebook": "https://www.facebook.com/groups/badideaai",
     "forum": "",
-    "github": "https://gitlab.com/badideacoin/badideai/-/blob/main/Badideai",
+    "github": "https://github.com/MrLightspeed/Bad-Idea-AI",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
