@@ -1,1 +1,8 @@
-
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "type": "ERC-20",
+  "address": "0x1A3366a9284C7D44fDBa4ab491C23433c513bAF2",
+  "decimals": 18,
+  "logo": "ipfs://QmdzhuaPSow9edWi3JpkXuiNEmELHwVQQ8xK4oB6gyNwwC"
+}
