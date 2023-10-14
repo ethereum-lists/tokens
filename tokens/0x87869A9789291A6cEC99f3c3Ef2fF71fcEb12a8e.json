@@ -1,0 +1,34 @@
+{
+  "symbol": "CMOS",
+  "address": "0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e",
+  "decimals": 9,
+  "name": "CoinMerge OS",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://app.coinmerge.io/",
+  "logo": {
+    "src": "https://i.ibb.co/HDNq9dG/CMOS-200-x-200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@coinmerge.io",
+    "url": "https://app.coinmerge.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/CoinMerge/",
+    "facebook": "https://www.facebook.com/groups/898383967383962/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/CMOS_MAIN/",
+    "twitter": "https://twitter.com/coinmerge/",
+    "youtube": ""
+  }
+}
