@@ -64,7 +64,7 @@ dependencies {
 
     implementation "com.github.ethereum-lists.chains:httpsloader:1.6"
     implementation "com.github.ethereum-lists.chains:model:1.6"
-    implementation "com.squareup.okhttp3:okhttp:4.11.0"
+    implementation "com.squareup.okhttp3:okhttp:4.12.0"
 
     implementation 'com.beust:klaxon:5.6'
     implementation 'com.squareup.moshi:moshi-kotlin:1.15.0'
