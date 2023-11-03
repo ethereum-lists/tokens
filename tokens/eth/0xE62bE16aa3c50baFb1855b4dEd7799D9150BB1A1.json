@@ -1,0 +1,34 @@
+{
+  "symbol": "DYL",
+  "address": "0xE62bE16aa3c50baFb1855b4dEd7799D9150BB1A1",
+  "decimals": 18,
+  "name": "Dyl",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://itslit.org/coin",
+  "logo": {
+    "src": "https://ipfs.itslit.org/ipfs/QmXD3YWMfksLSJ3voR1pH8GdSvV3JYKoVfCrmqBmb6wgnz/apple-touch-icon.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dyl@itslit.org",
+    "url": "https://itslit.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DYLUMINATI",
+    "twitter": "https://twitter.com/famous_dyl",
+    "youtube": ""
+  }
+}
