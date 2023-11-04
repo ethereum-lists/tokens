@@ -1,0 +1,34 @@
+{
+  "symbol": "KDM",
+  "address": "0xa9c04f23ee2298613285a102a41267922c6cc205",
+  "decimals": 18,
+  "name": "Kingdom",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https:/kingdomtoken.org",
+  "logo": {
+    "src": "https://kingdomtoken.org/wp-content/uploads/2023/07/logo200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@kingdomtoken.org",
+    "url": "http://kingdomtoken.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kingdomchurch.global/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/kingdomchurch.global/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/kingdom_token_by_covenant",
+    "twitter": "https://twitter.com/_kingdomtoken",
+    "youtube": ""
+  }
+}
