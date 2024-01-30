@@ -1,0 +1,34 @@
+{
+  "symbol": "BABYTRUMP",
+  "address": "0x354C8cDA7E3B737d360513A0Dc5ABcEE8Ee1cEA3",
+  "decimals": 18,
+  "name": "BABYTRUMP",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://babytrumpeth.com",
+  "logo": {
+    "src": "https://i.imgur.com/1J1FgOA.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@babytrumpeth.com",
+    "url": "https://babytrumpeth.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BabyTrumpOfficial",
+    "twitter": "https://twitter.com/BabyTrumpToken",
+    "youtube": ""
+  }
+}
