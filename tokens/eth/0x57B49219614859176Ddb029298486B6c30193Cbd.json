@@ -1,0 +1,34 @@
+{
+  "symbol": "ORACLE",
+  "address": "0x57B49219614859176Ddb029298486B6c30193Cbd",
+  "decimals": 18,
+  "name": "Oracle AI",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.oracleai.app",
+  "logo": {
+    "src": "https://i.ibb.co/2tPH8PS/Oracle-AI-200x200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.oracleai.app"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/OracleAIPortal",
+    "twitter": "https://twitter.com/oracleai_erc",
+    "youtube": ""
+  }
+}
