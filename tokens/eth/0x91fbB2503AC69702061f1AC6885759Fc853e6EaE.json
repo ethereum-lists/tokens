@@ -1,0 +1,34 @@
+{
+  "symbol": "KNINE",
+  "address": "0x91fbB2503AC69702061f1AC6885759Fc853e6EaE",
+  "decimals": 18,
+  "name": "K9 Finance DAO",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.k9finance.com/",
+  "logo": {
+    "src": "https://i.ibb.co/bJy7XFT/k9-200-X-200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ops@k9finance.com",
+    "url": "https://www.k9finance.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/K9-Finance-DAO",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/k9finance",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/k9finance",
+    "slack": "",
+    "telegram": "https://t.me/k9finance",
+    "twitter": "https://twitter.com/K9finance",
+    "youtube": ""
+  }
+}
