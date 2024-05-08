@@ -1,0 +1,34 @@
+{
+  "symbol": "NCASH",
+  "address": "0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2",
+  "decimals": 18,
+  "name": "Nutcash",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://nutcash.org",
+  "logo": {
+    "src": "https://i.postimg.cc/GhFXhMgx/nutcash-128x128-beige-circle.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@nutcash.org",
+    "url": "https://nutcash.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/NutcoinOrg/nutcash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/NutcoinOrg",
+    "twitter": "https://twitter.com/NutcoinOrg",
+    "youtube": ""
+  }
+}
