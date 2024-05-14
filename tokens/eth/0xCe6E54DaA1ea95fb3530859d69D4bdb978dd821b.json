@@ -1,0 +1,34 @@
+{
+  "symbol": "ORBK",
+  "address": "0xCe6E54DaA1ea95fb3530859d69D4bdb978dd821b",
+  "decimals": 18,
+  "name": "Ordibank",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://ordibank.org/",
+  "logo": {
+    "src": "https://i.postimg.cc/ZRNsNdYH/ordilogo-ethscan.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@ordibank.org",
+    "url": "https://ordibank.org/"
+  },
+  "social": {
+    "blog": "https://medium.com/@ordibank",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Ordibank",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ordibank",
+    "twitter": "https://twitter.com/Ordibank",
+    "youtube": ""
+  }
+}
