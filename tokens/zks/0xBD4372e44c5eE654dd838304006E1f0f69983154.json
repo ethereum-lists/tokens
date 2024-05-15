@@ -5,9 +5,9 @@
   "name": "NODL Token",
   "website": "https://www.nodle.com",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://raw.githubusercontent.com/NodleCode/assets/main/logo_256.png",
+    "width": "256",
+    "height": "256",
     "ipfs_hash": ""
   },
   "support": {
