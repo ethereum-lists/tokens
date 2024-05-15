@@ -1,0 +1,24 @@
+{
+  "symbol": "NODL",
+  "address": "0xBD4372e44c5eE654dd838304006E1f0f69983154",
+  "decimals": 18,
+  "name": "NODL Token",
+  "website": "https://www.nodle.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/NodleCode/assets/main/logo_256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@nodle.com"
+  },
+  "social": {
+    "blog": "https://nodle.medium.com",
+    "discord": "https://discord.gg/N5nTUt8RWJ",
+    "linkedin": "https://www.linkedin.com/company/nodle",
+    "telegram": "https://telegram.me/nodlecommunity",
+    "twitter": "https://x.com/nodlenetwork",
+    "youtube": "https://www.youtube.com/c/Nodle"
+  }
+}
