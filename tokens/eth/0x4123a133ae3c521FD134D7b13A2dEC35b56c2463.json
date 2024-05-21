@@ -2,7 +2,7 @@
   "symbol": "OPEN",
   "name": "Open Custody Protocol",
   "type": "ERC20",
-  "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+  "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
   "ens_address": "",
   "decimals": 8,
   "website": "https://opencustody.org",
