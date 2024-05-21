@@ -1,0 +1,35 @@
+{
+    "symbol": "USC",
+    "address": "0xDE093684c796204224BC081f937aa059D903c52a",
+    "decimals": 6,
+    "name": "Classic USD",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://classicusd.com",
+    "logo": {
+        "src": "https://raw.githubusercontent.com/etcswap/assets/master/blockchains/classic/assets/0xDE093684c796204224BC081f937aa059D903c52a/logo.png",
+        "width": "200px",
+        "height": "200px",
+        "ipfs_hash": "QmNfopa6nr2vzaPBBj4oRtNTDCoFFjB34DNKVfcu1sYSGN"
+    },
+    "support": {
+        "email": "",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "discord": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/white-b0x/classic-usd",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/Classic_USD",
+        "youtube": ""
+    }
+}
