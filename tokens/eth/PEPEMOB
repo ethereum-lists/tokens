@@ -1,0 +1,34 @@
+{
+  "symbol": "MOB",
+  "address": "0x52E7f110c6D9fFA08e3303f1A6b77696723b5EC7",
+  "decimals": 18,
+  "name": "PEPEMOB",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://debogeffe.wixsite.com/pepemobsters",
+  "https://static.wixstatic.com/media/6168aa_2a7214cd23c845d7aa65dbee9d8d861b~mv2.png/v1/fill/w_199,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6168aa_2a7214cd23c845d7aa65dbee9d8d861b~mv2.png": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "details.geffe.llc@gmail.com",
+    "url": "https://debogeffe.wixsite.com/pepemobsters"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/profile.php?id=61557830188236",
+    "forum": "",
+    "github": "https://github.com/pepemobsters",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/pepemob/",
+    "linkedin": "https://www.linkedin.com/in/derrick-geffe-50993419b/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/+p1qaQ1I5apk2ZmIx",
+   
+    
+  }
+}
