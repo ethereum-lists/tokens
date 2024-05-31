@@ -5,9 +5,9 @@
     "name": "Wrapped Ether",
     "type": "ERC20",
     "ens_address": "",
-    "website": "https://www.wrappedether.org/",
+    "website": "https://wrappedether.org/",
     "logo": {
-        "src": "https://www.wrappedether.org/images/wrapped-ether.png",
+        "src": "https://raw.githubusercontent.com/etcswap/assets/master/blockchains/classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png",
         "width": "200px",
         "height": "200px",
         "ipfs_hash": "QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
@@ -19,14 +19,14 @@
     "social": {
         "blog": "",
         "chat": "",
-        "discord": "https://ethereumclassic.org/discord",
+        "discord": "https://discord.com/invite/hQs894U",
         "facebook": "",
         "forum": "",
         "github": "https://github.com/wrappedether",
         "gitter": "",
         "instagram": "",
         "linkedin": "",
-        "reddit": "https://www.reddit.com/r/ethereumclassic",
+        "reddit": "https://reddit.com/r/ethereumclassic",
         "slack": "",
         "telegram": "",
         "twitter": "https://twitter.com/eth_classic",
