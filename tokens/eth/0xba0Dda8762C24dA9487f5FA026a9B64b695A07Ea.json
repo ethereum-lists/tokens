@@ -1,0 +1,34 @@
+{
+  "symbol": "OX",
+  "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+  "decimals": 18,
+  "name": "OX Coin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://ox.fun/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35365/large/logo.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@ox.fun",
+    "url": "https://support.ox.fun/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/oxfun_official",
+    "twitter": "https://twitter.com/OXFUNHQ",
+    "youtube": ""
+  }
+}

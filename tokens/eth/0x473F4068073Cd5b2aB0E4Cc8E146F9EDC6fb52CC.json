@@ -1,0 +1,34 @@
+{
+  "symbol": "NUT",
+  "address": "0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC",
+  "decimals": 18,
+  "name": "Nutcoin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://nutcoin.org",
+  "logo": {
+    "src": "https://i.postimg.cc/L5YJ3TcT/icon-2-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@nutcoin.org",
+    "url": "https://nutcoin.org"
+  },
+  "social": {
+    "blog": "https://medium.com/@nutcoin/about",
+    "chat": "https://t.me/Nutcoin_EN",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/NutcoinOrg",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/NutcoinOrg",
+    "twitter": "https://twitter.com/NutcoinOrg",
+    "youtube": ""
+  }
+}

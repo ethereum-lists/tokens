@@ -1,0 +1,34 @@
+{
+  "symbol": "FCO",
+  "address": "0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7",
+  "decimals": 18,
+  "name": "Fanatico",
+  "type": "ERC20",
+  "ens_address": "fco.eth",
+  "website": "https://fco.fanatico.com",
+  "logo": {
+    "src": "https://fco.fanatico.com/img/logo.svg",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmaJQxLqWMYYpBafRsKJFrgPjHxBqTqbXNGtF5Zb54WRMX"
+  },
+  "support": {
+    "email": "fco@fanatico.com",
+    "url": "https://support.fanatico.com"
+  },
+  "social": {
+    "blog": "https://fanatico.medium.com/",
+    "chat": "https://support.fanatico.com",
+    "facebook": "https://www.facebook.com/fanatico",
+    "forum": "",
+    "github": "https://github.com/fanaticodev/fco",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/fanatico/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/FanaticoInc",
+    "slack": "https://fanatico.slack.com/archives/C06DDJFCJET",
+    "telegram": "https://t.me/FanaticoOfficial",
+    "twitter": "https://twitter.com/fanatico",
+    "youtube": ""
+  }
+}
