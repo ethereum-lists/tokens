@@ -1,0 +1,34 @@
+{
+  "symbol": "BOBBY",
+  "address": "0xa462bdE22D98335E18A21555b6752dB93a937cFf",
+  "decimals": 18,
+  "name": "Kennedy Coin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://buybobby.com",
+  "logo": {
+    "src": "https://i.ibb.co/7tfQBdh/Bobby-200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@buybobby.com",
+    "url": "https://buybobby.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BobbyForAll",
+    "twitter": "http://x.com/BobbyForAll",
+    "youtube": ""
+  }
+}
