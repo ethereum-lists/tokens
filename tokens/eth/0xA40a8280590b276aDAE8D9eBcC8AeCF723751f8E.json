@@ -1,0 +1,34 @@
+{
+  "symbol": "TOOLS",
+  "address": "0xA40a8280590b276aDAE8D9eBcC8AeCF723751f8E",
+  "decimals": 18,
+  "name": "WoofTools.io",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://wooftools.io/",
+  "logo": {
+    "src": "https://i.ibb.co/TMTY43q/TOOLS.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://wooftools.io/"
+  },
+  "social": {
+    "blog": "https://medium.com/@woof-tools",
+    "chat": "",
+    "facebook": "https://www.facebook.com/wooftools",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/woof_tools",
+    "twitter": "https://twitter.com/ToolsWoofTools",
+    "youtube": ""
+  }
+}
