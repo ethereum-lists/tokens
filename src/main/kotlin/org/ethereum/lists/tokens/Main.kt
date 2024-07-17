@@ -22,7 +22,8 @@ val networkMapping = mapOf(
     "ella" to 64,
     "arb" to 42161,
     "avax" to 43114,
-    "zks" to 324
+    "zks" to 324,
+    "vc" to 207
 )
 
 suspend fun main() {
