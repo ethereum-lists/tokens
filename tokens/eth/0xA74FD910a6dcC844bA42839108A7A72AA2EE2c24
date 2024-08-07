@@ -1,0 +1,34 @@
+{
+  "symbol": "NAI",
+  "address": "0xA74FD910a6dcC844bA42839108A7A72AA2EE2c24",
+  "decimals": 18,
+  "name": "NeyroAI",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://neyroai.org",
+  "logo": {
+    "src": "https://i.imgur.com/lsOjPM9.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "robertbrown74774@gmail.com",
+    "url": "https://neyroai.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/neyro_ai_chat",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/neyroai_community",
+    "twitter": "https://twitter.com/younive87630435",
+    "youtube": ""
+  }
+}
