@@ -1,0 +1,34 @@
+{
+  "symbol": "MSI",
+  "address": "0x2Be8e422cb4A5A7f217a8F1b0658952a79132F28",
+  "decimals": 18,
+  "name": "Monkey Shit Inu (MSI)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://monkeyshitinu.com/",
+  "logo": {
+    "src": "https://i.ibb.co/HdFy8pP/MSI-400-x-400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://monkeyshitinu.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/monkeyshitinu",
+    "twitter": "https://twitter.com/Monkey_Shit_inu",
+    "youtube": ""
+  }
+}
