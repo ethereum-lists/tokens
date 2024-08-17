@@ -1,0 +1,21 @@
+{
+    "symbol": "wPAW",
+    "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
+    "decimals": 18,
+    "name": "PAW",
+    "ens_address": "",
+    "website": "https://pawchain.net",
+    "logo": {
+      "src": "https://i.ibb.co/7ryw5jx/200x200.png",
+      "width": "200",
+      "height": "200"
+    },
+    "social": {
+      "blog": "https://pawchain.net/blog",
+      "discord": "https://discord.gg/PawEcosystem",
+      "reddit": "https://www.reddit.com/r/PAWTechnology/",
+      "telegram": "https://t.me/PawEcosystem",
+      "twitter": "https://x.com/PawChain",
+      "youtube": "https://www.youtube.com/@pawecosystem"
+    }
+}
