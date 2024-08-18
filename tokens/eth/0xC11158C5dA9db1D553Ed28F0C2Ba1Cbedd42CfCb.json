@@ -2,18 +2,31 @@
     "symbol": "wPAW",
     "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
     "decimals": 18,
-    "name": "PAW",
+    "name": "Wrapped PAW",
     "ens_address": "",
     "website": "https://pawchain.net",
     "logo": {
       "src": "https://i.ibb.co/7ryw5jx/200x200.png",
       "width": "200",
-      "height": "200"
+      "height": "200",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": ""
     },
     "social": {
       "blog": "https://pawchain.net/blog",
+      "chat": "",
       "discord": "https://discord.gg/PawEcosystem",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
       "reddit": "https://www.reddit.com/r/PAWTechnology/",
+      "slack": "",
       "telegram": "https://t.me/PawEcosystem",
       "twitter": "https://x.com/PawChain",
       "youtube": "https://www.youtube.com/@pawecosystem"
