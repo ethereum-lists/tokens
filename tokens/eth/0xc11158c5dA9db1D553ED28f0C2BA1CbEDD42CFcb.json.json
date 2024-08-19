@@ -1,6 +1,6 @@
 {
   "symbol": "wPAW",
-  "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
+  "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
   "decimals": 18,
   "name": "Wrapped PAW",
   "type": "ERC20",
