@@ -1,34 +1,34 @@
 {
-    "symbol": "wPAW",
-    "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
-    "decimals": 18,
-    "name": "Wrapped PAW",
-    "ens_address": "",
-    "website": "https://pawchain.net",
-    "logo": {
-      "src": "https://i.ibb.co/7ryw5jx/200x200.png",
-      "width": "200",
-      "height": "200",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "",
-      "url": ""
-    },
-    "social": {
-      "blog": "https://pawchain.net/blog",
-      "chat": "",
-      "discord": "https://discord.gg/PawEcosystem",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "https://www.reddit.com/r/PAWTechnology/",
-      "slack": "",
-      "telegram": "https://t.me/PawEcosystem",
-      "twitter": "https://x.com/PawChain",
-      "youtube": "https://www.youtube.com/@pawecosystem"
-    }
+  "symbol": "wPAW",
+  "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
+  "decimals": 18,
+  "name": "Wrapped PAW",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.pawchain.net",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/200x200/23404.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@pawchain.net",
+    "url": "https://pawchain.net"
+  },
+  "social": {
+    "blog": "https://pawchain.net/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PAWTechnology/",
+    "slack": "",
+    "telegram": "https://t.me/PawEcosystem",
+    "twitter": "https://x.com/PawChain",
+    "youtube": "https://www.youtube.com/@pawecosystem"
+  }
 }
