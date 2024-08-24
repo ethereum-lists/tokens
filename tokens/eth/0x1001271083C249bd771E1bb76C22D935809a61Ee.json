@@ -1,0 +1,34 @@
+{
+  "symbol": "FUKU",
+  "address": "0x1001271083C249bd771E1bb76C22D935809a61Ee",
+  "decimals": 9,
+  "name": "Fuku-Kun (FUKU)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://fukutoken.xyz/",
+  "logo": {
+    "src": "https://i.ibb.co/tH04X8N/FUKU-400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@fukutoken.xyz",
+    "url": "https://fukutoken.xyz/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/fukukun",
+    "twitter": "https://x.com/FUKU_ON_ETH",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LTD",
+  "address": "0x1FdB29Ad49330B07aE5a87483F598AA6b292039E",
+  "decimals": 18,
+  "name": "LivingTheDream (LTD)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://www.ltdtoken.com/",
+  "logo": {
+    "src": "https://i.ibb.co/nzXh8yp/LTD-400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "listings@ltdtoken.com",
+    "url": "https://www.ltdtoken.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/LTDTOKEN",
+    "twitter": "https://x.com/theLTDtoken",
+    "youtube": ""
+  }
+}
