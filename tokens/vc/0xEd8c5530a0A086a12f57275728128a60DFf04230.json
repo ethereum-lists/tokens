@@ -1,0 +1,30 @@
+{
+    "symbol": "WVC",
+    "name": "Wrapped VC",
+    "type": "ERC20",
+    "address": "0xEd8c5530a0A086a12f57275728128a60DFf04230",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://vinuchain.org",
+    "logo": {
+        "src": "https://i.ibb.co/jwxJz7z/wvc-256x256.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "hello@vinuchain.org"
+    },
+    "social": {
+        "blog": "https://medium.com/vinuchain",
+        "discord": "https://discord.gg/vinu",
+        "linkedin": "https://linkedin.com/company/vinufoundation/",
+        "telegram": "https://telegram.me/vitainu",
+        "twitter": "https://x.com/vinuchain",
+        "instagram": "https://instagram.com/vinuchaindao",
+        "facebook": "",
+        "reddit": "",
+        "youtube": "",
+        "github": "https://github.com/vinuchain"
+    }
+}
