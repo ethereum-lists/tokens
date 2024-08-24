@@ -1,30 +1,30 @@
 {
-  "symbol": "VINU",
-  "name": "Vita Inu",
-  "type": "ERC20",
-  "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
-  "ens_address": "",
-  "decimals": 18,
+    "symbol": "VINU",
+    "name": "Vita Inu",
+    "type": "ERC20",
+    "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+    "ens_address": "",
+    "decimals": 18,
     "website": "https://vitainu.org",
-  "logo": {
-    "src": "https://i.ibb.co/BwKrxHh/vinu-logo-256x256-2.png",
-    "width": "256",
-    "height": "256",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "hello@vitainu.org"
-  },
-  "social": {
-    "blog": "https://medium.com/vitainu",
-    "discord": "https://discord.gg/vinu",
-    "linkedin": "https://linkedin.com/company/vinufoundation/",
-    "telegram": "https://telegram.me/vitainu",
-    "twitter": "https://x.com/vitainucoin",
-    "instagram": "https://instagram.com/vitainucoin",
-    "facebook": "https://facebook.com/vitainucoin",
-    "reddit": "https://reddit.com/r/vitainu",
-    "youtube": "https://www.youtube.com/c/vitainucoin",
-    "github": "https://github.com/vita-inu"
-  }
+    "logo": {
+        "src": "https://i.ibb.co/BwKrxHh/vinu-logo-256x256-2.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "hello@vitainu.org"
+    },
+    "social": {
+        "blog": "https://medium.com/vitainu",
+        "discord": "https://discord.gg/vinu",
+        "linkedin": "https://linkedin.com/company/vinufoundation/",
+        "telegram": "https://telegram.me/vitainu",
+        "twitter": "https://x.com/vitainucoin",
+        "instagram": "https://instagram.com/vitainucoin",
+        "facebook": "https://facebook.com/vitainucoin",
+        "reddit": "https://reddit.com/r/vitainu",
+        "youtube": "https://www.youtube.com/c/vitainucoin",
+        "github": "https://github.com/vita-inu"
+    }
 }

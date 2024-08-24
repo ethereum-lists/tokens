@@ -1,33 +1,33 @@
 {
-  "symbol": "ETH",
-  "address": "0xDd4b9b3Ce03faAbA4a3839c8B5023b7792be6e2C",
-  "decimals": 18,
-  "name": "Ethereum",
-  "ens_address": "",
-  "website": "https://ethereum.org/",
-  "logo": {
-    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    "width": 64,
-    "height": 64,
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "",
-    "url": ""
-  },
-  "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "https://github.com/ethereum",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "https://x.com/ethereum",
-    "youtube": ""
-  }
+    "symbol": "ETH",
+    "address": "0xDd4b9b3Ce03faAbA4a3839c8B5023b7792be6e2C",
+    "decimals": 18,
+    "name": "Ethereum",
+    "ens_address": "",
+    "website": "https://ethereum.org/",
+    "logo": {
+        "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "width": 64,
+        "height": 64,
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/ethereum",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://x.com/ethereum",
+        "youtube": ""
+    }
 }

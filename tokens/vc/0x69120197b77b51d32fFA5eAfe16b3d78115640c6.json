@@ -1,33 +1,33 @@
 {
-  "symbol": "BTC",
-  "address": "0x69120197b77b51d32fFA5eAfe16b3d78115640c6",
-  "decimals": 8,
-  "name": "Bitcoin",
-  "ens_address": "",
-  "website": "https://bitcoin.org",
-  "logo": {
-    "src": "https://www.wbtc.network/assets/BitGo-favicon.ico",
-    "width": 48,
-    "height": 48,
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "",
-    "url": ""
-  },
-  "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "https://github.com/WrappedBTC",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
-  }
+    "symbol": "BTC",
+    "address": "0x69120197b77b51d32fFA5eAfe16b3d78115640c6",
+    "decimals": 8,
+    "name": "Bitcoin",
+    "ens_address": "",
+    "website": "https://bitcoin.org",
+    "logo": {
+        "src": "https://www.wbtc.network/assets/BitGo-favicon.ico",
+        "width": 48,
+        "height": 48,
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/WrappedBTC",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "",
+        "youtube": ""
+    }
 }
