@@ -1,0 +1,33 @@
+{
+  "symbol": "wPAW",
+  "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+  "decimals": 18,
+  "name": "PAW",
+  "ens_address": "",
+  "website": "https://www.pawchain.net",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/200x200/23404.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@pawchain.net",
+    "url": "https://pawchain.net"
+  },
+  "social": {
+    "blog": "https://pawchain.net/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PAWTechnology/",
+    "slack": "",
+    "telegram": "https://t.me/PawEcosystem",
+    "twitter": "https://x.com/PawChain",
+    "youtube": "https://www.youtube.com/@pawecosystem"
+  }
+}
