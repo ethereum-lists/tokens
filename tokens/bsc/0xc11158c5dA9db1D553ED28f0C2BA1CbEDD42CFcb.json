@@ -3,7 +3,7 @@
   "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
   "decimals": 18,
   "name": "PAW",
-  "type": "ERC20",
+  "type": "BEP20",
   "ens_address": "",
   "website": "https://www.pawchain.net",
   "logo": {
