@@ -1,8 +1,8 @@
 {
-  "symbol": "MIRX",
+  "symbol": "$MIRX",
   "address": "0xec12e2d7acd850FE3953d1dbf860F523914654a7",
   "decimals": 18,
-  "name": "Mirada AI (MIRX)",
+  "name": "Mirada AI ($MIRX)",
   "type": "ERC20",
   "ens_address": "",
   "website": "https://mirada.ai/",
