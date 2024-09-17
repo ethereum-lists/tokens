@@ -1,0 +1,34 @@
+{
+  "symbol": "MIRX",
+  "address": "0xec12e2d7acd850FE3953d1dbf860F523914654a7",
+  "decimals": 18,
+  "name": "Mirada AI (MIRX)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://mirada.ai/",
+  "logo": {
+    "src": "https://i.ibb.co/W6Qwq2x/MIRX-400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hi@mirada.ai",
+    "url": "https://mirada.ai/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Mirada-Labs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MiradaAI",
+    "twitter": "https://x.com/theLTDtoken",
+    "youtube": ""
+  }
+}
