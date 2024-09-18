@@ -1,0 +1,34 @@
+{
+  "symbol": "TORA",
+  "address": "0x1BB4aFbF2cE0C9ec86E6414ad4Ba4d9aab1c0De4",
+  "decimals": 9,
+  "name": "TORA NEKO (TORA)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://toraeth.com/",
+  "logo": {
+    "src": "https://i.ibb.co/k6gzKbj/TORA-256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://toraeth.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/toranekoeth",
+    "twitter": "https://x.com/toranekoeth",
+    "youtube": ""
+  }
+}
