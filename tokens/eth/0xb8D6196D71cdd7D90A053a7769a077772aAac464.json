@@ -1,0 +1,34 @@
+{
+  "symbol": "$MARS",
+  "address": "0xb8D6196D71cdd7D90A053a7769a077772aAac464",
+  "decimals": 9,
+  "name": "Mars (MARS)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://marserc.io",
+  "logo": {
+    "src": "https://i.ibb.co/RH45S1W/MARS-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://marserc.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/marscoin_erc",
+    "twitter": "https://x.com/mars_erc20",
+    "youtube": ""
+  }
+}
