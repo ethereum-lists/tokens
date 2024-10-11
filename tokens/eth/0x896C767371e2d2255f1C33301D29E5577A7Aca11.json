@@ -1,0 +1,34 @@
+{
+  "symbol": "BULLA",
+  "address": "0x896C767371e2d2255f1C33301D29E5577A7Aca11",
+  "decimals": 9,
+  "name": "Bulladotfun (BULLA)",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bulla.fun/",
+  "logo": {
+    "src": "https://i.ibb.co/wQLJLRT/Bulla-200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bulla.fun",
+    "url": "https://bulla.fun/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bullathegreat/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BullaFunEntry",
+    "twitter": "https://x.com/bullafun",
+    "youtube": ""
+  }
+}
