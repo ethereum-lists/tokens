@@ -1,0 +1,34 @@
+{
+    "symbol": "⌘",
+    "address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
+    "decimals": 18,
+    "name": "NANI",
+    "type": "ERC20",
+    "ens_address": "nani.eth",
+    "website": "https://nani.ooo/",
+    "logo": {
+      "src": "https://content.wrappr.wtf/ipfs/QmZNDkY14fUiEixQZNwBw2tWzpXYyLQttLSGdRsezo3vRL",
+      "width": "32",
+      "height": "32",
+      "ipfs_hash": "QmZNDkY14fUiEixQZNwBw2tWzpXYyLQttLSGdRsezo3vRL"
+    },
+    "support": {
+      "email": "me@nani.ooo",
+      "url": "https://nani.ooo/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/NaniDAO",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://x.com/nani__ooo",
+      "youtube": ""
+    }
+  }
