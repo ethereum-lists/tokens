@@ -1,0 +1,33 @@
+{
+  "symbol": "BTD",
+  "name": "BitDinar",
+  "type": "ERC20",
+  "address": "0x76ddBe87aFA727ec1946f20Dd7BEeA3C12581c36",
+  "decimals": 4,
+  "logo": {
+    "src": "https://raw.githubusercontent.com/amod92/BitDinar-assets/main/compressed_logo%20(1).png",
+    "width": 200,
+    "height": 200,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://bitdinar.gold"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/BitDinarOfficial",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/amod92/BitDinar-assets",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitDinarOfficial",
+    "twitter": "https://twitter.com/BTDinarOfficial",
+    "youtube": ""
+  }
+}
