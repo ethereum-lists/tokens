@@ -1,0 +1,34 @@
+{
+    "symbol": "SPACE",
+    "address": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
+    "decimals": 8,
+    "name": "nounspace",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://nounspace.com",
+    "logo": {
+      "src": "https://ipfs.skatehive.app/ipfs/QmZyGxLEXyW63MuRUXJbHgokSBEQZKh21QBADbn9rsAavx",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": "QmZyGxLEXyW63MuRUXJbHgokSBEQZKh21QBADbn9rsAavx"
+    },
+    "support": {
+      "email": "willy+tom@nounspace.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "https://app.charmverse.io/nounspace/forum",
+      "github": "https://github.com/Nounspace",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/nounspace",
+      "twitter": "https://x.com/thenounspace",
+      "youtube": "https://www.youtube.com/@thenounspace"
+    }
+  }
