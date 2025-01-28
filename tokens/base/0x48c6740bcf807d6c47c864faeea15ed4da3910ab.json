@@ -1,6 +1,6 @@
 {
     "symbol": "SPACE",
-    "address": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
+    "address": "0x48C6740BcF807d6C47C864FaEEA15Ed4dA3910Ab",
     "decimals": 8,
     "name": "nounspace",
     "type": "ERC20",
