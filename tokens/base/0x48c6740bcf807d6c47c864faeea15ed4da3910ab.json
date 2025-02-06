@@ -4,7 +4,7 @@
     "decimals": 18,
     "name": "nounspace",
     "type": "ERC20",
-    "ens_address": "",
+    "ens_address": "nounspace.eth",
     "website": "https://www.nounspace.com/t/base/0x48C6740BcF807d6C47C864FaEEA15Ed4dA3910Ab/Profile",
     "logo": {
       "src": "https://ipfs.skatehive.app/ipfs/QmZyGxLEXyW63MuRUXJbHgokSBEQZKh21QBADbn9rsAavx",
