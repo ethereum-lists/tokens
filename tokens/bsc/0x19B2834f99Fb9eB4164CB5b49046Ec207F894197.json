@@ -1,0 +1,34 @@
+{
+  "symbol": "LIFE",
+  "address": "0x19B2834f99Fb9eB4164CB5b49046Ec207F894197",
+  "decimals": 18,
+  "name": "LIFE Token",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://blog.lifeprotocol.io/",
+  "logo": {
+    "src": "https://ibb.co/YfdmkYd",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@lifeprotocol.io",
+    "url": "https://blog.lifeprotocol.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/+yDQEDdmbpfU0Nzgx",
+    "twitter": "",
+    "youtube": ""
+  }
+}
