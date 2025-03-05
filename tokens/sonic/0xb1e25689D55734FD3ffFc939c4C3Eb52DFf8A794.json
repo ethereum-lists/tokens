@@ -1,0 +1,34 @@
+{
+  "symbol": "OS",
+  "name": "Origin Sonic",
+  "type": "ERC20",
+  "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.originprotocol.com/os",
+  "logo": {
+    "src": "https://github.com/OriginProtocol/origin-website/blob/master/static/img/coins/os-256x256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@originprotocol.com",
+    "url": "https://www.originprotocol.com"
+  },
+  "social": {
+    "blog": "https://www.originprotocol.com/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/originprotocol",
+    "gitter": "",
+    "instagram": "http://instagram.com/originprotocol",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "slack": "",
+    "telegram": "https://t.me/originprotocol",
+    "twitter": "https://twitter.com/originprotocol",
+    "youtube": "https://www.youtube.com/originprotocol"
+  }
+}
