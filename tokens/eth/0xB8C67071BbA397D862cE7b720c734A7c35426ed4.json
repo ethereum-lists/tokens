@@ -1,0 +1,33 @@
+{
+     "symbol": "LaoGou",
+     "address": "0xB8C67071BbA397D862cE7b720c734A7c35426ed4",
+     "decimals": 16,
+     "name": "LaoGouih",
+     "type": "ERC20",
+     "ens_address": "nani.eth",
+     "website": "https://laogouoh.xyz/",
+     "logo": {
+       "src": "https://laogouoh.xyz/Images/logo.svg",
+       "width": "32",
+       "height": "32",
+     },
+     "support": {
+       "email": "laogouih@laogouoh.xyz",
+       "url": "https://laogouoh.xyz/"
+     },
+     "social": {
+       "blog": "",
+       "chat": "",
+       "facebook": "",
+       "forum": "",
+       "github": "https://github.com/NaniDAO",
+       "gitter": "",
+       "instagram": "",
+       "linkedin": "",
+       "reddit": "",
+       "slack": "",
+       "telegram": "",
+       "twitter": "https://x.com/nani__ooo",
+       "youtube": ""
+     }
+   }
