@@ -1,0 +1,8 @@
+{
+  "chainId": 56,
+  "address": "0x9E6f02f6C52Ef5B83094f87334B4E07Bcbaf35b5",
+  "name": "AEHCoin",
+  "symbol": "AEH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/bahadirtash/AEHCoin-assets/main/logo.png"
+}
