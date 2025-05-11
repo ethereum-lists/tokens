@@ -2,7 +2,7 @@
   "symbol": "wPAW",
   "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
   "decimals": 18,
-  "name": "PAW",
+  "name": "Wrapped PAW",
   "ens_address": "",
   "website": "https://www.pawchain.net",
   "logo": {
@@ -12,12 +12,13 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "team@pawchain.net",
+    "email": "",
     "url": "https://pawchain.net"
   },
   "social": {
     "blog": "https://pawchain.net/blog",
     "chat": "",
+    "community": "https://discord.gg/PAWEcosystem",
     "facebook": "",
     "forum": "",
     "github": "",
