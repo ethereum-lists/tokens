@@ -1,0 +1,26 @@
+{
+  "name": "ZeroCoin Token List",
+  "logoURI": "https://zrczerocoin.github.io/ZeroCoin/zrc-list.png",
+  "keywords": ["zrc", "zerocoin", "polygon", "token"],
+  "timestamp": "2025-04-19T14:25:32+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x1Ec961190caDf1ae6c9488580cb9b8d09Ff75C79",
+      "name": "ZeroCoin",
+      "symbol": "ZRC",
+      "decimals": 8,
+      "logoURI": "https://zrczerocoin.github.io/ZeroCoin/zrc-list.png",
+      "website": "https://zrczerocoin.github.io/ZeroCoin/ZRC.html",
+      "twitter": "https://x.com/ZeroCoinzrc",
+      "telegram": "https://t.me/ZRCzerocoin",
+      "explorer": "https://polygonscan.com/token/0x1Ec961190caDf1ae6c9488580cb9b8d09Ff75C79",
+      "tags": ["erc20"]
+    }
+  ]
+}
