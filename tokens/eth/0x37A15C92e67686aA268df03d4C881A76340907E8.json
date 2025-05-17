@@ -1,0 +1,23 @@
+{
+    "symbol": "PIXIU",
+    "address": "0x37A15C92e67686aA268df03d4C881A76340907E8",
+    "decimals": 0,
+    "name": "PIXIU FINANCE",
+    "type": "ERC20",
+    "website": "https://www.pixiu.finance/",
+    "logo": {
+      "src": "https://www.canva.com/design/DAGntr9lV74/Zn4HDEvsYxkFR6wK0FIJ8Q/edit?utm_content=DAGntr9lV74&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "pixiufinance@yahoo.com",
+      "url": "https://www.pixiu.finance/"
+    },
+    "social": {
+      "twitter": "https://x.com/Pixiu_Finance",
+      "telegram": "https://t.me/pixiufinancegroup"
+    }
+  }
+  
