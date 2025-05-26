@@ -1,0 +1,33 @@
+{
+  "symbol": "lzk",
+  "address": "0x8703bc6f9ca3293c5acf258dd961caa22a9e289f",
+  "decimals": 0,
+  "name": "local zin token",
+  "ens_address": "",
+  "website": "https://local-zin-token.vercel.app/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/MishkaRogachev/LocalZinToken/main/assets/logo.png",
+    "width": 32,
+    "height": 32,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/MishkaRogachev/LocalZinToken",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/local_zin/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/local_zin",
+    "twitter": "",
+    "youtube": ""
+  }
+}
