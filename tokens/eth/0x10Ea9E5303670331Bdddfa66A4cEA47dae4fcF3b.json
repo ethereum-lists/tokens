@@ -1,0 +1,27 @@
+{
+  "symbol": "SESH",
+  "address": "0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b",
+  "decimals": 9,
+  "name": "Session Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://token.getsession.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/session-foundation/session-token-contracts/refs/heads/master/logos/SessionTokenLogo128px128px.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "url": "https://sessionapp.zendesk.com"
+  },
+  "social": {
+    "blog": "https://token.getsession.org/blog",
+    "chat": "https://discord.gg/sessiontoken",
+    "github": "https://github.com/session-foundation",
+    "instagram": "https://www.instagram.com/getsession",
+    "linkedin": "https://www.linkedin.com/company/sessionmessenger",
+    "twitter": "https://x.com/session_token",
+    "youtube": "https://www.youtube.com/@SessionTV"
+  }
+}
