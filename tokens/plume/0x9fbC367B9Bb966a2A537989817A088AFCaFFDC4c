@@ -1,0 +1,34 @@
+{
+  "symbol": "nELIXIR",
+  "address": "0x9fbC367B9Bb966a2A537989817A088AFCaFFDC4c",
+  "decimals": 6,
+  "name": "Nest Institutional Core Vault",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "plume.org",
+  "logo": {
+    "src": "https://assets.plume.org/images/logos/nest/nELIXIR/nELIXIR-token.svg",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "engineering@plumenetwork.xyz",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://plume.org/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discord.com/invite/plume-network",
+    "github": "https://github.com/plumenetwork/plume-backend-developer-exercise",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/plume-network",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/plumenetwork_community",
+    "twitter": "https://x.com/plumenetwork",
+    "youtube": ""
+  }
+}
