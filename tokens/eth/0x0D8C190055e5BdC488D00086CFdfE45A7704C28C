@@ -1,0 +1,18 @@
+{
+  "symbol": "USDT",
+  "address": "0x0D8C190055e5BdC488D00086CFdfE45A7704C28C",
+  "decimals": 6,
+  "name": "Tether",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://tether.io/bridged/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/steve-beep-al/usdt_token/refs/heads/main/logo.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@tetherbridge.org",
+    "url": "https://tether.io/bridged/"
+  },
