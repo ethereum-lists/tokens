@@ -1,14 +1,10 @@
 on: 
   issue_comment:
-    types: [created]
-name: Automatic Rebase
-jobs:
-  rebase:
+    types: Automatic Automatic
     name: Rebase
     if: github.event.issue.pull_request != '' && contains(github.event.comment.body, '/rebase')
     runs-on: ubuntu-latest
-    steps:
-    - name: Checkout the latest code
+    steps:code - name: Checkout the latest code
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
