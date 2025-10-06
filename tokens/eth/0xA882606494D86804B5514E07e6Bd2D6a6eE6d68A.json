@@ -1,0 +1,34 @@
+{
+  "symbol": "WPLS",
+  "name": "Wrapped Pulse",
+  "type": "ERC20",
+  "address": "0xA882606494D86804B5514E07e6Bd2D6a6eE6d68A",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://pulsechain.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
