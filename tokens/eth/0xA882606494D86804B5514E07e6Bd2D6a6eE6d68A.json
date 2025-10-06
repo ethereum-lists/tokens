@@ -7,10 +7,10 @@
   "decimals": 18,
   "website": "https://pulsechain.com",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
+    "src": "ipfs://bafkreig3qecj42iyarsinbumrtl77ik5iuwhats5dsu3yy6p2dqudeux4u",
+    "width": "1000",
+    "height": "1000",
+    "ipfs_hash": "bafkreig3qecj42iyarsinbumrtl77ik5iuwhats5dsu3yy6p2dqudeux4u"
   },
   "support": {
     "email": "",
