@@ -1,0 +1,17 @@
+{
+  "symbol": "SHARP",
+  "name": "SHARP",
+  "address": "0xB36B62929762ACF8A9Cc27ECebF6D353eBB48244",
+  "decimals": 18,
+  "website": "https://sharpeconomy.org/",
+  "community": {
+    "twitter": "https://x.com/SharpEconomy",
+    "linkedin": "https://www.linkedin.com/company/sharpeconomy/",
+    "github": "https://github.com/SharpEconomy",
+    "telegram": "https://t.me/sharp_economy",
+    "discord": "https://discord.gg/sharpeconomy",
+    "polygonscan": "https://polygonscan.com/token/0xb36b62929762acf8a9cc27ecebf6d353ebb48244",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sharp-token/"
+  },
+  "logo": "https://docs.sharpeconomy.org/sharp-token-logo-128x128.jpg"
+}
