@@ -1,0 +1,32 @@
+{
+    "symbol": "USDRIF",
+    "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
+    "address_eip1191": "0x3A15461d8AE0f0Fb5fA2629e9dA7D66A794a6E37",
+    "decimals": 18,
+    "name": "RIF US Dollar",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdrif.png",
+      "width": "615",
+      "height": "615",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://x.com/rootstockinfra",
+      "youtube": ""
+    }
+  }
+  

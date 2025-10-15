@@ -1,0 +1,32 @@
+{
+    "symbol": "USDC.e",
+    "address": "0x74c9f2b00581F1B11AA7ff05aa9F608B7389De67",
+    "address_eip1191": "0x74C9F2B00581F1b11Aa7Ff05aa9f608B7389de67",
+    "decimals": 6,
+    "name": "Bridged USDC (Stargate)",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdc.png",
+      "width": "181",
+      "height": "181",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  }
+  

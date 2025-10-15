@@ -1,0 +1,32 @@
+{
+    "symbol": "USD₮0",
+    "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+    "address_eip1191": "0x779dED0C9e1022225F8e0630b35A9B54Be713736",
+    "decimals": 6,
+    "name": "USD₮0",
+    "ens_address": "",
+    "website": "",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdt0.png",
+      "width": "933",
+      "height": "933",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "", "url": "https://usdt0.to/" },
+    "social": {
+      "blog": "https://mirror.xyz/tetherzero.eth",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://x.com/usdt0_to",
+      "youtube": ""
+    }
+  }
+  
