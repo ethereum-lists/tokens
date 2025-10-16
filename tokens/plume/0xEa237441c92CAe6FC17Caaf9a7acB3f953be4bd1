@@ -1,0 +1,34 @@
+{
+  "symbol": "wPLUME",
+  "address": "0xEa237441c92CAe6FC17Caaf9a7acB3f953be4bd1",
+  "decimals": 18,
+  "name": "WPLUME",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "plume.org",
+  "logo": {
+    "src": "https://assets.plume.org/images/logos/WPLUME/WPLUME-token.svg",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "engineering@plumenetwork.xyz",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://plume.org/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discord.com/invite/plume-network",
+    "github": "https://github.com/plumenetwork/plume-backend-developer-exercise",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/plume-network",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/plumenetwork_community",
+    "twitter": "https://x.com/plumenetwork",
+    "youtube": ""
+  }
+}
