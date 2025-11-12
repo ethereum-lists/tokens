@@ -1,0 +1,33 @@
+{
+    "symbol": "LUK",
+    "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
+    "decimals": 0,
+    "name": "Luckycoin",
+    "ens_address": "",
+    "website": "https://luckycoinvn.vercel.app",
+    "logo": {
+        "src": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/tokens/logo.png",
+        "width": 256,
+        "height": 256,
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "coinnetworkbi@gmail.com",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/coinnetworkbi/luckycoin/tree/main/tokens",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "https://x.com/luckycoinvn",
+        "youtube": ""
+    }
+}
