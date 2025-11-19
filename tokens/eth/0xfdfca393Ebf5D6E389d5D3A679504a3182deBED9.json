@@ -1,0 +1,32 @@
+{
+  "symbol": "GASC",
+  "address": "0xfdfca393Ebf5D6E389d5D3A679504a3182deBED9",
+  "decimals": 18,
+  "name": "GoldenArmorStudioCoin",
+  "type": "ERC20",
+  "website": "https://goldenarmorstudio.art/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/Golden-Armor-Studios/GoldenArmorStudioCoin/main/docs/assets/gasc-logo.png",
+    "width": "512",
+    "height": "512"
+  },
+  "support": {
+    "email": "info@goldenarmorstudio.art",
+    "url": "https://goldenarmorstudio.art/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/goldenarmorstudio",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Golden-Armor-Studios/GoldenArmorStudioCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/goldenarmorstudio",
+    "youtube": ""
+  }
+}
