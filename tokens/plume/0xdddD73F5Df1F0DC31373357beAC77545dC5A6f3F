@@ -1,0 +1,34 @@
+{
+  "symbol": "pUSD",
+  "address": "0xdddD73F5Df1F0DC31373357beAC77545dC5A6f3F",
+  "decimals": 6,
+  "name": "Plume USD",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "plume.org",
+  "logo": {
+    "src": "https://assets.plume.org/images/logos/pUSD/pUSD-token.svg",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "engineering@plumenetwork.xyz",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://plume.org/blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discord.com/invite/plume-network",
+    "github": "https://github.com/plumenetwork/plume-backend-developer-exercise",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/plume-network",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/plumenetwork_community",
+    "twitter": "https://x.com/plumenetwork",
+    "youtube": ""
+  }
+}
