@@ -1,0 +1,15 @@
+{
+  "symbol": "YNC",
+  "name": "XYNCoin",
+  "address": "0xB9f1C4F0870D71E5884Cf4ddBBca88D87F576445",
+  "decimals": 18,
+  "logo": "https://github.com/koharachan/XYNCoin/raw/main/src/icon-s.png",
+  "support": {
+    "telegram": "https://t.me/XYNBcoin"
+  },
+  "github": "https://github.com/koharachan/XYNCoin",
+  "community": {
+    "telegram": "https://t.me/XYNBcoin"
+  },
+  "website": "https://xynhub.cn"
+}
