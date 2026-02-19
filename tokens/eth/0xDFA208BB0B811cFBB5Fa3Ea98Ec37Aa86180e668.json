@@ -1,0 +1,34 @@
+{
+  "symbol": "w🍖",
+  "name": "Wrapped Unicorn Meat",
+  "address": "0xDFA208BB0B811cFBB5Fa3Ea98Ec37Aa86180e668",
+  "decimals": 3,
+  "ens_address": "",
+  "website": "https://unicornmeateth.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://t.me/UnicornMeatEth"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/UnicornMeatEth",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cartoonitunes/unicornmeat-website",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/UnicornMeatEth",
+    "twitter": "https://twitter.com/UnicornMeatETH",
+    "youtube": ""
+  }
+}
