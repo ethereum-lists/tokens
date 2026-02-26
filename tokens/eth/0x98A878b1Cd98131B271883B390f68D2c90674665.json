@@ -17,17 +17,17 @@
     "url": "https://apyx.fi"
   },
   "social": {
-    "blog": "",
-    "chat": "",
+    "blog": "https://blog.apyx.fi/",
+    "chat": "https://discord.gg/apyx-fi",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/apyx-fi",
+    "github": "https://github.com/apyx-labs",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/apyx-fi",
+    "reddit": "https://www.reddit.com/r/Apyx/",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/apyx_announcements",
     "twitter": "https://x.com/apyx_fi",
     "youtube": ""
   }
