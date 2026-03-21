@@ -1,0 +1,34 @@
+{
+    "symbol": "MMC",
+    "address": "0x85374E57bFabCcA3613A84456687c8A0C0e0D8A4",
+    "decimals": 18,
+    "name": "MMC Coin",
+    "ens_address": "",
+    "website": "https://memecex.io",
+    "logo": {
+        "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85374E57bFabCcA3613A84456687c8A0C0e0D8A4/logo.png",
+        "width": "256px",
+        "height": "256px",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "contact@memecex.io",
+        "url": "https://memecex.io"
+    },
+    "social": {
+        "blog": "",
+        "chat": "https://t.me/MemeCex_io",
+        "discord": "https://discord.gg/MemeCex",
+        "facebook": "",
+        "forum": "",
+        "github": "",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "https://t.me/MemeCex_io",
+        "twitter": "https://twitter.com/MemeCex_io",
+        "youtube": ""
+    }
+}
