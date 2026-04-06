@@ -7,10 +7,10 @@
     "decimals": 18,
     "website": "https://vinuchain.org",
     "logo": {
-        "src": "https://ipfs.io/ipfs/bafybeiderli6uaaxk7eboyf7g4abnybgrkbglmqbkmf25z57ode7zdzmvy",
-        "width": "613",
-        "height": "613",
-        "ipfs_hash": "bafybeiderli6uaaxk7eboyf7g4abnybgrkbglmqbkmf25z57ode7zdzmvy"
+        "src": "https://photos.pinksale.finance/file/pinksale-logo-upload/1763954351532-a5ed77c5d0e0619b4d78c7fce1fa0edc.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
     },
     "support": {
         "email": "hello@vinuchain.org"
