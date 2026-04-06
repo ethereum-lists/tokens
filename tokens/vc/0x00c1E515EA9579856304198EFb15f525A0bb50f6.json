@@ -7,10 +7,10 @@
     "decimals": 18,
     "website": "https://vitainu.org",
     "logo": {
-        "src": "https://photos.pinksale.finance/file/pinksale-logo-upload/1763910378723-404a0bc04ba2bb012c37fc4595857319.png",
+        "src": "https://ipfs.io/ipfs/bafybeid5fhhdxjnmae5nf7lvulg2dpuu3zalqfacxt7tvd7a667nrcfwsu",
         "width": "256",
         "height": "256",
-        "ipfs_hash": ""
+        "ipfs_hash": "bafybeid5fhhdxjnmae5nf7lvulg2dpuu3zalqfacxt7tvd7a667nrcfwsu"
     },
     "support": {
         "email": "hello@vitainu.org"
