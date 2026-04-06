@@ -6,9 +6,9 @@
     "ens_address": "",
     "website": "https://ethereum.org/",
     "logo": {
-        "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-        "width": 64,
-        "height": 64,
+        "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+        "width": "256",
+        "height": "256",
         "ipfs_hash": ""
     },
     "support": {
