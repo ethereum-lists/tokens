@@ -1,0 +1,34 @@
+{
+    "symbol": "IFR",
+    "address": "0x77e99917Eca8539c62F509ED1193ac36580A6e7B",
+    "decimals": 9,
+    "name": "Inferno",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://ifrunit.tech",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "",
+      "url": "https://ifrunit.tech"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/NeaBouli/inferno",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  }
