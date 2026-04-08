@@ -6,9 +6,9 @@
     "ens_address": "",
     "website": "https://bitcoin.org",
     "logo": {
-        "src": "https://www.wbtc.network/assets/BitGo-favicon.ico",
-        "width": 48,
-        "height": 48,
+        "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png",
+        "width": "256",
+        "height": "256",
         "ipfs_hash": ""
     },
     "support": {

@@ -6,9 +6,9 @@
     "ens_address": "",
     "website": "https://tether.to",
     "logo": {
-        "src": "https://etherscan.io/token/images/tether28_2.png",
-        "width": 28,
-        "height": 28,
+        "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "width": "256",
+        "height": "256",
         "ipfs_hash": ""
     },
     "support": {
