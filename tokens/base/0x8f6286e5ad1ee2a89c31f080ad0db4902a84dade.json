@@ -1,0 +1,14 @@
+{
+  "symbol": "BASE",
+  "address": "0x8f6286e5ad1ee2a89c31f080ad0db4902a84dade",
+  "decimals": 18,
+  "name": "Base",
+  "type": "ERC20",
+  "website": "https://basw.vercel.app/",
+  "logo": {
+    "src": "https://cdn.brandfetch.io/id6XsSOVVS/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"
+  },
+  "social": {
+    "github": "https://github.com/basedBase/basw"
+  }
+}
