@@ -1,0 +1,35 @@
+{
+  "symbol": "VM888",
+  "name": "VaultedMetrics",
+  "type": "ERC20",
+  "address": "0x062570121e9519C77CB71C7936B6C1f76C7B1119",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://vaultedmetrics.io",
+  "logo": {
+    "src": "https://vaultedmetrics.io/favicon.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "founder@vaultedmetrics.io",
+    "url": "https://vaultedmetrics.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/RvNvJUPFxf",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/vaultedmetrics",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://x.com/VaultedMetrics",
+    "youtube": ""
+  }
+}
