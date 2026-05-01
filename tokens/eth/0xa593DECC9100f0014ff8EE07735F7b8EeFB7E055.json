@@ -7,12 +7,12 @@
   "website": "https://bankcrypto.com",
   "logo": {
     "src": "https://bankcrypto.com/logo.png",
-    "width": 400,
-    "height": 400,
+    "width": "400",
+    "height": "400",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "tamaragroup@pm.me",
+    "email": "secure@bankcrypto.com",
     "url": "https://bankcrypto.com"
   },
   "social": {
@@ -20,14 +20,14 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/BotMakesCrypto/bank-crypto",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://x.com/BankCrypto_Com",
     "youtube": ""
   }
 }
