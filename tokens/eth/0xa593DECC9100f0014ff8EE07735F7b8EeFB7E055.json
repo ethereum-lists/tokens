@@ -1,0 +1,33 @@
+{
+  "symbol": "BANKC",
+  "address": "0xa593DECC9100f0014ff8EE07735F7b8EeFB7E055",
+  "decimals": 18,
+  "name": "BankCrypto.com",
+  "ens_address": "",
+  "website": "https://bankcrypto.com",
+  "logo": {
+    "src": "https://bankcrypto.com/logo.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "secure@bankcrypto.com",
+    "url": "https://bankcrypto.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BotMakesCrypto/bank-crypto",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://x.com/BankCrypto_Com",
+    "youtube": ""
+  }
+}
