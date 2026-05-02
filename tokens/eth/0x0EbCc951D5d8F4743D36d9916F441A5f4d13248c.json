@@ -1,0 +1,36 @@
+{
+  "symbol": "ET10",
+  "name": "ET10 Revenue Token",
+  "type": "ERC20",
+  "address": "0x0EbCc951D5d8F4743D36d9916F441A5f4d13248c",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://cymetica.com/et10",
+  "logo": {
+    "src": "https://cymetica.com/static/images/cymst-logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@cymetica.com",
+    "url": "https://cymetica.com/et10"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/eventtrader",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/eventtrader",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/eventtrader",
+    "twitter": "https://x.com/cyaborgs",
+    "youtube": "",
+    "video": "https://cymetica.com/static/video/et10-how-it-works-60s.mp4"
+  }
+}
