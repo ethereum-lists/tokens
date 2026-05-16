@@ -1,35 +1,22 @@
 {
-    "symbol": "PLEB",
+    "symbol": "BSO",
     "address": "0xEA81DaB2e0EcBc6B5c4172DE4c22B6Ef6E55Bd8f",
     "decimals": 18,
-    "name": "Plebbit",
+    "name": "Bitsocial",
     "type": "ERC20",
-    "ens_address": "",
-    "website": "https://plebbit.com/",
+    "ens_address": "bitsocial.eth",
+    "website": "https://bitsocial.net",
     "logo": {
-        "src": "https://github.com/plebbit/assets/blob/4013625d8e2aaec79f57334d44f47f65fdc54571/logo-circle-200x200.png",
-        "width": "200px",
-        "height": "200px",
-        "ipfs_hash": "QmRzE3vY2spPFmB6226zzD2pf46AoxcA5ULvRkU4PzmddR"
+        "src": "https://github.com/bitsocialnet/assets/blob/main/assets/logo-transparent-180.png",
+        "width": "180px",
+        "height": "180px"
     },
     "support": {
         "email": "",
         "url": ""
     },
     "social": {
-        "blog": "",
-        "chat": "",
-        "discord": "https://discord.gg/E7ejphwzGW",
-        "facebook": "",
-        "forum": "https://seedit.eth.limo/#/p/plebtoken.eth",
-        "github": "https://github.com/plebbit",
-        "gitter": "",
-        "instagram": "",
-        "linkedin": "",
-        "reddit": "",
-        "slack": "",
-        "telegram": "https://t.me/plebbit",
-        "twitter": "https://twitter.com/getplebbit",
-        "youtube": ""
+        "github": "https://github.com/bitsocialnet",
+        "twitter": "https://twitter.com/bitsocialnet"
     }
 }
