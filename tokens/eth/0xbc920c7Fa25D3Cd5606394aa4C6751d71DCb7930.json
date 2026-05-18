@@ -1,34 +1,33 @@
 {
   "symbol": "K9",
-  "name": "K9",
-  "type": "ERC20",
   "address": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
-  "ens_address": "",
   "decimals": 18,
-  "website": "https://clutch.market",
+  "name": "K9",
+  "ens_address": "",
+  "website": "https://dex.clutch.market",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930/logo.png",
+    "width": "200",
+    "height": "200",
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": "https://discord.gg/YwnvZUdMDd"
+    "email": "admin@clutch.market",
+    "url": "https://clutch.market"
   },
   "social": {
     "blog": "",
-    "chat": "https://discord.gg/YwnvZUdMDd",
+    "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/clutchmarkets",
+    "github": "https://github.com/clutch-market",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://x.com/clutchmarkets",
+    "twitter": "https://x.com/ClutchMarkets",
     "youtube": ""
   }
 }
