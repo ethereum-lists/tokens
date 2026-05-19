@@ -1,9 +1,10 @@
 {
   "symbol": "PUPCUP",
-  "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
-  "decimals": 18,
   "name": "World Pup Coin",
+  "type": "ERC20",
+  "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
   "ens_address": "",
+  "decimals": 18,
   "website": "https://pupcup.clutch.market/",
   "logo": {
     "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef/logo.png",
@@ -13,21 +14,21 @@
   },
   "support": {
     "email": "admin@clutch.market",
-    "url": "https://pupcup.clutch.market/"
+    "url": "https://discord.com/invite/YwnvZUdMDd"
   },
   "social": {
     "blog": "",
-    "chat": "",
+    "chat": "https://discord.com/invite/YwnvZUdMDd",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/clutch-market",
+    "github": "https://github.com/clutch-puppies",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://x.com/ClutchMarkets",
+    "twitter": "https://twitter.com/ClutchMarkets",
     "youtube": ""
   }
 }
