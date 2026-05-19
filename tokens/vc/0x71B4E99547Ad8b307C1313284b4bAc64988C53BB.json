@@ -1,0 +1,35 @@
+{
+    "symbol": "VIR",
+    "name": "VinuRepublic",
+    "type": "ERC20",
+    "address": "0x71B4E99547Ad8b307C1313284b4bAc64988C53BB",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://vinurepublic.com",
+    "logo": {
+        "src": "https://images2.imgbox.com/70/30/BgDbSRY4_o.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "vinurepublic@gmail.com",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "discord": "https://discord.gg/yn5FMgHnzK",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/VinuRepublic",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "https://t.me/VinuRepublic",
+        "twitter": "https://twitter.com/VinuRepublic",
+        "youtube": ""
+    }
+}
