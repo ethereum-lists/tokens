@@ -1,0 +1,32 @@
+{
+    "symbol": "ZARO",
+    "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+    "decimals": 18,
+    "name": "Zaro Coin",
+    "type": "ERC20",
+    "logo": {
+        "src": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/media/logos/ZARO_logo_2D.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "shihab@zaroverse.com",
+        "url": "https://www.zarocoin.xyz"
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/zarocoin/zarocoin",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "https://t.me/zaroprojectofficial",
+        "twitter": "https://x.com/zaroproject",
+        "youtube": ""
+    }
+}
