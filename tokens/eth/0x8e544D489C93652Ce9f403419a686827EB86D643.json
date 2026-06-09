@@ -1,0 +1,33 @@
+{
+  "symbol": "TIG",
+  "address": "0x8e544D489C93652Ce9f403419a686827EB86D643",
+  "decimals": 6,
+  "name": "TIGER ASSETS",
+  "ens_address": "",
+  "website": "https://tig-official.com",
+  "logo": {
+    "src": "https://tig-official.com/assets/tig-logo-256.png",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://tig-official.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/takaaki-yoshikawa/tig_official",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
