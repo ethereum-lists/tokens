@@ -13,12 +13,12 @@
       "ipfs_hash": ""
     },
     "support": {
-      "email": "",
+      "email": "kaspartisan@proton.me",
       "url": "https://ifrunit.tech"
     },
     "social": {
       "blog": "",
-      "chat": "",
+      "chat": "https://t.me/IFR_token",
       "facebook": "",
       "forum": "",
       "github": "https://github.com/NeaBouli/inferno",
@@ -27,8 +27,8 @@
       "linkedin": "",
       "reddit": "",
       "slack": "",
-      "telegram": "",
-      "twitter": "",
+      "telegram": "https://t.me/IFRtoken",
+      "twitter": "https://x.com/IFRtoken",
       "youtube": ""
     }
   }
