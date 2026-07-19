@@ -1,0 +1,21 @@
+{
+  "symbol": "$KAMIRAI",
+  "name": "Kamirai",
+  "address": "0x12bfe0251Eb64c6e26d1A264673593D6164ca213",
+  "decimals": 18,
+  "type": "BEP20",
+  "website": "https://www.kamirai.io/",
+  "logo": {
+    "src": "https://kamirai-token-progress-dashboard.vercel.app/brand/KAMIRAI-0x12bfe0251Eb64c6e26d1A264673593D6164ca213-bsc.png",
+    "width": "128",
+    "height": "128"
+  },
+  "support": {
+    "email": "kami@kamirai.io",
+    "url": "https://www.kamirai.io/"
+  },
+  "social": {
+    "twitter": "https://x.com/KamiraiOfficial",
+    "telegram": "https://t.me/KamiraiGroup"
+  }
+}
