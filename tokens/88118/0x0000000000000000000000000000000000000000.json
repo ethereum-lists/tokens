@@ -1,0 +1,16 @@
+{
+  "symbol": "SHARK",
+  "name": "Shark",
+  "address": "0x0000000000000000000000000000000000000000",
+  "decimals": 18,
+  "type": "native",
+  "logo": "https://swapshark.net/logo.png",
+  "support": {
+    "email": "support@swapshark.net",
+    "url": "https://swapshark.net"
+  },
+  "social": {
+    "website": "https://swapshark.net",
+    "explorer": "https://sharkscan.app"
+  }
+}
