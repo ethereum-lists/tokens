@@ -1,0 +1,35 @@
+{
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "type": "ERC20",
+    "address": "0x3678F4CCD64EBC4D3c816fE251aaEc0aCC21Bcf9",
+    "ens_address": "",
+    "decimals": 6,
+    "website": "https://bigbosss.github.io/tether-usd/",
+    "logo": {
+        "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3678F4CCD64EBC4D3c816fE251aaEc0aCC21Bcf9/logo.png",
+        "width": 256,
+        "height": 256,
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "tether-usdt@proton.me",
+        "url": "https://bigbosss.github.io/tether-usd/"
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "discord": "",
+        "facebook": "",
+        "forum": "",
+        "github": "https://github.com/bigbosss/tether-usd",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "https://t.me/tether_usdt",
+        "twitter": "https://x.com/tether_usdt",
+        "youtube": ""
+    }
+}
