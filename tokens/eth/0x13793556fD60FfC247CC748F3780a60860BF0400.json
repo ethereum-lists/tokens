@@ -1,0 +1,33 @@
+{
+  "symbol": "USDT",
+  "address": "0x13793556fD60FfC247CC748F3780a60860BF0400",
+  "decimals": 6,
+  "name": "Tether USD",
+  "ens_address": "",
+  "website": "https://tether.to",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+    "width": 64,
+    "height": 64,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tether_to",
+    "youtube": ""
+  }
+}
