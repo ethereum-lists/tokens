@@ -1,0 +1,34 @@
+{
+  "symbol": "ZRT",
+  "address": "0x0c862C4Aff0c87F3b4e93350Ecf2DD6ADA0C5400",
+  "decimals": 18,
+  "name": "CryptoZR DAO Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bidder.club",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/CryptoZR/ZRDAO/main/assets/zrt_logo_128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "i@bidder.club",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/CryptoZR/ZRDAO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ZRDAOglobal",
+    "twitter": "https://x.com/BidderClub",
+    "youtube": ""
+  }
+}
