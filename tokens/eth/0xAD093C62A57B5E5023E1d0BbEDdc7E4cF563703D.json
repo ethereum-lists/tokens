@@ -7,9 +7,9 @@
   "decimals": 18,
   "website": "https://suno.finance",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://cdn.jsdelivr.net/gh/nvillegase/curve-assets@468bab1306ec235ba4c13c5f0a23c9b402b7e953/images/assets/0xad093c62a57b5e5023e1d0bbeddc7e4cf563703d.png",
+    "width": "200",
+    "height": "200",
     "ipfs_hash": ""
   },
   "support": {
@@ -27,7 +27,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/hello_suno",
     "twitter": "https://x.com/suno_finance",
     "youtube": ""
   }
