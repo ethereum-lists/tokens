@@ -1,0 +1,33 @@
+{
+  "symbol": "MOTO",
+  "address": "0xBd965230588EAA536dE6aA45E8ebbc01638535e0",
+  "decimals": 18,
+  "name": "Motoswap",
+  "ens_address": "",
+  "website": "https://motoswap.org",
+  "logo": {
+    "src": "https://motoswap.org/tokens/moto.svg",
+    "width": 594,
+    "height": 594,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@motoswap.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Motoswap",
+    "twitter": "https://twitter.com/Motoswap",
+    "youtube": ""
+  }
+}
