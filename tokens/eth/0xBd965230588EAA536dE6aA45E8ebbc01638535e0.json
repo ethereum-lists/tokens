@@ -1,0 +1,34 @@
+{
+  "symbol": "MOTO",
+  "address": "0xBd965230588EAA536dE6aA45E8ebbc01638535e0",
+  "decimals": 18,
+  "name": "Motoswap",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://motoswap.org",
+  "logo": {
+    "src": "https://motoswap.org/brand/moto-200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@motoswap.org",
+    "url": "https://motoswap.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/Motoswap",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Motoswap",
+    "twitter": "https://x.com/Motoswap",
+    "youtube": ""
+  }
+}
