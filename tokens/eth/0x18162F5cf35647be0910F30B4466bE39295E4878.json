@@ -1,0 +1,34 @@
+{
+  "symbol": "LMEOW",
+  "address": "0x18162F5cf35647be0910F30B4466bE39295E4878",
+  "decimals": 18,
+  "name": "lmeow",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://lmeow.family",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/lmeowdeployer/token-list/lmeow-assets/images/lmeow-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@lmeow.family",
+    "url": "https://lmeow.family"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://x.com/lmeowfamily",
+    "youtube": ""
+  }
+}
