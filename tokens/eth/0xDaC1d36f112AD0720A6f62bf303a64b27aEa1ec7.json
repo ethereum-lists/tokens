@@ -1,0 +1,33 @@
+{
+  "symbol": "BCN",
+  "address": "0xDaC1d36f112AD0720A6f62bf303a64b27aEa1ec7",
+  "decimals": 6,
+  "name": "Byor Coin",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/luccmick121/byor-coin/main/logo.png",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/luccmick121/byor-coin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
