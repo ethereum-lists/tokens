@@ -1,0 +1,35 @@
+{
+  "symbol": "TART",
+  "name": "TartSwap",
+  "type": "BEP20",
+  "address": "0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314",
+  "ens_address": "",
+  "decimals": 9,
+  "website": "https://tartswap.com",
+  "logo": {
+    "src": "https://tartswap.com/tart-logo-256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@tartswap.com",
+    "url": "https://t.me/TartSwap"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/tartswap/tartswap",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TartSwap",
+    "twitter": "https://x.com/TartProtocol",
+    "youtube": ""
+  }
+}
