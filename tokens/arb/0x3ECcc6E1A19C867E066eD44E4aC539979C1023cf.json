@@ -1,0 +1,22 @@
+{
+  "symbol": "QONE",
+  "name": "QVTX One",
+  "address": "0x3ECcc6E1A19C867E066eD44E4aC539979C1023cf",
+  "decimals": 18,
+  "website": "https://qone.qusd.us",
+  "logo": {
+    "src": "https://qusdscan.us/brand/qvtx-256.png",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://qone.qusd.us"
+  },
+  "github": "https://github.com/quant-oss/qone",
+  "social": {
+    "twitter": "qvtxqusd",
+    "github": "https://github.com/quant-oss/qone"
+  }
+}
