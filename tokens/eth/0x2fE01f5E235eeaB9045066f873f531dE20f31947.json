@@ -1,0 +1,34 @@
+{
+  "symbol": "USD8",
+  "name": "USD8",
+  "type": "ERC20",
+  "address": "0x2fE01f5E235eeaB9045066f873f531dE20f31947",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://usd8.fi",
+  "logo": {
+    "src": "https://usd8.fi/assets/usd8Logo.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "rick@usd8.fi",
+    "url": "https://usd8.fi/docs/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Usd8-fi/usd8-core",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/+e84i2oYk1ao1MTk1",
+    "twitter": "https://x.com/usd8_fi",
+    "youtube": ""
+  }
+}
