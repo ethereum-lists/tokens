@@ -8,8 +8,8 @@
   "website": "https://usd8.fi",
   "logo": {
     "src": "https://raw.githubusercontent.com/Usd8-fi/usd8-frontend/main/public/assets/usd8Logo-128.png",
-    "width": 128,
-    "height": 128,
+    "width": "128",
+    "height": "128",
     "ipfs_hash": ""
   },
   "support": {
