@@ -6,7 +6,7 @@ import kotlin.system.exitProcess
 suspend fun main(args: Array<String>) {
 
     if (args.isEmpty()) {
-        error("fileToCheck not specified :-)\nPlease execute like this: ./gradlew -PfileToCheckh=/path/you/want/to/import")
+        error("fileToCheck not specified :-)\nPlease execute like this: ./gradlew -PfileToCheck=/path/you/want/to/import")
     }
 
     val fileToCheck = File(args[0])

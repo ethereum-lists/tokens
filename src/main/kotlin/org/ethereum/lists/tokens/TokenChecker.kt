@@ -113,7 +113,7 @@ suspend fun checkTokenFile(file: File, onChainCheck: Boolean = false, chainId: C
             if (jsonObject["invalid_erc20_symbol"] as? Boolean != true) {
                 val contractSymbol = retryIO(times = 7) { contract.symbol() }
                 if (contractSymbol != symbol) {
-                    throw InvalidTokenException("symbol reported from contract ($contractSymbol) do not match symbol in json ($symbol)")
+                    throw InvalidTokenException("symbol reported from contract ($contractSymbol) does not match symbol in json ($symbol)")
                 }
             }
         }
