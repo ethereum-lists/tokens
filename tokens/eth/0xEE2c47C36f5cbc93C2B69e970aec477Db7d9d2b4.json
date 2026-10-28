@@ -1,0 +1,35 @@
+{
+  "symbol": "USD₮",
+  "name": "InvestArab USD (Bridged USDT) USDT",
+  "type": "ERC20",
+  "address": "0xEE2c47C36f5cbc93C2B69e970aec477Db7d9d2b4",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://investarab.com/",
+  "logo": {
+    "src": "https://investarab.com/tokens/peg-usdt-256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@investarab.com",
+    "url": "https://investarab.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/investarab",
+    "discord": "",
+    "facebook": "https://www.facebook.com/investarab",
+    "forum": "https://www.reddit.com/r/investarab/",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/investarab/",
+    "linkedin": "https://www.linkedin.com/company/investarab",
+    "reddit": "https://www.reddit.com/r/investarab/",
+    "slack": "",
+    "telegram": "https://t.me/investarab",
+    "twitter": "https://x.com/investarab/",
+    "youtube": "https://www.youtube.com/@investarab"
+  }
+}
