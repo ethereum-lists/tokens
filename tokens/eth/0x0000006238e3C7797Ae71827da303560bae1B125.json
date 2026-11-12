@@ -1,0 +1,34 @@
+{
+  "symbol": "BRS",
+  "name": "Brazilian Real Stablecoin",
+  "address": "0x0000006238e3C7797Ae71827da303560bae1B125",
+  "decimals": 6,
+  "ens_address": "",
+  "website": "https://www.nora.finance/",
+  "logo": {
+    "src": "https://static.nora.finance/brs/icon.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.nora.finance/docs/integrate/core-concepts/brs-token"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Nora-Finance/brs-assets",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/nora-finance-xyz",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://x.com/norafinancexyz",
+    "youtube": ""
+  }
+}
