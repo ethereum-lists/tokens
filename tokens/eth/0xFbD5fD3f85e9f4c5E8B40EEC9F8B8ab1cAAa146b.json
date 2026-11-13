@@ -1,0 +1,18 @@
+{
+  "symbol": "TREAT",
+  "name": "Treat",
+  "type": "ERC20",
+  "address": "0xFbD5fD3f85e9f4c5E8B40EEC9F8B8ab1cAAa146b",
+  "decimals": 18,
+  "website": "https://treattoken.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/MrLightspeed/tokens/abd3362317417ae36399db53bdfcfabfd2520441/logos/treat-token.png",
+    "width": "128",
+    "height": "128"
+  },
+  "social": {
+    "twitter": "https://x.com/TREAT_369",
+    "telegram": "https://t.me/TreatPORTAL",
+    "medium": "https://medium.com/@TreatArmy"
+  }
+}
