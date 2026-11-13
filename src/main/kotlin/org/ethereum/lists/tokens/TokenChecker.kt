@@ -46,13 +46,7 @@ fun getRPC(chainId: ChainId): EthereumRPC? {
     if (rpcMap[chainId.value] == null) {
         val chain = chains?.first { it.chainId == chainId.value.toLong() }
 
-        val rpc = chain?.rpc?.firstOrNull {
-            try {
-                HttpEthereumRPC(it).chainId()?.value == chainId.value
-            } catch (e: Exception) {
-                false
-            }
-        }
+        val rpc = selectRpcUrl(chain?.rpc, chainId)
 
         if (rpc != null) {
             rpcMap[chainId.value] = HttpEthereumRPC(rpc)
