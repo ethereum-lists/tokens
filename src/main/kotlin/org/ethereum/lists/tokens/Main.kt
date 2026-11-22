@@ -18,6 +18,7 @@ val networkMapping = mapOf(
     "rsk" to 30,
     "kov" to 42,
     "bsc" to 56,
+    "base" to 8453L,
     "etc" to 61,
     "ella" to 64,
     "sonic" to 146,

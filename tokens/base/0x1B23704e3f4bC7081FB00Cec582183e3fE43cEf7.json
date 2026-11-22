@@ -1,0 +1,12 @@
+{
+  "symbol": "ALB",
+  "name": "Alien Base Token",
+  "address": "0x1B23704e3f4bC7081FB00Cec582183e3fE43cEf7",
+  "decimals": 18,
+  "website": "https://alienbase.xyz/",
+  "comment": "Current ALB contract. Legacy ALB 0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4 migrates 1:1.",
+  "social": {
+    "twitter": "https://x.com/AlienBaseDEX",
+    "github": "https://github.com/alienbase-xyz"
+  }
+}
