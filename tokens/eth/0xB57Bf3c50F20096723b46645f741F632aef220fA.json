@@ -1,0 +1,33 @@
+{
+  "symbol": "QUSD",
+  "address": "0xB57Bf3c50F20096723b46645f741F632aef220fA",
+  "decimals": 18,
+  "name": "QVTX USD Stablecoin",
+  "ens_address": "",
+  "website": "https://qvtx.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/quant-oss/qone/main/logos/QUSD.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@qvtx.net",
+    "url": "https://qvtx.net"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/quant-oss",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/qvtxnet",
+    "youtube": ""
+  }
+}
